@@ -60,5 +60,11 @@ Created Thursday 21 December 2017
 				**I am very clever** 
 					//-Nirrum//
 
-This is a document //made// for 5th edition Dungeons and Dragons or "D&D Next"  as one bean-counter with a half-baked marketing degree wanted to call it. This is a setting in which you can be anyone from anywhere, there are many interpretations of this world and while many parts of this document may translate poorly, if you're willing you're welcome.
+This is a document //made// for 5th edition Dungeons and Dragons or "D&D Next". This is a setting in which you can be anyone from anywhere, there are many interpretations of this world and while many parts of this document may translate poorly, if you're willing you're welcome.
+
+Document is in Markdown. 
+
+
+CC-BY-NC-SA  
+Or in the event of my death, CC-SA
 
