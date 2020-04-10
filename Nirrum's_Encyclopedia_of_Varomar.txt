@@ -1,0 +1,64 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-21T19:47:22-03:30
+
+====== Nirrum's Encylopedia of Varomar ======
+
+=== NOW IN COMMON ===
+Created Thursday 21 December 2017
+[[+To_Begin]] 
+[[+ManaharamuMonarchy]]
+[[+NotesOnPhysics]]
+[[+NotesOnLanguageManar]] 
+[[+NotesOnImportantGameChanges]] 
+[[+TimelineOfEvents]]
+[[+Skalmirthon]]
+[[+Gannaga_River_Basin_&_The_Great_Grass_Road]]
+[[+Kholira]] 
+[[+Incursion_of_Demons]]
+[[+Notes on Additional Equipment]]
+[[+Notes_on_Cosmology]]
+[[+Danzuishan]] 
+[[+NPCs]]
+[[+Underdark]] 
+[[+Konia]] 
+[[+Notes_on_DMing]]
+[[+Kriegcove]]
+[[+The_Awl_Inn]]
+[[+The_Desert]]
+[[+Mana_Ulla]]
+[[+The_Dragon_Coast]]
+[[+Plot_Notes]]
+[[+Ctutoletl]]
+[[+Xanarans_Bar_&_Inn]]  
+[[+The_Bone_Artifacts]] 
+[[+Blackwater]] 
+[[+Oceanic_Colonies]]
+[[+Stalkwark_Stratocracy]]
+[[+old_cities.txt]]
+[[+Quire]] 
+[[+Umlil Orill]]
+[[+Ardeo]] 
+[[+List_Of_Names]]
+[[+Drakenhearth]]
+[[+Pebblerpony]]
+[[+Wickerly]] 
+[[+Races]] 
+[[+Rules Augmentations]]
+[[+Special_Feats]]
+[[+Deep_Lore]] 
+[[+Guide_to_in-game_Economy]] 
+[[+Class_Archetypes]]
+[[+Classes]] 
+[[+Ushlubarel_River_Basin]]
+[[+Tomb_Of_Ashes]] 
+[[+Skill_Check_Weapons]]
+
+
+//Nirrum is clearly mad and we should ensure that none be allowed in his chamber, lest he bewitch someone into bringing his works to the presses for him to have them distributed. Triple the blind guard, and place as many wards and abjurations upon his rooms as you can! //
+		-Sillig The Eel on the way to the presses with this very document
+				**I am very clever** 
+					//-Nirrum//
+
+This is a document //made// for 5th edition Dungeons and Dragons or "D&D Next"  as one bean-counter with a half-baked marketing degree wanted to call it. This is a setting in which you can be anyone from anywhere, there are many interpretations of this world and while many parts of this document may translate poorly, if you're willing you're welcome.
+
