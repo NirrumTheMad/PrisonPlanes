@@ -1,0 +1,109 @@
+Antiparty
+
+Thatch
+	42hp 12 ac spd 6 
+	str0 dex0 con2, int4* wis1* cha-1
+
+	chill touch			 2d8 necro
+	false life	 		heals 1d4+1
+	ray of sickness	 	2d8 poison, con save, poison
+	shield mage armor 	+2 +4
+	witch bolt			d12 lightning
+	blur				disadvantage attackers 	
+	blindness/deafness	one or the other con save, minute
+	feign death			resist all damage resist disease and poison
+	counterspell		dc 10+ spells level unless lower than 4th
+	can have up to  8 undead
+
+*=proficient add (currently) 3 for save
+
+Eltarmalta
+	47hp 18Ac init 3
+	str3* dex3 con0* int1 wis0 cha2  
+		Superiority 4
+		Precision (d8 to atk) lunge (+1reach, d8 dmg), Evasive (d8 ac when moving)
+		
+		extra attack
+		D4 bonus, opportunity attack on enter
+	2d6+3 reach
+
+Hagal orcbreaker Lomak
+	hp65 ac15 spd40 init 1 
+	str4* dexint1 con3* wis0 cha-1 
+	
+	extra attack
+	4 rages, 
+		+2 damage to attack, resist melee, bonus attack, can't be frightened or charmed
+	1d12+con reduction REACTION
+	REckless Adv. on and against
+	adv. on dex save 
+	
+
+
+Tuninas Quinn
+	hp35 ac15 spd 25
+	strdex2, con0 int-1, wis1* cha3*
+
+	Mage Armor at will
+	Telepathy 30ft
+	Devil's sight
+	extra attack
+	reroll crit fails
+	Adv vs fright
+	Move through spaces of Med+
+	hide behind med+
+
+	Eldritch blast  1d10 force, two beams
+	Minor Illusion  vs spell save
+	Blade ward		EOMNT resist melee
+	Darkness		burst 3 60ft
+
+	Exped. retreat	Dash as bonus.
+	Hellish rebuke 	REACTION	dex save, 3d10 fire, half on save. encounter
+	Entropic Ward	REACTION 	encounter, impose disadvantage
+	
+	
+Korik Fendi	
+	hp46 ac 16 spd30
+	str 3* dex 4* wis2 con1 cha-1
+	stealth 7
+	bow			axe/claw		Bite
+	+9 d8+4,	 +6 d20+3, 		+6, D10+3, 11con or Weretiger
+	
+	Is a weretiger. Action transform
+	save 14. 13 for spells 
+	
+	Pounce
+		move 15, claw, dc14 to prone, bite if prone.
+	Hunter's mark
+		con 1hr, V, 1d6 damage extra, advantage to find
+	Jump
+		Triple jump distance
+	Longstrider
+		1hr increase speed by 10
+	Ensnaring strike 
+		on hit, str save 13, or restrained 1d6 start of turn. action to save
+	Animal Messenger
+		25 words, 50 miles
+	Pass without trace
+		no tracks, +10 stealth
+		
+ACCENTS
+Eltarmalta 	-ENFJ,  	- HERO VOICE	high raspy laugh, Easy to humor. WHEEEEE hekhekhek HOOO HAAA
+Quinn		-INFJ		- Spanish, dark, long Rs "Verreh wheill~, ah whill kyll iu nao" laughs quitely, reserved -heiheihei
+Thatch 	**	-INTP		- very light forward Lisp, croaky, deliberate and slow. "her name wahj cashandra, I am verreh shad.	.	.						 about that " stretch Es into eehhs two part laugh, eh'ha eh'ha 
+Hagal 	**	-ESFP		- Rs become As, any U becomes oo, same with most Os. Ts have a Dh or light th sound "I wyll bryk iu .						 oorque, end dhern yoor buns too oeil, eyyy" says eyyyyy at the end of sentences, as if to not waste .	.						 breath. surpresses laughter but will grin smugly. Closest thing to a laugh is a  long HMmmmmmmmmm +:)
+Korik		-ISTP		- Deep indian accent. "yo dhenk yo kahn fite me? I em dhe wahn who will strrike dhaun de mooon" Rolls .	.						 Rs, HARD consonants, Ws instead of Vs glottal stops before laugh. 'a 'a 'a
+Valalen		-ENTP		-My normal voice
+
+
+Iyrelm 		- "ROYT. enyone go'ah Cuppa brahndy? " Lots of glottal stops, not raspy but worn, low E default singing note
+Yazi		- "because I am in your BONES Xundrin" Quick-paced, treacherous sounding, confident. Voiced but whispery, the .			  Ss are well pronounced, last few words in most sentences have heavy importance but minimum emphasis. " .		.	.			thereareother SWORDS like me"  laughs with an echoing hoo hu-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u
+	
+Have the Counterparty Actually solve the Senate problem.
+
+
+VREGAL 
+Derrek - captain of counterparty shit, Arcane Trickster.
+
+Bullji Svilsbo

@@ -1,0 +1,48 @@
+Defenses
+
+Iannes
+Hp 52   	ac 24
+fort 17 	 ref 17
+will 20
+
+Howte 
+hp 47	ac 18
+fort 15	ref 16
+will 21
+
+Poseidon
+hp 59	AC 21
+fort 21	ref 17
+will 15
+
+Zhong
+hp 62	ac 20
+fort 20	ref 15
+will 14
+
+Elise
+hp 47	ac21 
+fort 14	ref 21
+will 18
+
+Corbin
+hp 42 	ac19
+fort 16 	ref 19
+will	20
+
+Diomedes
+
+
+bone work 
+21
+18
+21
+19
+
+158
+-8
+150
+2
+
+1
+

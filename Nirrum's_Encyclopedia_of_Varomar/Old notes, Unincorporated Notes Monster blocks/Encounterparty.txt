@@ -1,0 +1,140 @@
+The encounter party
+
+
+
+
+
+
+
+
+
+
+
+Bullji Svilsbo  (Common, Draconic)
+AC 16 or 18 for shield.
+Str: 19  4
+dex: 18  4 
+Con: 14  2
+Int: 9   -1
+Wis: 13  1
+Cha: 11  0
+
+114hp
+
+move 40
+5Rage+3 
+Adv dex against visible threats, initiative rolls, rage on surprise
+extra attack (rage bonus for three)
+No Charm While raging, Extra 1W crit while raging, dc10 con save on unconscious while raging to stay up
+Action Frighten (14 wis save) 
+Axe d8/d10
+
+
+Rogues all +8 to hit, 18 AC
+All the Changelings have 6d6 sneak attack damage Uncanny dodge, successful save no damage on aoe
+all proficiency rolls are 10+
+
+
+*Theif
+Parody Turr
+
+French- Light cadence, Ahhhhh 'ow are hyu doing teuday Monsieur
+
+Str: 17 3
+dex: 19 4
+Con: 8 -1
+Int: 12 1
+Wis: 10 0
+Cha: 13 2
+59hp
+SOH/stealth/acro: 16
+
+Wakizashi (short sword, 1d6)
+
+
+Theives have cunning action sleight of hand
+Climb at full speed
+Jump+ dex mod (21ft/
+Advantage stealth for 1/2 speed
+
+*Assassins
+Vregal -chhhhhhhhhhhhhhhh
+
+Str: 17 3
+dex: 19 4
+Con: 13 2
+Int: 12 1
+Wis: 10 0
+Cha:  9 -1
+95
+SOH/stealth/acro: 16
+
+Urumi  1d6 Reach slashing Finesse
+Shortbow 1d6
+
+Assassins have Disguise and Poisoner's kits
+Advantage against creatures that haven't taken a turn yet. Crit surprised
+False identities
+
+
+*Tricksters
+Derrek Gellert - normal but quiet voice
+ AC 18
+Str: 12 1
+dex: 19 4
+Con: 13 2
+Int: 17 3
+Wis: 10 0
+Cha: 8 -1
+95
+SOH/stealth: 16 Intim: 6
+
+Dao 1d6
+
+
+Tricksters
+Spells (8)(save15) 4/4/3 (c/1/2)
+Mage hand,	Friends(cha advantage), True strike(action=advantage) 
+Charm Person(wis save Charmed 1hr), Fog Cloud, Grease, Mage amor
+Locate object, Rope Trick, Misty Step, Mirror Image
+
+
+Steal with magehand perception vs SOH cunning action
+grant Disadvantage if hidden when spellcasting
+
+* Swashbuckler
+Tulio Thomas 
+ ell-o frenduh, I likeh thatt wuhn French canadian ish nordic, voiced Th 
+ 
+ Str: 13 2
+dex: 19 4
+Con: 12 1
+Int: 10 0
+Wis:  8 -1
+Cha:  17 3 
+ 83
+ Persuasion/Deception 7 Stealth 8 
+ yataghan slashing 1d8 
+ 
+ If you hit something, no opportunity attacks against you
+ Charisma to initiative, sneak attack against targets with no allies.
+ action persuasion vs insight one minute must attack you, or charmed
+
+*Inquisitive
+Yucca Reho
+Dark crackly voice. Deep. 
+
+Str: 10 0 
+dex: 19 4
+Con: 12 1
+Int: 13 2
+Wis: 17 3
+Cha:  9 -1
+
+83hp
+Sabre 1d8 
+
+Insight checks vs lying check or 8+wis
+Action:Insight vs deception, if you succeed,Sneak attack works for a minute
+Perception advantage to find the hiding. No moving.
+d
