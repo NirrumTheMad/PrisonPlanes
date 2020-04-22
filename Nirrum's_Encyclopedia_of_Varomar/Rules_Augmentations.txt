@@ -50,6 +50,7 @@ Here is a list of some of the things you //may// do without breaking the setting
 	* If a Circle of swarms druid becomes available, then that will be used instead. (maybe add circle of stars, seasons, or sun)
 	* Certain Monstrosities are now considered beasts (see monsters)
 	* Druids can wear metal, in fact, they frequently do. Turns out that metal is just as natural as wood, especially when some trees on these planes have thought it in their best interest to lace their lignin with aluminum. This was clarified in a sage advice to be cultural and not mechanical, but I felt the need to be explicit here
+	* Druidic is strangely universal, Any creature that can communicate in druidic can be understood and can understand any other
 
 **Fighter**
 	All published options are setting legal. 

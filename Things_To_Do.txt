@@ -1,0 +1,135 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-22T00:33:31-02:30
+
+====== Things To Do ======
+Created Wednesday 22 April 2020
+
+**Class, subclass, feature based**
+	//Barbarian//
+		More Tempest options
+		More cultures
+	//Bard//
+		Common short stories, catchy folk songs (preferably adatped fom the public domain)
+	//Cleric//
+		Concordance chart for divine intervention, planar ally, etc;
+		Temple list and locations
+		Most commonly represented pantheon
+	//Druid//
+		Druidic societal castes that use the druidic language.
+		Druidic setting fluff (standing stones, etc;)
+	//Fighter//
+		Fighting schools and cultures (Graotan, Konia, Danzuishan, Kara'ite, Skalmirthon, Eastern Aegis Goliath, Hobgoblin, Turtle, Ramishi,Stalwark)
+	//Monk//
+		Monasteries and Aescetic cultures (Mohara, Danzuishan, Monteblanca, Rainbow Mountain/Silver Sleeve, Blackwater Ninjas, add more)
+	//Paladin//
+		Paladin orders (Rainbow mountain, Konia, Kholira, Danzuishan, Skalmirthon, Manaharamu)
+	//Ranger//
+		Ranger Enclaves and cultures (Rainbow mountain devotees, Skalmirthon Drow, Konian Ghost Rangers, Ramishi, Kholirahi scouts)
+		Terrain breakdown across continental snarl (for vanilla ranger)
+	Rogues
+		Local gang structures (in and exclusive Furi), More complex cell structure
+		Legal systems, Administrators, and penalties
+		Identity in legality in municipalities
+		Common assistant structures and NPCs (cooks, guards, hire-ons)
+		Assassin and Arcane Trickster cultures
+		Alternate Thieves' Cants (Academic, Technical)
+		Ninjas
+	Sorcerer & Warlock
+		Common Sources of power (Commonly dealt with Patrons and Parents)
+		Seeker Pact and Origin
+	Wizard, Artificer
+		Libraries and Magical communities
+		
+
+**Race Based**
+All require additional histories
+	//Aarakocra//
+		Roosts and communities
+		Variants
+	//Bugbears and other Goblinoids//
+		Communities, Cultures,
+		Goblinry (Playing into the stereotype, let's be honest)
+		Variants (Away from the stereotypes), Verdan presence
+		Shaat'Daar Post 5854 update
+	//Bullywug//
+		Stat update
+		Drakenhearth culture
+	//Changeling//
+		More cult lore
+		Communities, non-cult
+	//Dwarf//
+		Fully fleshed out Skalmirthon, Steinhaven, other communities
+		Duergar inclusion in Skalmirthon social structure
+	//Elf//
+		Skal Drow and Cermina Drow culture
+		Feywild elven culture for Eladrin, Pallid, Moon elves
+		Wood elf Communities
+		Sea-elf and Triton oceanic communities
+		Shadar-Kai presence and culture
+	//Firbolg//
+		Non-fey variant
+		History of Monteblanca
+	Genasi
+		Elemental plane presence, Maybe a town or something for each?
+		Neon Genasi Variant (radiant)
+	//Gith//
+		Cermina presence?
+		Grand Tortuga Barry History
+	//Gnoll//
+		Nondemonic variant
+	//Gnome//
+		Brekmu expansion
+	//Goliath//
+		Eastern Aegis tribe lore
+		Runepriest class
+		Northwestern Aegis, Ushlubarel, Mohara tribes
+	//Half-elf//
+		Full Descent chart
+	//Half-orc//
+		Similar to Manarahi story
+		Culture, community
+		Something really cool
+	//Halfling//
+		Ramishi Subrace
+		Pebblerpony Culture
+	//Human//
+		Konian and Graoton history
+		Morwerta, Quire, Coast of ruins full documents
+		Graoton Variant?
+		Konian Variant?
+	//Kalashtar//
+		Presence within Manaharamu, some lore
+	//Kenku//
+		Steinhaven rewrite
+		Kenku variant that can talk
+	//Kobold//
+		More Kobold Communities, especially around the dragon coast up to Het
+	//Kuo-toa//
+		Oceanic Civilizations
+		Kuo-toa Godmaking guidelines
+	//Lizardfolk//
+		Zechmrakma Relocation and full document
+	//Locathah, Triton, Aquatic species//
+		Oceanic Civilizations
+	//Loxodon, Minotaur//
+		Community somewhere
+	//Orc//
+		Broomb's band and Valley of War (Kholirahi) culture
+	//Shifter, Wilden//
+		Xia-ochiko history
+		Wilden race
+	//Skeleton, Undead races//
+		Mictlan, Mictlan-like communities in Underground sea and ocean
+	//Tabaxi//
+		Limbo Tabaxi Variant
+	//Tiefling//
+		Tiefling communities and subcommunities in other cultures
+		Dwallat Document
+		Connection to Furi
+	//Tortle//
+		Gannaga, Ushlubarel, Ganglegrove, and other settlements
+	//Vedalken//
+		Presence among Manaharahi
+
+
