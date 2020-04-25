@@ -178,6 +178,7 @@ Olo - round
 oloramishra - Wheel, rolling thing
 Voloramisra - Covered Wagon Vor/olo/ra/mish/ra, Rolling house
 olopi - Sun, Hirokira's nickname
+Kwatsolopi - Moon, from eat + Sun.
 Vi - blood, loanword from Latin, Vir
 Raulyss - a fond greeting
 mishlia - an opinion, should (Mishlia Nneramishu'lo, You should not travel. Mishlia ganki prabrek nnekiven, I think flesh [is] stronger than metal. The absence of this word may proclaim undue uncertainty. You should not go becomes you will not go, and in Manarahi culture, that is a statement that must be backed up) The default interpretation of this word is should, it can be appended with -tab to become "might" or "could" 
@@ -351,3 +352,5 @@ Manapiral - Level, an abstraction of the abilities of a person, though definitiv
 Manazhuh - Powerful, Powery, magicky
 Manakemarahi - mage, caster, this was a hard one for the Manarahi to come up with because for the longest time //everyone// was a mage
 Savenarpet - Encylopedia
+akaki - safe
+Akakirahi - guardian/protector
