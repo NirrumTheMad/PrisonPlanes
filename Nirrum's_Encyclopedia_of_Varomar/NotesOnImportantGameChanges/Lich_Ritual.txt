@@ -16,7 +16,7 @@ Requirements:
 		* 120,000gp worth of materials
 
 Dracolich
-	* Multiple clerics and wizards to tie down the soul of the drago
+	* Multiple clerics and wizards to tie down the soul of the dragon
 	* needs a gem
 	* phylactery must be resistant to decay
 	* give material object a magical name that matches the dragon

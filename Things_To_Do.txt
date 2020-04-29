@@ -19,7 +19,8 @@ Created Wednesday 22 April 2020
 		Druidic societal castes that use the druidic language.
 		Druidic setting fluff (standing stones, etc;)
 	//Fighter//
-		Fighting schools and cultures (Graotan, Konia, Danzuishan, Kara'ite, Skalmirthon, Eastern Aegis Goliath, Hobgoblin, Turtle, Ramishi,Stalwark)
+		Fighting schools and cultures (Graoton, Konia, Danzuishan, Kara'ite, Skalmirthon, Eastern Aegis Goliath, Hobgoblin, Turtle, Ramishi,Stalwark)
+		Rune Knight
 	//Monk//
 		Monasteries and Aescetic cultures (Mohara, Danzuishan, Monteblanca, Rainbow Mountain/Silver Sleeve, Blackwater Ninjas, add more)
 	//Paladin//

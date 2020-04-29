@@ -48,7 +48,7 @@ Created Thursday 21 December 2017
 [[+Special_Feats]]
 [[+Deep_Lore]] 
 [[+Guide_to_in-game_Economy]] 
-[[+Class_Archetypes]]
+[[+Classes:Class Archetypes]]
 [[+Classes]] 
 [[+Ushlubarel_River_Basin]]
 [[+Tomb_Of_Ashes]] 

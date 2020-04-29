@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-26T15:30:14-02:30
+
+====== Artificer ======
+Created Sunday 26 April 2020
+
+Artificers are Uncommon but known in snarl. Nearly every decently sized town has at least one, but rarely many more. They work with all sorts of constructs as engineers, inventors, and workers that understand the fundamental technical principles behind what now drives life on Snarl. They work with each municipalities' electrical grid, with their magic items, and with their mundane infrastructure.
+
