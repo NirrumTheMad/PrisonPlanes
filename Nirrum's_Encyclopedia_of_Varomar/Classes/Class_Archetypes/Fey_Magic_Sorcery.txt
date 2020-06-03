@@ -24,9 +24,9 @@ Your innate magic is tied to the feywild. To Dreams, Strong Emotions, Memories a
  In Addition, your Talespinning grants you additional ways to cast your spells
 
 	Lore 	---  You become proficient in an artisan's tool kit of your choice. You can use it as a focus for casting your sorcerer spells
-	Valor	--- You become proficient in a Musical instrument of your choice. You can use it as a focus for casting sorcerer spells.
+	Valor	--- You become proficient in a Musical instrument of your choice. You can use it as a focus for casting sorcerer spells and if you play music with it, that can qualify for your verbal components of spells.
 	Glamour --- You become proficient in Perfomance and Acrobatics if you are not already. You can use incredible dance moves in place of a casting focus for your sorcerer spells.
-	Swords 	--- You become proficient in a single type melee weapon of your choice, and can use it as a casting focus for your sorcerer spells
+	Swords 	--- You become proficient in a single type of melee weapon of your choice, and can use it as a casting focus for your sorcerer spells
 	Whispers --- You become proficient in a gaming set of your choice and can use it as a casting focus for your sorcerer spells.
 	Terror 	--- You become proficient in animal handling and can use a creature you are mounted on as a casting focus for your sorcerer spells. Yes you read that correctly, it's not any **less** conspicuous than a staff
 	

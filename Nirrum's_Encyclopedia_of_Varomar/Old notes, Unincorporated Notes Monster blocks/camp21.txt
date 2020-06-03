@@ -1,0 +1,29 @@
+This is again, one of those nights where you very well may die. This is your warning. Play smart.
+
+After escaping the dreaded ship-eating beast and defeating a malevolent Kapre, the crew sets to the task of navigating out of the swamp. At some point, a dragon flies overhead, carrying a box.
+
+
+Giant Leech ==Large beast, unaligned
+AC: 11, HP: 39 (6d10 + 6), Speed: 10ft. Swim 40ft.
+STR 15 (+2), DEX 12 (+1), CON 13 (+1), INT 3 (-4), WIS 12 (+1), CHA 11 (+0)
+Skills: Athletics +6
+Damage Weaknesses: Fire
+Senses: Blindsight 10ft. Passive perception 11
+Languages: none
+Challenge Rating: 1 (200 XP)
+Water sense. While underwater, the leech knows the xact location of any creature in contact with the same body of water.
+Amphibious. The leech can breathe air and water.
+Bite: Melee weapon attack: +4 to hit, reach 5ft., one target.
+Hit: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, the leech can grapple up to two targets.
+Blood drain: Up to two targets it has grappled get 3 (1d4 + 2) necrotic damage, the leech gains hit points at half the value of damage given this way (rounded down).
+Startled by fire: When taken fire damage, the leech immediately let's go of it's grappled targets and is frightened of fire for one round.
+
+Throw two of these at them
+
+As they move further down the swamp, it becomes clear that there is evil afoot. 
+As day passes into night, the party finds a big tree that's entirely dead. A voice calls out for help from inside! The water around it is black, but there's a light on above the door and a bridge leading from a stump in clearer waters
+
+Dc16 investigation to realize the bridge is an illusion 2d10 at the start of your turn if you fall in. 
+
+Leaning out the door is a worried looking woman with long hair. She's 
+
