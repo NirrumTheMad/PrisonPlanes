@@ -1648,6 +1648,15 @@ Am going to have fun with this and the madness no matter what
 	ok
 	
 
+	Jormungandr04/08/2019
+	Out of random curiosity, is Teruna a valid Warlock patron option
+	
+	NirrumTheMad04/08/2019
+	If you talk to the right people absolutely
+	NirrumTheMad04/08/2019
+	Technically it'd be those who seek to free Teruna who teach you how to use warlock-like powers, Teruna's kinda trapped and unlike the other demons isn't spectacularly communicative, but intense study and elbow-rubbing among his cult allows you to access some neat shit
+
+
 ==== Why Snarl Exists as a setting ====
 	blues26/12/2019
 	they do
@@ -1903,6 +1912,7 @@ Am going to have fun with this and the madness no matter what
 	
 	
 	
+
 ==== On Mahi, Nirrum's Siblings, and Ranger Studies ====
 	Jormungandr23/07/2019
 	There's a ... silver? Dragon looking for a new home, right?
@@ -1969,6 +1979,7 @@ Am going to have fun with this and the madness no matter what
 	NirrumTheMad23/07/2019
 	You'll have to go see them when you graduate. The circle of the arctic druid would refuse to take you to bladewater, she's got bad blood with the people there unfortunately
 	
+
 ==== On Treysa and the Kholirahi roots ====
 	NirrumTheMad23/07/2019
 	You're thinking the world tree
@@ -2009,3 +2020,414 @@ Am going to have fun with this and the madness no matter what
 	Minor illusion technically speaking.  You walk up to this big ol' tree and you start hearing a voice
 	on occasion she puts out a dryad but very rarely
 	
+
+==== On Magic, Physics ====
+Jormungandr23/09/2019
+Yeah. I mean, it is unusual, but it's not like in Harry Potter where the world would burn them if it came out that they'd been... afflicted, I guess, with magic. It's more like an environment effect, or like a cold, something that you live with, something that just kind of happens. 
+
+My thoughts kinda went tangenting at this point, but I think one of the reasons I like this kind of magic is that it its... inherent? to the world. The magic (for lack of a better word) lives in pretty much everything. It isn't just channeled through a wand or other instrument, or through a holy artifact, or some other divine godgiven powers, or passed down through a bloodline. Theoretically, given the right knowledge, everyone could use or just observe it.
+
+NirrumTheMad23/09/2019
+Same here
+[20:29]
+It's why I even have a physics document
+
+Jormungandr23/09/2019
+I think that's why I always go for component pouches over focus items. I dislike the idea that something is closed off to somebody because they weren't born right. That magic is something somehow separate and not really part of the world, that it's somehow secluded from it. If somebody can access magic, where does it come from? WHy doesn't it flow through the rest of the world?
+
+NirrumTheMad23/09/2019
+XD in other settings, gods. In my setting, nothing stops people from becoming a wizard, a druid,
+[20:34]
+Sorcerers are born with an innate connect, or a different shape in their magical field.  Clerics are given power, warlocks, taught to shape themselves
+[20:36]
+anyone can draw a ritual but only the powerful can test it as they go, meaning it has a chance to succeed. In all worlds I play in, I always look for those natural powrs
+
+Jormungandr23/09/2019
+Yeeh. In my world, magic is a kind of force that is in everything. Everyone can theoretically use it, but most knowledge of it has been slowly lost or been spirited away. There are a variety of branches of magic, but in their essence, they are all the same. There is a god-magic, which in theory is only wielded by beings of more or less pure magic. The gods are more like amalgamations of concepts who gained a consciousness. They are far more powerful than the average person can hope to achieve, because they are made of magic. They can, however, lend it. 
+There's also hedge-magic, which works on association. Basically, it's why most magic works. To perform a spell, you need the right components that mean something to you. So a carrot can be an ingredient for a scrying spell, because it is (in western cultures, quite recently) associated with good eye-sight. A culture who never created this association would not be able to use the same component, but instead maybe a bird skull, or one of those rocks with a hole worn into them. Essentially, the caster can use their association of something with the object to draw out the magical potential. You need to believe it so it works. Or less believe, and more... have that connection. It's why good luck charms work in this world. The item is associated with good luck, and therefore becomes a good luck charm. This is why different cultures have different spells that all still work while also being totally different. 
+There's also alchemy, which is basically magical chemistry, drawing out magical potential by reacting the magical stuff in things with each other. (Although a lot of magic in it's base principle is just a variation on hedge magic). 
+There's a couple more, in theory infinitely more, but I have already rambled for quite a bit XD
+
+NirrumTheMad23/09/2019
+XD I could go on for longer with something similar, no worries there
+[20:57]
+One of the hardest questions to answer is what about the creatures that evolve in this magic?
+[20:57]
+There are a few noteworthy ones but why are they not far more magical
+[20:58]
+I've got a couple of ideas, but it's always fun to hear other people's answer to the idea of a completely magical creature, not unlike the mushi
+
+Jormungandr23/09/2019
+A lot of my world is actually baseline magical it's just literally so mundane it's not seen as magic. Like good luck charms. Or dream catchers. (Which are magical, just are nowadays more of a... thing you do, rather than something you actually believe? Or like knocking on wood.) Though it is mostly very lowkey magical, and not strong enough to be very noticable. Or that supernatural sense of knowing when somebody is watching you, kinda deal. 
+On gods, it's also the reason why multiple gods exist with overlapping domains. Some are created by human belief, forming an already existing concept into a conscious, defined being, some awakened through the sheer force of magic kind of... balled together. Those tend to be nature gods, most notably among them the giant ocean spirit. Mostly, they are just called gods. They aren't actually divine, just very very powerful, and as I said, some were shaped into what they are by humans. Some by animals, some by just... popping into existance, because it is big. Or just because it is there. All living creatures have magic inside them, some just I guess have it more externally than others. It's more like a... life force, but it exists in all things, not just living
+[21:29]
+I'd listen to your take on that kinda stuff too, I like learning how other people integrate magic into their world
+[21:29]
+Actually just worldbuilding in general.
+
+NirrumTheMad23/09/2019
+There's always that gap left over. Between will and reality, the mechanism by which the mind is able to exert force. It's strange to think, such a tiny set of dominoes goes from 0-100 so quickly when your brain tells your muscles to move. When I started to explain magic, I started with cycles.
+
+The idea was that magic was like a liquid, it flowed down channels made for it, and it flowed through time a bit differently than we do. Like an electron cycling around a circuit or even around a nucleus, This magic would follow it, though, separate, unable to really interact.  Magic would mirror  patterns that the world went through. things stuck together and forces were what they were because that's where magic (by coincidence) began sitting and then, when things kept doing that thing, those forces got stronger, more complete in their expression. When matter formed, Magic glommed it together, sticking to the vibrations, the electrical currents (or even the resistance), the heating and cooling. Whenever something was done many times, it became more real, and the magic sat closer to it
+[21:43]
+but all these patterns are these gigantic conglomerations of energies that just stacked up against each other in whatever way was convenient, when life arose, things got a little weirder. Newer, finer patterns could pop up in different places, in ridiculous ways, sometimes causing huge cascades of energy to bonk shit around. When people came to be, they eventually got a hold of this idea and began working with it. The big shapes and blocks were referred to as Symbols, as they were so similar to the idea of the object as well as the object itself when you look at the magic itself. The idea of a rock will always attach to a rock, the idea of a flower will always attach to a flower. The mind was able to generate so many of these small ideas that fit the larger ones so well, it meant that the larger ones can be manipulated
+[21:45]
+Composite symbols could cause a larger symbol to come crashing to a lower energy state, releasing its potential in the process. After a while, people were able to make fire by thinking of fire, and the symbols needed to make it.
+
+But humans weren't the only thing. Self-referential patterns, processes that affect themselves are prone to causing some crazy shit to happen. Other creatures just straight evolved that way, some of them nearly entirely magical, existing as gaps between those ideas, causing them to move around and shuffle the world around them. Others just kinda tapped into it and got superpowers that way.
+
+Gods are a weird one, I put them in three groups
+[21:47]
+Those made by mortals are just the result of such composite symbols and will fade away when they run their mathematical course.
+
+Some were more of an evolutionary consequence of the forces, titanic and alien.
+
+Others are mortals, ones that have accessed greater powers to change what they are and what that means
+[21:48]
+Using this, I can sing the world into a state where the dominoes fall in such a way that makes other dominoes stand and watch it go from there
+29 September 2019
+
+Jormungandr29/09/2019
+Sorry for the late reply, I somehow go intimidated by the amount of text, and some anxiety of answering messages kicked in. (To be clear, it's not your fault, it's just something my brain does occasionally). ^^ 
+
+Mind explaining the first bit to me again? I am not sure if I quite understand it. The magic attached itself as a kind of mirroring of things that were happening in this world. Magic is akin to concepts/ideas that have a kind of... "physical" presence? Things that happen more often/I guess more prominent would generate a stronger concept? 
+
+Okay, and symbols kind of work by say... If you have fire, or maybe not fire, heat as an overarching concept, then you'd be able to create subcategories, like "Heating up" or "sun" or "fire" or "flying fireball to burn my enemies", and that is how beings control magic, by defining and so shaping a small piece of the bigger thing into something more specific, more manageable?(edited)
+[21:49]
+(Also how long does the first type of god make it? I'd love to see an example of that type of god. Like would a fire god made of sections of the large category "heat" exist as long as those subideas existed?)(edited)
+
+Jormungandr29/09/2019
+Unless I am totally misinterpreting the system
+
+NirrumTheMad29/09/2019
+Imagine a dragonfly over water or a magnet under metal on a rubber sheet. The indentation caused on the surface is kinda what the symbol is. The more something happens the easier the displacement, and the stronger the effect
+[23:33]
+Brains have a delightful tendency to interpret phenomena in a similar way every time so that makes it even easier, and you've got the specifics down. The first type of god is ultimately identical in technical aspects to a spell or a complex symbol, they usually pop up with worship. American gods style
+[23:35]
+They're  not as fundamental nor as powerful as their domains, the simpler something is in pattern the more potent
+
+==== On Nirrum's Coat and some custom magic items, On Konian Silver knights, ====
+Jormungandr15/03/2020
+I want the coat of the Elder
+[16:50]
+I want pocketsies
+
+NirrumTheMad15/03/2020
+XD
+[16:50]
+I need to make that reflect the true power of the coat. That's my coat. It is entirely likely to find some extremely random stuff inside it
+
+Jormungandr15/03/2020
+We have the sunstorm crown, right?
+
+NirrumTheMad15/03/2020
+Indeed you do!
+[16:52]
+To date, objects that have come out of my pocket of that coat include:
+* several woodwind instruments
+* Approximately two ounces of fresh thyme
+* A small wooden boat
+* Several interesting rocks
+* An actual Medicine pouch, containing a flattened coin, some novaculite, and a small figurine of a viking
+[16:55]
+* 75 feet of Paracord
+* A sling and several suitable rocks for it
+* A small local newspaper
+* An abundance of dice
+* A selection of scented candles
+* A deck of cards
+* A Deck of Magic cards
+* A selection of tea bags
+* A glass Chalice
+* Four .22 bullets
+
+Jormungandr15/03/2020
+I like the Lakewaker.
+
+NirrumTheMad15/03/2020
+Oh, and my personal favourite
+* The Letters T, E, and B, from different display signs
+[16:56]
+Heh
+[16:56]
+Lakewaker is so cool, it's helpful for fishing but also not getting eaten by froghemoths
+
+Jormungandr15/03/2020
+I just like it's flavour. It stands out as a thing most so far. Besides Kawiki and the two winter blades(edited)
+
+NirrumTheMad15/03/2020
+Ahhh I love Maki Kawiki, Currently in posession of Zog Earthshaka. It's got quite a bit of potential
+
+Jormungandr15/03/2020
+And the Dappled Staff
+
+NirrumTheMad15/03/2020
+ that's my staff that I have in real life! It doesn't shine as bright but I can't describe the beauty of the spalting very well
+[16:59]
+https://external-preview.redd.it/aJABMgmv7zd0pn-rZkMWNAv3qw9RmNPwj09vCr824vQ.jpg?s=e2554fc053e2bbb12423bd6fa9e52b9d56b4bab5 Spalting has some amazing effects on wood
+
+[17:00]
+it has pinks and blues and blacks and browns, though they've faded over the years
+[17:00]
+https://www.worldmusicsupply.com/image/cache/1000x1000/catalog/product_images/WCSD40SCEK-1-1000x1000.jpg not unlike this guitar
+
+
+Jormungandr15/03/2020
+"when this feature ends and cannot expand back to your normal size, you harmlessly ooze out through their organs and skin until you are capable of reforming."
+
+NirrumTheMad15/03/2020
+HEH
+
+Jormungandr15/03/2020
+Lohar of the Witch Lords
+[17:01]
+I wish to ooze
+
+NirrumTheMad15/03/2020
+I needed a flavourful way of preventing the Thanus
+
+Jormungandr15/03/2020
+There's a slight spelling mistake (not quite) in Lohar, you misplaced a space somewhere in it(edited)
+
+NirrumTheMad15/03/2020
+Ha, there's a few of those, I correct them as a see them
+
+Jormungandr15/03/2020
+Yeah, thought so. Just thought I'd point it out cuz it's a pain to read through this much text in correction, so you'll immediately know where to look XD
+
+NirrumTheMad15/03/2020
+fair fair! I intend to grab Grammarly and go through all my work before it goes public and try to catch most of them XD
+
+Jormungandr15/03/2020
+Honestly, Bee is such a weird character, she's one of the few of mine that don't have a proper history besides "uhhh, Firbolg nation??" and very little reason to adventure, and next to no goals when she set out. The Grove was almost a sideproduct.
+[17:04]
+"Better Fists"
+
+NirrumTheMad15/03/2020
+I've had that problem
+
+Jormungandr15/03/2020
+Ah yes, Item
+
+NirrumTheMad15/03/2020
+XD gotta have something to give monks!
+
+Jormungandr15/03/2020
+I would kinda like to play a monk in your world at some point. But maybe I just like Monks? I haven't had one class that I really liked or disliked, though I have so far felt most powerful as Bee, and that one time Sincerity fucked Robin's dungeon and closely avoided the death of our entire party.
+[17:06]
+I like Better Fists though
+[17:07]
+Selfthrower Crossbow
+	//Light// //Crossbow, Very rare, Requires attunement//
+		Once a day, you can press the tickler on this crossbow without loading ammunition after saying the command word. You are then launched up to 80ft in the direction you pointed. If you land on a hard surface, you take 1d6 damage for every 10ft you were launched this way.
+
+NirrumTheMad15/03/2020
+I've played Open palm monk a few times and I hated it, but I want to try the others. I've played enough now to know I really like clerics, paladins, barbarians, and bards
+
+Jormungandr15/03/2020
+I worry about this one
+
+NirrumTheMad15/03/2020
+I love it. A chance to instantly kill many low level players if they use it
+
+Jormungandr15/03/2020
+I have only once played the same class, and that was a diffrent Bloodhunter subclass
+[17:08]
+Shame
+	//Dart, Bone Artifact(humerus), Requires attunement//
+
+HmmmmmMM
+
+NirrumTheMad15/03/2020
+At some point I want to play a fighter that is rethemed entirely as a monstrosity
+[17:08]
+Oh yes! I need to put more of those in there
+
+Jormungandr15/03/2020
+"forged with magefire and weilded" still in shame, mixed another few letters!
+[17:10]
+I like it's history
+[17:10]
+The weaving and layering of magic sounds like something I'd describe how things came to be
+[17:11]
+Oh, there's a couple more letter switches in Shame
+
+NirrumTheMad15/03/2020
+I'm very proud of that item, as painful as it is to think of
+[17:11]
+Unfortunately the text editor I use doesn't have a built-in spellcheck! The one that exists for it only works on linux
+
+Jormungandr15/03/2020
+Gurglethong
+[17:13]
+Excuse me
+
+NirrumTheMad15/03/2020
+Heh, Thong refers to a strip of leather
+
+Jormungandr15/03/2020
+Yeh, I know, but that was NOT my first instinct XD
+[17:14]
+As an item it's dmn cool though
+[17:14]
+I like that one
+[17:14]
+It's simple and easy
+
+NirrumTheMad15/03/2020
+I wanted to make slings relevant and having infinite ammo is really useful in survival
+
+Jormungandr15/03/2020
+Is Annam's Tongue the weapon the Oni had?
+
+NirrumTheMad15/03/2020
+nooo that's just its own thing(edited)
+
+Jormungandr15/03/2020
+Rys faced us off with one and the weapon changed sizes, so some of us were rabidly trying to understand why
+
+NirrumTheMad15/03/2020
+Heh, That was just part of the Danzuishanese maze, its description is up on my blog actually!
+
+Jormungandr15/03/2020
+Necrospike seems a bit like a glorified shovel, in a way XD
+
+NirrumTheMad15/03/2020
+XD The damned skeleton can dig itself out I've got shit to do tonight
+
+Jormungandr15/03/2020
+I bet Lavinia would love that, if she wasn't a cleric
+
+NirrumTheMad15/03/2020
+What'll really bite you is when you realize there's no wizard archetype that is proficient with pikes
+
+Jormungandr15/03/2020
+RIP. YOu gotta take what you can get.
+
+NirrumTheMad15/03/2020
+hey, free spells for  an undead army is just a good time
+[17:22]
+there's actually a little bit of story on a few of the next ones that's not written down on them
+
+Jormungandr15/03/2020
+The Forcehammer seems a lot like Moses' staff, plus some extra benefits
+
+NirrumTheMad15/03/2020
+Indeed! It was partially inspired by it
+
+Jormungandr15/03/2020
+Dimensional Slide Abacus
+	//Wondrous item, Uncommon, Requires attunement by an artificer or a wizard//
+		Casting a spell as a ritual only adds five minutes to the casting time.
+
+Dope
+
+NirrumTheMad15/03/2020
+The Silver Knights were the Konian special forces. Level 11+ fighters and where they had been at war with the Manaharahi from the second the two made contact with each other, they are partially build to deal with magical bullshit.
+
+The Goatrider items are from the fallen Empire of Graoton, Which had a tradition of Eldritch knights mounted on giant goats
+[17:25]
+ye! that's roughly where I am now in making these items
+[17:25]
+BUT
+[17:25]
+for the next batch you need something
+
+Jormungandr15/03/2020
+Range, Duration, Save, Attack/check, Damage
+Iolite Crystal
+	Duration +
+
+8-Cycle Copper Channel Crystal Orb
+
+Yeah, I was just gonna say, no info! I wish to KNOW
+
+NirrumTheMad15/03/2020
+XD  Hold onto this and skip straight to Lithosaad Mk2 pro+
+[17:25]
+https://www.youtube.com/watch?v=_MCcKyyptuM
+
+==== On Dinosaurs and Gods ====
+Jormungandr18/03/2020
+Do shavers (whatever they are called. Shears. electric shears.) exist in tis world
+
+NirrumTheMad18/03/2020
+Electric ones no, they have yet to invent the circular motor
+[21:36]
+Currently all they have is a passive retraction single-action coil motor
+[21:37]
+They're on the very edge of the cusp of inventing a proper motor but no one has had the idea of "let's make this go round" and the right hand rule hasn't been figured out yet
+
+Jormungandr18/03/2020
+What if someone falls onto this plane with the knowledge?
+
+NirrumTheMad18/03/2020
+then it is a great boon to the plane
+[21:39]
+Plane and simple
+
+Jormungandr18/03/2020
+Also, if the gods fell into Snarl, are they removed from where they were? Is there only one copy? What happens to all the other planes
+[21:40]
+Schrödinger's gods?
+
+NirrumTheMad18/03/2020
+Snarl is a curiosity to most gods. Most gods were previously mortals that managed to accrue a divine portfolio. Normally, gods cannot leave their spheres and travel the realms but the way some people leave their sphere to get to the prison planes, they occasionally leave tunnels. The gods are able to traverse these tunnels and once they are established there, they can set up grander, more efficient means. The gods are disconnected mostly from their homes while they are here, but some take advantage of the time dilation effects so they're not missed. Others disappear from their old home entirely
+[21:43]
+mostly there is only one copy, but some gods have run into other versions of themselves and either left that quandry well enough alone or occasionally combined into greater and greater beings
+
+Jormungandr18/03/2020
+Hm. God vore.
+[21:45]
+God Ouroborous?
+
+NirrumTheMad18/03/2020
+on occasion, likely
+
+Jormungandr18/03/2020
+If there's multiple prison planes, what happens to the gods across each. Do they just not exist in some?
+[21:47]
+Or more like, I guess, when a god is only on SNarl
+
+NirrumTheMad18/03/2020
+you can usually assume that the same gods can reach the different prison planes (depending on their nature) but here their power is much less impressive. Lolth and Yondalla for example both have extremely limited power on these planes because it's not worth their time and the stakes are high here, higher than either of them are willing to take on
+
+Jormungandr18/03/2020
+Which one's Yondalla?
+
+NirrumTheMad18/03/2020
+halfling chief god
+[21:50]
+gives them their luck
+[21:50]
+much like lolth gives the drow their crazy
+
+Jormungandr18/03/2020
+Are SNarl Halflings unluckier
+[21:53]
+There's a joke in there somewhere
+
+NirrumTheMad18/03/2020
+they still have their feat but otherwise, yeah, the Ramishi are a far shot from your average halfling, though there are a few around
+[21:53]
+Come to think of it, the Eberron Talenta Halflings have much the same schtick but they ride dinosaurs
+
+Jormungandr18/03/2020
+I would say that's a bonus, but I'm not actually a fan of dinos in magic settings like these.
+
+NirrumTheMad18/03/2020
+heh, they have their places when they're properly naturalized. On Snarl there's one plateau with them but they don't show up often elsewhere
+
+Jormungandr18/03/2020
+I guess dinos just seem too... real/historical, and also removed from anything approximately us for me to enjoy them in these settings. Most often, they just feel gimicky, or just... cool, dinos exist, without thinking how they fit in the world
+
+NirrumTheMad18/03/2020
+If I was going to do them again they'd just be a naturalized part of the world, like you'd see herds of elephants get into conflict with an occasional Ankylosaur
+
+Jormungandr18/03/2020
+Hm. I suppose it's also kinda a suspension of belief thing. I know roughly how dinos do against each other, and how humans would likely fare, and I suppose you could vaguely compare them to dragons, but somehow the fact that dragons are entirely made up makes it seem a little more like people could live alongside them. Also that dragons in stories tend to be far less common, while dinos are often vast herds, or at least groups, not just single, very far apart individuals.
+
+NirrumTheMad18/03/2020
+Which is true and fair, but they're not too different from how I've utilized owlbears or wyverns
+[22:11]
+ultimately they don't really have a thematic place in my plane other than as set dressing
