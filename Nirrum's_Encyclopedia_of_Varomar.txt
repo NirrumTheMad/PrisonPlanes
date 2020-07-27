@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2017-12-21T19:47:22-03:30
 
 ====== Nirrum's Encylopedia of Varomar ======
@@ -55,6 +55,8 @@ Created Thursday 21 December 2017
 [[+Skill_Check_Weapons]]
 [[+Letters_from_The_Author]]
 [[+Weird_worldbuilding_notes]] 
+[[+The_Feywild]]
+
 
 //Nirrum is clearly mad and we should ensure that none be allowed in his chamber, lest he bewitch someone into bringing his works to the presses for him to have them distributed. Triple the blind guard, and place as many wards and abjurations upon his rooms as you can! //
 		-Sillig The Eel on the way to the presses with this very document
