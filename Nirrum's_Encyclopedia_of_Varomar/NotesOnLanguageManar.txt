@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2017-12-29T04:07:22-03:30
 
 ====== NotesOnLanguageManar ======
@@ -354,3 +354,4 @@ Manakemarahi - mage, caster, this was a hard one for the Manarahi to come up wit
 Savenarpet - Encylopedia
 akaki - safe
 Akakirahi - guardian/protector
+Kaorasha- Fey magic unit, thought, the embodiment of the concept that matter uses to affect magic
