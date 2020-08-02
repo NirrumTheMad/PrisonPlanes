@@ -7,3 +7,54 @@ Created Sunday 19 July 2020
 
 [[+A_Description_of_The_Fey]]
 [[+The_Courts_of_the_fey]]
+[[+Floraids]]
+[[+Faunaids]]
+[[+Fey]]
+
+
+
+Heading to the feywild is an intrinsically dangerous endeavour.  The very nature of it is different from the prime material plane. Light is Metaphor, sound is allegaory. The experience of being in the feywild is, despite all appearances and with only one exception, not like being in the prime material plane. There are millions of rules that are so intuitively sensical but fundamentally different than what the prime material plane has, it would be impossible to list them all. Thankfully there's a fundamental superstructure that is not impossible to parse. While you will get yourself in sticky situations in the fey, knowing one's own powers and this superstructure will help you
+
+===== Geographic consistency =====
+There is a myth that there are no maps of the feywild. There is also a myth that there is a map of the feywild. Neither of these are true. Rather, while maps of the feywild exist, they can't be printed like normal maps because normal paper lacks the ability to convey the context of even the smallest portions of the feywild in a reasonable sense.
+
+The feywild is divide into two semi-repeating portions, to start with. The Feylight and the Feydark. Conveniently, the feydark is both to the west and east of the feylight,  and vice-versa. Not unlike day and night here, one comes after the other, but described in distance instead of time. Moving north or south will have strange effects including sharp changes in relative facing direction of approximately 116.57 degrees (these actually occur travelling east to west as well, but as long as you have a heading you can track it relative to the light, but eventually you will reach positions where, depending on the position of your feet, the sun will either be completely inaccessible or completely unavoidable, seeming to be in either no direction or every direction at once. If you stay away from these poles,  you'll always be able to know where you are, with a period of roughly one feywild day per 2.802 planar lengths. 
+	//Nirrum's note: I've figured it out. Take a tube and fill it with 12 sided dice that are white on top and black on bottom but kinda diagonally. It's that. You're travelling through the tube from the middle. I really wish my meter stick would work in there so I could get the exact planar length value but that wouldn't make sense I guess. You can cross over from link to link at any dawnpoint which would be the 9 face or any duskpoint which is at the 4, almost opposite eachother. Though sometimes you can go from different points... is it a sphere of some sort? They also seem to move so the dawnpoint and duskpoint will move along edges to new vertexes//
+	
+The Feywild's strongest intersections with the prime material plane overlap roughly (just under) every two feywild hours, and this only loosely and occasionally correlates to the time in the prime material plane, a fact which is tremendously shocking to most fey upon visiting the prime material plane until they figure it out. It does not take much magic to slip in and out of the feywild, per spells such as some forms of misty step, but outside of those contact points, a higher level is necessary.
+
+When travelling in the feywild, keeping that 116.57 degree change in mind is critical. Instead of our delightful 90-180-360 geometry, things in the feywild seem to favour this angle, though it might seem to be normal from where you are standing. If you fail to take this into account, you will very likely find yourself walking upside down above your comrades, being *technically* on the same level, being pulled in the same direction by gravity (or it's substitute) but having transposed yourself along other axes. For this reason you can confuse many fey by putting them into a torus-shaped room, they will likely keep attempting to turn a lot slower than beings of the prime material plane to maintain their heading along the track. Straight lines on this plane will seem to material planars to be a series of 64 degree turns alternating to the left and right
+
+With this in mind, **It should be clear why without relative reference frames at every step, no map of the feywild would even begin to make sense, despite the fact that they can technically be constructed and give accurate directions.** The gap between context and abstraction does not fit on paper. 
+
+===== Geographic regions and biomes =====
+Without attempting to describe their relationships to eachother, the feywild has the following notable regions, sometimes multiple. Most biomes on the prime material also exist in the feywild, but here are some notable new additions
+
+==== The Dragonleaf Rainforests ====
+	It turns out that dragonleaf trees flourish in the feywild, preferring the crepuscular regions mostly. Along several levels of one of these crepuscular regions is the dragonleaf rainforest which seems to be made *exclusively* of young dragonleaf trees. Depending on the position of the dawnpoint and duskpoint, they remain there constantly. When the dawnpoint gets to directly overhead, they start their flowering cycle, where they get extremely aggressive. Ones that succeed then leave the dragonleaf rainforest for other parts of the feywild... probably. They definitely leave for somewhere. Within one of these forests, closer to the dayside than the nightside, is the infinite river, which connects to the prime material plane somewhere south of Manaharamu
+
+==== The Puddletops ====
+	Along the afternoon and ealy night bands of the feywild, there is a region known as "the puddletops". The puddletops are a series of pools of water which seem to defy gravity, at least for a bit. Water flows from groundwater aquifers and up along aquacles shaped not unlike tree trunks and into a canopy  of... just floating water.  These pools seldom connect but on occasion they do, and in a few places small rivers can be found flowing uphill. The further upstream one goes, the thicker the trees become. These trees, known as Skypools, house many fish, as well as a relative of the darkmantle that drops down from them, as well as fey Hydra anenomes, which lie in wait with dangling tentacles to pull up things that wander into them.  four legged skimmers run across the tops of these skypools looking for organisms to feed on with their sharp proboscis, but occasionally descend underneath the skypools for safety. The largest skypool is often described as "The size of ten dragons". It is suspected that there is a connection the elemental plane of water at the top. 
+	
+
+==== Bouldergarden ====
+	The rocks in bouldergarden show every sign of being alive, autotrophic and growing though the growth is extremely slow, even in feywild time. That said, the boulders can be found to grow. What trees grow in this region often have boulders *overgrowing* them. Many of the larger one have fossilized fey who decided to try to make a home inside one, only to find one day that they couldn't get out
+
+==== Mirrorlakes ====
+	Dotted around the feywild are mirror lakes, which behave like normal lakes but with some odd features. They are always perfectly reflective, but splashes and drips sound like and behave like broken glass, slowly melting back into the main body after being separated and returning to a smooth surface.  Real aquatic creatures cannot breathe under the surface, but they are not uninhabitted, as the reflections in the pond take a life of their own, and often an adventurer has been spooked after taking a drink and watching their reflection walk off looking unconvinced before they get a chance to do the same. Some lakes seem to allow more than one of the same reflection, others do not. 
+
+==== Wronghouses ====
+	Not unlike the bouldergardens except they grow buildings, often ones that can be found in the real world. However, the features of these grown buildings are frequently flawed and sometimes two might combine. A room might not have a door or the door may be too small and way too high off the ground, A window may look into a wall, a rail may be across a hallway. these are signficantly more safe to be in but getting lost  is still easy, this is the feywild after all
+
+==== Storygrass Grasslands ====
+	When the wind blows in the wide plains that have storygrass, you can hear whispers, songs, and occasionally stories old and new. The grass is semi-sapient and can communicate but usually isn't spectacularly helpful. 
+
+==== Elephant Sargasso sea ====
+	In A few areas in the feywild there are vast oceans of grasses standing over 10 ft tall. The grass is sharp and can cut if you're not wearing clothes but has trouble going through clothing or scales. While the area is navigable on foot, fey eels swim through the grass looking for prey. Other pseudo aquatic life forms live here including Screeching crabs, spritefish (which are like sea horses), and Chaff barnicles. Interestingly also Lucky Tigers (with lucky) and of course, Normal elephants
+
+==== Solid Dunes ====
+	Areas of vast desert that are made of solid sandstone. The sandstone still moves in a way that imitates a dune, individual grains swim up through the dune to the lead edge and cement themselves in. A traveller at the leading face might find it begin to grow over their body rather quickly, trapping them and suffocating them unless they can hold their breath until the dune passes, though, most of the dunes are too big for that.
+	
+==== Rotoscapes ====
+	A rotoscape is one of the stranger instances of fey environemtal changes. A landscape underneath the effects of the rotoscape appear to be drawn and redrawn into existence. Lines are grainy and  constrast is high as if done in charcoal or graphite, everything is represented fairly minimally. Eyes on a person may only appear as dots
+

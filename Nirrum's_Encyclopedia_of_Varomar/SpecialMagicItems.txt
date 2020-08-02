@@ -163,7 +163,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		
 **Hammer of Oak and Iron**
 	//Light hammer, Legendary, requires attunement by a cleric//
-		This simply cross-peen smith's hammer was once used by a God to deliver punishment to repentant sinners. When you hit a creature with this hammer on your turn, you may expend a spell slot and roll a number of d6s equal to the slot's level and add that to the damage. The creature cannot die from this damage but can still be knocked unconscious. At the start of your next turn, if that creature is still alive, it gains an amount of hitpoints equal to twice the amount of damage you dealt to it, plus your cleric level. 
+		This simply cross-peen smith's hammer was once used by a God to deliver punishment to repentant sinners. When you hit a creature with this hammer on your turn, you may expend a spell slot and roll a number of d6s equal to the slot's level and add that to the damage. The creature cannot die from this damage but can still be knocked unconscious. At the start of your next turn, if that creature is alive, it gains an amount of hitpoints equal to twice the amount of damage you dealt to it, plus your cleric level. 
 		
 		
 		
@@ -205,7 +205,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		
 **Selfthrower Crossbow**
 	//Light// //Crossbow, Very rare, Requires attunement//
-		Once a day, you can press the tickler on this crossbow without loading ammunition after saying the command word. You are then launched up to 80ft in the direction you pointed. If you land on a hard surface, you take 1d6 damage for every 10ft you were launched this way.
+		Once a day, you can press the tickler on this crossbow without loading ammunition after saying the command word. You are then launched up to 80ft in the direction you pointed. If you land on a hard surface, you take 1d6 damage for every 10ft you were launched this way. If you land on a creature, you take half this damage (rounded down) and the creature you land on takes the same amount.
 
 **Shame**
 	//Dart, Bone Artifact(humerus), Requires attunement//
