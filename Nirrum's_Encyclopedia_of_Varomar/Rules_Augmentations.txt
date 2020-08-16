@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-13T11:35:44-03:30
 
 ====== Rules Augmentations ======
@@ -109,7 +109,7 @@ Here is a list of some of the things you //may// do without breaking the setting
 
 **Casting Classes and classes with abilities that reproduce spells**
 	* Some spells have had their school of magic changed, see **Spells** below
-	* A casting focus for any class that has the Arcane or Druidic focuses feature, can be anything that is "sufficiently mystical," Including decks of cards, jewelled hair pins, bowls made out of turtle shells, or copies of the player's handbook.
+	* A casting focus for any class that has the Arcane or Druidic focuses feature, can be anything that is "sufficiently mystical," Including decks of cards, jewelled hair pins, bowls made out of turtle shells, ~~or copies of the player's handbook.~~
 	* Verbal components are always audible unless stated specifically in the spell or a feature that reproduces it or unless the Subtle Spell metamagic is used
 	* Somatic components are always very visible unless stated specifically in the spell or a feature that reproduces it or unless the Subtle Spell metamagic is used
 

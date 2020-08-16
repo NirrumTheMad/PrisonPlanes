@@ -6,6 +6,26 @@ Creation-Date: 2020-07-19T00:38:54-02:30
 Created Sunday 19 July 2020
 
 
+
+
+ A Fey RP block looks like this
+
+**NAME (MBTI) Court, Phenotype, Class**
+Tagline
+	Height
+	Influence
+Description
+
+The Phenotype describes what sort of fey, such as pixie, sprite, or redcap. Archfey are what any fey can become, or even be born as. An Archfey's form is unique to themselves and posesses its own properties
+
+Influence describes the DC required to bind a fey against its will. This DC  is not bounded and some DCs will be in the hundreds, depending on the accumulation of favours. A DC will be tied to a skill for each fey with a short description
+
+
+
+
+
+
+
 We use emotion and experience it ephemerally. Our survival is predicated on other things. Theirs isn't. A broken promise, depending on the context, is one of the most vile crimes you can do to a fey who likes  you. The idea of singular marriage or relationship to a fey is impossibly silly. How can you "own" another person's  being in any respect? You are yourself, and they are someone else. The concept of belonging to someone or something, conceptually or otherwise is mindboggling to them. This extends to any ownership other than favours. See, as an example, you're not a book. The book sits on the shelf and a book is intended to be read, experienced, or used as it would be. Rocks are meant to be sit on and rolled. The universe is there to be used as is necessary and the idea of owning something outside of yourself is... kinda stupid.
 
 Except favours. Favours are within your mind you see, so they are part of you, and if someone was to give you a favour, then that is something you rightly own.
@@ -86,7 +106,7 @@ Much like the guy who gives you all his stuff and then doesn't want it back or w
 This leads to the misinterpretation from both sides that the other side is rich
 The fey can just have things, and the feywild is everchanging according to its own rules, so a well kept and well "fed" fey  can convert magic into couches, not unlike a human can convert a leg of venison into a few days of favours
 delightful, how dangerous our assumptions can be to other people isn't it?
-I imagine many a fairy thought of a get-rich-quick scheme and tried to get some sort of super-favour by feeding a human to another human(edited)
+I imagine many a fairy thought of a get-rich-quick scheme and tried to get some sort of super-favour by feeding a human to another human
 (it's probably for this reason that we tend to stay in our own respective universes)
 
 
