@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-08-23T21:03:42-02:30
+
+====== Patrons ======
+Created Sunday 23 August 2020
+
+All fey Patrons have the following abilities along with their own abilities
+
+Free spells
+Eldritch blast, Freedom of Movement, Invisibility, silent image, alter self, Disguise self, Conjure fey, Conjure woodland critters
+
+Low Spells (10 slots, recharging on a short rest)
+Faerie fire, Sleep, Calm emotions, Phantasmal force, blink, plant growth,  Dominate beast, greater invisibility, dominate person, seeming, Confusion, Modify memory
+
+Arcanum Spells (5 slots, recharging on a short rest)
+	Bestow Curse, slow, shapechange, Compulsion, weird, true polymorph,imprisonment, feeblmind, Dominate monster, Mental PRison, Mass suggestion, flesh to stone
+	
+Fey presence,
+	All creatures within a 60ft cube of the patron must succeed on a wisdom saving throw against their influence DC, creatures that fail their saving throws are frightened or charmed by the patron (their choice) for 1 minute, an affected creature may make the save again at the end of each of their turns. 
+
+Misty Movement
+	instead of moving, the patron may teleport up to 60ft and may remain invisible until the start of their next turn or until they cast a spell
+	
+Immunity to the game
+	Patrons are immune to being charmed and when a creature attempts to charm them, they can use their reaction to attempt to turn the charm back on that creature. The creature must make a wisdom saving throw against the patron's influence DC or be charmed for 1 minute
+	
+Dark Delerium
+	the patron can plunge a creature into an illusory realm. As an action, choose a creature that the patron can see within 60 feet of it  must make a Wisdom saving throw against their influence DC. On a failed save, it is charmed or frightened by the patron (your choice) for 1 minute or until their concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.
+	
+	Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which the patron chooses. The creature can see and hear only itself, the patron, and the illusion.
+	
+	The Patron must finish a short or long rest before you can use this feature again.
+	
+Truesight 30ft
+The ability to speak with animals and plants
