@@ -12,7 +12,7 @@ Created Sunday 19 July 2020
 [[+Fey]]
 [[+non-fey_Denizens]]
 
-**A content warning is strictly necessary, They fey are psychologically themed, and among them are elements of horror, including many uncomfortable topics and realities. Gore, Sexuality, Personal responsibility, Old age, the inevitable march of time, secrets you wish had stayed forgotten as well as some that could not be, Inadequacy, Dysphoria, and the idea that the worst monsters look just like you and that perhaps the thought that one such monster IS you are all things that come up.**
+**A content warning is strictly necessary, They fey are psychologically themed, and among them are elements of horror, including many uncomfortable topics and realities. Gore, Sexuality, Bugs, Personal responsibility, Old age, the inevitable march of time, secrets you wish had stayed forgotten as well as some that could not be, Inadequacy, Dysphoria, and the idea that the worst monsters look just like you and that perhaps the thought that one such monster IS you are all things that come up. If you're not willing to face yourself, don't come into the feywild.**
 
 
 Heading to the feywild is an intrinsically dangerous endeavour.  The very nature of it is different from the prime material plane. Light is Metaphor, sound is allegaory. The experience of being in the feywild is, despite all appearances and with only one exception, not like being in the prime material plane. There are millions of rules that are so intuitively sensical but fundamentally different than what the prime material plane has, it would be impossible to list them all. Thankfully there's a fundamental superstructure that is not impossible to parse. While you will get yourself in sticky situations in the fey, knowing one's own powers and this superstructure will help you
@@ -108,3 +108,5 @@ Without attempting to describe their relationships to eachother, the feywild has
 ==== Seafog ====
 	Along coastal locations, particularly rocky ones, folk may find the air suddenly very thick and hard to breathe as fog rolls in. What were rocks may open to be anenomes or barnacles, and coming in with the fog may be many fantastical skyfish. A decent athletics check will allow a person to fly, but be warned, the fog can roll out quickly.
 
+==== The Underfey ====
+	There is apparently an underdark in the feywild.
