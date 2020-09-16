@@ -29,10 +29,10 @@ Tucked in the nightways and moonlit parts of the feywild, behind  Sprawling thin
 	This cave is adorned with long rods of glass cylinders  extending parallel to eachother inside  of a loing corridor. Nestled between the rods, held into place by adhesive, are droplets of enchantment magic based oil. This thick and sticky tar like substance is tansparent and yellowish. This goop is a blend of shadowfell and feywild magics (see Amona Tailyudur)  and produce ample distractions and cause important things to seem to cost more energy to do.  The Ambition chiller is guarded by The **Gassure**, who happens to be exceptionally good at obscuring even advanced divinations. The Gassure is the Archfey of Sedation
 	
 	** The Gassure (INTP) **Whispers, Archfey (Wizard Enchantment 14)
-		This six-winged chitinous humanoid is extremely tenacious in its efforts to go unnoticed.
+		This six-winged, four armed, blue chitinous humanoid is extremely tenacious in its efforts to go unnoticed.
 			Height: 5'5
-			Influence: 27 Sleight of hand (wisdom), to think of something else, to be distracted, and then notice when the Gassure's Guard is down. And god damn it are they tenacious.
-			//Nirrum's note: It has taken me a full week to write this far, //
+			Influence: 27 Sleight of hand (wisdom), to think of something else, to be distracted, and then notice when the Gassure's Guard is down. And god damn it are they tenacious. One has disadvantage on the check if The Gassure knows you're going to try. 
+			//Nirrum's note: It has taken me a full week to write this far, You ARE an asshole, it has been MOnThs//
 
 
 ==== The Whisper's Toyshop ====
@@ -41,7 +41,7 @@ Tucked in the nightways and moonlit parts of the feywild, behind  Sprawling thin
 	**The Master Bellman **(INFJ) Whispers Archfey (Artificer 5, Fey Tome Int-Warlock 5)
 		Height: 4'0
 		Influence: 25 Investigation (Charisma), to recognize his plots as they worm into one's head  is easy on paper, but requires focus in practice.
-	A hunched old man-elf with a long beard and thick round spectacles covering their solid ruby eyes, The Master Bellman has a tall symmetrical staff capped with an unstrung lyre. Where the strings would be, a bell is hung instead. When the bell is rung, all creatures that hear it must make a DC20 Charisma save or owe the Bellman a favour. He wears a green jacket over a wine-coloured robe. His shoes are heavily curled at the toes, of course. 
+	A hunched old man-elf with a long beard and thick round spectacles covering their solid ruby eyes, The Master Bellman has a tall symmetrical staff capped with an unstrung lyre. Where the strings would be, a bell is hung instead. When the bell is rung, all creatures that hear it must make a DC20 Charisma save or owe the Bellman a favour. He wears a green jacket over a wine-coloured robe. His shoes are heavily curled at the toes, of course. He does not require favours from people unless they disrupt the library, and he uses the favours he gets to persuade bards to tell certain stories with the promises of fey magic
 	
 
 ==== Amona Taliyudur, the castle of whispers ====
