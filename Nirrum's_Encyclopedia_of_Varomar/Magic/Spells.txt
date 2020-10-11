@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-08T23:38:32-02:30
+
+====== Spells ======
+Created Thursday 08 October 2020
+
+Snarl is a land of magic, extremely potent magic and a lack of interference from the gods, the stuff of creation leaks directly into this place from the corrosive flows of the far realm. When the Manarahi lifted the chains of the so called gods of magic with their own might and threw them aside, they immediately began working to screw over those gods. The Manarahi do not take threats lightly. No race on snarl does. The workings of the people of snarl are //far beyond the scope of what can be achieved on most worlds. The degree of potency that most planes cannot even bear, the consequences for failure are dire and in many cases, the consequences for success are far worse.//
+
+Anyway, here's a list.
+
+
+
+==== 10th level Spells ====
+
+//Nirrum's Recursive Happening//
+//Grand Warding//
+//Tarn's Shadowy Field//
+//Summon Extraplanar Entity//
+//Sunsphere//
+//Leyline Tap//
+//Scatter Mind//
+//Chepi's Creation//
+//Grant power --Patron--spells--Quieting//
+//Grand Lure//
+//Create Mythal//
+//Power word Erase//
+//Anchor plane//
+
+==== 11th level spells ====
+//Control celestial body//
+Superior Disenchantment
+Seize Lesser Divinity
+//Create Seal//
+//Nirrum's Interuniversal Scrying //
+
+==== 12th Level Spells ====
+//Create Prison//
