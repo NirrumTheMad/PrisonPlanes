@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-11T12:19:31-03:30
 
 ====== Races ======
@@ -109,5 +109,16 @@ Elf, Half-elf, Mul, Human, Tiefling, Genasi, Aasimar, and anything capable of be
 		
 		Another thing to note is that legend lore is a comparatively high-level spell, giving it at will to a race may seem **mad** but it has been my experience that not only does this spell //never// get picked, but that it is hardly more powerful than an Identify spell, and is otherwise //laser// focused to the cosades family,
 
+Human Variant
+**Grao 19**
+	**Age: **The grao can live up to 120 years, averaging near 80
+	**Alignment: **The Grao tend to be very Neutral in order to remain adaptive
+	**Size: **Your Size is Medium
+	**Speed:** Your walking speed is 30 and you have a swim speed of 30
+	**Languages: **You Speak Common and Aquan
+	**Ability Score Increases: **Your Strength increases by 2 and your Intelligence increases by 1
+	**Impetus: **You are proficient in all land and sea vehicles as well as advantage on  animal handling checks
+	**Grao Polearm Mastery. **You are Proficient with halberds, Glaives, Tridents, spears, Pikes, Lances, and quarterstaffs
+	**Grao Spellcasting. Lightning lure**
 
 

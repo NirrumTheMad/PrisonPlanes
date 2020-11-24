@@ -120,8 +120,8 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		You can use an action to speak this piece of Shell's command word and regain 5 Ki points. This ability cannot be used again until the next dawn.
 		
 **Dynamic weapon of the Honest Eye**
-	Scimitar (cutlass), Requires attunement
-		As a bonus action, you can change this moonstone-pommelled weapon into a greatsword (Flamberge) or a glaive(War-scythe). You can swap between any of the forms as a  bonus action.
+	Scimitar (cutlass), Requires attunement, Very Rare
+		This sword grants a +2 to attack and damage rolls. Undead are vulnerable to damage dealt with this weapon, and you have advantage on saving throws against illusion spells while you are attuned to it. As a bonus action, you can change this moonstone-pommelled weapon into a greatsword (Flamberge) or a glaive(War-scythe). You can swap between any of the forms as a  bonus action.
 
 **Maki Kawiki, the many that breaks (okabutowari (warhammer)) +2 Unique**
 		It appears as a sword, but on inspection it is blunt and was never made to be sharpened. It looks like a curved claw with a sharp point and a hook near the hand, all made of a dark iron. The blade appears to be constantly wet and smells metallic, and it owes this to the constant drip of blood that seems to seep out of wrapping of the grip. The grip is a perfectly shaped Ito wrap of Red silk over what appears to be grey fur and a gold charm depicting A grinning Oni. It is always warm.

@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-13T21:58:21-03:30
 
 ====== Special Feats ======
@@ -9,6 +9,58 @@ This setting has some feats that can be taken. Some of them are good, some of th
 
 **Solid Centre**
 	When attempting to shove a creature as part of the attack action, you make your Strength (Athletics) check with advantage. You can also push the opponent 10ft instead of five, or push them 5 feet and knock them prone.
+	
+
+
+**Pure Thinking**
+	Req: Proficiency in investigation
+	Gain a +1 to intelligence and increase your maximum intelligence by 1 (to a maximum of 30) 
+	You can perform one of the following feats of dazzling intellect on your turn as a bonus action:
+		* interact with an object (without using your interact with object action)
+		* Determine the AC of a creature you can see
+		* Gain advantage on one intelligence based skill check before the end of your next turn.
+		* Discern one non-obvious fact through your senses (DM's Discretion. This can include things like  the cultural background of an enemy, indications of recent animal migrations, or the original of wood used in a structure.)
+
+**Present Mind**
+	Req: Proficiency in Perception
+	Increase your wisdom by +1 and increase your maximum wisdom by +1
+	 You can perform one of the folliwng feats of awareness on your turn as a bonus action:
+		* Gain +2 to AC until the start of your next turn
+		* If a caster you can sense begins casting a spell, you can use your arcana check to identify that spell (DC 10+ the spell's level) without using your reaction
+		* Make one wisdom-based skill check with advantage and increase your passive perception by an amount equal to your proficiency modifier until the start of your next turn.
+
+**Display of Growth (needs work)**
+	Choose an ability score. Gain +2 to attacks and checks made with that ability score as well as to your Save DCs (not saving throws) based on that ability score. You may choose this feature more than once, choosing a different ability score for it each time.
+	
+**Unifier of Hearts**
+	req: Proficiency in Insight and either Intimidation, Persuasion, or Deception
+	Increase your charisma by 1 and your charisma Maximum by 1 (to a maximum of 30)
+	As a reaction, you can determine a creature's mood toward whatever it is focused on. You are able to discern between different types of similar emotions such as territorial anger or fear-based anger. 
+	Add a D4 to charisma-based skill checks
+	
+**Enduring Spirit**
+	Req: 15 Con
+	Increase your constitution by 2 and your constitution maximum by 2 (to a max of 30)
+	Increase your AC by +1
+	Increase all your saving throws by +1
+	If something would force you to move against your will, you may reduce that movement  by  a number of feet equal to 5 times your constitution modifier
+	
+**Echoing Immortality**
+	Req: Proficiency in history
+	You add double your proficiency bonus to all history, and insight checks about or concerning yourself and information about you. 
+	If you die and your soul is free and willing,  You are reincarnated as a member of another random race from a culture you have had contact with. You retain all of your stats and abilities, save those of your race, which are replaced by those of your new race. You have all the memories of your new body, but can only remember things that people from your new body's culture would know about your previous one (and any ones before that). Your personality remains entirely unchanged. You have a persistence awareness of your most recent graves until you choose to ignore them. 
+
+**Irrevocable Ambition**
+	Req: A bonus to checks with a skill or tool that is greater than 10 (no magic items, spells, or impermanent effects included) 
+	Gain +5 to all checks using that skill or tool. You may take this feat multiple times but must choose a different skill or tool each time. 
+
+**Immediate Action**
+	Gain a +2 to Initiative rolls
+	As a reaction  you may may make one skill check or saving throw so long as you do not have disadvantage on it.
+	
+**Inner Void**
+	When you roll a wisdom or charisma saving throw or to maintain concentration, add 1d4 to your roll. You may only use this ability a number of times equal to your proficiency bonus, regaining all expended uses at the end of a long rest. You are resistant to damage from spells and effects that are illusions or enchantments
+	
 	
 
 
