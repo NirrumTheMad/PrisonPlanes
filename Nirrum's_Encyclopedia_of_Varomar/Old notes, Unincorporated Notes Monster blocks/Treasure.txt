@@ -1,0 +1,167 @@
+Trezja
+
+Book of Mist(missed) spells Currently in Drakenhearth with frog
+	This book, Randomly, will replace a syllable or letter in a spell so it means something different. The spell casts appropriately
+	
+	
+
+Selune's Arbalest (heavy crossbow) On Thunder Island
+	Of Dwarvish make, in honor of the god Selune,
+	It continuously whispers, it might take some deciphering to work out what it is saying, as it doesn't seem to repeat itself.
+	Bonus Action: Sheds Bright light in 10ft radius and dim for add 10ft this can be applied to ammunition shot from it, granting advantage to people trying to hit the target with ranged attacks. BA: to extinguish
+	The wielder of the Arbalest is also granted Advantage against Lyncanthropes, and Gains Darkvision 60ft as well. 
+
+Elder Coat (clothing)
+	The wearer of this coat feels at a comfortable temperature, always. The wearer also has proficiency on Arcana, Perception, Investigation and Medicine checks  and constitution saves. Reaching into the pockets of the coat can procure a random non-magical item 5lb or less in weight three times a day, they disappear after 24hrs if not in use unless put back in the wrong pocket. Only three such items can exist at a time. Items put in the pockets are always accessible.  spells such as thaumaturgy, Prestidigitation, and elemental attunement can be cast or upheld as a free action once per Round.
+	
+	
+Windweaver (rapier)
+	Anyone proficient with wands is also proficient with Windweaver. 
+	Windweaver Allows its wielder to cast Gust and Control Winds At will , Storm sphere and Investiture of Wind Once per day (elemental evil) without expending spell slots
+	Spell saves caused by spells cast with windweaver increase in difficulty by 1, and any damage caused by windweaver or spells cast with it is also increased by 1 (this includes for the purposes of determining HP for Sleep and similar spells). 
+	Rapier 1d8 piercing, finesse 
+	
+	
+Nolaehaneun Ssangsoodo In Ganglegrove --Large tree near western edge
+	Made for the shou sage Ha Jae Kyung, whose history is shrouded in mystery. Its own story is steeped in sadness it is cursed, those slain by it can only express their greif through sound when it is swung. The more it is used for things they believe in, the more at peace the spirits become. The pommel comes off to reveal the wisdom of Ha Jae Kyung, written in the form of a paper talisman, whose strokes match a sword technique that plays a haunting tune. All performance, insight, and animal handling checks are made with advantage so long as the sword is worn, even if it is not being held. The ribbon wrap constantly changes colours to various vibrant shades, and the pattern in the steel of the blade morphs to reflect the emotions of the spirits within.
+	
+	Nolaehaneun MUSIC: you can only have one technique at a time, using a technique makes you automatically fail stealth checks against creatures who can hear. Allies that would benefit can only do so if they can hear you. N is your bard level. 
+
+	Aria of Crows
+		Adopting this technique increases the movement speed of your allies by 5ft per 5 bard levels.
+	Symphony for a Devil
+		 Adopting this technique Grants Allies +1 to AC and Regeneration N (1hp per round at the start of their turn)
+	Autonomous Fugue
+		Adopting this technique adds N to all damage rolls you and your allies make. 
+	Waltz of thorns
+		Adopting this technique deals N damage to Creatures who hit your allies
+	Red Jewel Overture
+		Adopting this technique grants the advantage to your allies on handle animal and persuasion checks to pacify or request aid. 
+Ult	*Opus of Nightmares
+		Adopting this technique grants you and your allies advantage on intimidate checks. As an Action, an ally can make an intimidate check. 
+Ult	*Cantata of Smiling Brutes
+		Adopting this technique grants you and your allies advantage on Persuasion checks, as an action, an ally can cast the friends cantrip, at the end of the spell's duration, an additional persuasion check can be made to avoid the negative effects opposed by a charisma save
+
+Whirlrock (Nodachi)
+	While weilding this sword, when you hit an enemy you can cast the spell "Stillness" in which the enemy must make a con saving throw versus your attack roll. The effects of the spell last for six seconds in which time the target is as if petrified but immune to all other damage and conditions, making the target indestructible for the duration. You must take a short rest before using this effect again. 
+	
+Benriramuda +2 (Maximillian the first's greatsword shape)
+	A giant weapon made for an order of Danzuishanese Maze hunters, it bears the engraving of a vined trout on a duelling shield. Interestingly, it appears to be made of Lapis Lazuli, and is flecked with gold. The sword will, on hit, indicate any weaknesses and resistances of any creature it hits by speaking in a quiet but deep male voice. A perception check  is needed to hear it if other sounds are present. It deals double damage to structures but not living constructs. 
+	
+	
+Ring of Regeneration
+	While wearing this ring, you regain 1d6 hit points every 10 minutes, provided that you have at least 1 hit point. If	you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6 + 1 days if you have at least 1 hit point the whole time.
+	
+Yazi, Seeker of Destiny -- In the desert
+	Jian, 1d8 slashing, Light, Finesse, Legendary
+	Hearing and Darkvision to 120ft
+	Seeks to destroy the servants of Avandra
+	It can speak, read, and understand several languages, Telepathic to wielder
+	16 int, 14 wis, 11 cha,
+
+	The weilder has advantage on dexterity saves, saves against fear effects and doesn't grant advantage for being adjacent to multiple opponents
+	Once per day, as an action, you commit your mind to A fighting technique known as "the Rain (or Reign) of Steel" During this time you cannot hide, dash, or talk. Any creature that starts its turn Adjacent takes 1 weapon die damage. This effect ends when you sheath the weapon, lose conciousness, are incapacitated or frightened, or are disarmed.
+	
+	Cha save 12 if it tries to take over.
+
+	
+Yokumo Mantle
+
+	Requires attunement, 1 day spent underneath the mantle to adjust to its world-bending properties.
+	This fine cape of blue canvas is embroidered with silver threading depicting a triskelion in the form of three waves. It is enchanted with a partial bag of holding ritual. While the outside of the cloak looks normal, the inside is actually several feet deep. The cloak can be used as a shelter for up to three people. It grants +2 to AC while being worn (or wielded) and once every 8 hours, as a reaction, you can force an attack made with a melee weapon or a single-target spell to miss, or an area of effect to be reduced by 5 feet before where you stand.
+
+Weight of the world 
+		A set of two Dice
+	The weight of the world are magical dice made of moss agate and display their magical properties when rolled. One die selects a stat, The other chooses a value. For ten minutes, everyone within 10ft of the die has that stat reduced or increased by that value. The roller hears a voice in their head when they hear it "Up or down" It takes a full 24hrs to recharge
+
+Lithosaad (The Refined Diplomancer's staff)
+	A straight (and indestructible or your money back!) carbon fibre staff with Two short orange stripes sandwiching a white one, and it's name "Lithosaad Mk.2, Executive Model" Written in thick rounded white letters in Elvish, followed by tiny script "Tagic Corporation Ltd;". It shimmers in the light, but that's just because it's carbon fibre. 
+	Requires attunement: 3hr filling out the Transfer of ownership forms, and listening to other offers telepathically if the last owner is not still alive on any plane of existence. If the owner is alive, the staff is transfered to their ownership after a breif moment of communication with the extraplanar company that makes lithosaad.
+	The sleek Lithosaad MK.2e is a +2 staff for the most discerning of Sorcerers and Archmages. It comes prepacked with the following Additional spells That any creature with sufficient spell slot levels can cast but requires no Material components
+	Cantrip: 
+		Minor Purify Food and Water: Purify enough food of poison and disease for a medium creature's meal. It takes ten minutes to recharge after casting but only one action to cast
+		Hide/Reveal: Bonus action: Store the staff in an extraplanar space of its own or call the staff forth from wherever it is through said space.
+		Quiet Prestidigitation: Tapping gently on L2e allows you to perform a nearly unnoticable version of Prestidigitation. 
+	1st Level:
+		Charm Person
+		Unseen Servant
+		Protection from Evil and good
+	3rd Level
+		Sending
+		Speak with Dead
+		Tongues
+		Counterspell
+		Dispel Magic
+	4th Level:
+		Dimension Door
+		Hold Monster
+		Flight
+	5th Level:
+		Animtate Objects
+		Legend Lore
+		Contact Other Plane
+		Teleportation Circle
+	6th Level:
+		SaadPortal 
+		Contingency
+	7th:
+		SaadPortal Pro+
+		Teleport
+		Mordekainen's Magnificent Mansion
+	
+	Saad Portal: 1 action, con 10min: creates a spherical portal within a five foot diameter and an extremely tiny flat portal facing one direction both within a 120 foot range in any place that you can see . Anything entering the First portal gets ejected from the second at the speed it entered, including spells, water, air. Such a portal lasts until the end of your next turn. 
+	
+	Saad Portal Pro+ makes such 5 portals on a reaction, The portals cannot aim at eachother in any cyclical way or the spell will terminate and you will be issued a citation for breach of contract.
+
+
+	
+Maki Kawiki, the many that breaks (okabutowari (warhammer)) +2
+
+
+	It appears as a sword, but on inspection it is blunt and was never made to be sharpened. It looks like a curved claw with a sharp point and a hook near the hand, all made of a dark iron. The blade appears to be constantly wet and smells metallic, and it owes this to the constant drip of blood that seems to seep out of wrapping of the grip. The grip is a perfectly shaped Ito wrap of Red silk over what appears to be grey fur and a gold charm depicting A grinning Oni. It is always warm.
+	
+	Requires Attunement. 1hr for the magic to seep into your blood.
+	You gain a +2 Bonus to Attack and damage rolls made with this weapon. It also has the following additional properties
+	
+	Doom-Driven: 
+	 While carrying Maki Kawiki you gain a +2 bonus to initiative rolls. Enemies Cannot deal extra damage on Critical hits against you. You cannot be surprised. You have advantage on Dex Saving throws. On a critical hit, Maki Kawiki Charms the target for a minute or until the target takes further damage.
+	 Once a day, as reaction, if you fail an attack roll, you can choose to succeed instead, treating the hit as if it were critical. Once attuned, you always know the direction and distance to Maki Kawiki, as well as the fastest route to it. 
+	
+	Sentience:
+	 Maki Kawiki is a sentient Neutral Evil Weapon with 17 intelligence, 10 Wisdom, and 15 charisma. It only communicates through flashes of emotion. It has normal senses out to 30ft. Unfortunately, Maki Kawiki fills the wielder's head with dreams of grandeur, causing them to require 10hrs to complete a long rest. 
+	 
+	Personality:
+	 Maki Kawiki is an often distracted weapon, frequently not paying attention to what's happening. This is because it is lost in its visions of the future. It is certain that its weilder will play some part in great event foretold in the whispers of Lava Flows and in the thrumming of shadows. It will seek to guide these actions as best it can. Its goals are unknown to you. 
+	 
+	 
+	 For the DM: Maki Kawiki Seeks to open gates to the far realm, any abyss and any Set of hells. It will push its weilder into summoning circles with the hope of aiding them. It Consistently tried to break the fabric of the world wherever it can. 
+	 
+	 
+Hesperines' Jar of Steam
+	Once every 8 hours, you can create a 30ft cube of thick steam. The area is heavily obscured and lasts for 1 minute. As a bonus action you can mentally command the steam to move up to 30ft in any direction.
+	
+Yokumo Mantle (previously, mantle of the broken winds)
+
+	Requires attunement, 1 day spent underneath the mantle to adjust to its world-bending properties.
+		This fine cape of blue canvas is embroidered with silver threading depicting a triskelion in the form of three waves. It is enchanted with a partial bag of holding ritual. While the outside of the cloak looks normal, the inside is actually several feet deep. The cloak can be used as a shelter for up to three people. It grants +2 to AC while being worn (or wielded) and once every 8 hours, as a reaction, you can force an attack made with a melee weapon or a single-target spell to miss, or an area of effect to be reduced by 5 feet before where you stand."
+
+The Raising Mantle
+	Artifact (requires attunement)
+	
+
+		+1 AC, resist Necro, False Life at will, Prof Medicine
+
+		Mass cure wounds (roll a 6 to recharge or else it recharges at dawn)
+		Regen 10 at the start of each of your turns, Conscious or not. Unattunement from this artifact is difficult and must be done willingly. All Sapient Undead are returned to true life while they are within 30 feet, regenerating 1 point at the start of each of your turns. They revert when they leave this area. 
+
+		Disadv against disease
+		The air around you emits a stench noticeable from up to 10 feet away.
+		You are 5lb lighter
+		You musts eat 6 times the normal amount each day as the microorganisms inside you refuse to simply *die*
+		Scrolls within 10 feet of you are rendered nonmagical and are erased
+
+		Something somewhere has its eye on you
+		
+			
+The Horde Of Axes
+	A handaxe, that when thrown, becomes many 

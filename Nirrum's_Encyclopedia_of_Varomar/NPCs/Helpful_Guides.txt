@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-10-26T13:38:32-02:30
 
 ====== Helpful_Guides ======
@@ -20,4 +20,5 @@ Victor Arthur Orman
 	Level 11 Wizard swordmage (bladesong, Scag)
 	
 	
-	
+	Nero
+Elf archer

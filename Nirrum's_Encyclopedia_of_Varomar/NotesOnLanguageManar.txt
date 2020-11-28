@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2017-12-29T04:07:22-03:30
 
 ====== NotesOnLanguageManar ======
@@ -82,7 +82,7 @@ Lok/Loch - Mystery, rooted in aleeg and alag separately, first used to describe 
 wa - Neutral energy, A pause, as a verb it means to stop
 Olsh - The sound of sloshing water, Onomotopoeic originally but through metaplasmic enclitization, came to also be linked to alag as Alash, the movement of water
 Alash - the movement of water, Flow, explicitly physical, current.
-Welch - Waves. When the ocean was first discovered, it was thought that waves were its natural state, and that all water would have this on some scale, rooted in Wa and Olsh. Used as a surname for families with a historical penchant to wander.
+Welch - Waves. When the underground ocean was first discovered, it was thought that waves were its natural state, and that all water would have this on some scale, rooted in Wa and Olsh. Used as a surname for families with a historical penchant to wander.
 Lat - house, dwelling or structure
 Lor - Rabbit, hare, 
 Dwallat - The name of the large mesa on the other side of the desert, although it originally referred to its inhabitants, as it means de wa lat, From the house that exists on its own, Referring to the many tunnels that exist inside the sandstone structure. 
@@ -178,6 +178,7 @@ Olo - round
 oloramishra - Wheel, rolling thing
 Voloramisra - Covered Wagon Vor/olo/ra/mish/ra, Rolling house
 olopi - Sun, Hirokira's nickname
+Kwatsolopi - Moon, from eat + Sun.
 Vi - blood, loanword from Latin, Vir
 Raulyss - a fond greeting
 mishlia - an opinion, should (Mishlia Nneramishu'lo, You should not travel. Mishlia ganki prabrek nnekiven, I think flesh [is] stronger than metal. The absence of this word may proclaim undue uncertainty. You should not go becomes you will not go, and in Manarahi culture, that is a statement that must be backed up) The default interpretation of this word is should, it can be appended with -tab to become "might" or "could" 
@@ -227,7 +228,7 @@ Ratilo -will
 Parmishi - Adventurer, mercenary
 draparhi - Army
 Sholo - Besides, and yet
-Mananwa - Teleport
+nwamana- Teleport
 nawabe - Ne wa alabet, danger, the idea of danger being death that is moving.
 Kurth - root, cognate Earth from common and Kuu, Plant.
 Fa - Color
@@ -351,3 +352,29 @@ Manapiral - Level, an abstraction of the abilities of a person, though definitiv
 Manazhuh - Powerful, Powery, magicky
 Manakemarahi - mage, caster, this was a hard one for the Manarahi to come up with because for the longest time //everyone// was a mage
 Savenarpet - Encylopedia
+akaki - safe
+Akakirahi - guardian/protector
+Kaorasha- Fey magic unit, thought, the embodiment of the concept that matter uses to affect magic
+Brekli - Trap
+Breklish - Wing, owing to the relative uselessness of wings underground
+Krogan - dog
+Kro - onomotopoeia for barking
+Nwangan - cat, shortened Newavengan fast animal
+betvogan - spider, sometimes also scorpion
+hazlat - Head, Face house, useful for species that don't have a dedicated protrusion for their expressive bits
+nwapa -legs
+nwakem - foot
+kipa - core, torso
+kipapet - hip
+Nwatenk- Knee, while not often talked about, Manarahi nonmagical martial arts have a lot of grappling and knees, which is modestly useful against the things that dwell in caves
+kemimish - Elbow
+hazpam - Neck
+Jawapa - Shoulders, named for their use in pulling
+Jawapaȑ - Winch or pulley
+Goog - Abdomen, gut
+Tonggan - Snake
+tonggoog - small intestine
+Shagoog - Large intestine
+Kwagoog -stomach
+Vishapa - Lung
+

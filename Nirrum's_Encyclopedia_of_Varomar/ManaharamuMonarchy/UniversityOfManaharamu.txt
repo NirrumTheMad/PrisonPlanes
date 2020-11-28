@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-01-08T01:37:58-03:30
 
 ====== UniversityOfManaharamu ======
@@ -567,7 +567,7 @@ I only found out that we have a college of whispers recently, they're pretty goo
 			Height: 5'1
 			Weight: 150
 			Age: 24
-		A bitey, flighty and whitey Tabaxi with purple eyes who sleeps in a cat bed on her desk. I am assured she has a desk somewhere. The college of whispers expects such behavior as its aspirants are intended to be self-regulating, and thus they read their instruction on the board and leave at their leisure. She is stubborn and quick to become noncommunative. She casts with a staff with a series of bells hanging fom it. The bells are actualy what she casts through and each does something different. She wears a different outfit every day. She rarely speaks but when she does her moderately pitched voice can be resounding
+		A bitey, flighty and whitey Tabaxi with purple eyes who sleeps in a cat bed on her desk. I am assured she has a desk somewhere. The college of whispers expects such behavior as its aspirants are intended to be self-regulating, and thus they read their instruction on the board and leave at their leisure. She is stubborn and quick to become noncommunative. She casts with a staff with a series of bells hanging fom it. The bells are actualy what she casts through and each does something different. She wears a different outfit every day. She rarely speaks but when she does her moderately pitched voice can be resounding **Update: Apparently, Revenants fucking hate her. Just... universally hated**
 
 **Reestablished... probably**
 

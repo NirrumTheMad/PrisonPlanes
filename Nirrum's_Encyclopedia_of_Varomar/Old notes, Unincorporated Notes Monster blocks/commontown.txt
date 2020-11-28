@@ -1,0 +1,39 @@
+Common town shit
+
+[Guards] 
+AC 15
+2d8+3
++1 dex, str, con9
+per 2
+Spear +3, 	1d6+1 range 4sq
+Bow   +3	1d6+1 range 16sq
+ 
+[Commoner]
+1d8 hp
+1d4 or 1 damage. +2 to hit
+
+[Knight]
+
+8d8+16
+ str+3 con,cha +2
+dex 14, wis +2
+advSave against fright
+ multiattack greatsword,2(+5 @2d6+3)
+ Hvcrossbow +2 2d6+3
+1min, all nonhostiles add d4 to their roll
+Reaction Parry +2 ac
+
+[spy]
+ac 12
+hp 27
+cha +3 dex,wis+2 int+1
+ decp,inv,pers+5 
+ per+6
+ stelt,slig,ins+4
+Cunning action (bonus disen,dash,hide) 
+Sneakattack +2d6 1/turn with advantage
+ Multiattack shortsword 2(+4, 1d6+2)
+ Crossbow +4 1d6+2
+ 
+[Cleric]
+AC 11 hp 2d8 

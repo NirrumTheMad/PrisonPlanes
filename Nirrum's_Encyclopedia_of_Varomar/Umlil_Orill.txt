@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2019-05-04T18:17:26-02:30
 
 ====== Umlil Orill ======
@@ -8,6 +8,7 @@ Created Saturday 04 May 2019
 Nestled into a place where a steep canyong valley meets a flat and slow slope at the edge of the foothills of the Aegis mountains south of Skalmirthon, Lies Umlil Orill, Pine Valley. 
 
 [[+Locations]]
+[[+Government]]
 
 
 ==== Description ====
@@ -86,7 +87,7 @@ Denizens:
 THE BARKEEP
 skinnny dwarf youth, 
 
-Magic laws will mostly be based off of Manas rules, certain magics that manipulate ones mind are banned. Also magics for teleportation are banned within the city. External teleportation portals will be set up. If magical forms of duplication or trickery are found/used this is considered a form of the highest offense. Training duration depends on what the kid wants to do with their life. There is probably a base training which is just normal education till around the age of 14. After that they are entrusted to pick the right path and train in that way. Arms wise, citizens are permitted a single weapon per household. (Anyone who is on their own). For those of non citizen basis, such as adventurers, they are permitted their weapon but are give a no warning basis. Those who break the laws will be exiled and their goods if can be will be confiscated.
+Magic laws will mostly be based off of Manaharamu's rules, certain magics that manipulate one's mind are banned. Also magics for teleportation are banned within the city. External teleportation portals will be set up. If magical forms of duplication or trickery are found/used this is considered a form of the highest offense. Training duration depends on what the kid wants to do with their life. There is probably a base training which is just normal education till around the age of 14. After that they are entrusted to pick the right path and train in that way. Arms wise, citizens are permitted a single weapon per household. (Anyone who is on their own). For those of non citizen basis, such as adventurers, they are permitted their weapon but are give a no warning basis. Those who break the laws will be exiled and their goods if can be will be confiscated.
 Essentially by this system it also allows, kids who wish to gain a greater government aptitude to achieve it (most will because I plan on making the benefits wonderful (especially for the military)), while those who do not wish to at the age of 14 can choose to no longer seek the government path, but will still get some form of education. Btw the paths offered are in three broad categories, Civil, Military, and Science. Some places overlap of course, and for the time being until I can get the Schools up and running Which is my main priority other than set up manufacturing the only ones offered will be Civil, and Military. With keenly magically attune kids being sent to Mana on scholarship. Some example of jobs offered in the paths, Civil: bureaucrat, diplomat, and possibly if they win an election MP. Military: Officer, General, Infantry, or other prestigious positions (possibly commandos). Science: Professor, Advisor adept, Magical constructor.
 Those divination wizards will be highly useful btw for figuring out which kids have that science path btw. Also to be clear, this emergency conscription is most definitely a terrible idea, but its meant to be a last ditch effort. What I could do instead is 2 year forced conscription, that anyone within those range bands must serve for 2 years? (exculding of course the first born of the wealthy houses)
 So if you are 23 you must serve till 25, or if 24 and you become a citizen you must serve till you are 26
