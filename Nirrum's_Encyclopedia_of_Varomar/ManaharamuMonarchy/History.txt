@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-07-12T22:15:00-02:30
 
 ====== History ======
@@ -34,7 +34,7 @@ Created Thursday 12 July 2018
 
 
 ==== Journey to Mana Ulla ====
-	The Manarahi have always valued magic, and so when early Dowsers managed to map out the most likely leyline vectors, they found a node where two leylines with acute orientation was positioned and, surprisingly, it was a short journey up the coast. It would take the Manarahi less than five years to move their entire civilization northward. The area was pushing into the Kavir-e Namak desert but had a natural spring, whose water bolstered the Manarahi's magic. Living in the area was not without its issues, Dragons were beginning to meet the plane more and more frequently due to the Pterry-Gaiman effect in combination with a few Astral pathways that had been opened by enterprising mages. The dragons preferred thearea that Mana Ulla was in and that is what got the gulf it's name, the Dragon Coast. The Manarahi responded with a very quick set of Dragonslaying weapons, Including the famed "Annam's Tongue" Glaive (which resides now in the Manaharamu Museum and the works of Tafa Piprek, famed blacksmith. 
+	The Manarahi have always valued magic, and so when early Dowsers managed to map out the most likely leyline vectors, they found a node where two leylines with acute orientation was positioned and, surprisingly, it was a short journey up the coast. It would take the Manarahi less than five years to move their entire civilization northward. The area was pushing into the Kavir-e Namak desert but had a natural spring, whose water bolstered the Manarahi's magic. Living in the area was not without its issues, Dragons were beginning to meet the plane more and more frequently due to the Pterry-Gaiman effect in combination with a few Astral pathways that had been opened by enterprising mages. The dragons preferred the area that Mana Ulla was in and that is what got the gulf it's name, the Dragon Coast. The Manarahi responded with a very quick set of Dragonslaying weapons, Including the famed "Annam's Tongue" Glaive (which resides now in the Manaharamu Museum and the works of Tafa Piprek, famed blacksmith. 
 	
 
 	

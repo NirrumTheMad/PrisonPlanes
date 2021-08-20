@@ -1,8 +1,8 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-11-23T22:58:45-03:30
 
-====== My game ======
+====== My game- Unrelated to DnD ======
 Created Friday 23 November 2018
 
 Big open world. Build your house anywhere

@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-06-14T09:44:00-02:30
+
+====== The Pantheon ======
+Created Monday 14 June 2021
+
+Snarl's Pantheon is a mess, as it does not so much describe what gods are represented, active, or present on snarl, as it represents which ones are the most powerful, and the reasons for their power.
+
+To understand the Pantheon, one must understand the history of the gods and their prior absence on Snarl. In the early days when the Manarahi first broached the surface, there were more gods than there were people. Gods had to compete for the favour of their worshippers, and to be a god on snarl is a constant competition against other gods. It is hard for uncomplex evil gods to gain a foothold in snarl, as they are routinely drowned out by gods who offer better deals. Thus, the Pantheon is  a list of the most powerful gods, often with varying definitions of good.
+
+Alien Gods
+[[+Pelor]]
+[[+Erathis]]
+[[+The_Raven_Queen]]
+[[+Oghma]]
+[[+Kord]]
+[[+Tempus]]
+[[+Melora]]
+[[+Sylvanus]]
+[[+Shashelas]]
+
+Dragon Gods
+
+
+
+Native Gods
+[[+Erdshaka]] 
+[[+The_Runner]]
+[[+Skal_Welch]]

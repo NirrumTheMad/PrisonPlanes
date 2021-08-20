@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-04-12T23:43:59-02:30
 
 ====== Invocations ======
@@ -28,7 +28,7 @@ Hatred of allabar
 	Baleful eyes stare from part of your shroud. An opponent that can see you must make a consitution saving throw against your warlock spell save DC or be stunned until the end of your next turn. You regain the use of this ability after a long rest. 
 
 Stowaway Pouch
-	Your pouch can hold up to 500lb. If you are the only living creature inside  your pouch (not counting other extradimensional spaces), you do not need to breathe. 
+	Your shroud acts as a pouch that  can hold up to 500lb. If you are the only living creature inside  your pouch (not counting other extradimensional spaces), you do not need to breathe. Placing an extradimensional space within this extradimensional space does not open a rift to the astral plane but opening up a rift to the astral plane instead opens up a one-way path to the plane where your patron resides
 	
 Wind Tunnel
 	Pull things into tunnel, figure this one out later

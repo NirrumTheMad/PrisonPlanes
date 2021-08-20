@@ -28,7 +28,7 @@ The court of Valour is home to the fey known for their compositions. The Valouro
 
 Among the stage types are the courts of Lore, Whispers, and Terror
 
-[[+The_Court_of_Lore]] 
+[[+The Court of Lore and Creation]] 
 The court of lore is one of the strangest of the courts by nature of being the most familiar. The fey in this group are crafters of objects. Machines, shoes, carvings, dictionaries. Because of this peculiarity, they don't necessarily require favours, as their favours //are// material goods and exchanged services. It has been proposed more than once that all humanoid species and most creatures of the humanbonkers realm are fey of this type, but I am assured that this is not the case, though it does appear to be true for **gnomes. **By this nature, they are bound and bind with... well.. cages, chains, physical restraints. 
 
 [[+The_Court_of_whispers]] 

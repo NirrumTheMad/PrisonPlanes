@@ -14,9 +14,9 @@ Anyway, here's a list.
 ==== 10th level Spells ====
 
 //Nirrum's Recursive Happening//
-	Every six second in an area of up to 1 mile, events repeat themselves cumulartively for the duration of teh spell
+	Every six seconds in an area of up to 1 mile, events repeat themselves cumulartively for the duration of the spell
 //Grand Warding//
-	IT's like forcecage but permanent
+	It's like forcecage but permanent
 //Tarn's Shadowy Field//
 	oh my god, so much damage, 
 //Summon Extraplanar Entity//
@@ -33,13 +33,15 @@ Anyway, here's a list.
 //Grand Lure//
 	Sympathy but for eldritch  forces
 //Create Mythal//
-	Make a bulshit area effect
+	Make a bullshit area effect
 //Power word Erase//
 	Power word kill but with none of that 100hp nonsense and no body
 //Anchor plane//
 	in case of unsteady reality
 Manaphony
 	mass bardic inspiration
+//Ocean Current//
+	Control and direct an ocean current. Can permanently change the climate of an onshore area, as well as anger the whales
 
 ==== 11th level spells ====
 //Control celestial body//
