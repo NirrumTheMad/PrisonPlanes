@@ -1,0 +1,61 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-08T23:38:32-02:30
+
+====== Spells ======
+Created Thursday 08 October 2020
+
+Snarl is a land of magic, extremely potent magic and a lack of interference from the gods, the stuff of creation leaks directly into this place from the corrosive flows of the far realm. When the Manarahi lifted the chains of the so called gods of magic with their own might and threw them aside, they immediately began working to screw over those gods. The Manarahi do not take threats lightly. No race on snarl does. The workings of the people of snarl are //far beyond the scope of what can be achieved on most worlds. The degree of potency that most planes cannot even bear, the consequences for failure are dire and in many cases, the consequences for success are far worse.//
+
+Anyway, here's a list.
+
+
+
+==== 10th level Spells ====
+
+//Nirrum's Recursive Happening//
+	Every six seconds in an area of up to 1 mile, events repeat themselves cumulartively for the duration of the spell
+//Grand Warding//
+	It's like forcecage but permanent
+//Tarn's Shadowy Field//
+	oh my god, so much damage, 
+//Summon Extraplanar Entity//
+	You might be a god but you'd better make a save or get got
+//Sunsphere//
+	so much damage
+//Leyline Tap//
+	Sorcery points for days
+//Scatter Mind//
+	like feeblemind but FUCK coming back from it
+//Chepi's Creation//
+	Fabricate, but a mile
+//Grant power --Patron--spells--Quieting//
+//Grand Lure//
+	Sympathy but for eldritch  forces
+//Create Mythal//
+	Make a bullshit area effect
+//Power word Erase//
+	Power word kill but with none of that 100hp nonsense and no body
+//Anchor plane//
+	in case of unsteady reality
+Manaphony
+	mass bardic inspiration
+//Ocean Current//
+	Control and direct an ocean current. Can permanently change the climate of an onshore area, as well as anger the whales
+
+==== 11th level spells ====
+//Control celestial body//
+	Move everything up to stars
+Superior Disenchantment
+	If it was magic, it isn't any more
+Seize Lesser Divinity
+	become a god but like, basic god
+//Create Seal//
+	Create an item that locks something in a prison, necessary to keep the health of a prison, unique to each entitty
+//Nirrum's Interuniversal Scrying //
+	Become the DM, ignore most scrying protection
+
+==== 12th Level Spells ====
+//Create Prison//
+	what it says on the tin
+	

@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-08T22:08:42-03:30
 
 ====== dndmycamp3 notes ======
@@ -12,6 +12,8 @@ http://ttaud.io/2kCSrQ3
 	No power. All water comes from eating Various fruits. 
 		- Monster Hunt (Basilisk,
 		- Pirate campaign
+		-Terrasque city with mousefolk that eat from its carapace
+		
  Mokoi Tha'am 
 	Githzerai, Hengeyokai, Elves. All excellent hunters in this jungle town. The town is built in the trees, not to avoid the dangerous beasts that roam the forest floor (there are many in the canopy) but to avoid the seasonal flooding and occasional mudslide. The town specializes in gathering exotic fruit and spices, like peppers, pineapple, saffron and cinnamon. Screens are a Necessity, as many spiders, snakes, and angry tree-dwelling mammals (and stuff) dwell in the mazelike canopy. Some Solar collectors have been installed directly above the town. They are shielded and covered to prevent damage.
 		- Environmental survival

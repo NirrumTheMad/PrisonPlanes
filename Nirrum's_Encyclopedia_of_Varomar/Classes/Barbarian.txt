@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-02T11:08:16-02:30
+
+====== Barbarian ======
+Created Saturday 02 May 2020
+
+Barbarians in Snarl most often come from the people that live outside of the great cities. A life away from the protections of Militaries and wizards requires immense physical fortitude. Indeed, even life within some of those cities requires immense fortitude. A Barbarian's endurance against the world is a necessity for many in Snarl.
+
+Barbarians scatter the land in tribes, but can come from any culture. The monastic culture of Mohara's ascetics provides the Path of Torrents, the Kholirahi's orcs of the Valley of War are often berserkers, Zealots can come from anywhere but if any nation is too angry to die, it's danzuishan. 

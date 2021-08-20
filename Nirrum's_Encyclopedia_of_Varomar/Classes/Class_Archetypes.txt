@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-17T19:05:23-03:30
 
 ====== Class Archetypes ======
@@ -13,3 +13,6 @@ Created Monday 17 February 2020
 [[+Path_of_Torrents]]
 [[+Way_of_Eight_steps]] (incomplete)
 [[+Unused_bits]]
+[[+Oath_of_Family]]
+[[+Invocations]]
+[[+Oath_of_The_Warden]]

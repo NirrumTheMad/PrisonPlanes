@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-07-07T06:22:27-02:30
 
 ====== Underdark ======
@@ -7,6 +7,7 @@ Created Saturday 07 July 2018
 
 The Underdark
 	[[+An_Underdark_Adventure]] 
+	[[+Underdark_Ecology]]
 
  The Underdark within Varomar is as complex as the land above, but far harsher. The Entrances and Exits are frequent but often hidden. 
 	 The Continental Underdark contains Four  Major Civilizations,

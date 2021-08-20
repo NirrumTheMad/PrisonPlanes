@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-04-12T23:43:59-02:30
+
+====== Invocations ======
+Created Sunday 12 April 2020
+
+Swiftness of Eladarius
+	Your move speed increases by 10 ft
+	
+Car'Teruna's Love
+	The next time you would be reduced to 0 hit points, you are reduced to 1 instead. You regain the use of this ability after a long rest. 
+
+Volcanic Heart (17th)
+	Hellish rebuke at will
+	
+Smelldritch blast
+	(Eldritch blast cantrip)
+	Instead of dealing damage with your eldritch blast, you may choose to smell the target instead. Perception checks made using this invocation are made with advantage. All other effects of the eldritch blast apply.
+
+**Invocations that require pact of the shroud**
+
+	
+Agamemnon's Quest
+	Should you choose, You can dispose of inanimate corpses inside your shroud. They can never be recovered, though their items take up space inside your shround
+	
+Hatred of allabar
+	Baleful eyes stare from part of your shroud. An opponent that can see you must make a consitution saving throw against your warlock spell save DC or be stunned until the end of your next turn. You regain the use of this ability after a long rest. 
+
+Stowaway Pouch
+	Your shroud acts as a pouch that  can hold up to 500lb. If you are the only living creature inside  your pouch (not counting other extradimensional spaces), you do not need to breathe. Placing an extradimensional space within this extradimensional space does not open a rift to the astral plane but opening up a rift to the astral plane instead opens up a one-way path to the plane where your patron resides
+	
+Wind Tunnel
+	Pull things into tunnel, figure this one out later
+

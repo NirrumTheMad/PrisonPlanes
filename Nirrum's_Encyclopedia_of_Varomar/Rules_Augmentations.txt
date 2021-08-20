@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-13T11:35:44-03:30
 
 ====== Rules Augmentations ======
@@ -50,6 +50,7 @@ Here is a list of some of the things you //may// do without breaking the setting
 	* If a Circle of swarms druid becomes available, then that will be used instead. (maybe add circle of stars, seasons, or sun)
 	* Certain Monstrosities are now considered beasts (see monsters)
 	* Druids can wear metal, in fact, they frequently do. Turns out that metal is just as natural as wood, especially when some trees on these planes have thought it in their best interest to lace their lignin with aluminum. This was clarified in a sage advice to be cultural and not mechanical, but I felt the need to be explicit here
+	* Druidic is strangely universal, Any creature that can communicate in druidic can be understood and can understand any other
 
 **Fighter**
 	All published options are setting legal. 
@@ -108,7 +109,7 @@ Here is a list of some of the things you //may// do without breaking the setting
 
 **Casting Classes and classes with abilities that reproduce spells**
 	* Some spells have had their school of magic changed, see **Spells** below
-	* A casting focus for any class that has the Arcane or Druidic focuses feature, can be anything that is "sufficiently mystical," Including decks of cards, jewelled hair pins, bowls made out of turtle shells, or copies of the player's handbook.
+	* A casting focus for any class that has the Arcane or Druidic focuses feature, can be anything that is "sufficiently mystical," Including decks of cards, jewelled hair pins, bowls made out of turtle shells, ~~or copies of the player's handbook.~~
 	* Verbal components are always audible unless stated specifically in the spell or a feature that reproduces it or unless the Subtle Spell metamagic is used
 	* Somatic components are always very visible unless stated specifically in the spell or a feature that reproduces it or unless the Subtle Spell metamagic is used
 
@@ -161,7 +162,35 @@ Here is a list of some of the things you //may// do without breaking the setting
 	* Poison costs 1 gold. Not 100. 
 	* Holy water can be applied to weapons with the same rules as poison
 	* Popular gaming sets also include Go (5s) .5lb, Reversi (5s) .5lb,, and Coup 1g - 
-	* Tinker's kits now include a set of screwdrivers, rivets, pliers, and other tools for modifying machinery. The skillset includes use of lathes, drifts, punches, and things for milling metal.  
+	* Tinker's kits now include a set of screwdrivers, rivets, pliers, and other tools for modifying machinery. The skillset includes use of lathes, drifts, punches, and things for milling metal, as well as basic electronic components 
+
+**Machinery and Technology**
+	The rough technological level of the plane is similar to that of the late renaissance, just at the beginning of one of the industrial revolutions that marks the early modern era in europe
+	* The Bessmer process and blast furnaces have been largely bypassed due to the use of magic. Firebolt is hot enough to smith with to give you an idea.
+		* Metal refining is a fairly well understood science, as is casting and forging
+	* Lens Grinding is an ancient practice that is both practiced by hand and with magic. 
+		* The level of refinement is enough for optical microscopes and telescopes that are equivalent to the early 1900s to function without magic
+	* Steam, internal combustion, and other thermal engines have been invented and are approximately 500 years old. They have not gotten much more efficient
+		* while wood stoves and oil still burn normally, more efficient forms of combustible fuel often have alchemical interactions that make them useless
+		* Petroleum exists but is a significant rarity, the plane lacks many of the tectonic and geologic forces necessary to form oil beds on significant scales. The Majority of the plane's oil is located in offshore sedimentary deposits that are mere thousands of years old
+	* Vulcanized rubber is a recent developement, being only about 100 years old and a well-kept secret by the Fugin Pirates
+	* The Electric Motor and Alternator are in their most primitive stages and are at most 30 years old
+		* Pressure-based and mechanically reset single-stroke motors are currently the standard. These are extremely inefficient and simply involve a large mass of metal moving (usually by being dropped) through a coil of copper wire. Most of the fuel involved in the process is for resetting the mass so it can be dropped again.
+		* No one has thought to make it go in a circle yet
+	* Electric Inventions are currently limited to:
+		* Nonmagical refrigeration which was previously made with the same concept but magical, and was much more expensive to produce
+		* Incandescent Lightbulbs, Vacuum sealing and replacement gasses are far far easier with transmutation wizards. These are ineffecient but surprisngly long lasting.
+		* Nonmagical electric stove ranges (these require a large battery bank to run properly, but often the battery banks themselves are sold in bags of holding)
+		* Solar panels, invented shortly after the single-stroke motor, increasingly more efficient
+		* Pumps driven by the single-action motors
+		* Batteries - Ineffcient copper zinc, and sulfuric acid affairs
+		* Capacitors - Honestly not too different from the batteries, largely used for electroplating and refridgeration
+		* Dehumidifiers, If you've got a fridge, you've got a dehumidifier, remember to not let the ice build up too much
+		* Induction forges
+		* Electromagnets
+	* Ferromagnetism is well known and reproducible but not well understood
+	* Electric field theory is in its barest infancy
+
 
 **Magical goods and services**
 	

@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-06-02T22:42:42-02:30
 
 ====== Notes_on_Cosmology ======
@@ -13,7 +13,7 @@ Cosmology of the Prison planes
 	3) The World of the Future Eaters - Kythera
 	4) The world of the Time Eater
 	5) The world of the Dream Corrupter
-	sadness eater
+	6) sadness eater -happy go lucky sunshine world
 	
 2) The Satellites
 	1) Allabar, Opener of the Way, Moon
@@ -26,6 +26,7 @@ Cosmology of the Prison planes
 [[+The_Raven_Queen]]
 
 
-
+[[+The_Pantheon]]
+ 
 
 The night sky can track many more stars than it should because of dimensional shenanigans

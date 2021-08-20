@@ -1,0 +1,82 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-23T12:31:14-03:30
+
+====== How to write for the Prison Planes ======
+Created Wednesday 23 December 2020
+
+
+
+
+The ease and purpose of writing worldbuilding articles for the prison plane  is to make it easy for DM's to check for things they don't know, questions that change the flow of combat, movement through town, or how an NPC will react to a certain line of questioning. In order to figure out what's useful
+
+To this end you can look at the ways someone can gain from their surroundings and PCs are delightfully predictable in certain ways.
+	* They will always take a certain style of easy gain, Win-win situations with no effort that bulldoze or  inhibit someone they even slightly dislike
+	* They'll get attached to someone who is nice to them in tiny ways but always sus of people who are nice in big ways, unless they think you're an idiot, which is a fantastic if you're not
+	* Like monkeys, they will climb over everything, but rarely ever crawl
+	* If a machine to build a problem can be built, it is guaranteed to be built, doubly so for weapons of war
+	* If the party has a bag of holding it is immediately filled with one of two concepts: Everything not nailed down, or water.
+	* If any mechanic does more damage in any way than A player can do on their own, that mechanic will be weaponized
+	* they never want to admit they made a mistake
+	* Loss aversion is incredibly powerful. they will backpedal endlessly, and chase a thief to the ends of the earth if they suspect them of having purloined their pocket lint
+	* If presented all choices as equal, they will pick the most salient option. If any choice is presented as preferable, they will look for a more preferable option
+With this in mind, to write effectively to aid DM decisions, we must have clear, neutral and modestly detailed information on things like Walls, Doors, legal systems,  who-knows-who and why, where to get anything and what one will not find in the area. 
+
+Some things don't differ much, A smooth marble wall and a smooth  plaster wall usually only differ in colour and texture, but not in a **player's ability to climb it. **//If you mention it, assume it can and probably will be used in some way. If it's not, no one noticed, if it is, you look clever.// A description of a rough wall implies climbing,  the colour of an object highlights that it is different from the things around it. Every thing written about should be considered as something to be interacted with, and the things written about it should be **from the perspective of how that thing gets interacted with. **Smooth means no climb, Thick means hard to break, 
+
+
+
+1) A short description of how the town came to be
+  i) a gloss of the general culture of how people interact with eachother
+  ii) Their rough MO of living
+  iii) something good about the place
+
+2) Urban description
+   i) basic construction and reason for that construction
+	* A poor house
+	* An Average house
+	* An elite house
+   ii) different types of building within the town
+
+3) a description of the geographic location, rooooooughly what to find  in terms of landscape bumpiness, rough types of trees, and maybe a noteworthy feature
+
+4) biomes
+
+5) ecology
+   i) plants
+	 1. wood (if you can describe what this wood is good for in real life, or have the civ use it, that's good too)
+	 2. Food (for both survival and committing diplom
+	 3.  Danger
+   ii) Animals
+	  1. Threatening Predators
+	  2. Problematic hebivores
+	  3.  Noteworthy smaller species
+	  4. Monsters
+   iii) Peoples and inhabited civilizations
+
+6) Economy
+   i) Where do they get their money and wealth
+   ii) Supply chain  (sources of wealth, where people who get wealth from the source tend to spend their money and what they spend it on)
+   iii) Imports and exports
+   iv) repeat i-iii for all major sources of economy
+   v) high value items they have trouble obtaining (good for adventurers)
+
+7) Sociological notes
+  i) government  and class movement
+  ii) high points of cultural values (stability, community, competitions)
+  iii) Policing and services
+  iv) Sources of Entertainment
+  v) How the classes are divided, what is inheritable
+  vi) A problem with other societies that this society has avoided and the rewards for that
+  vii) A problem they uniquely have and how they deal with it
+  viii) hospitality practices
+  ix) weird bits
+
+
+9) Politics if simple
+
+10) Calendar
+
+
+
+   iv) Regional Megaproblems like dragons
