@@ -84,10 +84,10 @@ This setting has some feats that can be taken. Some of them are good, some of th
 	When you make an melee weapon attack as an opportunity attack against an target while hidden, you may also make a melee weapon attack against all other targets within 5ft. If an opponent provokes an opportunity attack from you while you are hidden from them, you may move up to half your movement speed and roll a stealth (dexterity) check to maintain being hidden. 
 
 **Turtle Fencing**
-	Whenever you teleport, the next melee attack you make before the start of your next turn has advantage. If you cast a spell or use an ability that allows you to teleport, you may take one extra willing creature with you, though they gain no other benefits from the spell or ability.
+	Whenever you teleport, the next melee attack you make before the start of your next turn has advantage. If you cast a spell or use an ability that allows you to teleport, you may take one extra willing creature with you, the extra creature gains no other benefits from the spell or ability.
 	
 **Manaharahi Duelist**
-	As a reaction, you may make an Arcana check on a spell that is being cast to identify the spell. You can make this arcana check if you can see or are touching the caster and the spell has somatic or uses its material components (as opposed to a casting focus) or you can hear them and it has audible components.  The DC of the check is equal to 10+ the level of the spell being cast. If you are able to identify the spell, you may cast a spell that has a casting time of a reaction as part of this reaction. 
+	As a reaction, you may make an Arcana check on a spell that is being cast to identify the spell. You can make this arcana check if you can see or are touching the caster and the spell has somatic or uses its material components (as opposed to a casting focus) or if you can hear them and it has audible components.  The DC of the check is equal to 10+ the level of the spell being cast. If you are able to identify the spell, you may cast a spell that has a casting time of a reaction as part of this reaction. 
 	
 	
 **Kholirahi Wood-Dancer**

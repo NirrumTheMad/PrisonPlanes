@@ -29,27 +29,77 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 	
 
 ==== The Corori Cloud Formation ====
-	Sitting in the center of one of the fey oceans is a fog bank. should one attempt, they will find that they are able to //walk on this cloud. //The gentle slope  continues upward for what feels like a few minutes but looking backward shows the journey to be impossibly long. At this point the cloud takes on the shape of a thunderhead made out of trees, with their massive canopy eclipsing hundreds of impossible thin trunks, through which sunlight  streams through. Thunder can be heard through the trees but it always seems to be far off. The smell of ozone and seabreeze without the taint of wrack is omnipresent and the breeze is soft and cool, but not cold. Parties will find themselves Constantly bombarded by sensation, They'll notice rocks in their shoes, they'll notice their hair as it touches their head,  and their clothes as they shift and move as they walk. Characters who succeed on a DC 11 Wisdom saving throw will begin to notice fey around them, invisbile to others. The humming of wings, the patter of feet, occasionally a white and pink face with abormally large eyes disappearing behind a tree with a giggle.  Characters who notice this are assaulted from all angles by various weapons. The weapons all roll with a +1 to hit once per round. If one of them hits a character that has noticed them, they are reduced to 1hp and are able to gain Audience with **The Sel'Evi. **The Archfey of mental tranquility and awareness is a compassionate creature and grants those that are able to visit him a permanent +10 to their passive perception. **The Sel'evi **is also capable of granting other senses in exchange for favour. He is also willing to grant favour to a creature that performs an action that snaps a creature out of a state of illusion or madness swiftly, Such as a well-timed punch to someone who is panicking. For such a deed, the **Sel'evi **is willing to grant truesight that works so long as the eye is not exposed to sunlight, Tremorsense that works so long as the feet are touching the ground  but fails if they ever touch linen or wool, or darkvision, each out to the extent of a person's normal range of sight (24km on a clear day). If someone gets **three natural 20 rolls in a row** and one of these rolls is a perception check, the **Sel'Evi**, bolstered with the power, can make this ability permanent upon visiting them afterward.
+	Sitting in the center of one of the fey oceans is a fog bank. should one attempt, they will find that they are able to //walk on this cloud. //The gentle slope  continues upward for what feels like a few minutes but looking backward shows the journey to be impossibly long. At this point the cloud takes on the shape of a thunderhead made out of trees, with their massive canopy eclipsing hundreds of impossible thin trunks, through which sunlight  streams through. Thunder can be heard through the trees but it always seems to be far off. The smell of ozone and seabreeze without the taint of wrack is omnipresent and the breeze is soft and cool, but not cold. Parties will find themselves Constantly bombarded by sensation, They'll notice rocks in their shoes, they'll notice their hair as it touches their head,  and their clothes as they shift and move as they walk. Characters who succeed on a DC 11 Wisdom saving throw will begin to notice fey around them, invisbile to others. The humming of wings, the patter of feet, occasionally a white and pink face with abormally large eyes disappearing behind a tree with a giggle.  Characters who notice this are assaulted from all angles by various weapons. The weapons all roll with a +1 to hit once per round. If one of them hits a character that has noticed them, they are reduced to 1hp and are able to gain Audience with **The Sel'Evi. **The Archfey of mental tranquility and awareness is a compassionate creature and grants those that are able to visit him a permanent +10 to their passive perception. **The Sel'evi **is also capable of granting other senses in exchange for favour. He is also willing to grant favour to a creature that performs an action that snaps a creature out of a state of illusion or madness swiftly, Such as a well-timed punch to someone who is panicking. For such a deed, the **Sel'evi **is willing to grant truesight that works so long as the eye is not exposed to sunlight, Tremorsense that works so long as the feet are touching the ground  but fades if they ever touch linen or wool, or darkvision that works until one is frightened, each out to the extent of a person's normal range of sight (24km on a clear day). If someone gets **three natural 20 rolls in a row** and one of these rolls is a perception check, the **Sel'Evi**, bolstered with the power, can make this ability permanent upon visiting them afterward A character does not need to have the ability upon returning, just to have had it previously.
 
 
 	**Sel'evi DISTRACTION AND ENLIGHTENMENT**
-	dude, shaggy curly hair, skin is some type of pale but I don't think it's completely white, slightly big nose, don't think he has ears? might be the whole cloud formation
-	
+		This cloud-coloured figure is hard to reach but easy to talk to.
+			Height: over 8000ft
+			Influence: Investigation (wisdom) 18 to force yourself to act without thinking on the illusions that misguide you
+	The Sel'Evi is hard to describe, by their cloudlike nature, both in metaphor and truth. They are the archfey of living in the moment and are extremely adept at forcing people to recognize that moment. They are truthfully one of the primrary gates to the So-called "Shadowlight", the positive harmonic of the shadowfell,  where the deadening, self-feeding emotions don't bring dread and destruction. The Sel'evi is more powerful than people give them credit for. The Sel'evi does not move from their position frequently, as they would take the entire corori cloud formation with them, and the difference between the two is useless to attempt to pinpoint. 
 
 
 ==== Exquisite Terraces ====
-	Where one of the stageroads meets a seaside bluff somewhere along the sunset side of the crepuscular line, there is a set of stagest without setting reaching out over a cliff edge. Their polished yellow would marred only by a few gouges in the wood that heal slowly. Lit by lanterns that burn with white fire which spills out around the edges of the casing. The white fire's light barely reaches off of the stages, where piles of bones and corpses are stacked high. The eyes of these fallen seem to follow the people that walk the stageroad.  At the end of the road where it becomes a wooden cliff, stands **Garsusanla, the Archfey of wounds. **They are one of the rare fey that uses their actual name instead of a title. Garsusanla can offer aid in combat to anyone who is able to deal large amounts of damage to him. **Garsusanla's **name is harder to use than other fey names. In terms of power it is ponderous and gargantuan. **Garsusanla** knows this, and is able to use their name freely because no one can really take it, and anyone who can will inevitably make him more powerful. **Garsusanla **is aware of the conditions that it takes to destroy any creature, and is effectively capable of seeing ability scores, saving throws, initiative, and HP, among other details.
+	Where one of the stageroads meets a seaside bluff somewhere along the sunset side of the crepuscular line, there is a set of stagest without setting reaching out over a cliff edge. Their polished yellow wood marred only by a few gouges in the wood that heal slowly. Lit by lanterns that burn with white fire which spills out around the edges of the casing. The white fire's light barely reaches off of the stages, where piles of bones and corpses are stacked high. The eyes of these fallen seem to follow the people that walk the stageroad.  At the end of the road where it becomes a wooden cliff, stands **Garsusanla, the Archfey of wounds. **They are one of the rare fey that uses their actual name instead of a title. Garsusanla can offer aid in combat to anyone who is able to deal large amounts of damage to him. **Garsusanla's **name is harder to use than other fey names. In terms of power it is ponderous and gargantuan. **Garsusanla** knows this, and is able to use their name freely because no one can really take it, and anyone who can will inevitably make him more powerful. **Garsusanla **is aware of the conditions that it takes to destroy any creature, and is effectively capable of seeing ability scores, saving throws, initiative, and HP, among other details.
 
 **Garsusanla Archfey of wounds (ISTP) **high elf, (Torrents barbarian 14, war wizard 2) 
 	A dark maned elf with tawny skin and split hands that bleeds and wounds for sustenance 
 		Height: 5'7
 		Influence: Medicine (dexterity) 19 to throw sand, sugar, sap, honey, or alcohol in the most greivous wounds
-	Garansula bleeds from many long gashes all along their body. In their  hands which are cut in half between the middle and ring finger to the wrist, they weild a Pala (1d8 slashing) and a Kpinga (handaxe), the latter of which is often thrown
+	Garsusanla bleeds from many long gashes all along their body. In their  hands which are cut in half between the middle and ring finger to the wrist, they weild a Pala (1d8 slashing) and a Kpinga (handaxe), the latter of which is often thrown.  Garsusanla is incompassionate, rough, and cares nothing for the plight of other people. To gain anything from him, one will have to bleed.  
 	
 	
 
 
+	initiative guy
+
+==== The Eclipse ====
+	Quickly moving along the dayside of the feywild is a rapid ribbon tiger, a gargantuan but relatively thin cat, similar to just a tiger skin. On its back are the fey who follow **The Saithek, Archfey of Focus.** As the tiger moves around the fey landscape, creatures have  very little time, less than a round, to gain some form of purchase  on the tiger and to hold on. Climbing up on its back introduces you to a series of fey who represent some of their best warriors, and on occasion, their best scholars. They are exceptional at getting things done, and **The Saithek** is focused specifically on getting things to focus, to maintain their attention on the task at hand. The Saithek is capable of breaking many curses, but requires some form of dedication before they will even act. Fighting, speaking with, or working on something that engages the mind fully shows your devotion to the idea of focus, of removing distraction. This Empowers the Saithek which they take as favour. The Saithek grants favour rarely, only to those who remove one of the obstacles that the tiger will face, such as a river, mountain, or diplomats. The Ribbon tiger is simply intent on running under the eclipse, and these fey of the court of swords on its back are of no concern. 
 	
-INITIATIVE SWORD GUY
+	**The Saithek, Archfey of Focus (ISFJ) Human variant (slasher)(Fighter 20, Samurai)**
+		A glassy human with no face, whose dark shirt whips in the wind and whose sword strikes quickly
+			Height: 6'
+			Influence: Intelligence (Any) 30 to remove all distractions from your mind and peel away those things that hinder you from a task
+		The Saithek wields a **Good Sword**, always in two hands. He wears a dark shirt  that is partially unlaced revealing a glassy chest. The Saithek  goes first in any combat, and unleashes  nine attacks, seven of them with advantage. Surviving this onslaught is never a guarantee, but those who do have a unique opportunity. Fighting the Saithek can grant one a permanent bonus to their initiative equal to twice their proficiency modifier, but there are rules to follow. 
+			1) No talking in the combat without an explicit effect in the combat
+			2) No Failed concentration checks
+			3) No distractions. Getting caught offguard by something getting damaged, a teammate falling, or any sort of emotional reaction other than determination 
+		If you manage to succeed in damaging the Saithek and surviving two rounds under these conditions, you are granted the boon. Fighters, Monks, and Rangers are granted the opportunity to study, and if they stay until the tiger next crosses the noonpoint (an indeterminate amount of time) they are granted the ability to use Steel Wind Strike once without components or consuming a spell slot, recharging after a long rest. Others who display such focus add double their proficiency bonus to concentration checks. 
+		Even encoutering the Saithek can remove many curses and obstructions, as the Saithek has no time for people talking to them while they are distracted. 
+		
+	The other fey on the back of the ribbon tiger are often focused on their own studies.
+	//Nirrum's note: And in order to remove a curse placed upon me, I am going to list some of them//
+	
+	**That which boils wine, (ESFP) Sprite (Rogue 7, Investigator)**
+		A typical sprite who plays a pan flute, but has a fierce look in their eye
+			height:  9''
+			Influence:  Charisma (Persuasion 12) to convince them you are correct
+		That which boils wine, whose true name is not hard to find, is a dedicated rat-killer, and intent on never missing another rat in their traps. To my knowledge, there are no rats in the feywild, but they have a calling and they will follow it.
+		
+	**Ukondo (ISTP)  Summer Eladrin **
+		A fool who has won precisely half of their battles, and takes the name of anyone they win against
+			Height: 5'6
+			Influence: none, as a mortal NPC
+		Ukondo was the name of a misbegotten elf who last fought Ukondo, only to lose their name and die shortly after without it. The one who is now called ukondo constantly seeks to become a better warrior, but gets cocky after each win and wagers their name. When they inevitably lose, they try far harder and fight life and death to gain the name of the next creature they fight. Their goal is to find the bastard who has their original name.
+
+	**Elsaulia (INTJ) Archfey**
+		An amorphous yellow creature that takes many startling shapes quickly
+			Height: varies wildly
+			Influence: 300 dexterity (sleight of hand) to fool their eyes.
+		This creature revealed themselves as a boast. They are immensely sure of themselves and no fey, mortal, or eldritch horror has yet been able to break their gaze. They once stared down an eye carved in a rock until the rock weathered to nothingness. Their gaze can pierce any obfuscation and they never break eye contact. In the eyes of the horrors of the universe, they are a very very sharp rock, and one they will avoid touching. Overall their power is extremely focused
+		
+	**The Gambuuni, (INTP) Fomorian**
+		Wielding a massive sword (6d6), this giant rends trees that grow too close to the tiger's path
+			Height: 17'
+			Influence: 23 Athletics (Wisdom)  to join them in their treefelling
+		Proof that will can be power in the feywild, This Fomorian is neither particularly evil nor particularly strong, but regardless, with their sheer focus, they are able to cut clean through massive trees that grow in front of the tiger. They grant favour to anyone who is able to cut down 12 trees with them, requiring at least 18 damage per strike. They can, seemingly, make any weapon resize to huge, tripling its damage die, but making it progressively more unwieldable to smaller creatures. 
+	
+	**Tal'morko (ISTJ) **Drow (College of Whispers bard 13)
+		A Sneaky and sly elf who disguises themself as the person looking at them
+			Height: 5'6
+			Influence: 16 Investigation to see through their illusion, though they do get salty after
+		A smug and cocky elf from some plane where they do not know the name Manaharamu. Training with **The Saithek** to get an edge on their targets and disguising as a fey to pass under the radar of travellers. They will likely attack anyone who sees through their illusion, and they are a formidable opponent, but a prepared party can simply undo their machinations. The Saithek wishes to keep them alive but wants to ensure they learn a lesson about keeping their composure. They are dressed in purple silk and use a Jambiya (dagger) coated in drow sleep poison. 
+		
+		
 		
 
