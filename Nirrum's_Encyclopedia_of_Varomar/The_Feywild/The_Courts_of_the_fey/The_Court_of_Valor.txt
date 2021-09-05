@@ -78,4 +78,5 @@ Dashon ra
 
 ==== The Centre of Magic ====
 
-Set in the midnight point of the Feydark, is the dancing ground that is the centre of magic
+	Set in the midnight point of the Feydark, is the dancing ground that is the centre of magic. 
+

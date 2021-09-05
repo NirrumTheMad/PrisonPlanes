@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2019-04-29T18:10:30-02:30
 
 ====== Sixth Floor-Samasara ======
@@ -30,10 +30,10 @@ A Door leads from one of the corners of this room to room (2), another to room (
 
 3) This room is a 200ftsphere that contains many cogs, gears, chains, and 12 Monodrones that work tirelessly to oil the gears, Dust from the gear moving is swept into a hellfire engine at the bottom of the sphere. The hellfire engine moves to attack the players, destroying its way through the grated catwalk that covers the area 15ft above the bottom of the sphere, and climbing rails made for it to get to the second floor, where the players are, at the center of the sphere. Underneath the hellfire engine is a door that leads to room 7. If the players came from **floor 5, they came through the top of the room. **One door on either side of the center of the dome leads to room 2 and the other to room 4
 
-4) This room is A vertical spire with no ladder Upward. A pit in the floor leads to room 7 changing gravity as one steps through it, A door on one side of the eye-shaped floor leads to room 3, while the other leads to room 5.  The room is 30ft long and 15ft wide.
+4) This room is A vertical spire with no ladder Upward. A pit in the floor leads to **room 7** changing gravity as one steps through it, A door on one side of the eye-shaped floor leads to room 3, while the other leads to room 5.  The room is 30ft long and 15ft wide.
 	* The floor of this room is coated in tar and is difficult terrain to walk through, a creature that has fallen prone in this room requires a strength (athletics) check of 18 to stand. Removing tar from a creature takes 7 days of active cleaning unless exposed to both soap and vinegar, which reduces the time to three days. Lamp oil can reduce the time by a further three days, in the meantime the creature feels sticky and gross.
 	* A Desk Bearing an infernal contract for one soul in exchange for one cast of the wish spell for anyone who signs it sits in the middle of the room. 
-	* At the top of the room
+	* At the top of the room is **an exit from the maze, delivering someone at the front door.**
 
 5) This room is a teardrop-shaped cone with rust monsters attacking the head of a large golden statue that looks as an extremely angry elf. The rust monsters are all starving and die from any damage. If the gold is removed from the statue, it yeilds 5000 gold worth of gold, 5000 silver worth of silver, 60lb of pink plastic foam, and a peaceful, expressionless version of the same head. This version of the head is indestructible and can be placed in the air as a bonus action. Once placed this way, the only way it can move is if something with the intent to move it uses an action bonus action to do so. The creature does not need to be in direct contact with the object and can move it with the use of spells or abilities that could reasonably move an object. The head will not move for natural phenomena such as //unintentional// wind or waves. Once moved, it acts as mundane statue head until placed again
 
@@ -41,3 +41,5 @@ A Door leads from one of the corners of this room to room (2), another to room (
 	* Armor of Invulnerability (actually armor of Vulnerability)
 	* Bag of Holding (Of Devouring)
 	* A stone of luck (Ill luck)
+
+7)  This room contains nothing except a statue and looks as a default room in the maze, a blue domed room with six doors, leading to the other rooms on this floor. The statue appears to be a reclining human with a peaceful expression. Damaging the statue gives the same injury to the person who did the damage. Reclining like the statue petrifies a person, and the statue stands up, and gently pushes them through the floor to **floor 7  then returns to reclining**
