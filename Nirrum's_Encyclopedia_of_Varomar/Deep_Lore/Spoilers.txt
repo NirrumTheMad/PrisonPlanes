@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-17T18:01:27-03:30
 
 ====== Spoilers ======
@@ -11,7 +11,7 @@ Orsithach does not know the fate of his missing son and while he has recovered i
 
 Combartch T'ct'tcaeri is one of the highest ranking members of the changeling cult, as are Karagan Barako and Shami Murtuck. 
 
-Yma the quiet was fully aware of the invasion of Manaharamu long before the cult moved. Her eyes are on vengeance against Orsithac Furi alone and used the invasion to advance her own plots
+Yma the quiet was fully aware of the invasion of Manaharamu long before the cult moved. Her eyes are on vengeance against Orsithach Furi alone and used the invasion to advance her own plots
 
 Queen Persephone is now a part of the cult as of 5854, Her daughter rebels and attempts to escape but gets captured and is imprisoned by the cult.
 
@@ -40,8 +40,8 @@ Garhun Ten-cages is the so-called "david" mentioned as one of the creators of th
 **Not even author of this book, Adam Murrin, can tell if Edgar Frottenhammer died during the siege of Manaharamu or if Edgar is actually Fraz Ur'bluu. That's how good he is at illusions. Nirrum the mad certainly has no idea.**
 
 Known cultists
-	* Metwiki Arzuban
-	* Pimish Barwa
+	* Metwiki Arzuban - Corrupted into an abomination
+	* Pimish Barwa - a head kept alive and in pain
 	* Ukog but not Imok
 	* Manalece Milat
 	* Wau!xorauch --dead
@@ -58,6 +58,6 @@ Known cultists
 	* Domino (The tiefling Vizier from blackwater) - Dead
 	* Persephone Kofruhi dal Manarahi
 
-FArsight pollen is frog slime from dwallat
+Farsight pollen is frog slime from dwallat
 
-
+The Maiden of Winter, Archfey of Grief is the other half of the Raven queen. If they ever meet, they regain their full power and memory

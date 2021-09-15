@@ -29,4 +29,13 @@ Set among the darker regions of the feydark mostly,
 
 
 
+==== Silverfall Castle ====
+	In the deeps of the feydark where the shadow pools deep and campfireweed blossoms and starflies are the only sources of light, a wide mirrorlake, the widest in the feywild, opens into a round chasm that plunges into the underfey. Sitting on a floating island with no bridge above the depths is silverfall castle. A building of mirrors of different shades in greyscale, the castle is hard to navigate or comprehend. Herein sleeps **The Quindylade, Archfey of Mirrors. The Quindylade** inherited the castle from **Aralc, Archfey of eyes** when she left for the Prime material. The castle is capable of reflecting anything, and there are many places where a creature that walks into a wall will simply walk out, facing the opposite way. Creatures can find that their handedness has permanently changed if they don't step carefully. Unseen servants will cater to anyone in this hall, until the **Quindylade wakes up.** The Quindylade will only wake up if the sun shines through the castle, which is presently impossible. Nevertheless, if it happens, the castle itself is capable of teaching anyone any single illusion spell that they then know, can cast with any ability score, and counts as a class spell for all purposes. Usually, the spell people learn is lower than 5th level, and often quite random.
+	
+	The **Quindylade (ENFP) Archfey of Mirrors**
+		This huge black doglike or drakelike creature  has a mouth lined with polished silver and a gullet that glows prismatically
+			Height: 17ft at the shoulders
+			Influence: Sleight of hand (charisma or wisdom) 12 to get the castle move to your defence, 
+		The Quindylade pines for Aralc, but knows she won't return any time soon. She is depressed, hungry, and craves favour in the form of lost reflections. In return, she teaches powerful abjuration spells, and can give them in the form of silver slivers that permanently carry the effect of one spell, though these break if they are ever exposed to a mirror. The Quindylade is playful but wrathful, and she is very quick to anger, though easy to flatter.  
+
 

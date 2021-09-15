@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-07-19T00:37:44-02:30
 
-====== The Feywild ======
+====== Feywild ======
 Created Sunday 19 July 2020
 
 [[+A_Description_of_The_Fey]]
@@ -118,3 +118,18 @@ Without attempting to describe their relationships to eachother, the feywild has
 
 ==== Standstone outcroppings. ====
 	perfectly vertical inclusions in any landscape, Standstone looks like sandstone, but it has the peculiar property of always attempting to stand on edge, like some strange gravity magnet. Huge bluffs of Standstone pierce the feywild skyline, boulders dot the landscape, and occasional, natural stacks of standstone  pop up all over. Standstone is useful for its resillience to damage and its strange ability to maintain its position. Vines that grow on these outcroppings are useful in making  slippers of spider climb
+
+==== Spruigia Forests ====
+	Spruigia Ash Trees are among the most successful trees in the feywild. They grow to enormous heights, far higher than could regularly be possible, and their branches are massive. Spruigias tend to grow through the feywild's twists and turns in very efficient ways, which might give a person the illusion that they are simply normal straight trees, but looking down off of the branch roads that often wind through spruigia, one can rarely see the bottom. Seemingly infinite misty voids, occasionally pierced by lancet leaves on broad boughs. Spruigia forests are home to many more aerial fey creatures, and are a choice home for Fairie dragons, and indeed, Green and Gold dragons who end up in the feywild often can be found darting through the trees.
+	
+
+==== Nistleburr Junctions ====
+	Nistleburr is a wiry, twiggy shrub with ivy-like leaves at its flattish canopy that grows 7 ft tall at most. it is found all over the feywild, frequently blending in to the local plant growth, but sometimes standing out entirely. Nistleburr compacts the feywild between its branches and it is very easy for a large creature to fit neatly inside one, despite only appearing about two handsbreadths wide. Nistleburr often spreads through its roots, and occasionally, forms a Nistleburr Junction. When two, nearly equal height  bundles of Nistleburr grow, they form a gateway to other parts of the feywild. There are nine ways to pass through a nistleburr junction. Halfway through and out the left side is often the most catastrophic, as this leads closer to the underfey. Halfway through and out the right side leads one in the straightest, path, and one can continue on the path they already were on. If one passes through the arch and walks around the nistleburr again, either left or right, one can find a different destination still. If one walks around the nistleburr and then back through the arch, more locations can be reached. Walking through the nistleburr from the side, lining up with the other nistleburr will lead one either to the previous parent nistleburr, or to the location of the next pup of nistleburr. Walking straight between the nistleburr is the final way to approach it, and these paths are intuitive to the fey. If one turns around  to proceed back through the nistleburr, one must take care to turn *left* after exiting and walking straight. Turning *right* and heading back will lead to yet another place. 
+	
+
+==== **Fairy Rings** ====
+	Fungus, it turns out, is extremely adept at getting where one does not expect it to be. Wether by the will of Zuggtmoy, Sylvanus, or by its own hubris, Mushrooms tend to spread across the cracks in reality and where they do, fairy rings form. Fairy Rings are simply circles of mushrooms in both the feywild and the Prime Material. most of the time they are entirely ordinary, the product of spores spreading in a circle, but if you step in a fairy ring and the flow of time changes, either resuming to normal, slowing or speeding, then there's a good chance that the veil between worlds is thin here. Sleeping in a fairy ring, casting any teleportation magic within, or casting druidcraft within the circle can slip one through to the other side. 
+	
+
+==== Stonewoods ====
+	The complex geometry of the feywild allows for the concept of forests that grow entirely underground, supporting a roof made of itself, through which no light can nor ever will shine. Untellably vast caves composed of a roof, a cieling and endless trunks of trees made of various stones. Stonewoods are useful for getting materials for magic items that are intended to contain things, such as the iron bands of billaro, or Iron Flasks, as the magic of the stonewoods rebuffs many forces. The stonewoods are home to horrors though. True Night Terrors, fey of the foulest make are found in these seemingly endless corridors. 
