@@ -15,7 +15,7 @@ For courtesy, these aren't the true names of these fey, but titles that they can
 
 Among the actor types are the courts of Glamour, Swords, and Valour. 
 
-[[+The_Court_of_Glamour]] 
+[[+The Court of Glamour and Eloquence]] 
 The Court of Glamour holds the fey most known for their appearance. To fey in this court, a first impression is almost always a complete story, an outfit, an image, a pose. The Court of Glamour is bound and binds to immediate senses. All who behold a member of the works of the court of glamour are part of its magic.
 
 [[+The_Court_Of_Swords]] 

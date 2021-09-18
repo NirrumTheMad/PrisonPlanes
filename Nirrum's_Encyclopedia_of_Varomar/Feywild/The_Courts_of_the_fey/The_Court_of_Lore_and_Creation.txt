@@ -28,7 +28,7 @@ To a creature born into the Court of Lore, physical forces are what govern the r
 	**The Warden of lightning is too powerful to really describe here, The concepts of swords or magic exist in states so far below their existence that there is no reason to include stats. The Warden of lightning, Ruler of the Court of lore apparently can only be described as a hypermetagnome. **Hypermetagnome, a word which exists exclusively to describe the Warden of Lightning, is a hyperintelligent sapient being that exists as a seies of thoughts composed of interactions  at high energy states within the incredibly dense magical field that  flows through them. They are closer to an incredibly powerful spell than they are any sort of creature. **The Gammunacteries Rayl** still describes them as inquisitive, somewhat insensitive, and a deep learner who delights in facilitating exploration where they can, though their interactions don't function as direct boons or magic, but as series of favourable or interesting events that may happen at various points throughout time and space //particularly// around this prison plane. Despite this, their most useful "location" is at the top of the tower of lightning, named such because, despite numerous lightning rods, it does keep getting hit by magical lightning.
 		//Nirrum's Note: Turns out lightning rods actually prevent lightning from striking normal buildings by normalizing electric potential. Neat. //
 	
-**The Gammunacteries Rayl, Archfey of Sequences, lord of Wiles and stone **(INTP) Court of Lore, (Patron, Fey)
+**The Gammunacteries Rayl, Archfey of Sequences, lord of wiles and stone **(INTP) Court of Lore, (Patron, Fey)
 	This strange  creature looks relatively elven but with deep red skin, yellow hair, three legs, a green shirt, a blue robe, and purple overcoat
 		Height: 8ft
 		Influence: Perception (Intelligence) or Arcana (Charisma) 25 to solve a magical problem that consistently floats about the  Rayl, being the one he's working on
@@ -78,5 +78,6 @@ To a creature born into the Court of Lore, physical forces are what govern the r
 
 
 
-
+==== **Runewood** ====
+	Sitting somewhere in the cool midmorning is one of the few settlements of prime material folk in the feywild. This is home to the Aulufeydth orcs and the green knights. Runewood isn't large enough to be a city, a few thousand residents under the guidance of **The Worlitraw, Archfey of Contact Surfaces. ** Houses here vary wildly in size, from grand mansions to small huts, often next to eachother. Each house is limited to the height of a tree nearby, and is allowed to be no taller. As a result, the largest houses are not only the oldest but built near Spruigia. Different families will maintain different types of tree, from all over the feywild. To cut down a tree tied to a house in this place means death to the person who did it and pretty much everyone associated with them
 

@@ -9,7 +9,7 @@ Swiftness of Eladarius
 	Your move speed increases by 10 ft
 	
 Car'Teruna's Love
-	The next time you would be reduced to 0 hit points, you are reduced to 1 instead. You regain the use of this ability after a long rest. 
+	The next time you would be reduced to 0 hit points, you are reduced to 1 instead. You can use this twice and regain the use of this ability after a short or long rest. 
 
 Volcanic Heart (17th)
 	Hellish rebuke at will
