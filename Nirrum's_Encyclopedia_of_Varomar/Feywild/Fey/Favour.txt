@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-19T23:27:02-02:30
+
+====== Favour ======
+Created Sunday 19 September 2021
+
+The fey are made of favour, as much as Humanoids and beasts are made of material, they are inextricably linked for their survival. The value of something the fey produce is the value of a promise. For equal energy both can make a house that lasts a hundred years, but a mortal promise can be broken by a sick relative, bad weather, or harsh words, and so too can a fey item fall apart in things as trivial as the sunlight, a song, or the footsteps of a cat. For the Fey, it is the consequences disfavour that kills them, and for us, disenfranchisement. A lack of favour is neatly equivalent to a lack of power. The fey live and breathe this system and are as confused by ours as we can be by theirs. Even the smallest of fey can make a +5 sword that disintegrates when swung or looked at, as much as any human can promise to make a grand castle. In both cases, neither favour nor promise mean anything without effort. Thankfully favour is less temporal than promises, and one can take time to evaluate how much it is worth, and thus, it functions as a much more real currency. 
+
+Fey are, with their strange temporal nature, largely born as who they will always be, with some exceptions, and as much as a mortal only has so many breaths, a fey has a (usually) limited amount of favour of their own which is hard to change. The more powerful fey are often advantaged in life entirely on conditions on their birth and live longer entirely because they can trade their extremely powerful skills for more favour than they are probably worth. Particularly shrewd weaker fey can still commit  incredible acts on amassed Favour. 
+
+One of the best ways for fey to get favour they probably don't deserve is items from the prime material plane that hold up to some level of scrutiny, but this is also an easy way to get them killed. Tin Armour has about as much value as your average fey castle, the latter of which may have the peculiar property of letting anything in that's not touching the ground. Like cold air or meteors.
+
+
+Value of  a Favour = level
+You can add your level to favour you are trading to increase its value, but this **requires** a quest on your part, and fey who are aware of the value of human promises will ask that the quest be done before the favour is granted. 

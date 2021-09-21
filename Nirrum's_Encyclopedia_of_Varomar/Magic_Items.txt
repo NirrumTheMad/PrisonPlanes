@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2018-01-30T04:24:21-03:30
 
-====== SpecialMagicItems ======
+====== Magic Items ======
 Created Tuesday 30 January 2018
 
 **Coat of the Elder**

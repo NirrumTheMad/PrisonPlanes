@@ -9,16 +9,68 @@ Snarl is a land of magic, extremely potent magic and a lack of interference from
 
 Anyway, here's a list.
 
+==== Cantrips ====
+	//Cloud vision. (Artificer, Wizard, Sorcerer, Bard, Warlock)//
+		1 action, S,M (a tiny fragment of cave lichen)  Illusion
+			Range: 40ft
+			Concentration: 1 round
+			One target you can see makes a Charisma saving throw. On a failed save they are blinded until the start of your next turn or until you lose concentration. 
+			
+	//Offend (Sorcerer, Druid, Wizard, Artificer)//
+		1 action, V,S,M (an extremely small amount of hydrogen sulfide), Enchantment
+			Range: 65ft
+			Instantaneous
+			You produce a harmful sensory effect, such as a foul taste, flashing lights, a strange smell, a weird tingle. Target creature must make a constitution saving throw, on a failed save, if they are concentrating on a spell, ability, or task, they must make a concentration saving throw with disadvantage to the roll.
+			
+	//Pull of the Ninewise (Warlock, Sorcerer)//
+		1 Action, V,S, Evocation
+			Range: 300ft
+			Duration: instantaneous
+			A magical chain extends from your hand. Make a ranged spell attack roll agains a target you can see, if the spell hits, the target is pulled 15ft toward you.
+				This spell creates more chains as you reach higher levels: Two chains at 5th level, Three Chains at 11th level, and 4 chains at 17th level. You can direct the chains at the same target or at different ones. Make a separate attack roll for each chain.
+				
+	//Wedge (Artificer, Bard, Sorcerer, Wizard)//
+		1 bonus action, S, Transmutation
+			Range: 30ft
+			Duration: Instantaneous
+			A magical force warps space around an opponent. One creature you can see or hear within range must make a dexterity saving throw or be moved 5 ft parallel to the ground in a direction of your choice. Attempting to lift or prone a creature with this spell might only have an effect of inches
 
+	//Minor Transposition (Artificer, Wizard)//
+		1 action, V,S,M (An object of very similar weight to the target) Conjuration
+			Range: 60ft
+			Duration: Instantaneous
+			The material component and an object that is within range neither worn nor held that you have seen within the past hour  swap places
+			
+	//Enhances senses (All casters)//
+		1 action S, M, (A glass cup) Divination
+			Range: self
+			Duration: 1 hour, Concentration
+			Your range and accuity of all of your external senses doubles for the duration of the spell. Internal senses, such as visceroception are unaffected.
+			
+	//Animate Hand (Cleric, Sorcerer, Wizard, Warlock)//
+		1 action V,S,M, (the dismembered hand, claw, or prehensile extremity of a medium or smaller creature) Necromancy
+		Range: 10ft
+		Duration: 8 hours
+			The material component becomes a Crawling Claw (Monster manual 44) for the duration. It obeys your mental commands as if it had your intelligence and uses your proficiency bonus. It can only communicate telepathically simple concepts and only what it can feel. The claw partially echoes the personality of the creature it came from, but is always under your control
+			At level 5, you can use a part from a large creature, which deals 1d4 extra damage, at level 11, that of a huge creature, which deals 2d4 extra damage, and at 17th level, that of a gargantuan creature, which deals 3d4 extra damage
+			
+	//Buffer (Artificer, Cleric, Druid, Wizard, Warlock)//
+			1 reaction when a creature in range that you have seen within the past minute takes damage, V,S, Abjuration
+			Range: 30ft
+			Duration: instantaneous
+			You know instantly that the creature is being attacked and force magic between that creature and the source of the damage. The creature gains temporary hit point equal to your spellcasting modifier before the attack hits. The temporary hit points fade at the end of the current turn.
+			At 5th level, the amount of Temporary hit points is equal to double your spellcasting modifier, at 11th level they are equal to triple your spellcasting modifier, and at 17th level, 4 times your spellcasting modifier.
 
 ==== 10th level Spells ====
 
 //Nirrum's Recursive Happening//
-	Every six seconds in an area of up to 1 mile, events repeat themselves cumulartively for the duration of the spell
+	Every six seconds in an area of up to 1 mile, events repeat themselves cumulatively for the duration of the spell
 //Grand Warding//
 	It's like forcecage but permanent
 //Tarn's Shadowy Field//
 	oh my god, so much damage, 
+//Tasavenvil's Arrow//
+	**Even More Damage**
 //Summon Extraplanar Entity//
 	You might be a god but you'd better make a save or get got
 //Sunsphere//
