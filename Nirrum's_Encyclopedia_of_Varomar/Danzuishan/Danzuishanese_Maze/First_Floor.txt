@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2019-03-26T23:16:29-02:30
 
 ====== First Floor-Overture ======
@@ -14,7 +14,7 @@ Behind them is a curtain-gate made entirely out of silver armbands worth 1gp eac
 **Breaking the gate floods both rooms, without reducing the water level in the flooded one. Moving it aside does not have this effect. Things that move into or out of the water come out wet, as if the arm bands are simply providing a new surface of the water, blowing on it or splashing it creates waves which want to move downward after they begin with their normal circular propagation. Effects that control or shape water will work on this room, though the water will eventually melt ice and if the mechanism fills the room with water after being emptied, it will fill with new, warm water.**
 
 ** Players that cannot breathe underwater cannot breathe here, the bull is just special.**
-
+**The Aurochs is Indestructible and ornery. It will charge the nearest creature every round unless charmed.**
 The square, 14ft tall, 30ftx40ft Room contains an aurochs bull, seemingly able to breathe under the water, munching on some sea grass. The water is impossibly clear but tinted green by the walls.  In the corners of the room, are four White statues that glow at the base as if in intense moonlight. The statues depict Muscular hobgoblins, pointing as if running toward something. The Statues, upon investigation are set on circlular diases, with clearly marked gauge marks, indicating numbers from 1-400, with 400 being oriented toward the center of the room, with 1 and 399 on either side. The statues can rotate to point in the direction of these numbers and they do so with very little resistance, On each statue, because of the walls, only a range from 350 through 400 to 50 can be selected. the total values the statues align to is 1600.
 * When they Point at any Given Wall An opening appears
 	* Opposite the entrance reveals an empty but domed room with red walls, and black trim, making the light within it dim. A mummy lord with 13 health waits here. It has not established its lair, but does have 500 gold worth of small golden cylinders around it, and two 100gp rings on its fingers.

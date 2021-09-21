@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-07-19T00:37:44-02:30
 
-====== The Feywild ======
+====== Feywild ======
 Created Sunday 19 July 2020
 
 [[+A_Description_of_The_Fey]]
@@ -74,7 +74,7 @@ Without attempting to describe their relationships to eachother, the feywild has
 	Everyone who gets stuck there de-ages but when they de-age fully, the angels set up a new grave, eventually something gets born out of the grave but we're not certain what relation it is to the thing that the grave belongs to. The statues only make new graves on the outside of the Drayevarg, which is how it moves
 
 ==== Bladefens ====
-	Battle is an important part of the feywild, in places that touch the material plane, the blades of the most passionate warriors might find themselves missing. They usually end up in the feywild in bladefens, catered to by Fey of the Valor and Sword courts. Blades are placed with their hilts in the ground, grasped by buds of red-tipped blue asters that only bloom if the weapon is pulled from the ground.  The fields are guarded each by a member of the courts of Valour and Swords, one to protect the stories of the swords, the other to protect the passion of the warrior that feeds the asters. When someone approaches the  bladefield, they'll be asked to either a duel by one of the fey. The duel can be any form of duel and the fey will attempt to match so long as it is "in the time of  a duel," or at least has minimal prep time. Interestingly the fey *always* lose these duels, at which time the other fey begins a composition to honor them and the winner of the duel is allowed to pick from the bladefen, after which the remaining fey will use a spell to pick all remaining weapons. The unchosen weapons magically disappear and the bladefen blooms fully in bright vibrant blues speckled with iridescent red. The fey that lost the duel invariably dies of their wounds, even if it was a game of cards, chess, or in one recorded instance, a spitting contest. The bladefen can never be visited again by mortals, or at least, one one has found the same one twice.
+	Battle is an important part of the feywild, in places that touch the material plane, the blades of the most passionate warriors might find themselves missing. They usually end up in the feywild in bladefens, catered to by Fey of the Valor and Sword courts. Blades are placed with their hilts in the ground, grasped by buds of red-tipped blue asters that only bloom if the weapon is pulled from the ground.  The fields are guarded each by a member of the courts of Valour and Swords, one to protect the stories of the swords, the other to protect the passion of the warrior that feeds the asters. When someone approaches the  bladefield, they'll be asked to either a duel by one of the fey. The duel can be any form of duel and the fey will attempt to match so long as it is "in the time of  a duel," or at least has minimal prep time. Interestingly the fey *always* lose these duels, at which time the other fey begins a composition to honor them and the winner of the duel is allowed to pick from the bladefen, after which the remaining fey will use a spell to pick all remaining weapons. The unchosen weapons magically disappear and the bladefen blooms fully in bright vibrant blues speckled with iridescent red. The fey that lost the duel invariably dies of their wounds, even if it was a game of cards, chess, or in one recorded instance, a spitting contest. The bladefen can never be visited again by mortals, or at least, no one has found the same one twice.
 
 ==== Songgroves ====
 	A songgrove is a colony of plants that bear the sounds of instruments. They all play in harmony but they only play in harmony with what they can hear, travelling through a songgrove is a journey through a theme of music.
@@ -90,8 +90,7 @@ Without attempting to describe their relationships to eachother, the feywild has
 	If something is posessed or acting against their will, the thing that is controlling them is shown instead. If the creature is concealed with an illusion, the illusion is stripped away and their true skeleton is shown instead.
 
 ==== Painted Rainforest ====
-	A place of permanent rain, where the things touched by rain change their colour. Each raindrop is one colour, so you'll get a lot of stripes of colour. Originally I thought, the rain takes on the colour of the thing it first hits and then "paints" It everywhere else it goes, dripping down until it hits the ground. Thick trees 
-	maybe trees produce the rain
+	In the afternoonwise feywild, some valleys become host to great rainforests. Occasionally these rainforests produce enough rain with enough speed that magic gets swept up with it. The resulting semi-permanent deluge creates a painted rainforest. Each drop that falls has its own colour, and anything it lands on will change colour to match. Depending on the conditions, these forests can be nigh unnavigable with colour noise, or the colour may fade from one tree to the next. 
 
 ==== Iridescent Woods ====
 	Light shines, things at certain angles reflect only one colour
@@ -118,3 +117,22 @@ Without attempting to describe their relationships to eachother, the feywild has
 
 ==== Standstone outcroppings. ====
 	perfectly vertical inclusions in any landscape, Standstone looks like sandstone, but it has the peculiar property of always attempting to stand on edge, like some strange gravity magnet. Huge bluffs of Standstone pierce the feywild skyline, boulders dot the landscape, and occasional, natural stacks of standstone  pop up all over. Standstone is useful for its resillience to damage and its strange ability to maintain its position. Vines that grow on these outcroppings are useful in making  slippers of spider climb
+
+==== Spruigia Forests ====
+	Spruigia Ash Trees are among the most successful trees in the feywild. They grow to enormous heights, far higher than could regularly be possible, and their branches are massive. Spruigias tend to grow through the feywild's twists and turns in very efficient ways, which might give a person the illusion that they are simply normal straight trees, but looking down off of the branch roads that often wind through spruigia, one can rarely see the bottom. Seemingly infinite misty voids, occasionally pierced by lancet leaves on broad boughs. Spruigia forests are home to many more aerial fey creatures, and are a choice home for Fairie dragons, and indeed, Green and Gold dragons who end up in the feywild often can be found darting through the trees.
+	
+
+==== Nistleburr Junctions ====
+	Nistleburr is a wiry, twiggy shrub with ivy-like leaves at its flattish canopy that grows 7 ft tall at most. it is found all over the feywild, frequently blending in to the local plant growth, but sometimes standing out entirely. Nistleburr compacts the feywild between its branches and it is very easy for a large creature to fit neatly inside one, despite only appearing about two handsbreadths wide. Nistleburr often spreads through its roots, and occasionally, forms a Nistleburr Junction. When two, nearly equal height  bundles of Nistleburr grow, they form a gateway to other parts of the feywild. There are nine ways to pass through a nistleburr junction. Halfway through and out the left side is often the most catastrophic, as this leads closer to the underfey. Halfway through and out the right side leads one in the straightest, path, and one can continue on the path they already were on. If one passes through the arch and walks around the nistleburr again, either left or right, one can find a different destination still. If one walks around the nistleburr and then back through the arch, more locations can be reached. Walking through the nistleburr from the side, lining up with the other nistleburr will lead one either to the previous parent nistleburr, or to the location of the next pup of nistleburr. Walking straight between the nistleburr is the final way to approach it, and these paths are intuitive to the fey. If one turns around  to proceed back through the nistleburr, one must take care to turn *left* after exiting and walking straight. Turning *right* and heading back will lead to yet another place. 
+		//Nirrum's note: What happens if you fall through the top?//
+	
+
+==== **Fairy Rings** ====
+	Fungus, it turns out, is extremely adept at getting where one does not expect it to be. Wether by the will of Zuggtmoy, Sylvanus, or by its own hubris, Mushrooms tend to spread across the cracks in reality and where they do, fairy rings form. Fairy Rings are simply circles of mushrooms in both the feywild and the Prime Material. most of the time they are entirely ordinary, the product of spores spreading in a circle, but if you step in a fairy ring and the flow of time changes, either resuming to normal, slowing or speeding, then there's a good chance that the veil between worlds is thin here. Sleeping in a fairy ring, casting any teleportation magic within, or casting druidcraft within the circle can slip one through to the other side. 
+	
+
+==== Stonewoods ====
+	The complex geometry of the feywild allows for the concept of forests that grow entirely underground, supporting a roof made of itself, through which no light can nor ever will shine. Untellably vast caves composed of a roof, a cieling and endless trunks of trees made of various stones. Stonewoods are useful for getting materials for magic items that are intended to contain things, such as the iron bands of billaro, or Iron Flasks, as the magic of the stonewoods rebuffs many forces. The stonewoods are home to horrors though. True Night Terrors, fey of the foulest make are found in these seemingly endless corridors. 
+
+
+

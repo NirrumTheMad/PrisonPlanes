@@ -91,7 +91,8 @@ This setting has some feats that can be taken. Some of them are good, some of th
 	
 	
 **Kholirahi Wood-Dancer**
-	When you are wielding a club and an opponent makes an attack and misses you, you may use your reaction to move up to your speed toward that opponent and make a melee weapon attack against them
+	When you are wielding a club, greatclub, or staff, and an opponent makes an attack and misses you, you may use your reaction to move up to your speed toward that opponent and make a melee weapon attack against them
 	
-
+**Green Knight Dive**
+	At the end of freefalling 10ft or more, you can use your reaction to make a melee weapon attack against a target within 5ft of you. If you fall on the target and hit with the attack, the target takes half of the fall damage they would have taken if they fell that distance. If the target is smaller than you are, it takes the full damage. You cannot benefit from anything that would slow your fall and still deal this extra damage.
 

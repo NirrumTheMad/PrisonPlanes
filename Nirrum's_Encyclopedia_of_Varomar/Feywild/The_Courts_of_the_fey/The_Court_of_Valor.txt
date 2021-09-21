@@ -70,12 +70,64 @@ Dashon ra
 
 ==== The glass labyrinth ====
 	Home to **The Sandman**, **Archfey of sleep, **The Glass Labyrinth surfs through the solid dunes on the afternoon side of the feywild, for that is the only time he is in residence. Nightways, The Sandman is of course, drawing children to sleep. The Glass Labyrinth is a tower in the shape of an hourglass on the back of a massive toad. To get inside, one simply has to stand in front of the toad as it will eat anything that moves in front of it. From the Toad's mouth and up a corridor of silver that winds up from its tongue, a traveller will find themselves within the folding corridors of the hourglass, Sand whisps around their feet constantly. The glass labyrinth has only  one path, despite its name, though it does have some offshoot rooms. A loom for **The Gwairin, Archfey of Dreams,  **and a writing den for **The Geeligurn, Archfey of Nightmares. **All three Archfey within the glass labyrinth are in near constant contact with other archfey, as sleep is a gateway for many fey to work their magic. At the top of the hourglass, following the sand is where one finds the sandman. Displeasing any one of them can procure their ire, but each is also capable of working incredible magic for a price. **The Sandman Embodies rest, and indeed, their power is very close to the powers of death. **He will procure favour for one of three things, Eyes of Sapient beings that are still living, Sand from the bed of the River styx, or the name and location of any creature that does not sleep. In exchange, he can bottle sand so fine that it flows like liquid. A creature that pours this sand on their eyes gains the effects of a **Long rest, **and the sand dissipates, though he can only produce one such bottle a day. Alternatively, He can procure a potion of sleep so powerful, that the creature that consumes it, is placed under the effects of Sequester, though they are visible and otherwise indestructible. The condition for their waking must be achievable by a single person and will be told to people throughout the ages in their dreams, but it remains an effective prison. Abberations, Constructs, Feinds, Celestials, and Undead are immune to these effects, as are Frogs, Toads, Bullywugs, Grungs, and other similar creatures.
-	**The Gwairin **grants favour easily. They will ask you for an obtuse metaphor every few seconds for an idea they mention every second for 8 hours ("Something for peace?" "Trees", "Something for poor conditions at work?" "Digging a tunnel that collapses") And in exchange, they can either tell you the meaning of any dream you have ever had in plain and clear terms no matter how magical, cast the spell dream with automatic success on a creature, or they can work a dreamcurse such that a creatures dreams will always end the same way until one of two conditions is set, one you of your choice and one of theirs (subconsciously). 
+	**The Gwairin **grants favour easily. They will ask you for an obtuse metaphor every few seconds for an idea they mention every second for 8 hours ("Something for peace?" "Trees", "Something for poor conditions at work?" "Digging a tunnel that collapses") And in exchange, they can either tell you the meaning of any dream you have ever had in plain and clear terms no matter how magical, cast the spell dream with automatic success on a creature( provided they can sleep), or they can work a dreamcurse such that a creatures dreams will always end the same way until one of two conditions is set, one you of your choice and one of theirs (subconsciously). 
 	**The Geeligurn** is a far more complex creature. She is haglike, and delights in tormenting creatures. She has great sway with the college of terror.
 	
 	
 
+==== Halls of Agony ====
+	Shallow in the Underfey, somewhere usually duskward, are tunnels through dark woods that peel secrets from those who enter. The stonewoods in which the halls of agony wind are particularly thick and nearly indestructible. The air here is always cold, below freezing, and this is because of **The Maiden of Winter, Archfey of Grief, **who makes her home down here. This is the ancestral home of all Winter Eladrin, and the quickest and most direct route into the shadowfell. Creatures who venture into this realm are faced with the things they have tried to hide from themselves. These insecurities manifest with a common theme. You are the source of your own pain. Characters will find themselves separated in here and undergo the trial of agony unless they have done so before. 
+
+		Preparing **The Trial of Agony**
+	**Dm's Note: **This //must// be prepared ahead of time and done carefully. No bullshit, and be very careful of giving back powers like wildshape, prestidigitation, catapult, and the EK's bound weapon. The more carefully you prepare this, the better it will go. Prepare poorly, and your players will spot your bullshit way of dooming them to fail and they'll give up. **Do your best to make it seem possible "if only". **
+			* Each character loses all class abilities, all innate spellcasting, their natural weapons crumble and fail, their luck runs out, their armour and gear vanish. The only things that do not vanish are charms, boons, curses  and cursed items
+			* Each character finds themselves separated from any party they were with and no power nor ability is able to allow them to regain contact. The trial is best done in solo sessions
+			* Each character is told that they have what they need
+			* They are presented with a challenge to regain their most used tool, weapon, or spell, which they inevitably win, though wounded, usually through spells like magic missile cast within the challenge
+			* Each of the following challenges has a simple premise: Win the challenge and get a Ring of Wishes, fully loaded. Fail the challenge and suffer
+				* The challenges are all rigged to cause failure, **each one something that would succeed if they had one of their lost pieces, each seeming very possible**, and each time, the character gains an injury from the Injuries table (dmg 272) though the injury is accompanied by perpetually stinging magical ice which repels magical healing.
+				* Upon failure, the character regains one of their lost aspects, and is told to continue, there is no backing out, no escape. 
+				* This repeats five times (or until all aspects of the character are restored). There are no rests, no recoveries, no time to gain advantages. Expended items are expended permanently. 
+				* on the sixth time, they have everything they had previously, but retain all of their injuries. They face the tarrasque, mounted by Elder Dramuut, wielding a gargantuan sword of answering. The character is alone
+				* upon their inevitable and quick death, **The Maiden of Winter appears to the person and asks them how they felt and informs them that they did worse than their comrades did, **
+					* If they are attached to a member of the party emotionally say "Most of them, at least"
+				* They are told they face one more challenge, and the ending is far more permanent, and they are given an option. Pass into the shadowfell to escape, or to face their challenge, knowing that success is going to be just as hard as it was in the previous challenges. 
+					* Those that escape to the shadowfell leave the campaign entirely, their characters may be recovered but that's an adventure on its own
+					* Those that choose to take on the next challenge are left in infinite darkness until all members of the party are done with their challenges
+				* Each character, individually is eventually asked a question from a voice in the dark. "Will you bear your scars?"
+					* A character that says yes is granted the following benefits
+						* For each eye lost, they gain blindsight of 30ft
+						* If they lost their left hand, they gain an additional reaction that they can use once per long rest
+						* If they lost their right hand, they gain an additional bonus action that they can use once per long rest
+						* If they lost their left foot, they can move twice their move speed when they take the dash action
+						* If they lost their right foot, they cannot be knocked prone against their will, even if unconscious or dead
+						* For each limp gained, they gain 5ft of movement speed on foot
+						* For each internal injury, they permanently add 5 to their hit point maximum
+						* For each broken rib, they gain an additional hit dice (for use in HP recovery on rests and other abilities)
+						* For each Horrible scar, they increase their charisma by 1 and their charisma maximum by 1
+						* For each festering wound, they regenerate 2 hit points at the start of their turn while alive (but not necessarily conscious) 
+						* For each minor scar, that character may choose a harmless sensory effect that they permanently express, such as the smell of cinnamon, Hair that blows perpetually in its own magical gentle wind, or a shadow that moves in a different way than they do.
+						* **All missing parts are then replaced by replicas made of snow, stone, water, that function identically to the originals. All damaged but intact parts are perpetually cold and often frosty but provide no other detriment. **A character may choose to disguise these replacements as normal parts, but they lose the benefits while disguised. Horrible scars can be revealed to gain the benefit to intimidation and detriment to persuasion as a bonus action, fey illusion peeling away to reveal frostbite in the area. 
+					* A character that says no is restored to normal with no benefits (but secretly, their next child, if they have one, will be a siofra)
+				* When the trial is over, they are allowed passage through the halls of agony, and any time they return to the halls, they regain any lost body parts, save those replaced in the trial of agony. They are also allowed Audience with **The Maiden of Winter **at her leisure.
+
+
+	**The Maiden of Winter, Archfey of Grief (ENFJ) **
+		This black haired elf is made entirely of snow, ice, stone and water.
+			Height: 10ft
+			Influence: Persuasion (intelligence) 30, to recount your greatest loss to her
+		For a while, the Maiden of Winter was the ruler of the court of Valor, but in a moment of hubris coupled with several dashes of betrayal, she lost herself entirely, all her goals shattered, her soul sucked out into the shadowfell. She feels she can recover herself somehow but isn't sure of what to do. She grants favour for true tales of grief, and redeems favour in the form of the charm of Nine lives. 
+		Those who bear the mark of the raven queen are granted the boon of luck, free of favour. 
+
+
+
+==== Clariontop ====
+	The tallest mountain on at least one side of the feywild is an old crystal fireheart. Its sides have been chipped and dented from age, making it far more opaque than a fresh fireheart. Clariontop is the site of many a pilgrimage for bards in the feywild, as the archfey that sits at its peak is the Archfey of Performance, **The Caroller.** Clariontop is a rough climb, and while there are routes up the mountain, it poses its own challenges. 
+		**The base**
+			The base of the mountain is covered in a smooth sheet of water fed by streams that flatten when they reach the facets of the roots of the mountain, 
+
 
 ==== The Centre of Magic ====
 
-Set in the midnight point of the Feydark, is the dancing ground that is the centre of magic
+	Set in the midnight point of the Feydark, is the dancing ground that is the centre of magic. 
+

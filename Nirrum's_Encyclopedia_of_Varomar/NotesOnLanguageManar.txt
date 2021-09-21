@@ -18,6 +18,8 @@ Created Friday 29 December 2017
 
 			Nova Alo'ta Tasa, Tasa follows nova 
  (Family house) builds-other <That for> ((good) Is-other (father))  
+	rahialat  
+	
 
 
 
@@ -161,6 +163,7 @@ Prabrek - Metal (Shining rock)
 Parrmish - weapon, especially sword
 Tong - long
 Ti - short
+Tenkpa- weapon
 Tongpa - tongparmish, long weapon, spear
 Tongtenk- Archer, bow and arrow
 Tenk -Strike
@@ -377,4 +380,6 @@ tonggoog - small intestine
 Shagoog - Large intestine
 Kwagoog -stomach
 Vishapa - Lung
+Rahialat - Family house, also just family
+Lappa - Build/building
 

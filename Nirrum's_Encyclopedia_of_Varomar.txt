@@ -56,7 +56,7 @@ Created Thursday 21 December 2017
 [[+Skill_Check_Weapons]]
 [[+Letters_from_The_Author]]
 [[+Weird_worldbuilding_notes]] 
-[[+The_Feywild]]
+[[+Feywild]]
 [[+Magic]]
 +feats 
 
