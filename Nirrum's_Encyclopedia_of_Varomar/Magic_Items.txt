@@ -359,14 +359,11 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 **8-Cycle Copper Channel Sepraphinite Rutile Quartz Crystal Orb with Octarinate Runes**
 	Range+
 	
-**Focus Rod**
-	 save DC +
+**Nistleburr Wand**
+	Conjuration spells you cast with this wand last for twice the duration
 	
-**Orange Wood Wand**
-	spell attack, spell check+
+**Adder Stone**
 
-**Mahogany-Core Staff**
-	Damage, spell die +
 	
 **Quickdraw Scabbard**
 	//Wonderous Item, Common, Requires attunement//
@@ -374,7 +371,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		
 **Crazy balls**
 	//Wondrous item, Uncommon//
-		The first creature to fail their dex save on these ball bearings gets cursed. The crazy balls continue to jump forward and attempt to block their movement in any direction for one minute
+		The first creature to fail their dex save against these ball bearings gets cursed. The crazy balls continue to jump forward and attempt to block their movement in any direction for one minute
 
 
 
@@ -386,6 +383,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 **Defiler Falx,**
 	Greatsword, rare
 		You can use a bonus action to rub the spine of this wickedly curved blade, causing it to sweat poison. The poison lasts last until you use a bonus action to rub the spine again or until you drop or sheathe the sword. While it sweats poison, the falx deals 1d10 extra Damage to any creature it hits. The Creature must make a DC10 saving throw or be poisoned for 1 minute. 
+
 
 
 ==== Tagic Company Items ====
@@ -503,6 +501,14 @@ Dispel Magic
 		While attuned to these robes you gain the following benefits
 	* You have advantage on any saving throw against an effect that alters the flow of time for you
 	* If you are placed under the effect of time stop, make an Arcana(intelligence) check against the caster's spell save DC, If you succeed, the spell has no effect for you.
+
+
+
+
+
+
+
+
 
 ===== Avalon's Arcane Creations =====
 	//**__Permanent Magic items__**//

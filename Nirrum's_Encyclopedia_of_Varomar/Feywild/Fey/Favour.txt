@@ -14,3 +14,9 @@ One of the best ways for fey to get favour they probably don't deserve is items 
 
 Value of  a Favour = level
 You can add your level to favour you are trading to increase its value, but this **requires** a quest on your part, and fey who are aware of the value of human promises will ask that the quest be done before the favour is granted. 
+
+
+To Calculate a Fey's required Favour to act
+
+CR^2*10 (+-) 1d20((for influence)) 
+

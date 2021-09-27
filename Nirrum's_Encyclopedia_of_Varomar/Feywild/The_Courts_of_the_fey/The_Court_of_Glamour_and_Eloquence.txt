@@ -23,7 +23,8 @@ Set among the darker regions of the feydark mostly,
 			This pale skinned eladrinesque man is all about taste, both literally and metaphorically
 				Height: 6'0
 				Weight: 210, mostly muscle he assures
-				Influence: Intelligence (Brewers supplies or Cooking Utensils) 30 to produce a magnificent flavour
+				Gain Influence: Intelligence (Brewers supplies or Cooking Utensils) 30 to produce a magnificent flavour
+				Favour
 			Thorcurin has pale blue eyes with purple radial heterochromia. His hair almost matches his skin colour and his shirt is never fully buttoned up. Those who accept a drink, Food, or other services from Thorcurin owe him a favour, and he has so many that he can give out his name freely. Thorcurin is a powerful chef, brewer, and procurer of the second finest ingestible items on snarl and many of the planes around. Thorcurin is Loathe to admit that he's been thoroughly bested culinarily by a common mortal cook, but unwilling to lie about his position. Thorcurin can create or replicate any meal for a favour and, for a sufficiently good favour, have it delivered. Thorcurin has made //many// siofra, and is patron to //many// warlocks
 
 
@@ -38,4 +39,13 @@ Set among the darker regions of the feydark mostly,
 			Influence: Sleight of hand (charisma or wisdom) 12 to get the castle move to your defence, 
 		The Quindylade pines for Aralc, but knows she won't return any time soon. She is depressed, hungry, and craves favour in the form of lost reflections. In return, she teaches powerful abjuration spells, and can give them in the form of silver slivers that permanently carry the effect of one spell, though these break if they are ever exposed to a mirror. The Quindylade is playful but wrathful, and she is very quick to anger, though easy to flatter.  
 
+==== Balemorn Citadel ====
+	Positioned where the sun is precisely halfway above the horizon, the White and Green Towers of Balemorn Citadel give a view for the lord of the morning
+	
+	
+	**The Liavalri, Lord of the Morning, Archfey of Wintergreen and crisp scents (ESTJ)**
+		This Enemy of the Autumnal fey is dressed in ermine fur and teal suede and speaks briskly
+			Height: 5'8
+			Influence: 
+		Perpetually smelling of bright acids, alcohols, savoury, sage, mint, and wintergreen, the Liavalri is a busy fey. Almost indistinguishable from an average elf, the Liavalri is most notable for his purple skin below his neck, all of which he keeps covered. The Liavalri considers the arguably benign discoloration a disfigurement contracted at the hands of the Horachibald during a dispute. The Liavalri  procures favour in exchange for things of his soft golden-green aesthetic. Things such as cane sugar, bitter teas, and white furs are all things he's willing to trade for as well. Though his greatest prize and the only thing he will give full favour for is a jar of not uncommon but hard-to-produce chemical called Geosmin, which he needs to woo his beloved lady  **The Harlannenna, **of the court of Valour, Archfey of the rains (And what we do in them)
 
