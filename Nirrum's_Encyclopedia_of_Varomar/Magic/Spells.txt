@@ -39,7 +39,7 @@ Anyway, here's a list.
 		1 action, V,S,M (An object of very similar weight to the target) Conjuration
 			Range: 60ft
 			Duration: Instantaneous
-			The material component and an object that is within range neither worn nor held that you have seen within the past hour  swap places
+			The material component and an object that is within range neither worn nor held that you can see or hear
 			
 	//Enhances senses (All casters)//
 		1 action S, M, (A glass cup) Divination
@@ -51,23 +51,49 @@ Anyway, here's a list.
 		1 action V,S,M, (the dismembered hand, claw, or prehensile extremity of a medium or smaller creature) Necromancy
 		Range: 10ft
 		Duration: 8 hours
-			The material component becomes a Crawling Claw (Monster manual 44) for the duration. It obeys your mental commands as if it had your intelligence and uses your proficiency bonus. It can only communicate telepathically simple concepts and only what it can feel. The claw partially echoes the personality of the creature it came from, but is always under your control
+			The material component becomes a Crawling Claw (Monster manual 44) for the duration. It obeys your mental commands as if it had your intelligence and uses your proficiency bonus. It can only communicate telepathically simple concepts and only what it can feel. The claw partially echoes the personality of the creature it came from, but is always under your control. You may only have one such claw at a time
 			At level 5, you can use a part from a large creature, which deals 1d4 extra damage, at level 11, that of a huge creature, which deals 2d4 extra damage, and at 17th level, that of a gargantuan creature, which deals 3d4 extra damage
 			
-	//Buffer (Artificer, Cleric, Druid, Wizard, Warlock)//
+	//Buffer (Artificer, Cleric, Druid, Wizard, Warlock) WORK (maybe first level)//
 			1 reaction when a creature in range that you have seen within the past minute takes damage, V,S, Abjuration
 			Range: 30ft
 			Duration: instantaneous
 			You know instantly that the creature is being attacked and force magic between that creature and the source of the damage. The creature gains temporary hit point equal to your spellcasting modifier before the attack hits. The temporary hit points fade at the end of the current turn.
 			At 5th level, the amount of Temporary hit points is equal to double your spellcasting modifier, at 11th level they are equal to triple your spellcasting modifier, and at 17th level, 4 times your spellcasting modifier.
 
+
+
+
+==== Level 2 spells ====
+	//**Prestibrachiation (**Artificer, Bard, Sorcerer, Warlock, Wizard)//
+		1 action, V,S Transmutation
+		Range: 60ft
+		Duration: up to 8 hours
+		This spell is a natural consequence of one of the most useful cantrips ever devised. Choose one of the the magical effects within range
+			* Your create an instantaneous,  sensory effect in a sphere of 30ft from a point within range, such as a storm of sparks, a blast of wind, or a strong scent, or a strange song. Targets of your choice in the area must make a single saving throw of your choice the effects differ for each saving throw. For Strength, targets that fail fall prone, for dexterity they get pushed 5ft in one direction, For constitution they gain disadvantage on perception checks made  with one sense until the start of your next turn, For intelligence they must use their reaction to flail helplessly, for wisdom they are frightened by you until the start of your next turn, for charisma they are charmed by you until the start of your next turn.  The effect must be the same for all targets in the area and is obviously magical.
+			* You instantly light or snuff out up to 10 candles, torches, or lamps or you start or extinguise one 5ft-wide fire. If you choose to damage a target with this effect, the targets must make a dexterity saving throw. On a failed saving throw you can do up to 10 damage divided as you choose among targets 
+			* You instantly Sanitize or Contaminate a spherical zone of 30 feet. In this area, either all diseases that are not already within a host are immediately destroyed and all uncontained fine particulate matter is pushed toward the outside of the area, flowing around obstructions to the farthest point in the spells area, or all diseases within 60ft of the point you choose that aren't already within a host are drawn and distributed evenly around the 30ft area. Fine particulate matter within 5ft of the area is drawn in as well, moving gently along the ground until they are within the 30ft area, whence they are distributed evenly on any surface. 
+			* You chill, warm, or flavour up to 10 cubic feet of nonliving material for up to 8 hours. 
+			* You make a colour, texture, medium sized mark, or a symbol appear on a solid  target for up to 8 hours. Targets may make an intelligence saving throw  to avoid being marked by this effect. With this effect, your marking emits bright light for 5ft and dim light for another 5ft.
+			* You create a nonmagical trinket or an illusory image that is as wide as your shoulders and lasts until the end of your next turn
+		You may dismiss any of the effects of this spell as an action.
+		
+	//Saif of the Sword Sorcerer//  (Artificer, Bard, Sorcerer, Warlock)
+		1 action, V,S, Conjuration
+		Range: Touch
+		Duration: 1 hour, concentration
+		Reality works how //you// want it to work dammit, and this whacky thwacky thing should be no different.  You conjure a melee weapon that lasts  for the duration of the spell or until you dismiss it as an action. The melee weapon takes the form of your choice, choosing from the weapons table. The weapon you summon cannot have the heavy or reach property. Attacks with the weapon use your spellcasting modifier instead of strength or dexterity. 
+
+
 ==== 10th level Spells ====
+There are very few spells past 9th level that aren't prohibitively expensive to cast. From A DM's perspective, quests are guaranteed, because on this plane (which has a prohibitively small amount of metamorphic rock) it is difficult to find ingredients like *slate*
+
 
 //Nirrum's Recursive Happening//
 	Every six seconds in an area of up to 1 mile, events repeat themselves cumulatively for the duration of the spell
 //Grand Warding//
 	It's like forcecage but permanent
-//Tarn's Shadowy Field//
+//Tarn's Shadowy Field - A normal fuckin spell, just cast this shit.//
 	oh my god, so much damage, 
 //Tasavenvil's Arrow//
 	**Even More Damage**

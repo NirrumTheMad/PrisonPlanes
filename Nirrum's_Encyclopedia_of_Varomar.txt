@@ -46,7 +46,7 @@ Created Thursday 21 December 2017
 [[+Wickerly]] 
 [[+Races]] 
 [[+Rules Augmentations]]
-[[+Special_Feats]]
+[[+Feats]]
 [[+Deep_Lore]] 
 [[+Guide_to_in-game_Economy]] 
 [[+Classes:Class Archetypes]]

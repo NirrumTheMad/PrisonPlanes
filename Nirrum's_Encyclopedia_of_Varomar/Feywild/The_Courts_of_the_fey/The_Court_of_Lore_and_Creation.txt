@@ -32,6 +32,7 @@ To a creature born into the Court of Lore, physical forces are what govern the r
 	This strange  creature looks relatively elven but with deep red skin, yellow hair, three legs, a green shirt, a blue robe, and purple overcoat
 		Height: 8ft
 		Influence: Perception (Intelligence) or Arcana (Charisma) 25 to solve a magical problem that consistently floats about the  Rayl, being the one he's working on
+		Favour:4410
 	The Gammunacteries Rayl is sour but brisk and official. He takes his job very seriously. He does not have time for much humour as he has to listen fairly frequently for the lightning. He Does not often barter in favour, save to access the machines. If someone manages to influence the Rayl, he'll Grant them the Action surge feature from the fighter class. If the person already has action surge, they gain an additional use of it. The Rayl is capable of casting 12th level magic with relative ease, and is the surest bet to solve a problem, but to do so, he must be influenced and the threat must be planar. The Gammunacteries Rayl still requires the costly material components  of the spells and rarely has any on hand.
 	
 
@@ -47,6 +48,7 @@ To a creature born into the Court of Lore, physical forces are what govern the r
 	This strange human-looking thing wears a long white-fur-trimmed coat, often green, blue or red, and has a habit of knowing when someone has been a bad person
 		Height: 5'6
 		Influence: Good aligned deeds on average over the last year.
+		Favour: 1440
 	It is not that this white-bearded being can read minds, but that upon seeing a creature, simply //knows //whether or not it has been relatively pro-social and "good" for the past year. Those who fail this test get beaten with a staff, and those who pass are given a small gift, often in the form of food or clothing, but not uncommonly toys. The Euratsatni can procure any item that would remind a person of their most innocent and carefree times, and will gladly produce such items for anyone willing to get them into the hands of the people who need them
 	
 
@@ -60,6 +62,7 @@ To a creature born into the Court of Lore, physical forces are what govern the r
 				height: 20ft
 				Width:  15ft at the shoulders and jaw
 				Influence: 200,000gp
+				Favour:1210
 			This squished creature has pallid grey skin, massive sleepy amber eyes that almost seem to pop out  from either side of his large and long nose, and an ashen, almost light blue beard. He looks tired and sounds like nothing you will say will change anything about the situation. The ruler of Indices appears perpetually bored, and the utmost humour from him is a wry smile that makes one feel like their joke is perhaps not as original as they thought. **The** **Conzequoneuraeuramesthtiin **is a creature of bureaucracy and is constantly filling out the paperwork to index and record the state of shears in the library. He does have a weak spot for Fine whiskeys and other strong complex alcohols, enough to pucker his usually sedentary face. For such a drink, he offers favour in the form of dancing a jig, or the much more commonly taken option, A single full list. The list contains the enumerations of any given request, provided it can be listed. Whether that be a recipe, a geneology, or a list of names of conspirators. **The Conzequoneuraeuramesthtiin **does place a reasonable limit on these requests, keeping them to one layer of information deep and to within a thousand items, and he will tell someone if they have been payed off (influenced) to not reveal the information. The Archfey of indices is a decent sort, polite, and more or less married to his job.
 			
 			//Nirrum's note: //While the blurb above may seem harsh, as another Librarian, I have nothing but respect for the Caretaker of the Shears. **The Conzequoneuraeuramesthtiin** may //seem //like a neutral individual, but those who run publically accessible libraries  are those who wish others to prosper. 
@@ -73,6 +76,7 @@ To a creature born into the Court of Lore, physical forces are what govern the r
 		A bald pale green head and curious blue eyes peer above an evergreen beard from which two three-fingered hands emerge and two ten-toed feet. 
 			Height:1'4
 			Influence: A jar filled with a minimum of 1024 origami paper cranes 
+			Favour: 1690
 		The Pipperizzer is old, wise, and particularly helpful to children. They smell of sage and bread, and are sympathetic in nature. The pipperizzer has absolute authority over the gamblebumbus bush and the horditordi fruit, and grants favour in the form of the nuts. The Pipperizzer also grants favour in the form of one's own story. These stories are told such that they feel like a fairy tale, and awaken memories that the person did not know they had forgotten. Often the Pipperizzer grants these stories before people know they are redeeming a favour. The Pipperizzer offers favour for those who visit children with bad families. Often the Pipperizzer will appear to adventurers and ask them to give an item to the child, preferably secretly. Often a piece of chalk, a stuffed animal, a coin, a latex ball or a seed that occasionally jumps. Those things will lead the child back to the Pipperizzer, either by walking them to him or making a door out. He tries to find them a good new home but is poor at it. It is not Uncommon that children get brought to the Wizened Grannard
 		
 
@@ -85,13 +89,14 @@ To a creature born into the Court of Lore, physical forces are what govern the r
 		This noble and honorable fey is entirely encased in a bumpy suit of black armour that completely obscures them
 			Hieght: 3'11
 			Influence: Acrobatics (strength) 18 to spin 5 times in one push
+			Favour: 1210
 	The Worlitraw speaks in a high pitched (bad high british) voice and is enamoured with acts of valour, despite being a fey of lore. He wields a lance and always counts as mounted as his heels have two metal wheels on each side of his pointy and curled toed sabatons, which autonomously rotate to drive him forward. The Worlitraw offers favour to those who bring technology made with bushings, bearings, hinges, cogs, and any non-fixed contact surface that has been made with a check of 22 or higher. For Favour, the Worlitraw will  gift a person 30 tiny applications of// The ultimate lubricant//  which is made of **hypocritical helium**, which is supercritical helium, just magically at room temperature and with a higher surface tension. It has the marvellous property of making any surface nearly frictionless for hundreds of years. Alternately, he will alter one melee weapon within the person's posession to have a +4 to attack and damage rolls, replacing any other bonus, but not other magical effects. Finally, He can grant the Knørra rune to anyone who knows the magic of runes. 
 
 	Runewood produces foot in the form of fruit and the flesh of fey beasts. The Orclings of Aulufeydth are raised nearly entirely on magical food. Aulufeydth have names for the stages that children go through as they age, as each one is tied to what food is safe for them to eat. 
 		**Nama - **Nursing or weening infants
 		**Goolin - **Infants capable of eating solid food, they are only allowed food such as goodberry or Spideryam
 		**Krandle - **Fully autonomous prepubescent youth. These ones are allowed to eat skyfish meats, and it is the first meat they will have tasted.
-		**Zoozin - **Pubescent teenagers. As with many races, there's not much that can stop people in this stage of life from being impulsive. They are now allowed to try all things that the Aulufeydth can provide, but are warned of what ones may lead to their death. 
+		**Zoozin - **Pubescent youth. As with many races, there's not much that can stop people in this stage of life from being impulsive. They are now allowed to try all things that the Aulufeydth can provide, but are warned of what ones may lead to their death. 
 		**Umwaa - **Fully grown adults, most of which have become fully accusomted to eating things in the feywild and no longer panic when they occasionally turn into a bird for a while
 	Waste disposal has never been an issue in Runewood, and no one knows why. Waste gets thrown onto the nearest spruigia tree and even the most diligent explorers have never been able to figure out where it goes. 
 
