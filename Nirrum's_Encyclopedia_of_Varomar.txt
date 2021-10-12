@@ -17,7 +17,7 @@ Created Thursday 21 December 2017
 [[+Gannaga_River_Basin_&_The_Great_Grass_Road]]
 [[+Kholira]] 
 [[+Incursion_of_Demons]]
-[[+Notes on Additional Equipment]]
+[[+Additional Mundane items]]
 [[+Notes_on_Cosmology]]
 [[+Danzuishan]] 
 [[+NPCs]]
@@ -58,7 +58,8 @@ Created Thursday 21 December 2017
 [[+Weird_worldbuilding_notes]] 
 [[+Feywild]]
 [[+Magic]]
-+feats 
+[[+Shadowfell]]
+
 
 
 //Nirrum is clearly mad and we should ensure that none be allowed in his chamber, lest he bewitch someone into bringing his works to the presses for him to have them distributed. Triple the blind guard, and place as many wards and abjurations upon his rooms as you can! //

@@ -64,6 +64,28 @@ Anyway, here's a list.
 
 
 
+
+==== Level 1 spells ====
+	
+	//Prestimanipulation** (**Artificer, Bard, Sorcerer, Warlock, Wizard)//
+		1 action, V,S Transmutation
+		Range: 30ft
+		Duration: Up to 2 hours
+		You've been practicing your magic a lot. You create one of the following magical effects within range
+			* You produce an instantaneous distracting sensory effect. A  creature you can see within range makes a saving throw. On a failure, the creature has disadvantage on all perception checks that aren't to detect you.
+			* you instantly start or snuff out a number of small flames at points within range equal to your spellcast ability modifier. 
+			* You instantly clean or soil an object no larger than a number of cubic feet equal to your spellcast ability modifier
+			* You instantly Chill, warm, or flavour a number of cubic feet of nonliving material equal to your spellcast ability modifier
+			* You make a colour, medium mark, or symbol appear on an object or surface for a number of hours equal to your spellcast ability modifier.
+			* You create a nonmagical trinket or an illusory image that can fit in both of your hands and that lasts until the end of your next turn.
+	
+	//Saif of the Sword Sorcerer//  (Artificer, Bard, Sorcerer, Warlock)
+		1 action, V,S, Conjuration
+		Range: Touch
+		Duration: 1 hour, concentration
+		Reality works how //you// want it to work dammit, and this whacky thwacky thing should be no different.  You conjure a melee weapon that lasts  for the duration of the spell or until you dismiss it as an action. The melee weapon takes the form of your choice, choosing from the weapons table. The weapon you summon cannot have the heavy or reach property. Attacks with the weapon use your spellcasting modifier instead of strength or dexterity. 
+
+
 ==== Level 2 spells ====
 	//**Prestibrachiation (**Artificer, Bard, Sorcerer, Warlock, Wizard)//
 		1 action, V,S Transmutation
@@ -71,18 +93,14 @@ Anyway, here's a list.
 		Duration: up to 8 hours
 		This spell is a natural consequence of one of the most useful cantrips ever devised. Choose one of the the magical effects within range
 			* Your create an instantaneous,  sensory effect in a sphere of 30ft from a point within range, such as a storm of sparks, a blast of wind, or a strong scent, or a strange song. Targets of your choice in the area must make a single saving throw of your choice the effects differ for each saving throw. For Strength, targets that fail fall prone, for dexterity they get pushed 5ft in one direction, For constitution they gain disadvantage on perception checks made  with one sense until the start of your next turn, For intelligence they must use their reaction to flail helplessly, for wisdom they are frightened by you until the start of your next turn, for charisma they are charmed by you until the start of your next turn.  The effect must be the same for all targets in the area and is obviously magical.
-			* You instantly light or snuff out up to 10 candles, torches, or lamps or you start or extinguise one 5ft-wide fire. If you choose to damage a target with this effect, the targets must make a dexterity saving throw. On a failed saving throw you can do up to 10 damage divided as you choose among targets 
+			* You instantly light or snuff out up to a number candles, torches, or lamps or you start or extinguish a fire of a number of feet. If you choose to damage a target with this effect, the targets must make a dexterity saving throw. On a failed saving throw you can do up to a number of damage divided as you choose among targets that failed. The number in all cases is equal to twice your spellcasting ability modifier. 
 			* You instantly Sanitize or Contaminate a spherical zone of 30 feet. In this area, either all diseases that are not already within a host are immediately destroyed and all uncontained fine particulate matter is pushed toward the outside of the area, flowing around obstructions to the farthest point in the spells area, or all diseases within 60ft of the point you choose that aren't already within a host are drawn and distributed evenly around the 30ft area. Fine particulate matter within 5ft of the area is drawn in as well, moving gently along the ground until they are within the 30ft area, whence they are distributed evenly on any surface. 
 			* You chill, warm, or flavour up to 10 cubic feet of nonliving material for up to 8 hours. 
 			* You make a colour, texture, medium sized mark, or a symbol appear on a solid  target for up to 8 hours. Targets may make an intelligence saving throw  to avoid being marked by this effect. With this effect, your marking emits bright light for 5ft and dim light for another 5ft.
 			* You create a nonmagical trinket or an illusory image that is as wide as your shoulders and lasts until the end of your next turn
 		You may dismiss any of the effects of this spell as an action.
 		
-	//Saif of the Sword Sorcerer//  (Artificer, Bard, Sorcerer, Warlock)
-		1 action, V,S, Conjuration
-		Range: Touch
-		Duration: 1 hour, concentration
-		Reality works how //you// want it to work dammit, and this whacky thwacky thing should be no different.  You conjure a melee weapon that lasts  for the duration of the spell or until you dismiss it as an action. The melee weapon takes the form of your choice, choosing from the weapons table. The weapon you summon cannot have the heavy or reach property. Attacks with the weapon use your spellcasting modifier instead of strength or dexterity. 
+
 
 
 ==== 10th level Spells ====

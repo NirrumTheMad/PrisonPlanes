@@ -166,9 +166,6 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		This simply cross-peen smith's hammer was once used by a God to deliver punishment to repentant sinners. When you hit a creature with this hammer on your turn, you may expend a spell slot and roll a number of d6s equal to the slot's level and add that to the damage. The creature cannot die from this damage but can still be knocked unconscious. At the start of your next turn, if that creature is still alive, it gains an amount of hitpoints equal to twice the amount of damage you dealt to it, plus your cleric level. 
 		
 		
-		
-
-		
 **Clapper Mace**
 	//Mace, uncommon//
 		This round mace has a round metal loop in the bottom of the grip. When you hit with an attack with this mace, the impact is audible for 300ft. If the object you hit is metal, it is audible for a mile unless the object is particularly poor at conducting sound. If the object is size large or larger and specifically made for amplifying sound, it can be heard for up to 10 miles. For most objects, the sound is not loud enough to harm or deafen a creature.
@@ -362,6 +359,10 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 **Nistleburr Wand**
 	Conjuration spells you cast with this wand last for twice the duration
 	
+	
+**Spruigia Staff (**Requires attunement)
+	While you are attuned to this staff, you may expend a spell slot of 1st level or higher. The staff will unerringly tug toward an  nearby area with direct sunlight, following any pathway that is at least 1ft wide. The staff pulls in the direction of the path of shortest travel time. It will only choose submerged paths if other paths are more than twice the distance. The staff avoids areas of extreme heat and cold. Once it next reaches an area of direct sunlight, the staff will begin to bud and sprout leaves and attempt to root if it is laid down on the ground. 
+	
 **Adder Stone**
 
 	
@@ -377,7 +378,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 
 **Studley Component Chest**
 	//Wondrous Item, Very Rare,//
-	This masterfully crafted and well layed out wooden box contains only the finest of components and Magical sources of some. With self-refilling vials and magically constructed facsimiles of specific items, This component pouch provides you with effective (but otherwise of minimal worth) replacements for costly material components. You can use your component pouch to cast spells with Material components that have a specific cost of 100gp or less. If the component has a specified value and is consumed by the spell, the component pouch can reconstruct the facsimile for it over the course of three days, during that time, you cannot use the component pouch to recast the spell (unless you have a backup of that component)
+	This masterfully crafted and well layed out wooden box contains only the finest of components and Magical sources of some. With self-refilling vials and magically constructed facsimiles of specific items, This component chest provides you with effective (but otherwise of minimal worth) replacements for costly material components. You can use your component chest to cast spells with Material components that have a specific cost of 100gp or less. If the component has a specified value and is consumed by the spell, the component pouch can reconstruct the facsimile for it over the course of three days, during that time, you cannot use the chest to recast the spell (unless you have a backup of that component)
 
 
 **Defiler Falx,**
@@ -395,6 +396,13 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 
 **Magic Sheep**
 	(requires attunement by a shepherd)
+
+**Bloodthorn**
+	//Longsword, Legendary(Requires attunement)//
+		This oversized butcher knife grants a +2 to attack and damage rolls made with it. While attuned to Bloodthorn, You are unable to die. 
+		
+
+
 
 
 ==== Tagic Company Items ====
