@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-06-19T19:01:56-02:30
 
 ====== Wandering_Bosses ======
@@ -18,6 +18,14 @@ Enscorceled Trussari
 
 
 
+==== **Kholirahi Wanderling** ====
+	One of the sons of the godking shows up, and after the first round, a second one shows up to either help or harm his brother. Either way, both are hostile to the party, either by fear or ambition.
+		This is a great encounter to throw at people to get them entangled in Kholirahi affairs
+		
+		
+==== Divine Affairs ====
+	A Witch Lord and a Penitentiator (A high level Druid of stars and a high level Cleric of the grave) both believe the party to be marked for death
+
 
 == A Horrible Night to Have a Curse ==
 A vampire
@@ -25,7 +33,7 @@ Many Minions
 	Spectator for guarding a single location
 	crawling claws random
 	Skeletons Random
-	Spectres Random NIGHT
+	Spectres Random NIGHT Only
 	Flameskulls for hallways
 	Gibbering Mouther Wave boss
 	Werewolf Wave boss
@@ -34,4 +42,4 @@ Many Minions
 	Players are brought into a large building by a being and told that a vampire waits and watches the castle, but cannot enter without permission. 
 	**Events run as follows:**
 	When the players start, it is mid-afternoon, so they have some time to prepare. 
-	After 2 hours, 
+	After 2 hours, Bats begin to probe the windows and doorways looking for ways in. 

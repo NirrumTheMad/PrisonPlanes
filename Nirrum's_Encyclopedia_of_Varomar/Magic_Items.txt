@@ -161,7 +161,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 	//Javelin, Rare, Requires attunement//
 		When you throw this javelin more than 10ft, as an action on your next turn, you can teleport to it if there is enough space within 5ft of it to do so. At the end of your next turn, this javelin teleports to your hand. If the Javelin cannot return to your hand, it falls in front of you instead and attempts to teleport to your hand every turn thereafter until you grasp it next.
 		
-**Hammer of Oak and Iron**
+**Hammer of Ash and Iron**
 	//Light hammer, Legendary, requires attunement by a cleric//
 		This simply cross-peen smith's hammer was once used by a God to deliver punishment to repentant sinners. When you hit a creature with this hammer on your turn, you may expend a spell slot and roll a number of d6s equal to the slot's level and add that to the damage. The creature cannot die from this damage but can still be knocked unconscious. At the start of your next turn, if that creature is still alive, it gains an amount of hitpoints equal to twice the amount of damage you dealt to it, plus your cleric level. 
 		
@@ -372,7 +372,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		
 **Crazy balls**
 	//Wondrous item, Uncommon//
-		The first creature to fail their dex save against these ball bearings gets cursed. The crazy balls continue to jump forward and attempt to block their movement in any direction for one minute
+		The first creature to fail their dex save against these ball bearings gets cursed. The crazy balls continue to jump forward and attempt to block their movement in any direction for one minute, a creature must re-make their saving throw for every 5ft they move
 
 
 

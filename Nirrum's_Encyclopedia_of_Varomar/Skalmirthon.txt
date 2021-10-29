@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2017-12-29T17:09:10-03:30
 
 ====== Skalmirthon ======
@@ -92,10 +92,8 @@ Landmarks and Districts
 		 All other things
 	17) The Ruined Trade Center
 		Recently decorrupted with several ballista bolts full of stone-eater
-		 
 	18) Avuz District
 		Mostly Miners and other venturers down into the underark, this takes up the largest part of the city and is also home to the largest portion of drow
-		
 	19) The Great Underdark Highway
 		The passage to the mines, the pipes, and the undedark. Much of the Cities works are also accessible from here.
 		
@@ -119,7 +117,7 @@ Landmarks and Districts
 			
 			**The Chimera**
 			
-				1/3 Scotch Whiskey, 1/3 French chardonnay, 1/3 rum. You don't know what a french is but you're almost certain it's not something you want to run into. Fairly low key
+				1/3 Scotch Whiskey, 1/3 French chardonnay, 1/3 rum. You don't know what a french or a scotch is but you're almost certain it's not something you want to run into. Fairly low key
 			
 			**Shot Mimic**
 			

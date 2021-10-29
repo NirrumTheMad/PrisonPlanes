@@ -8,7 +8,38 @@ Created Wednesday 23 December 2020
 
 
 
-The ease and purpose of writing worldbuilding articles for the prison plane  is to make it easy for DM's to check for things they don't know, questions that change the flow of combat, movement through town, or how an NPC will react to a certain line of questioning. In order to figure out what's useful
+The ease and purpose of writing worldbuilding articles for the prison plane  is to make it easy for DM's to check for things they don't know, questions that change the flow of combat, movement through town, or how an NPC will react to a certain line of questioning. In order to figure out what's useful **(incomplete sentence)**
+
+
+To write for Snarl and Varomar in Particular.
+	**Snarl is a parody of much of previous Dungeons and Dragons Lore**. Particularly, it lampoons the critical underestimation of how much social species are willing to co-operate and bond, as well as examining the consequences of being selected to be hit with the banishment spell (or similar). To get the best effect. Take an established part of Dungeons and dragons lore from some other setting and imagine one of the following scenarios.
+		* What if the gods got therapy?
+		* What if People just got therapy?
+		* What if the gods were no longer involved?
+		* What if the gods needed to play nice in order to stay alive?
+		* What if people sat down and seriously considered their relationship with beings of planar power?
+		* What if people, particularly wizards, just decided to communicate and cooperate... Like normal people do?
+		* What is an easier way to do this?
+		* What is a harder way to do this, and why would anyone do it that way?
+		* What's the worst possible way this can go, and why did no one else see it coming?
+		* What if the worst possible scenario wasn't even that bad? 
+		* How can the worst case scenario be made into a great thing for a society or people? How does that change the execution?
+		* What is a key player or object of agency and power in a scenario and what would happen if it just showed up somewhere else?
+		* How can one explain the opposite of the established lore being true?
+		* What would happen if this scenario was the status quo, and people (Gods, Monsters, and Mortals all included) had just come to live comfortable around the effects?
+		* What would happen if a single exceptional invidual decided there should be a change? What happens if they succeed?
+		* What happens when people understand the exceptional and replicate it? What happens if they teach others how to do this?
+		* If a determined physicist, chemist, or other scientist managed to understand the fundamental mechanisms that caused a magical effect to happen, how would people use and apply that?
+		* How would a society set up a system to deal with the consequences of something, given some prep time and access to multiple high-level people?
+		* How would a species change to become sustainable when what made them exceptional no longer is?
+		* How would a being, entity, or force react to a plane that is fundamentally about the above ideas, when they are no longer special or even a failure?
+		* What does it take to //**be**// special on such a world?
+		* Is any of this even slightly sustainable?
+		* What is the most unorthodox but "technically" possible application of the premise of the concept being used? What's the most fun?
+		* What would happen if someone just missed an obvious answer?
+
+	Ideas like "Mongrel of every species" and "Gods outnumber mortals" are what gave rise to the race of the Manarahi and the common religious views on the plane. The three dragons that live in Danzuishan are the result of "nothing says no." The Evil Unicorns of Jiannok Sio and the Good drow of Skalmirthon and Cermina
+
 
 To this end you can look at the ways someone can gain from their surroundings and PCs are delightfully predictable in certain ways.
 	* They will always take a certain style of easy gain, Win-win situations with no effort that bulldoze or  inhibit someone they even slightly dislike
@@ -74,6 +105,7 @@ Some things don't differ much, A smooth marble wall and a smooth  plaster wall u
 
 
 9) Politics if simple
+	- Make a new subsection if not
 
 10) Calendar
 
