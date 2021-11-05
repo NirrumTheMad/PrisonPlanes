@@ -84,6 +84,8 @@ Anyway, here's a list.
 		Range: Touch
 		Duration: 1 hour, concentration
 		Reality works how //you// want it to work dammit, and this whacky thwacky thing should be no different.  You conjure a melee weapon that lasts  for the duration of the spell or until you dismiss it as an action. The melee weapon takes the form of your choice, choosing from the weapons table. The weapon you summon cannot have the heavy or reach property. Attacks with the weapon use your spellcasting modifier instead of strength or dexterity. 
+		
+	//Bumblehex //(Druid, Bard, Sorcerer, Wizard, Warlock)
 
 
 ==== Level 2 spells ====
@@ -101,7 +103,18 @@ Anyway, here's a list.
 		You may dismiss any of the effects of this spell as an action.
 		
 
+==== Level 3 Spells ====
+	
+	//Phobia//
 
+
+==== 9th Level Spells ====
+	//**Gatewarding**//
+		casting time: 1 day VSM (an object that functions as a tool, such as a sword, wrench, or pen worth at least 5000gp, which the spell consumes)
+		Range: 1 mile
+		Duration: Until dispelled
+		You ward an area with a radius of up to a quarter mile from intrusion. Choose a condition that any creature can fulfill in response to a challenge. As a creature approaches  1 mile of  the centre of the radius, they will become aware of the challenge but not the condition to fulfill it. If the creature fails to meet the challenge, they take force damage from a number of d6s equal to twice your **ability score. **If they meet the condition, they are unaffected by the spell and can continue into the area. The area is warded against planar travel, teleporation, scrying, and is completely invisible to those who have not met the condition
+		
 
 ==== 10th level Spells ====
 There are very few spells past 9th level that aren't prohibitively expensive to cast. From A DM's perspective, quests are guaranteed, because on this plane (which has a prohibitively small amount of metamorphic rock) it is difficult to find ingredients like *slate*
