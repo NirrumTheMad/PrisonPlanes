@@ -115,6 +115,20 @@ Anyway, here's a list.
 		Duration: Until dispelled
 		You ward an area with a radius of up to a quarter mile from intrusion. Choose a condition that any creature can fulfill in response to a challenge. As a creature approaches  1 mile of  the centre of the radius, they will become aware of the challenge but not the condition to fulfill it. If the creature fails to meet the challenge, they take force damage from a number of d6s equal to twice your **ability score. **If they meet the condition, they are unaffected by the spell and can continue into the area. The area is warded against planar travel, teleporation, scrying, and is completely invisible to those who have not met the condition
 		
+	//**Conjure Abberration**//
+		Casting time: 1 action
+		Range: 60ft
+		Components: VS
+		Duration: Concentration up to 1 hour
+		You summon abberations that appear in unoccupied spaces that you can see within range, Choose one of the following  options for what appears
+			* One Abberation of CR 12 or Lower
+			* Two Abberations of CR 6 or Lower
+			* Four Abberations of CR 3 or lower
+			* Eight Abberations of CR 1 or Lower
+			* Sixteen Abberations of CR 1/2 or lower
+		A summoned creature disappears when it drops to 0 hit points or when the spell ends
+		The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise begin ripping holes in reality. If sixteen or more holes are ripped in reality before the spell ends, an abberation of CR 10 or higher (chosen by the DM) emerges from the rifts and all summoned creatures become hostile to all life and ending the spell does nothing. The Creatures then remain until killed, during which time they attempt to destroy reality further. 
+		
 
 ==== 10th level Spells ====
 There are very few spells past 9th level that aren't prohibitively expensive to cast. From A DM's perspective, quests are guaranteed, because on this plane (which has a prohibitively small amount of metamorphic rock) it is difficult to find ingredients like *slate*

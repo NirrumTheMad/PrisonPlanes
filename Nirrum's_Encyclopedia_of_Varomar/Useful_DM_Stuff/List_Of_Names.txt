@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-08T21:57:07-03:30
 
 ====== List Of Names ======
@@ -31,6 +31,19 @@ Vyi Vyo - worker at berthold's body shop -- changeling
 aedfrugge 
 Wau!xorauch - The Head of Evocation replacing Ridicully cosades.
 Meggy
+Hetser
+Salla
+Detriyai
+Guls
+Afeho
+Throgan
+Mudon
+Dzorgon
+Mavie
+Westenbrunst
+Dauhlu
+
+
 
 Aban
 Thusio - A Jaquy pirate 
