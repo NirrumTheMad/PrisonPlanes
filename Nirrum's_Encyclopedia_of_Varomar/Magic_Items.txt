@@ -161,13 +161,10 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 	//Javelin, Rare, Requires attunement//
 		When you throw this javelin more than 10ft, as an action on your next turn, you can teleport to it if there is enough space within 5ft of it to do so. At the end of your next turn, this javelin teleports to your hand. If the Javelin cannot return to your hand, it falls in front of you instead and attempts to teleport to your hand every turn thereafter until you grasp it next.
 		
-**Hammer of Oak and Iron**
+**Hammer of Ash and Iron**
 	//Light hammer, Legendary, requires attunement by a cleric//
 		This simply cross-peen smith's hammer was once used by a God to deliver punishment to repentant sinners. When you hit a creature with this hammer on your turn, you may expend a spell slot and roll a number of d6s equal to the slot's level and add that to the damage. The creature cannot die from this damage but can still be knocked unconscious. At the start of your next turn, if that creature is still alive, it gains an amount of hitpoints equal to twice the amount of damage you dealt to it, plus your cleric level. 
 		
-		
-		
-
 		
 **Clapper Mace**
 	//Mace, uncommon//
@@ -204,7 +201,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		Strange gnomish magics have created this magical idea, which is, despite not having a physical form, visible to anyone who looks at it as the words "Better fists" expressed in the form that is easiest for that person to understand unless a creature is attuned to it. It weighs nothing but can be carried and laid on things, taking up no space, giving off no light, but interacting with the world as if it was solid. While attuned to this item, your unarmed strikes do Psychic Damage. As a Bonus action on your turn, you can change this damage to force damage. While attuned to this item, you can see through your own body as if it is invisbile should you choose. 
 		
 **Selfthrower Crossbow**
-	//Light// //Crossbow, Very rare, Requires attunement//
+	//Light// or //Hand// //Crossbow, Very rare, Requires attunement//
 		Once a day, as an action  you can press the tickler on this crossbow without loading ammunition after saying the command word. You are then launched up to 80ft in the direction you pointed. If you land on a hard surface, you take 1d6 damage for every 10ft you were launched this way.
 
 **Shame**
@@ -359,14 +356,15 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 **8-Cycle Copper Channel Sepraphinite Rutile Quartz Crystal Orb with Octarinate Runes**
 	Range+
 	
-**Focus Rod**
-	 save DC +
+**Nistleburr Wand**
+	Conjuration spells you cast with this wand last for twice the duration
 	
-**Orange Wood Wand**
-	spell attack, spell check+
+	
+**Spruigia Staff (**Requires attunement)
+	While you are attuned to this staff, you may expend a spell slot of 1st level or higher. The staff will unerringly tug toward an  nearby area with direct sunlight, following any pathway that is at least 1ft wide. The staff pulls in the direction of the path of shortest travel time. It will only choose submerged paths if other paths are more than twice the distance. The staff avoids areas of extreme heat and cold. Once it next reaches an area of direct sunlight, the staff will begin to bud and sprout leaves and attempt to root if it is laid down on the ground. 
+	
+**Adder Stone**
 
-**Mahogany-Core Staff**
-	Damage, spell die +
 	
 **Quickdraw Scabbard**
 	//Wonderous Item, Common, Requires attunement//
@@ -374,18 +372,38 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		
 **Crazy balls**
 	//Wondrous item, Uncommon//
-		The first creature to fail their dex save on these ball bearings gets cursed. The crazy balls continue to jump forward and attempt to block their movement in any direction for one minute
+		The first creature to fail their dex save against these ball bearings gets cursed. The crazy balls continue to jump forward and attempt to block their movement in any direction for one minute, a creature must re-make their saving throw for every 5ft they move
 
 
 
 **Studley Component Chest**
 	//Wondrous Item, Very Rare,//
-	This masterfully crafted and well layed out wooden box contains only the finest of components and Magical sources of some. With self-refilling vials and magically constructed facsimiles of specific items, This component pouch provides you with effective (but otherwise of minimal worth) replacements for costly material components. You can use your component pouch to cast spells with Material components that have a specific cost of 100gp or less. If the component has a specified value and is consumed by the spell, the component pouch can reconstruct the facsimile for it over the course of three days, during that time, you cannot use the component pouch to recast the spell (unless you have a backup of that component)
+	This masterfully crafted and well layed out wooden box contains only the finest of components and Magical sources of some. With self-refilling vials and magically constructed facsimiles of specific items, This component chest provides you with effective (but otherwise of minimal worth) replacements for costly material components. You can use your component chest to cast spells with Material components that have a specific cost of 100gp or less. If the component has a specified value and is consumed by the spell, the component pouch can reconstruct the facsimile for it over the course of three days, during that time, you cannot use the chest to recast the spell (unless you have a backup of that component)
 
 
 **Defiler Falx,**
 	Greatsword, rare
 		You can use a bonus action to rub the spine of this wickedly curved blade, causing it to sweat poison. The poison lasts last until you use a bonus action to rub the spine again or until you drop or sheathe the sword. While it sweats poison, the falx deals 1d10 extra Damage to any creature it hits. The Creature must make a DC10 saving throw or be poisoned for 1 minute. 
+
+**Aulufeydth Lamellar**
+	//Scale Armour, uncommon (requires attunement)//
+		You only take half damage from falling, 
+		
+**Green Knight Spear**
+	//Spear, Pike, Lance, or Trident, rare (requires attunement)//
+		This item grants a +1 bonus to attack and damage rolls. If you deal damage to a creature with this weapon, you curse them until the start of your next turn. In this time, they teleport while within reach of your weapon, you use your reaction to teleport with them, placing yourself within the reach of your weapon from them
+
+
+**Magic Sheep**
+	(requires attunement by a shepherd)
+
+**Bloodthorn**
+	//Longsword, Legendary(Requires attunement)//
+		This oversized butcher knife grants a +2 to attack and damage rolls made with it. While attuned to Bloodthorn, You are unable to die. 
+		
+**Hand of the Clockwork Castle **
+	//Any Sword, Requires attunement by a Paladin or Warlock//
+	You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit an Abberation or Monstrosity with this weapon, it deals an extra 2d10 Lightning damage, ignoring resistances and immunities. While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
 
 
 ==== Tagic Company Items ====
@@ -503,6 +521,14 @@ Dispel Magic
 		While attuned to these robes you gain the following benefits
 	* You have advantage on any saving throw against an effect that alters the flow of time for you
 	* If you are placed under the effect of time stop, make an Arcana(intelligence) check against the caster's spell save DC, If you succeed, the spell has no effect for you.
+
+
+
+
+
+
+
+
 
 ===== Avalon's Arcane Creations =====
 	//**__Permanent Magic items__**//

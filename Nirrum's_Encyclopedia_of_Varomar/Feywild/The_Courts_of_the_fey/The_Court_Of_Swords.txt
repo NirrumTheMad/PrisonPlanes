@@ -13,6 +13,7 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 		**THE RIGID BARON (ENFP) Swords, Archfey (Fighter,  unarmed fighting Samurai 12)**
 			Height: Equal to the height of the person they last spoke to
 			Influence: 19 Athletics (constitution) withstand a mighty fistbump with the core of your soul
+			Favour: 2560
 		THE RIGID BARON is a Muscular humanoid of masculine figure, firm hands, and skin that is golden if he is viewed from the back, Blue if he is viewed from the front, ruby red if viewed from the right and bright purple if viewed from the left. He is green if viewd from above and sunrise pink if viewed from below.  His face is the face of an axolotl but with a Large sweeping moustache. He wears only a black and gold kilt and leather sandals. THE RIGID BARON  likes to test the resolve of people who ask for his help by challenging them to a wrestling match. The outcome of the match is irrelevant to the baron though, simply that they showed their resolve by fighting well. The Rigid baron uses their favours to force people to use their strength, physical or mental. The rigid baron has a gargantuan greatsword that he can summon and weild without penalty as a bonus action, but only does so in the most dire of situations
 		
 
@@ -23,6 +24,7 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 			This strange pinkish Orange Flower grows rapidly  when it needs to speak  and withers to a crawling rhizome when it does not
 				Height: max 5ft
 				Influence: 4 History (charisma) Recall a moving moment that will impress this creature, it does not need to be from your own life
+				Favour: 1440
 			The Gogg is a moving flowerbed  that simply grows //in// the direction it's headed and withers in the direction it's coming from. The Gogg his violently opposed to people not experiencing things and will constantly try to enchant or illude people who are avoiding facing their own emotions. The Gogg is notoriously nosy and petty, moreso than one would expect. The gogg is easily swayed however, appeals to emotion nearly always work on it, even if they are ludicrious propositions. Despite this, they will use their full power to prevent people from damaging the hall, and we've not been able to quantify what it takes to stop them. It is suspected the hall itself has some sort of life or power. The Gogg  can grow a seedpod as a bonus action that at the start of the next turn drops a dancing rapier. 
 			
 
@@ -36,6 +38,7 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 		This cloud-coloured figure is hard to reach but easy to talk to.
 			Height: over 8000ft
 			Influence: Investigation (wisdom) 18 to force yourself to act without thinking on the illusions that misguide you
+			Influence: 3610
 	The Sel'Evi is hard to describe, by their cloudlike nature, both in metaphor and truth. They are the archfey of living in the moment and are extremely adept at forcing people to recognize that moment. They are truthfully one of the primrary gates to the So-called "Shadowlight", the positive harmonic of the shadowfell,  where the deadening, self-feeding emotions don't bring dread and destruction. The Sel'evi is more powerful than people give them credit for. The Sel'evi does not move from their position frequently, as they would take the entire corori cloud formation with them, and the difference between the two is useless to attempt to pinpoint. 
 
 
@@ -46,6 +49,7 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 	A dark maned elf with tawny skin and split hands that bleeds and wounds for sustenance 
 		Height: 5'7
 		Influence: Medicine (dexterity) 19 to throw sand, sugar, sap, honey, or alcohol in the most greivous wounds
+		Favour: 2560
 	Garsusanla bleeds from many long gashes all along their body. In their  hands which are cut in half between the middle and ring finger to the wrist, they weild a Pala (1d8 slashing) and a Kpinga (handaxe), the latter of which is often thrown.  Garsusanla is incompassionate, rough, and cares nothing for the plight of other people. To gain anything from him, one will have to bleed.  
 	
 	
@@ -60,6 +64,7 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 		A glassy human with no face, whose dark shirt whips in the wind and whose sword strikes quickly
 			Height: 6'
 			Influence: Intelligence (Any) 30 to remove all distractions from your mind and peel away those things that hinder you from a task
+			Favour:4000
 		The Saithek wields a **Good Sword**, always in two hands. He wears a dark shirt  that is partially unlaced revealing a glassy chest. The Saithek  goes first in any combat, and unleashes  nine attacks, seven of them with advantage. Surviving this onslaught is never a guarantee, but those who do have a unique opportunity. Fighting the Saithek can grant one a permanent bonus to their initiative equal to twice their proficiency modifier, but there are rules to follow. 
 			1) No talking in the combat without an explicit effect in the combat
 			2) No Failed concentration checks
@@ -74,6 +79,7 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 		A typical sprite who plays a pan flute, but has a fierce look in their eye
 			height:  9''
 			Influence:  Charisma (Persuasion 12) to convince them you are correct
+			Favour: 490
 		That which boils wine, whose true name is not hard to find, is a dedicated rat-killer, and intent on never missing another rat in their traps. To my knowledge, there are no rats in the feywild, but they have a calling and they will follow it.
 		
 	**Ukondo (ISTP)  Summer Eladrin **
@@ -86,12 +92,14 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 		An amorphous yellow creature that takes many startling shapes quickly
 			Height: varies wildly
 			Influence: 300 dexterity (sleight of hand) to fool their eyes.
+			Favour: 360
 		This creature revealed themselves as a boast. They are immensely sure of themselves and no fey, mortal, or eldritch horror has yet been able to break their gaze. They once stared down an eye carved in a rock until the rock weathered to nothingness. Their gaze can pierce any obfuscation and they never break eye contact. In the eyes of the horrors of the universe, they are a very very sharp rock, and one they will avoid touching. Overall their power is extremely focused
 		
 	**The Gambuuni, (INTP) Fomorian**
 		Wielding a massive sword (6d6), this giant rends trees that grow too close to the tiger's path
 			Height: 17'
 			Influence: 23 Athletics (Wisdom)  to join them in their treefelling
+			Favour: 640
 		Proof that will can be power in the feywild, This Fomorian is neither particularly evil nor particularly strong, but regardless, with their sheer focus, they are able to cut clean through massive trees that grow in front of the tiger. They grant favour to anyone who is able to cut down 12 trees with them, requiring at least 18 damage per strike. They can, seemingly, make any weapon resize to huge, tripling its damage die, but making it progressively more unwieldable to smaller creatures. 
 	
 	**Tal'morko (ISTJ) **Drow (College of Whispers bard 13)
@@ -102,10 +110,37 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 		
 
 
+Dance person
+
+
+
+
 ==== Dragonwild Garden ====
 	In the midmorning regions of they feywild, in a muggy dragonleaf forest not far from a coast is the Dragonwild Garden. Here, several Lore and Swords Fey work to procure many rare ingredients from fey and magical plants. They are overseen by **The Rosfunss, Archfey of quick wit, insults, and comebacks. **This is an excellent place to get ingredients for 
 	
 		Goodness you look terrible, I'm glad we didn't pull a changeling on you. You look like uncooked dough. 
 		
-		
+
+==== Bo'om-Neskir, Castle of Swords ====
+	On what used to be an island, in the centre what used to be a crater from a massive meteorite, is a building of epic proportions. To each person it will appear different. A pen, a sword, a hammer, a harp with thunderous sound and a slow shockwave, and rarely a giant smiling and biting mouth set into the fabric of the atmosphere as if the sky were skin, all in mid motion. The Object will always fit the theme of a tool that person must use to make decisions and changes against everything they do not know, Dividing fact from fiction, Illusion from reality, left from right, silence from speech. A path leads down the wall of the crater, across the basin, and up the impact cone of the island. Every step makes the object move slightly. Each person that travels the path will realize at some point that the motion of this object will impact **Them** specifically. The end of the trail is invariably scattered with remains of beings who encountered an impact from the object that person sees. The object only moves as the person does, and will rewind its course if they begin to move away from it, no matter the direction. Normal contact with the object is instant death, and this is the defense of the Castle of Swords. However, the castle is not without an entry. Meeting force with force, A challenge with challenge. When I , Nirrum the Mad, visited the Castle I heard these words in an impossibly final voice
+		"**I offer this challenge. The door is closed"**
+	and I cast a spell to unravel how to open the door... and the door opened. All "challenges" are of a similar nature. Parry the sword, Harmonize with the harp, Bring paper to the pen. In the face of this impossible structure, accept that you don't know everything and act on what you do know as if this challenge was something you did every day. The secret to the **Razor Gate** is that it is simply **The Gillesiinnika,** Gatewarden of the castle, minding a cast of **Gatewarding. **The illusion of the object coming to contact is dispelled and it is revealed that the object is, in fact, **significantly larger than first imagined, such that it takes up most of the view and never seems to get closer.** The path continues in this direction toward the business end of the object. Behind the Gillesiinika are two walls of white topped with brass finials. Climbing over these walls causes one to leave the castle, as will flying up more than a mile. The castle consists of a small maze of open-topped rooms spreading from a central corridor, functioning as a fortress. Within are the amenities to perform nearly any task, but no help to do those tasks. Using the castles' amenities is a privilege afforded to all visitors, but only those invited to use them can do so without owing favour.
+	
+	At the end of the Alabaster and steel main corridor is a large pedastel, upon which sits **The Geencheyna, Lord of Division, Edges, and Decisions, Ruler of the court of Swords.**
+	The **Geenchena** looks like a
+	
+	
+	**The Geencheyna, Archfey of Swords (ENTJ) (fighter 20 Battlemaster)**
+		This murky green Lord does not speak with words, but with swords
+			Hieght: Matches opponent
+			Favour: 4000
+			Influence: Beating any DC by precisely 1 in his presence, it must be a real challenge and not artificial to gain influence.
+		The Geencheyna appears as an old Gith. Murky Green wrinkled skin, deep sunken yellow eyes, and a suit of dark green armour, that is well articulated but lacks obvious holes or vulnerabilities. He rarely speaks and can intuit much of what sort of person they are facing from melee combat. This tells them not what a person may want, but what sort of person they are and to either consent to help them or not. In nonhostile combat with the Geencheyna, No attack rolls are made. Instead, Players may //Choose what damage they deal with a strike//. Higher numbers mean higher conviction, while lower numbers mean uncertainty and weakness. Higher total numbers may mean overconfidence, and lower numbers may express need more clearly. Medium ranged numbers may convey grim determination or indicate something obvious. In turn, the Geencheyna matches strikes, with higher numbers expressing dismissive doubt, Anger, and opposition, while lower numbers indicate consideration, invitation, playfulness. Numbers in the middle of the range are not neutral but more dismissive than higher numbers, such a response conveys irrelevance. In this combat, maneuvers and attempts, powers, and shenanigans are all allowed, and are interpreted as your approach and methodology to solving problems. As well, they convey your intent, and thus, another battlemaster will communicate the most efficienctly with the Geencheyna.  It is customary to greet the Geencheyna with your strongest attacks, but one may withhold such an attempt in order to hold their energy for the discussion. The geeyncheyna matches a player's weapon, provided it is a melee weapon, as he chooses to ignore any other method of communication. Players may help eachother and heal eachother in the discussion, but the Geencheyna gets angry if he gets ganged up on. It  is not polite. People who are rude or Hostile to the Geencheyna  face the full power of the lord of the court of swords. The geencheyna becomes 8 perfectly co-ordinated level 20 fighters armed with Longswords of the Grandmaster. Often combat will go until one of the parties is knocked unconscious, but this simply means that the normal rules for resting and healing apply, and even the Geencheyna sometimes needs to take a day to heal. The Geencheyna will redeem favour with granting a person Proficiency with any single weapon or item of any size or quality in their posession  with complete disregard to any restrictions. Magic that would control the person through this item becomes magic in their control, as if they were the source. Space and magic will warp to accomodate the use of the item, though gargantuan swords will remain difficult to use in doors and forests as an example. The Geencheyna will give favour in exchange for a mortal apprentice of suitable quality. Often, this Apprentice will become the one to be the judge of the player's actions and choices. The Geencheyna has many warlocks and a few Siofra. 
+
+
+	
+	
+	
+	The gillesiinika
+	fully black eyes with a hint of brown iris (around a pupil still twice as wide as it should be), orange-red hair, ass ears with blue flame, A white toga-like robe, burgundy hakama-like pants, and sheep feet
 

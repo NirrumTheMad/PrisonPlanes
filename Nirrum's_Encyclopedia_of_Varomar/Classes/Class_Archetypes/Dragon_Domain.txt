@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-17T22:23:55-03:30
 
 ====== Dragon Domain ======
@@ -45,5 +45,5 @@ Dragon Domain Spells
 
 
 === Draconic Essence ===
-	At level 17 you become immune to the element chosen from your draconic channel. When you use your Channel Divinity, You sprout wings  and gain a fly speed of 80ft for ten minutes. Once during this ten minutes, If you are forced to make a saving throw and fail, you can choose to succeed instead. 
+	At level 17 you become immune to the element chosen from your draconic channel. When you use your Channel Divinity, You sprout wings  and gain a fly speed of 80ft for ten minutes. Once during this ten minutes, If you are forced to make a saving throw and fail, you can choose to succeed instead. You regain the use of this ability when you complete a long rest
 

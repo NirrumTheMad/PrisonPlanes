@@ -1,0 +1,114 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-23T12:31:14-03:30
+
+====== How to write for the Prison Planes ======
+Created Wednesday 23 December 2020
+
+
+
+
+The ease and purpose of writing worldbuilding articles for the prison plane  is to make it easy for DM's to check for things they don't know, questions that change the flow of combat, movement through town, or how an NPC will react to a certain line of questioning. In order to figure out what's useful **(incomplete sentence)**
+
+
+To write for Snarl and Varomar in Particular.
+	**Snarl is a parody of much of previous Dungeons and Dragons Lore**. Particularly, it lampoons the critical underestimation of how much social species are willing to co-operate and bond, as well as examining the consequences of being selected to be hit with the banishment spell (or similar). To get the best effect. Take an established part of Dungeons and dragons lore from some other setting and imagine one of the following scenarios.
+		* What if the gods got therapy?
+		* What if People just got therapy?
+		* What if the gods were no longer involved?
+		* What if the gods needed to play nice in order to stay alive?
+		* What if people sat down and seriously considered their relationship with beings of planar power?
+		* What if people, particularly wizards, just decided to communicate and cooperate... Like normal people do?
+		* What is an easier way to do this?
+		* What is a harder way to do this, and why would anyone do it that way?
+		* What's the worst possible way this can go, and why did no one else see it coming?
+		* What if the worst possible scenario wasn't even that bad? 
+		* How can the worst case scenario be made into a great thing for a society or people? How does that change the execution?
+		* What is a key player or object of agency and power in a scenario and what would happen if it just showed up somewhere else?
+		* How can one explain the opposite of the established lore being true?
+		* What would happen if this scenario was the status quo, and people (Gods, Monsters, and Mortals all included) had just come to live comfortable around the effects?
+		* What would happen if a single exceptional invidual decided there should be a change? What happens if they succeed?
+		* What happens when people understand the exceptional and replicate it? What happens if they teach others how to do this?
+		* If a determined physicist, chemist, or other scientist managed to understand the fundamental mechanisms that caused a magical effect to happen, how would people use and apply that?
+		* How would a society set up a system to deal with the consequences of something, given some prep time and access to multiple high-level people?
+		* How would a species change to become sustainable when what made them exceptional no longer is?
+		* How would a being, entity, or force react to a plane that is fundamentally about the above ideas, when they are no longer special or even a failure?
+		* What does it take to //**be**// special on such a world?
+		* Is any of this even slightly sustainable?
+		* What is the most unorthodox but "technically" possible application of the premise of the concept being used? What's the most fun?
+		* What would happen if someone just missed an obvious answer?
+
+	Ideas like "Mongrel of every species" and "Gods outnumber mortals" are what gave rise to the race of the Manarahi and the common religious views on the plane. The three dragons that live in Danzuishan are the result of "nothing says no." The Evil Unicorns of Jiannok Sio and the Good drow of Skalmirthon and Cermina
+
+
+To this end you can look at the ways someone can gain from their surroundings and PCs are delightfully predictable in certain ways.
+	* They will always take a certain style of easy gain, Win-win situations with no effort that bulldoze or  inhibit someone they even slightly dislike
+	* They'll get attached to someone who is nice to them in tiny ways but always sus of people who are nice in big ways, unless they think you're an idiot, which is a fantastic if you're not
+	* Like monkeys, they will climb over everything, but rarely ever crawl
+	* If a machine to build a problem can be built, it is guaranteed to be built, doubly so for weapons of war
+	* If the party has a bag of holding it is immediately filled with one of two concepts: Everything not nailed down, or water.
+	* If any mechanic does more damage in any way than A player can do on their own, that mechanic will be weaponized
+	* they never want to admit they made a mistake
+	* Loss aversion is incredibly powerful. they will backpedal endlessly, and chase a thief to the ends of the earth if they suspect them of having purloined their pocket lint
+	* If presented all choices as equal, they will pick the most salient option. If any choice is presented as preferable, they will look for a more preferable option
+With this in mind, to write effectively to aid DM decisions, we must have clear, neutral and modestly detailed information on things like Walls, Doors, legal systems,  who-knows-who and why, where to get anything and what one will not find in the area. 
+
+Some things don't differ much, A smooth marble wall and a smooth  plaster wall usually only differ in colour and texture, but not in a **player's ability to climb it. **//If you mention it, assume it can and probably will be used in some way. If it's not, no one noticed, if it is, you look clever.// A description of a rough wall implies climbing,  the colour of an object highlights that it is different from the things around it. Every thing written about should be considered as something to be interacted with, and the things written about it should be **from the perspective of how that thing gets interacted with. **Smooth means no climb, Thick means hard to break, 
+
+
+
+1) A short description of how the town came to be
+  i) a gloss of the general culture of how people interact with eachother
+  ii) Their rough MO of living
+  iii) something good about the place
+
+2) Urban description
+   i) basic construction and reason for that construction
+	* A poor house
+	* An Average house
+	* An elite house
+   ii) different types of building within the town
+
+3) a description of the geographic location, rooooooughly what to find  in terms of landscape bumpiness, rough types of trees, and maybe a noteworthy feature
+
+4) biomes
+
+5) ecology
+   i) plants
+	 1. wood (if you can describe what this wood is good for in real life, or have the civ use it, that's good too)
+	 2. Food (for both survival and committing diplom
+	 3.  Danger
+   ii) Animals
+	  1. Threatening Predators
+	  2. Problematic hebivores
+	  3.  Noteworthy smaller species
+	  4. Monsters
+   iii) Peoples and inhabited civilizations
+
+6) Economy
+   i) Where do they get their money and wealth
+   ii) Supply chain  (sources of wealth, where people who get wealth from the source tend to spend their money and what they spend it on)
+   iii) Imports and exports
+   iv) repeat i-iii for all major sources of economy
+   v) high value items they have trouble obtaining (good for adventurers)
+
+7) Sociological notes
+  i) government  and class movement
+  ii) high points of cultural values (stability, community, competitions)
+  iii) Policing and services
+  iv) Sources of Entertainment
+  v) How the classes are divided, what is inheritable
+  vi) A problem with other societies that this society has avoided and the rewards for that
+  vii) A problem they uniquely have and how they deal with it
+  viii) hospitality practices
+  ix) weird bits
+
+
+9) Politics if simple
+	- Make a new subsection if not
+
+10) Calendar
+
+
+
+   iv) Regional Megaproblems like dragons

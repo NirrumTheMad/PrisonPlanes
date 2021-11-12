@@ -17,8 +17,10 @@ Created Friday 29 December 2017
 					Nirrum The Mad's Encyclopedia of Varomar is mine.... I am Nirrum the mad.
 
 			Nova Alo'ta Tasa, Tasa follows nova 
+			
+			Having him building the house is good for dad
  (Family house) builds-other <That for> ((good) Is-other (father))  
-	rahialat  
+	rahialat  Lappa'ta 
 	
 
 

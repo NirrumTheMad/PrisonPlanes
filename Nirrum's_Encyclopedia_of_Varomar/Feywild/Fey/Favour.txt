@@ -12,5 +12,14 @@ Fey are, with their strange temporal nature, largely born as who they will alway
 One of the best ways for fey to get favour they probably don't deserve is items from the prime material plane that hold up to some level of scrutiny, but this is also an easy way to get them killed. Tin Armour has about as much value as your average fey castle, the latter of which may have the peculiar property of letting anything in that's not touching the ground. Like cold air or meteors.
 
 
-Value of  a Favour = level
+Value of  a Favour = level x10
 You can add your level to favour you are trading to increase its value, but this **requires** a quest on your part, and fey who are aware of the value of human promises will ask that the quest be done before the favour is granted. 
+Gnomes value their level squared x 10, but their lifespan is directly tied to the favour they have and they can die of old age if they run low
+
+
+To Calculate a Fey's required Favour to act
+
+CR^2*10 (+-) 1d20 per CR((for influence)) , Minimum 1
+
+Finding a creature's true name automatically grants one influence with that fey
+

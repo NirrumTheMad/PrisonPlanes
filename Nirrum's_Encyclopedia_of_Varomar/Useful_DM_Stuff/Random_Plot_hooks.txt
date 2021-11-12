@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-13T14:59:42-02:30
+
+====== Random Plot hooks ======
+Created Wednesday 13 October 2021
+
+Each random plot hook is marked as choice or no choice. Random plot hooks that have no choice are great for moving an unmotivated party along, but can be mean for already motivated parties. Choice random plot hooks always have the danger that a party may abandon them early or not follow through on the events presented to them
+
+1. A seemingly straight line of mushrooms crosses the road or path in front of the party. If they rest before crossing a second line of mushrooms, they wake up in a Storygrass Grassland. **No Choice**
+	a. [[+A_Feywild_Adventure]]
+2. A thief, //La Volpe Rex//, steals all of their items and heads toward the nearest (or most DM Convnient) large city to sell them. **No Choice**
+3. A wizard named Gallicon of Morwerta joins them for a night. The wizard happens to have the same destination as the party but is tired of travelling. They're working on a ritual to get there faster. In the morning they prepare a teleportation circle and tell the party to come on through and bring their stuff. **No choice**
+	a. [[Danzuishan:Danzuishanese Maze]]
+4. There is a rather wide crack on the side of the road with a decently worn pathway leading into it. **Choice**
+	a. [[+A_Journey_Through_The_Underdark]]
+5. A thick cloud in the sky defies the wind and follows the party for most of the day. Any measure of investigation or interaction causes a chariot drawn by huge horses to descend from the cloud. Within the Chariot is a cloud Giant named Zakaros, who represents their lord Endius, who has offered to hire the party if they are willing to perform retributive justice on Endius' behalf. **Choice**
+	a. [[+Giant_Justice]] 
+6. A Wandering Boss Appears! 
+	a. [[NPCs:Wandering Bosses]]
+7. Two ancient dragons of both Random alignment and species are fighting nearby, they are both heavily wounded and both offer treasure to the party for help. They are too embroiled in battle to explain their position. 

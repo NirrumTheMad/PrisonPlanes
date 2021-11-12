@@ -5,7 +5,7 @@ Creation-Date: 2021-09-19T23:51:41-02:30
 ====== Runegraver ======
 Created Sunday 19 September 2021
 
-[[+Runes]]
+[[Magic:Runes]]
 
 
 Alt wizard

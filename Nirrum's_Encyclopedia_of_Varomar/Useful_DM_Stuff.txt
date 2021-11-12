@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-13T14:53:03-02:30
+
+====== Useful DM Stuff ======
+Created Wednesday 13 October 2021
+
+[[+Weird_Worldbuilding_notes]] 
+[[+Rules_Augmentations]] 
+[[+NotesOnImportantGameChanges]] 
+[[+Deep_Lore]] 
+[[+How_to_Write_for_the_Prison_Planes]]
+[[+Random_Plot_hooks]] 
+[[+List_of_names]]
