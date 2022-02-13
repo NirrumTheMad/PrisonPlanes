@@ -35,6 +35,12 @@ When travelling in the feywild, keeping that 116.57 degree change in mind is cri
 With this in mind, **It should be clear why without relative reference frames at every step, no map of the feywild would even begin to make sense, despite the fact that they can technically be constructed and give accurate directions.** The gap between context and abstraction does not fit on paper. **Though with clear reference frames, such as a straight hallway, it is hard to tell the difference.**
 
 
+IF you want a completely sane fey projection, like a nerd, any given region of the fey follows these rules or just use a C120 Projection of a hyperdodecahedron, because if you're here for this part, you're probably crazy and I want to hear all of it:
+	There is an up and a downside to any 3-space orientation, they are different places occupying the same regional space, and are differentiated by some (magical) difference in 4-space orientation, specifically a full inversion along one axis. For a fun version of this effect, Standing on one's head and spinning counterclockwise is enough to get you to the other side, though the geographical features may be prohibitive through movement from one side of the face to another. 
+	
+	Moving any amount in any direction can bring you to one of two other possible locations, in the same orientation. Moving in a "straight line" realative to your local projection of 3 space will bring your back to your original location after 1.028 planar lengths. For ease, this will be about six full days' travel on foot. You'll move out of a region in 0.324 planar lengths, or about two full days walk in a straight line. Any deviation at all can lead you to one of two other sets of 12 regions, each of which share one region with the region set you just moved out of. In a nearly infinitely improbable chance, one may travel across a vertex and end up in one of //six// adjacent regions.  
+
+
 Other interesting notes: 
 * By nature of equivalence, the forces that govern a body change drastically on large scales. 
 

@@ -27,7 +27,7 @@ Things to do when the players enter the feywild
 	a. If they are travelling separately
 		1. They age a number of days equal to the value of the cumulative favour they still owe. 
 		2. If they have gained more favour than they owe, then time does not increment forward for them, and their life on the prime material plane extends by an equal number of days, and miscellaneous fey may stop by through their entire life to fulfill an old debt
-		3. For each favour they have completed while in the feywild,  Increment the number of days by the amount of favour they owed, though they do not necessarily age that much.
+		3. For each favour they have completed while in the feywild,  Increment the number of days of time that has passed in the waking world by the amount of favour they owed, though they do not necessarily age that much.
 	b. If they are travelling as a group, the group's totals are taken into account and the average is used, though individual results may be applied for extremely standout results
 5. Magic items from the feywild
 	a. Unless made of fully redeemed favour, that is, unless a fey has put their full due effort into an item, it may come apart under the most arbitrary of circumstances. Sunlight exposure being a very common thing to evaporate fey items. 

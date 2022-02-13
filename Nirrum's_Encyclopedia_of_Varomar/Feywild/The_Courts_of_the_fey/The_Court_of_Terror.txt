@@ -10,7 +10,7 @@ Created Monday 24 August 2020
 
 
 ==== Cauldrona Canyon ====
-	Entering this canyon is a spiritual journey, as many places in the feywild are. It is one of the few places where 90 degree angles get you their expected results.  The Canyon is the work of a being called **Gran-nan, **who is the **Archfey of Old Traumas. **The Cauldrona Canyon is only a mile long and filled with magical Rain. The rain falls in thick blots that obscure any form of vision, hearing, tremorsense or blindsight, limiting it to 20ft before nearly all meaning is lost, other than points of bright light, which can be seen for up to 100 ft.  **Gran-nan **guards, or rather, lives next to **The hole in your dreams.** A stone Dias next to **Gran-nan's House** marks the location of the hole. The rain never falls on the dias, and if one looks upward, the hole in the clouds reveals an inky black abyss. Staring into, listening for, attempting to smell, or reaching for the hole reveals the exact location of all major elements of each individuals own worst memories in their most consistent form. The person who killed one's parents, the corpse of a spider that crawled across one's face, the house one was born in, the house one died in, the house one left part of themselves behind and what remains of that. The parts of the memory can be explored and selected. The less horrible the memory, the less clear it is. This interaction can instantly cure and repair Retrograde //and// Anterograde amnesia, among other long-term memory disorders, curses, and spells. A person can choose one feature of their memory, even obscure or metaphysical aspects and be given a clear and understandable location. If there are special instructions required to enter a location, the map will provide one option, though not necessarily how to achieve it. It is not cryptic, but it does not solve problems. A specific pattern of actions required to unlock a spell is easy, but the response to getting to a floating island is simply "fly". The memory of this location and these instructions remains permanently clear so long as nothing interferes with the memory of the trauma which also remains clear and so long as the object or concept is present in a meaningful form. 
+	Entering this canyon is a spiritual journey, as many places in the feywild are. It is one of the few places where 90 degree angles get you their expected results.  The Canyon is the work of a being called **Gran-nan, **who is the **Archfey of Old Traumas. **The Cauldrona Canyon is only a mile long and filled with magical Rain. The rain falls in thick blots that obscure any form of vision, hearing, tremorsense or blindsight, limiting it to 20ft before nearly all meaning is lost save in noted exceptions and dramatic moments, other than points of bright light, which can be seen for up to 100 ft.  **Gran-nan **guards, or rather, lives next to **The hole in your dreams.** A stone Dias next to **Gran-nan's House** marks the location of the hole. The rain never falls on the dias, and if one looks upward, the hole in the clouds reveals an inky black abyss. Staring into, listening for, attempting to smell, or reaching for the hole reveals the exact location of all major elements of each individuals own worst memories in their most consistent form. The person who killed one's parents, the corpse of a spider that crawled across one's face, the house one was born in, the house one died in, the house one left part of themselves behind and what remains of that. The parts of the memory can be explored and selected. The less horrible the memory, the less clear it is. This interaction can instantly cure and repair Retrograde //and// Anterograde amnesia, among other long-term memory disorders, curses, and spells. A person can choose one feature of their memory, even obscure or metaphysical aspects and be given a clear and understandable location. If there are special instructions required to enter a location, the map will provide one option, though not necessarily how to achieve it. It is not cryptic, but it does not solve problems. A specific pattern of actions required to unlock a spell is easy, but the response to getting to a floating island is simply "fly". The memory of this location and these instructions remains permanently clear so long as nothing interferes with the memory of the trauma which also remains clear and so long as the object or concept is present in a meaningful form. 
 	
 	
 	
@@ -56,13 +56,17 @@ Created Monday 24 August 2020
 	Out of reach of the light of the sun, despite its position in the noontime regions, there is a pit. Several massive  white roots pierce the ground on the way  down into the pit, **as of 5854, they are streaked with red. ** Should one venture down into the pit, climbing down the treacherous bramble of  thick criss-crossing roots, they will be  able to reach the font of unwhelming.  Liquid emotion condenses here, too powerful for mortals, caustic to all but the most powerful fey. This liquid is useful for creating golems, as a drug for creators and artists, as a poison that can breifly stun any creature that isn't immune to being charmed or frightened, and as a source of magic for paladins, sorcerers, and certain warlocks, but interestingly, not bards. The font is guarded by **The Enamel Scale, the archfey of erosion. **Smaller fey deliver sacks of teeth  to the Enamel scale in exchange for favours
 
 	**The Enamel Scale** (INFJ) Court of Terror, Fey Snake/Mirage Dragon, (Green dragon Wyrmling stats, minus fly speed + a fear/hallucination skill?)
-		Length: 45 ft
+		Length: 125 ft
 		Influence: 18 Medicine (Wisdom), you must identify the wisdom teeth among the scales
 	Description: A giant snake, scaled in teeth, with opaque solid pink eyes, which resides in a circular pool of water, who’s surface is never disturbed, regardless of what falls in or touches it. Her scales are patterned ever so slightly, similar to those of an albino ball python, with yellow and white teeth alternating to form the pattern. Her own teeth are a collection of mammalian carnivore teeth. The pool floor itself is littered in cast-off blackened, rotted teeth, though the pool is never clouded by the muck. Humanoids who still have their wisdom teeth when they encounter her owe the serpent a favour, however they can annul it by offering the teeth up.
 
 
 ==== The Estuary of Wide Jaws ====
-	In one of the cooler areas of the morning in a misty cove at the end of one of a long river is a wide delta that is part mangrove, part grassy swamp, and part tidal flat, which gives way to an intense drop into the fey oceans, reaching extremely deep. Stepping into this place is near certain death, as it is the home of **The Perolossani, Archfey of Aquatic Jaws, **a name which makes much more sense in sylvan. This lord of the water holds sway over predatory fish  with sharp teeth. Muskelunge, Sharks of all sorts, Barracuda, Pirannha, Quipper, etc; all creatures of their domain. 
+	In one of the cooler areas of the morning in a misty cove at the end of one of a long river is a wide delta that is part mangrove, part grassy swamp, and part tidal flat, which gives way to an intense drop into the fey oceans, reaching extremely deep. Stepping into this place is near certain death, as it is the home of **The Perolossani, Archfey of Aquatic Jaws, **a name which makes much more sense in sylvan. This lord of the water holds sway over predatory fish and other creatures  with sharp teeth. Muskelunge, Sharks of all sorts, Barracuda, Pirannha, Quipper, etc; all creatures of their domain.
+		
+		**The Perolossani, (ISTP) **Court of Terror, (marilith but with teeth instead of swords)
+			Length: 50ft  
+		This sea serpent bears the red and black head of an eagle but the beak has been replaced with a thick-lipped mouth hiding thousands of needle-like teeth.  Two arms with seven-fingered hands reach from its silvery blue scaley body and a long, sail-like fin extends half of its length. The Perolossani grants favour for 200lbs of fresh raw meat from a beast, and redeems favour in the form of an item called the **Mermaster's Purse. **This Shark egg case is large enough to fit two medium creatures inside. Once a day, two creatures  can spend a minute inside the purse and emerge with dorsal and brachial fins, a long tail with vertical flukes, and the ability to breathe underwater. They get a swim speed equal to three times their movement speed and immunity to pressure, heat or cold while within liquid water. Going back into the Purse removes this effect 
 
 
 
@@ -72,6 +76,20 @@ bugman
 
 
 
+==== The Wilderkilm Experience ====
+	 Wide quiet forests in the pale late morning   spread out from a crumbled old fireheart, barely a translucent circular hill poking out of their canopy. It is the quietest place in the feywild that sound can still be heard in. You know when you've reached the Wilderkilm when you hear your heart and footsteps only. There are no paths.  To navigate the Wilderkilm, one must not talk, not through voice, through gesture, through telepathy. There must be no communication. If you speak or say something in any way, you invoke the ire of, and owe a favour to, the **Aucholemery.**
+		There are trials for the wilderkilm
+
+
+**The** **Aucholemery, Archfey of Stillness**
+
+	A Pair of Almond shaped emerald green  eyes speckled with blue and white sit in a dark skinned but slender face with a Smile that always shows sparkling white teeth are all that is even remotely humanoid of the Aucholemery. Scales with deep grooves reminiscent of long burnt wood, black and streaked with white near edges run the length of a large lizard-like body. Long Monitor claws grip the ground and propel that shimmering smile forward, only to stop her without sign of momentum when she is in range to work her magic. She grants favour in exchange for a gallon of holy water, A holy magical item, or other blessed or consecrated goods. She redeems favour with a few abilities
+		**The eye of the basilisk: **As an action you can force a creature to make a constitution saving throw against a DC equal to your level or be petrified for one hour or until you end the effect as an action. The use of this ability recharges after a short rest
+		**Perfect stillness: **As a Bonus action, you can anchor yourself perfectly still in whatever position you are in, similar to an immovable rod. A creature attempting to move you from  this position must make a DC 30 strength check to do so. Any Damage you take in this state is postponed untily you leave it, at which time it all applies simultaneously. The state lasts for 1 hour or until you end it as a bonus action. The use of this ability recharges after a short rest
+		**Deafening Silence: **You can cast the spell silence at will. 
+		
+
+Holy and sacred place, even for the fey who barely know of such things. 
 
 
 
@@ -96,6 +114,8 @@ bugman
 		* A prophecy 
 		* Geas
 		* Contagion
+		* The insistent memory of a loved one who is dead
+		* Guilt, pure and horrifying
 
 	
 	The Ruler of the Court of Terror is a fantastically precise individual. I shall have to describe them when other threats are dealt with. 

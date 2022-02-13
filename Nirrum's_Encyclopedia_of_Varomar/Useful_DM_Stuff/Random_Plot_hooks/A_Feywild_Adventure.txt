@@ -7,4 +7,98 @@ Created Wednesday 13 October 2021
 
 The party, whether by sleeping in a fairy ring, Following a fey creature around a turn they could not see, slipping through a door under a bed, or by some other means have entered the  [[Feywild]]
 
+This adventure guarantees losing time in the prime material world, though the amount of time can be shortened by diplomacy instead of action. The price for failing to notice things, or sometimes for just rolling poorly is to lose time, life, and any hope of achieving their goas. The Reward for victory is to  become unbelievably powerful in unheard of ways within dungeons and dragons. It is not wise to run this campaign for people who have time-sensitive things in the prime material plane. In standout cases, adventurers might not even come back together. Players must be informed beforehand that without extremely careful planning, this character will likely have to leave things in their life behind. As a DM, the main item that can undo this dilation are Gamblebrumbus pears.
+
 Their journey will be decided by them but getting out will prove a challenge, and getting out unchanged will be impossible
+
+True conflict: Bolstered by Furi funding, a Konian wizard from Morwerta seeks to learn how to create Antimagic Amulets, like the ones used by the Trussari, and to give them to the cult of Changelings in order for them to locate one of the bone artifacts, A small amulet made from one of the small bones of the ear, that allows one to revist thoughts, which in turn will allow them to crack open other bones faster, in exchange for destroying the Manaharahi town of Ardeo. The final boss of this will be a multi-powered warlock-like caster
+
+Visible conflict: A lost party must find a way to leave the feywild.
+
+The Map
+	 Every two days of travel in a straight line without a guide, flip a coin (or roll 1d2). If there has been any deviation, do this sometime during the third day of travel. If the result is the same for three days in a row, they end up in the same region that they started in.
+	
+	Remember to roll for structure
+	
+	
+	d2
+		Heads light
+		Tails Dark
+	d4
+		1 -Midnight/noon
+			1 Starfly fields/bouldergarden
+			2/TinyTechtonicValley
+			
+		2 - Deep night/Afternoon
+			1 Unveiling Woods/Puddletops
+			2 Wicklands/Elephant Sargasso Sea
+			3/Songgrove
+		3 - Morning/ Late afternoon
+			1 Dragonleaf Rainforest/Puddletops
+			2 Storygrasslands/ Painted rainforest
+			3 Solid Dunes/Drayevarg
+			4 Spruigia Forest
+			5 Bladefen
+		4 - Evening/Late Morning
+			1 Stage Road/mirrorlakes
+			2/Halberd Pine forest
+	Structures
+		Wronghouse
+		Fairy Ring
+		Fireheart
+		standstone outcropping
+		Serpent's Cave
+		Courtly Location
+	Weather
+		Seafog
+		Rotoscape
+
+
+
+
+
+Possible Rewards: One Antimagic amulet like those the trussari wear
+				Mounts FROGS
+
+
+Beats: Entering the feywild
+	Accruing debt 
+	A visit from the Gassure, Archfey of Sedation, who offers them a way out
+	Journey to blackmail, to set up other fey to be indebted to the Gassure through their agent The Kelaningo. Any outcome is the "planned" outcome
+		Getting a Gamblebrumbus fruit and getting it into the drink of an archfey called **The Calluwegga**, at which point they turn into a pixie and throw a fit. Players are instructed to not take more than the one they need for the quest or consequences could be dire. 
+			Sidequest that completes after the campaign: Deliver some chalk to an abused child. Taking on this quest decrements your owed favour by 1690, Completing it extends the life of every member in the party by that many days, unless they are in the feywild when it completes, in which case they come back 1690 days later than they would have.  Failing to complete this quest results in fey trying to recoup 1690 favour from you until the debt is payed.
+		Delivering a small child named **Raja Wallshatter, **A gold dragonborn who doesn't seem to emotionally react to much. from Caldrona Canyon into the hands of a  Kholirahi General named **Kobet'a** **Shalyssa, **who is quite kind, though unwilling to discuss politics with those who aren't in a position of political or military power.
+		Placing a small glass ball in the middle of a mirrorlake
+	The gassure revealing their deception and that if the players leave, they'll lose several hundred years off their lifespan unless they pay back the favour they owe, then telling them that their best hope is to find the Creyhundeeth, in The house of Fable, Myth, and Stories, Castle of terror, which lies just on the other side of where they are from runewood
+	Framed in Runewood by the cult (split path)
+		Undoing the cult's deception and pursuing
+			Their base is in the feydark
+		Undoing the cult's deception and heading to the castle of Terror
+			The Creyhundeeth offers:
+				**A goodberry bush, which needs daily watering and casts the spell goodberry once a day. **It is resistant to frost and snow but does poorly in heat. It prefers partial sunlight and very well drained soil, which must be partially wood fibres. 
+				**An Acorn. **Shortly after leaving this area, a tiny baby fey emerges, proclaims itself Shewilladima, and tells the party to call her The Modwila at all times so she can keep her name, and shows the party immense love. 
+					Shewilladima knows her favour belongs to the party, but she does not have much. she can grant a total of 19,341 favour, after which time, she will perish.
+					Shewilladima is a member of the court of Valour. She is courageous but not suicidal. She has other ambitions, such as becoming big enough to hold a sword or even use a bow.
+					She will sacrifice herself wether the party wants her to or not if they are going to lose something they love when they exit the feywild.
+					She will help the party as best she can but she is CR 0. She will hide if there is danger and try to protect things important to the party if she can. She has a lift strength of 10lb
+					She is easily scared by stories of violence, but is courageous in the face of it. 
+					She can cast two spells: witch bolt once a day and Lightning lure as a cantrip. She has 4hp and a fly speed of 25ft. Her AC is 11
+				**A tiny vampiric Mimic that disguises as a compass and tries to bite non-fey that it gets close to. It cannot get through thick leather and needs blood once every two days. More and it will grow, less and it will die.**
+				
+			The Creyhundeeth tells the party that in order to get out of the feywild, they will need to vist The **Wendhariramonknihuai, **in the court of Glamour and eloquence.
+
+		Running from Runewood
+			The party is chased to the Estuary of wide jaws and must treat with **The Perolossani**
+				**The Perolossani Requires meat, and puts a geas on the party to get him some in exchange for their lives.**
+				After they deliver this meat, the **Perolossani** tells them that they should head to the castle of terror (see above)
+
+	
+	
+	Finding out about the wizard and their plans
+
+	
+	
+	Defeating the wizard 
+
+
+
