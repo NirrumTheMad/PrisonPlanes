@@ -7,6 +7,7 @@ Created Tuesday 12 October 2021
 
 [[+Floraids]] 
 [[+Faunaids]] 
+[[+Occurences]] 
 
 ===== Geographic regions and biomes =====
 Without attempting to describe their relationships to eachother, the feywild has the following notable regions, sometimes multiple. Most biomes on the prime material also exist in the feywild, but here are some notable new additions
@@ -94,6 +95,9 @@ Without attempting to describe their relationships to eachother, the feywild has
 ==== The Underfey ====
 	There is apparently an underdark in the feywild.
 
+==== The Feydeep ====
+	There is also at least one ocean in the feywild
+
 ==== Standstone outcroppings. ====
 	perfectly vertical inclusions in any landscape, Standstone looks like sandstone, but it has the peculiar property of always attempting to stand on edge, like some strange gravity magnet. Huge bluffs of Standstone pierce the feywild skyline, boulders dot the landscape, and occasional, natural stacks of standstone  pop up all over. Standstone is useful for its resillience to damage and its strange ability to maintain its position. Vines that grow on these outcroppings are useful in making  slippers of spider climb
 
@@ -116,9 +120,50 @@ Without attempting to describe their relationships to eachother, the feywild has
 ==== Corridoorways ====
 	The same magic that makes wronghouses makes these expansive labyrinths in the underfey  where the space-altering geometry of the feywild is particularly noticeable. Corridoorways are filled with hallways and various doors, not unlike the Danzuishanese maze in execution, but with less spatial sense. Corridoorways often have special monsters that follow people through their winding pathways.
 	
+
 ==== Wicklands ====
 	Trees with limbs of wax and wick, the floor is old melted wax. New wick sprouts break through the floor. Fill it with fire elementals hiding in soft pockets of wax under the surface like ant-lions
 	
+
 ==== Chesslands ====
-	Well into the dark of light, the ground begins to become patchy until it becomes solid squares. People Travelling through the region are in an extremely wide chessboard, and one of the only parts of the feywild where right angles make sense. Chesslands have their own specially adapted denizens
+	Well into the dark of night, the ground begins to become patchy until it becomes solid squares. People Travelling through the region are in an extremely wide chessboard, and one of the only parts of the feywild where right angles make sense. Chesslands have their own specially adapted denizens
 	
+
+==== Witchriver Grove ====
+	Snaking through the midnight regions are occasional rivers that run thick with an opaque golden liquid. Hags, witches, druids, and the occasional wizard frequent the feywild in search of these rivers, as the liquid is useful for potions and spells, being a mighty catalyst for illusion spells. Of course, nature abhors a vacuum, and Witcheaters prowl the shores and surrounding Groves. The trees are Mostly Lionwillows and are excellent for making wands
+	
+
+==== Weeping rivers ====
+	Rivers of undrinkable salt water have made this dark land a graveyard. In the Evening portions of the Feydark, where the last vestige of sunlight barely illuminates the sky, dead trees and cracked earth are stalked by special horrors of the feywild. Powerful Fey of the court of terror, Lysamnoras, weep into bowls as part of a ritual to summon the tears of the feywild, and all the surrounding planes. When the verdant earth finally is ready to weep, it does so in torrents which quickly carve a channel in the landscape and suck out the life around. Creatures of other planes sometimes come to drink the tears, from beasts who crave salt, to demons and devils. 
+	
+
+==== Bellfields ====
+	 A site of small flowers made of copper and bronze that hold tiny lights within them, caged within the petals. When they tinkle in the breeze, they call out the unbound regrets that were left unfulfilled.
+	
+
+==== Lightflower Hills ====
+	Massive flowerbuds dot hillsides in the midnight regions, where stars still shine. Each bud, as large as a small creature, contains an explosive surprise. Once ripe, they release showers of sparks and loud popping sounds and booms, but need to be disturbed to do so. When the wind blows in these regions it is an inescapable cacophany of Light and roaring thunder. Disturbing them before the wind blows however may alert predators who stalk the hills to your presence.
+	
+
+==== Starcrags ====
+	Where terrain suddenly turns to sharp walls of  grey stone, the night of the feywild reveals its grandest and quietest beauty. The starlight is enough to see by for even the most sun-drenched of humans. Indeed, the Arabesque mosaic of the feywild night sky sits as an incomparable jewel. After about an hour within the starcrags, something special happens. Thin lines begin to spring from creature to creature, barely interrupting the shadows of the ground, but enough to be seen. Each person will find themselves in a constellation of their own, with the lines telling of the true nature of the relationships between travellers. However, the crags have predators, dark creatures that are truly alone, and no line can touch them. An astute traveller can track them by finding their constellation in the sky, and to watch for wandering stars, as those are the only tracks the shadowy beings have.
+	
+
+==== Pale Expanses* ====
+	A white expanse of semi-opaque substance as ground, with a dark sky arching over it. Unremarkable by itself, were it not for the skeletons that populate the waters, dipping in and out of it, despite it's (mostly) solid nature. Giant whale bones, small fragile fish, sea-serpent-esque eels. The white can be scooped like water, but it flows back into a flat surface as if directed by an internal will, to the point that it will crawl out of cupped hands to fall and silently merge with the mass again. White skeletons for the black sky, black, fully fleshed figures for the milk. When they dive into the black, their flesh melts away to expose bones, and it wraps them again gently when they rejoin the white. You are the only flesh thing that walks in the black.
+
+==== Myceloria* ====
+	A psychedelic coloured forest of mushrooms. A perpetual drizzle snow dust plagues the place, a steady but gentle rain of spores. They will grow in your lungs, in your hair, on your skin. Once big enough, they fall off and populate new areas. Largely harmless. The twist is that the place only looks remotely normal and mushroom shaped once you've inhaled the spores. Otherwise the shapes look nonsensical and wonky. Perhaps the colours also only look normal once you've been shroomed.
+
+==== Lighting Praeries* ====
+	Fields of roiling gray clouds that cover the ground eternally. Were one to pass one's hands under them, one would not feel a ground, despite there clearly being one to stand on. Bundles of electricity hop and caper around the clouds like lambs, occasionally being devoured by black cumulus with plaintive zapping sounds.
+
+==== Defacing* ====
+	Entering this zone is like entering a kind of.. fuzzy crosshatch vision. Everything desaturates and becomes just a little sharply fuzzed at the edges, but faces smear in long trails (of both people and animals). Identity fluid here, and one might find oneself in the company of more than one initially suspects.
+
+==== **Foefog** * ====
+	A creation of a dark night-time mist descending upon the feywilds, a time when the fleeting shadows in your periphery wake to become temporarily just a little too real, creeping up to stand in the corners of your room, hiding in the piles of clothes and among the books, and even curled at the end of your sleeping bag.
+	
+==== Deepstorm* ====
+	tentacles from the sky in storm vortexes like an upside down ocean. Sometimes fish drop out of the sky.
+

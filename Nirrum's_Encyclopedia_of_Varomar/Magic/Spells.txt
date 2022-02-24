@@ -102,6 +102,12 @@ Anyway, here's a list.
 			* You create a nonmagical trinket or an illusory image that is as wide as your shoulders and lasts until the end of your next turn
 		You may dismiss any of the effects of this spell as an action.
 		
+	//**Spring Wind **(Cleric, Druid, Ranger, Paladin)//
+		1 Action, V,S,M (a small piece of ice, cold water, mud, or an unsprouted but viable seed)
+		Range: 30ft
+		Duration: 1 minute, concentration
+			You draw vitality toward yourself and let growth flow back, if you can manage it. Choose one creature you can see or smell within range. You immediately make a saving throw that that creature would have to make on their turn using your own modifiers. While this spell is active, the creature no longer makes saving throws, but you must make saving throws for them against the effect as normal. They still suffer the effects of the spell or ability as normal. If you succeed on the saving throw, it is as if they have succeeded the saving throw, if you fail, it is as if they failed.
+			**Casting at higher levels.** For each slot level beyond second, you are able to roll an additional effect 
 
 ==== Level 3 Spells ====
 	

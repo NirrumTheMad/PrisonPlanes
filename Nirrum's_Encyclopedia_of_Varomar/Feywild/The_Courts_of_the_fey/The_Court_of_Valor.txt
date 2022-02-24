@@ -157,5 +157,15 @@ Dashon ra
 
 ==== The Centre of Magic ====
 
-	Set in the midnight point of the Feydark, is the dancing ground that is the centre of magic. 
+	Set in the midnight point of the Feydark, is the dancing ground that is the centre of magic. Here, Fae of all kinds come to dance, but on each change of the seasons (a rare event in the feywild) The greatest dancers pull the magic of the far realm through the warden of lightning and weave it into new magic. At this time, magic flows evenly, as perfectly as the dance, which allows for all sorts of carefully timed rituals. The Grounds are  cared for by **"The Mapmaker" **A rather tall Siofra. 
+		
+		**The Mapmaker, Guardian of the Dancing Ground**
+			So many people tried to control him because of the conditions of his birth, now only he can decide his path
+				Height: 6'7
+				Influence: None, as a questionably Mortal NPC
+				Favour: Varies
+			The mapmaker wears no clothes to give breath to the cerulean markings on his skin to glow in the night and sparkle in the light of sun and moon. He was raised outside of the feywild and still has ties there. As Siofra, he can deal in both favour and more conventional means of trade. He never breaks a promise but is careful when he makes them.  He accepts wine and beer as gifts, but is not bound to reciprocate. Still, he chooses to do so, and as all mortals, can act without recieving gifts without endangering his life. If he knows someone's quest is to safeguard or protect a child, he will help, and he has a fondness for helping addicts out of their addictions. If needed, he can learn what paths have been tread in an area and roughly when they were made. He can find people through  nearly any obscuring magic. He is incapable of reading any script but is intelligent otherwise
+
+
+
 

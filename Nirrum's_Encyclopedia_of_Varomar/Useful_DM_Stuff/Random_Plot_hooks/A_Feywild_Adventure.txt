@@ -24,24 +24,32 @@ The Map
 	d2
 		Heads light
 		Tails Dark
-	d4
+	2d4 
 		1 -Midnight/noon
 			1 Starfly fields/bouldergarden
-			2/TinyTechtonicValley
-			
+			2 Starcrags/TinyTechtonicValley
+			3 Lightflower hills/Bladefen
+			4 Structure
+			5  /Iridescent woods
 		2 - Deep night/Afternoon
 			1 Unveiling Woods/Puddletops
-			2 Wicklands/Elephant Sargasso Sea
-			3/Songgrove
+			2 Witchriver Grove/Elephant Sargasso Sea
+			3Bellfields/Songgrove
+			4 Structure
+			5 Pale Expanse/Lightning Praerie 
 		3 - Morning/ Late afternoon
 			1 Dragonleaf Rainforest/Puddletops
 			2 Storygrasslands/ Painted rainforest
 			3 Solid Dunes/Drayevarg
-			4 Spruigia Forest
-			5 Bladefen
+			4 Structure
+			5 Myceloria/
+			 
 		4 - Evening/Late Morning
-			1 Stage Road/mirrorlakes
-			2/Halberd Pine forest
+			1 Stage Road/Mirrorlakes
+			2 Wicklands / Halberd Pine forest
+			3 Weeping River/Spruigia Forest
+			4 Structure
+			5
 	Structures
 		Wronghouse
 		Fairy Ring
@@ -49,11 +57,26 @@ The Map
 		standstone outcropping
 		Serpent's Cave
 		Courtly Location
+		Feydeep Ocean
+		Revelvalley
+		
 	Weather
 		Seafog
 		Rotoscape
-
-
+		Foefog
+	Build-a-fey
+		d6 Court
+			1 glamour - immediate sensation base, no long term
+			2 Swords - single scene based, Focused on short term goal
+			3 Valour - Full composition based. Focused only on long term goal, irreverent of short term
+			4 Lore - Likes items and things they do
+			5 Whispers - Likes plots, plans, scripts, and meticulousness
+			6 Terror - Likes scenes, settings, areas, frequently nature
+		d20 Level
+			Roll a d12, Bard is not an option unless you want it to be
+			Or pick a monster of the same CR and give them those stats!
+		Level x Level x 10 Favour
+		
 
 
 
@@ -61,8 +84,31 @@ Possible Rewards: One Antimagic amulet like those the trussari wear
 				Mounts FROGS
 
 
+Example buy-in quests:
+	Finding a fey parent or ancestor: Reward
+	Lost Caravan: Enter with goods
+	Hunting down a hag to save a child: Reward
+
+
+
+
+Sidequests:
+	Slay the Jabberwock
+	Clear a human encampment
+	Clear a wronghouse of an indescribable, abominable presence (grace eater)
+
+Moments: 
+	A fairy they've been having conversation with gets suddenly upset, runs to a valourboard, and requests aid. A sprite wielding a sewing needle and an acorn cap accosts the party and tells them to stop talking to that fae
+	
+	
+	
 Beats: Entering the feywild
 	Accruing debt 
+	The First hub is Shildeerintin
+	
+	
+	
+	
 	A visit from the Gassure, Archfey of Sedation, who offers them a way out
 	Journey to blackmail, to set up other fey to be indebted to the Gassure through their agent The Kelaningo. Any outcome is the "planned" outcome
 		Getting a Gamblebrumbus fruit and getting it into the drink of an archfey called **The Calluwegga**, at which point they turn into a pixie and throw a fit. Players are instructed to not take more than the one they need for the quest or consequences could be dire. 
@@ -70,9 +116,9 @@ Beats: Entering the feywild
 		Delivering a small child named **Raja Wallshatter, **A gold dragonborn who doesn't seem to emotionally react to much. from Caldrona Canyon into the hands of a  Kholirahi General named **Kobet'a** **Shalyssa, **who is quite kind, though unwilling to discuss politics with those who aren't in a position of political or military power.
 		Placing a small glass ball in the middle of a mirrorlake
 	The gassure revealing their deception and that if the players leave, they'll lose several hundred years off their lifespan unless they pay back the favour they owe, then telling them that their best hope is to find the Creyhundeeth, in The house of Fable, Myth, and Stories, Castle of terror, which lies just on the other side of where they are from runewood
-	Framed in Runewood by the cult (split path)
+	Framed in Runewood by the cult 
 		Undoing the cult's deception and pursuing
-			Their base is in the feydark
+			Their base is in the underfey
 		Undoing the cult's deception and heading to the castle of Terror
 			The Creyhundeeth offers:
 				**A goodberry bush, which needs daily watering and casts the spell goodberry once a day. **It is resistant to frost and snow but does poorly in heat. It prefers partial sunlight and very well drained soil, which must be partially wood fibres. 
@@ -86,16 +132,17 @@ Beats: Entering the feywild
 				**A tiny vampiric Mimic that disguises as a compass and tries to bite non-fey that it gets close to. It cannot get through thick leather and needs blood once every two days. More and it will grow, less and it will die.**
 				
 			The Creyhundeeth tells the party that in order to get out of the feywild, they will need to vist The **Wendhariramonknihuai, **in the court of Glamour and eloquence.
+			
 
 		Running from Runewood
 			The party is chased to the Estuary of wide jaws and must treat with **The Perolossani**
 				**The Perolossani Requires meat, and puts a geas on the party to get him some in exchange for their lives.**
 				After they deliver this meat, the **Perolossani** tells them that they should head to the castle of terror (see above)
 
-	
-	
-	Finding out about the wizard and their plans
+	The Court of Glamour and Eloquence.
 
+
+	Finding out about the wizard and their plans
 	
 	
 	Defeating the wizard 
