@@ -42,14 +42,14 @@ The Map
 			2 Storygrasslands/ Painted rainforest
 			3 Solid Dunes/Drayevarg
 			4 Structure
-			5 Myceloria/
+			5 Myceloria/Dimming Marsh
 			 
 		4 - Evening/Late Morning
 			1 Stage Road/Mirrorlakes
 			2 Wicklands / Halberd Pine forest
 			3 Weeping River/Spruigia Forest
 			4 Structure
-			5
+			5 
 	Structures
 		Wronghouse
 		Fairy Ring
@@ -82,6 +82,7 @@ The Map
 
 Possible Rewards: One Antimagic amulet like those the trussari wear
 				Mounts FROGS
+				Adventurer's axe
 
 
 Example buy-in quests:
