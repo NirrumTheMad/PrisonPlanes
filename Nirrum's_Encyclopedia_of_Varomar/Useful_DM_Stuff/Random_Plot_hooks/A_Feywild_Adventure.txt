@@ -37,7 +37,7 @@ The Map
 			3Bellfields/Songgrove
 			4 Structure
 			5 Pale Expanse/Lightning Praerie 
-		3 - Morning/ Late afternoon
+		3 - Morning/ Late afternoon (**Dawn and Dusk)**
 			1 Dragonleaf Rainforest/Puddletops
 			2 Storygrasslands/ Painted rainforest
 			3 Solid Dunes/Drayevarg

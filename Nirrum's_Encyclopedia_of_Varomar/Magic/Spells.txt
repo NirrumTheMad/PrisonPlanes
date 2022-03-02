@@ -119,6 +119,8 @@ Anyway, here's a list.
 		
 
 
+
+
 ==== Level 7 Spells ====
 	
 	//**Frisson Static (**Wizard, Sorcerer, Warlock)//
@@ -128,6 +130,19 @@ Anyway, here's a list.
 		Each creature within range makes a Charisma Saving throw. On a failed save They are stunned until the start of your next turn. Creatures that are immune to being charmed have advantage on the saving throw
 
 
+==== 8th level spells ====
+	Invoke Taliyudur
+		Whispers
+	Invoke Neskir
+		Swords
+	Invoke Rei-oh
+		Valor
+	Invoke Sillowdar
+		Glamor
+	Invoke Unshinihi
+		Terror
+	Invoke Dalri
+		Lore
 
 ==== 9th Level Spells ====
 	//**Gatewarding**//
