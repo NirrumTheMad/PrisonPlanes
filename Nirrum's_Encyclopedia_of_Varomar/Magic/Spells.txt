@@ -132,17 +132,17 @@ Anyway, here's a list.
 
 ==== 8th level spells ====
 	Invoke Taliyudur
-		Whispers
+		You infuse those who hear you with the magic of the court of whispers. Creatures friendly to you make insight, persuasion, deception, and intimidation checks using your modifiers unless theirs are higher.
 	Invoke Neskir
-		Swords
+		The Magic of the Court of swords bolsters your allies. Weapon attacks made by creatures friendly to you deal extra damage equal to twice your charisma modifier 
 	Invoke Rei-oh
-		Valor
+		The Court of valour's magic cascades to your allies. When an ally that can hear you moves, they  do not provoke opportunity attacks and they can make opportunity attacks when a target uses its movement to move into their range.
 	Invoke Sillowdar
-		Glamor
+		The court of Glamour's magic erupts from you. For the duration of the spell, allies make 
 	Invoke Unshinihi
-		Terror
+		The Court of Terror's magic oozes across the terrain. All allied creatures that can hear you add your charisma bonus to any saves they make. The ground around them is difficult terrain
 	Invoke Dalri
-		Lore
+		The skillful magic of the court of lore 
 
 ==== 9th Level Spells ====
 	//**Gatewarding**//

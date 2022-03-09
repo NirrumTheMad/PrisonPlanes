@@ -15,6 +15,7 @@ Tagline
 	Height
 	Influence
 Description
+Favour
 
 The Phenotype describes what sort of fey, such as pixie, sprite, or redcap. Archfey are what any fey can become, or even be born as. An Archfey's form is unique to themselves and posesses its own properties
 

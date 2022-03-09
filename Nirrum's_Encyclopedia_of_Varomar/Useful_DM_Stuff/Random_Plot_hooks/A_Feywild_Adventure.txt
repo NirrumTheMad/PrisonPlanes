@@ -13,6 +13,10 @@ Their journey will be decided by them but getting out will prove a challenge, an
 
 True conflict: Bolstered by Furi funding, a Konian wizard from Morwerta seeks to learn how to create Antimagic Amulets, like the ones used by the Trussari, and to give them to the cult of Changelings in order for them to locate one of the bone artifacts, A small amulet made from one of the small bones of the ear, that allows one to revist thoughts, which in turn will allow them to crack open other bones faster, in exchange for destroying the Manaharahi town of Ardeo. The final boss of this will be a multi-powered warlock-like caster
 
+
+Recommended items:
+	A magnifying glass
+
 Visible conflict: A lost party must find a way to leave the feywild.
 
 The Map
@@ -30,7 +34,7 @@ The Map
 			2 Starcrags/TinyTechtonicValley
 			3 Lightflower hills/Bladefen
 			4 Structure
-			5  /Iridescent woods
+			5 Gamnus Oak Woods/Iridescent woods
 		2 - Deep night/Afternoon
 			1 Unveiling Woods/Puddletops
 			2 Witchriver Grove/Elephant Sargasso Sea
