@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-04-06T20:49:10-02:30
 
 ====== Classes ======
@@ -15,6 +15,7 @@ Classes as they are seen in the world
 [[+Monk]]
 [[+Paladin]]
 [[+Ranger]]
+[[+Runegraver]]
 [[+Sorceror]]
 [[+Warlock]]
 [[+Wizard]]

@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2017-12-29T16:31:33-03:30
 
 ====== TimelineOfEvents ======
@@ -18,11 +18,11 @@ Year -1000, The great white world tree (whose name is an inexpressable mix of ch
 Year -500, The population of the plane has exploded, thousands now dwell, mostly underground. Aquatic species have begun to show up in the oceans now that enough Oxygen is being developed by Algae that have fed off the nutrients of corpses that did not survive the harsh young world. 
 	
 **Year 0**
-	The Mana people emerge on the desolate shores of the Dragon Coast, and found the City of Tepet, where they are first able to make contact with Pelor through a powerful cleric of his. Pelor is the first god to walk the newly created plane and locates the creators that remain. He speaks with the great white tree and using its roots as anchors, spreads great wilds and vegetation for the population to harvest and farm. He calls Melora to do the same for the sea, and she does, filling it with a great many animals. 
+	The Mana people emerge on the desolate shores of the Dragon Coast, and found the City of Tepet, where they are first able to make contact with Pelor through a powerful cleric of his. Pelor is the first god to walk the newly created plane and locates the creators that remain. He speaks with the great white tree and using its roots as anchors, spreads great wilds and vegetation for the population to harvest and farm. He calls Shashelas to do the same for the sea, and he does, filling it with a great many animals. 
 	
-Year 1 Mielikki and Silvanus of the forgotten realms find the plane through twin clerics. They make the wilderness truly wild, and fill it with its own life. One Might argue that they corrupt the works of Melora and Pelor, but let's be honest, this plane is about to go tits up.
+Year 1 Melora and Silvanus of the forgotten realms find the plane through twin clerics. They make the wilderness truly wild, and fill it with its own life. One Might argue that they corrupt the works of Shashelas and Pelor, but let's be honest, this plane is about to go tits up.
 
-Year 2 Orcus Follows Mielikki and Assaults the plane. This begins the first Cataclysm, which sinks half of the only part of the plane that was dry land , cracking it from west to east. Tepet is submerged entirely. magma leaks from the sea of fire that makes a shield around Teruna's Physical prison, The remainder of dry land is almost entirely scorched, The Great Tree's roots are cut on those lines. Tepet is saved by her will, forming a great shield of wood against the waves. 
+Year 2 Orcus Follows Melora and Assaults the plane. This begins the first Cataclysm, which sinks half of the only part of the plane that was dry land , cracking it from west to east. Tepet is submerged entirely. magma leaks from the sea of fire that makes a shield around Teruna's Physical prison, The remainder of dry land is almost entirely scorched, The Great Tree's roots are cut on those lines. Tepet is saved by her will, forming a great shield of wood against the waves. 
 
 Year 50, Reluctantly, Nek Uiji Beseeches Pelor to help, the plane is breaking, the prison now has cracks, and The Great Tree is losing strength. Pelor calls upon the Raven Queen. 
 
@@ -52,8 +52,6 @@ Year 829, a few other gods from multiple pantheons travel to see this plane, so 
 1024 - The Hobgoblin empire of the Sunstorm crown sets up in the middle of the ushlubarel basin
 
 1066 - The hobgoblins are at full war with the skalmirthon dwarves
-
-1117 - The Barretts and the Burkes usurp the O'morans, taking over their castle in Balina with the help of  Gerald Fitzwalter, Whose father was then Castellan of Windsor castle, Walter FitzOtho de Windsor.
  
 1176 - The sunstorm crown is defeated and their civilization erased.  A dwarven outpost is set up where their capital was 
 
@@ -111,6 +109,8 @@ Year 2024, The beginning of instabilities for the Manarahi on the Mana Ulla leyl
 2367 - Konia begins to build its inner walls and claims them as a defense against the monsters outside them
 
 2368 - **The university of Manaharamu is founded on the longest day of the year by the first Archmage, Kilikara Campani, A half-orc from Konia who came to Manaharamu to learn their magic. When she could not find a teacher, she built a house to teach what she knew and spent all of her earnings collecting more and more advanced magical equipment. All who would come to what was then a building smaller than even the entrance hall, would offer respects, but worked under the conditon that Kilikara would watch them. From watching, She became a wizard of the 17th level, focusing on transmutation. She spent a large portion of her time making the university bigger. While Celebrated, she was killed in a wizards duel by an elf named Fenil Morowal. Fenil would become the second archmage and establish the tradition of succession in the university's various departments.**
+
+2434 - Broville, a rather small subterranean community makes contact with the lelumadil dwarves from the far side of the underground sea. The Dwarves offer trade for their abundant cave wheat, which dwarves favour for beer.
 
 2492 - The year of darkness. A  stain on the history of varomar. An offshore earthquake releases millions of monsters into the oceans. Many make their way ashore, foul things of the abyss, of limbo, of the far realm and of what lies behind the dreary grey of the shadowfell. This year and the decade thereafter is a time where all races band together to fight against the foulness that is part of our home. Orcs stand alongside elves, humans, halflings, and others with the blessing of gruumsh, Kill or be killed. The tenure of such creatures has never really been full erased from the surface, but by the strength of our spirits they were certainly diminished. It is not even two months after the event in the south when all nations are engulfed in the struggle, including those in the north 
 

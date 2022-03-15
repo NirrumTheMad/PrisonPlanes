@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-04T20:32:02-02:30
+
+====== Underdark Ecology ======
+Created Sunday 04 July 2021
+
+The underdark of snarl is perhaps one of its most ecologically neglected, bearing an extreme sparsity of diversity which has, in centuries past, been the source of great strife. Enough Geothermal warm zones, chemical processes, and magical nodes exist to provide hotspots of life-sustaining energy, but the flow of nutrients is still being established.
+
+
+Notable autotrophs or low-level producers include:
+
+	Glowing moss (Umbribyrum sp.) - A non-vascular manaphilic oxygen fixer, using extremely low levels of magic to break apart many forms of oxygen-bearing gas. Grows mostly on cielings, leaving floors coated in various flammable oils and salts depending on the species. Excellent places to find phosphorus, sulfur, and a variety of waxes, all often Octarinous. Glowing moss glows different colours depending on the species, with the hardiest variety Phosphividus, glowing a dull orange, while more delicate varieties like Carbovidus glow a blue-green. All forms of Umbribyrum are carcinogenic and toxic to consume.
+		//Nirrum's Note: Some plants are named in a system I've come to know as "old common", which I suspect is linked to Latin, a language I occasionally stumble across, usually in other botanical and ecological texts. Handy for separating phenotypically similar species//
+	
+	Geoficus - not a true fig, but named because of its similar leaves and bulb-shaped fruit, this short, woody tree is a blessing to adventurers and underdark herbivores. Its fruit is strongly sweet and often extremely watery, though the flavour is often compared to "thirty licorice roots in a wet sock". Despite this flavour, they are extremely energy dense and a single fruit can contain nearly a quarter of a day's calories and water. These trees only grow in geothermal hotspots. They are extremely resistant to toxic gasses and do not burn very well. Their leaves are edible but very bitter, and emit a foul smell that causes other nearby Geoficus leaves to shrivel for a few hours and can attract predators. They fruit constantly, each fruit taking approximately 21 days to grow in optimal conditions (lots of water, carbon), but sometimes taking over three months to fully mature. The seeds are phenomenally small and a diet of only geoficus can cause gastric problems as they are coated in a thin layer of wax that adheres to the instestinal tract of many creatures, promoting their spread via endozoochory. The Wax degrades over the course of about a week, at which point the seeds let go and pass through the carrier's stool, but eating the fruit sparingly causes little to no discomfort. Seeds that dry out without finding a sufficient spot to spread can remain viable for centuries. 
+	
+	Cave Wheat - This extremophilic strain of wheat is one of the most prized cereal crops in the world. It is capable of producing energy on Mana, a catalytic oxidation of aqueous phosphorus, aluminum, or sulfate, or simply subsisting on geothermal heat. It requires very little moisture but grows more swiftly in high humidity environments. While the stalk is inedible to everything except some hardy underdark herbivores like Rothe, the grains are high-energy, starchy and glutenous. Enzymes in the cave wheat berry break down the starches into sugars in the presence of oxygen, which is why the grains are best left to "ferment" after milling and before brewing. Because of their energy production, they are not good for maintaining oxygen levels. Without abundant heat, water, and carbon dioxide
+	
+	Mushrooms  - Of the thirty common underdark fungi,  Eighteen of them were brought to the plane by Seldrith Barani, a Drow man who remains one of the most celebrated figures in planar Drow culture.  Many of them are lithophagic, taking centuries to grow their mycelium before fruiting as they break down parts of natural rock. The drow use a mixture of Rothe dung, various shells and bones, sand, and ash to hypercharge their growth, accomplishing the growing process for the lithophagic species in as little as a decade to regular fruiting bodies. With enough Dung and an anoxic environment, a mushroom farm for the lithophagic species can produce a harvest every three years. 
+	Other Mushroom species depend on rotting meat and plant matter. For this reason, many Drow cultures have mushroom cultivation as part of their funerary processes. 
+	Two extremely rare mushroom species, Dalag unizz'tri and Maenrotlira depend on rotting Zurkwood and a complete absence of light in order to grow. The former of which is the source of the main material in the infamous Drow sleep poison, the later tastes like smoked salmon. 
+	
+		Barrelstalk - A water-storing fungus that can contain up to five gallons of water in a fully mature stalk that takes twenty years to grow.
+		Bluestalk - A short wide-capped fungus that can grow in shade on the surface as well as in watery sections of the underdark. It is inedible but its spoors can be used as bland flour for bread. If the caps are stewed in hot water (not boiling), the resultant broth acts as a powerful stimulant for the livers of most species, allowing them to metabolize poisons more effectively
+		Ripplebark - one of the fastest passively growing fungi. It looks like a sheet of rotting flesh, greyish-red with streaks of green, but tastes quite good roasted. The fruiting bodies protrude from the mass like shelves. It grows in any passage with sufficient airflow
+		Trillimac - A tall capped mushroom which is used in place of paper, being excellent at holding dyes, the stalk is edible after soaking and drying. 
+		Waterorb - An aquatic fungus that feeds on decaying algae and can hold up to a gallon of water in a mature fruiting body. Mostly flavourless but edible and used as a trail gum for underdark wanderers. Often it is flavoured with simple syrup and Fire lichen paste
+		Zhurkwood - The tallest and densest fungus, Partly Manaphilic, partly geothermal. Zhurkwood only grows in humid environments, though it does not hold onto a lot of the water that passes through it. It is comparable to surface softwoods in density and can be used comparably. The spores are nearly the size of rice grains and are edible and the average mature Trunk, which can take up to 70 years to grow fully, can produce about 8lbs of spores every year. Most of these spores will not be viable for producing more Zuhrkwood but the ones that are can remain viable for several centuries
+		Fly Aminita/Round Blushcap - Curiously well adapted to the underdark, toxic to most species except dwarves and svirfneblin. Can cause intoxication and mild hallucination, sedative effects, and of course, roaring headaches afterward. Grows on rotting plant matter
+		Bullywug's trumpet - a semi-aquatic fungus that grows in cool, moist caves, a surprisingly excellent source of butyric acid. Edible but tastes like fermented orange juice without the alcohol.
+		Nimergan - Actually two fungi, Nimergan and Nimerphage. Nimerphage can reduce Nimergan to extremely potent ethanol, approximately 90% abv if left in a barrel with an airlock for a month. Inedible without fermentation.
+		Ormu - A Phosphorescent pigment-producing mushroom. When dried and ground and mixed with glow-worm extract, the cap flesh glows yellow-green when in a sufficiently humid room, losing its potency slowly but quicker in high humidty environments. Ormu grows near steam vents and highly humid caves, and emitting a dim green glow while living. Commonly mistaken for a moss but actually a lithophagic fungus.
+		Shriekers - used as an intruder alarm in the underdark, symbiotic with Violet Fungi. Inedible to most creatures
+		Thinking cap - a massive-capped fungus particularly well suited to high-calcium environments. The caps are edible and waterproof and can grow to over ten feet in diameter
+		Timmask - a component in necromancy spells, edible to some species and a psychoactive drug to the rest, the spores reproduce the effects of the spell "Confusion", grows up to two feet
+	Lichen
+		Fire Lichen - a spicy orange lichen that grows in hotspots with plenty of humidity and some sulfur. While the fungus part is lithophagic, the bacterial community within the fungus produces both Capsaicin and Allyl Isothiocyanate.  Extremely pungent, great for flavouring fish
+		Nightlight - Only recently identified as a lichen. This Long-stemmed (up to 10 ft) fungus was thought to be bioluminescent when it turns out it is, in fact, just the host for fairly common bioluminescent phosphorus-fixing bacteria. These tubules need a lot of water to grow, but prefer drips and seeps to significant flow.
+	Haematococcus Thaumaphagus
+		A magical red algae that is the dominant source of oxygen-fixing in the underdark, Present wherever there is significant Mana buildup and use. Aquatic, inedible to most creatures
+		
+		
+
+
+

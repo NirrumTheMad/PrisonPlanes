@@ -1,25 +1,27 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2017-12-21T19:47:22-03:30
 
 ====== Nirrum's Encylopedia of Varomar ======
 
 === NOW IN COMMON ===
 Created Thursday 21 December 2017
+[[+Useful DM Stuff:How to write for the Prison Planes]]
 [[+To_Begin]] 
 [[+ManaharamuMonarchy]]
 [[+NotesOnPhysics]]
 [[+NotesOnLanguageManar]] 
-[[+NotesOnImportantGameChanges]] 
+[[+Useful DM Stuff:NotesOnImportantGameChanges]] 
+[[+Useful_DM_Stuff]]
 [[+TimelineOfEvents]]
 [[+Skalmirthon]]
 [[+Gannaga_River_Basin_&_The_Great_Grass_Road]]
 [[+Kholira]] 
 [[+Incursion_of_Demons]]
-[[+Notes on Additional Equipment]]
+[[+Additional Mundane items]]
 [[+Notes_on_Cosmology]]
 [[+Danzuishan]] 
-[[+NPCs]]
+[[+Useful DM Stuff:NPCs]]
 [[+Underdark]] 
 [[+Konia]] 
 [[+Notes_on_DMing]]
@@ -39,14 +41,14 @@ Created Thursday 21 December 2017
 [[+Quire]] 
 [[+Umlil Orill]]
 [[+Ardeo]] 
-[[+List_Of_Names]]
+[[+Useful DM Stuff:List Of Names]]
 [[+Drakenhearth]]
 [[+Pebblerpony]]
 [[+Wickerly]] 
 [[+Races]] 
-[[+Rules Augmentations]]
-[[+Special_Feats]]
-[[+Deep_Lore]] 
+[[+Useful DM Stuff:Rules Augmentations]]
+[[+Feats]]
+[[+Useful DM Stuff:Deep Lore]] 
 [[+Guide_to_in-game_Economy]] 
 [[+Classes:Class Archetypes]]
 [[+Classes]] 
@@ -54,7 +56,13 @@ Created Thursday 21 December 2017
 [[+Tomb_Of_Ashes]] 
 [[+Skill_Check_Weapons]]
 [[+Letters_from_The_Author]]
-[[+Weird_worldbuilding_notes]] 
+[[+Useful DM Stuff:Weird worldbuilding notes]] 
+[[+Feywild]]
+[[+Magic]]
+[[+Shadowfell]]
+[[+Cheatsheet]] 
+
+
 
 //Nirrum is clearly mad and we should ensure that none be allowed in his chamber, lest he bewitch someone into bringing his works to the presses for him to have them distributed. Triple the blind guard, and place as many wards and abjurations upon his rooms as you can! //
 		-Sillig The Eel on the way to the presses with this very document

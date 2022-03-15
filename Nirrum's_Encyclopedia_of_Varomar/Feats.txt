@@ -1,0 +1,98 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-02-13T21:58:21-03:30
+
+====== Feats ======
+Created Thursday 13 February 2020
+
+This setting has some feats that can be taken. Some of them are good, some of them are good in //specific// situations or in specific playstyles.
+
+**Solid Centre**
+	When attempting to shove a creature as part of the attack action, you make your Strength (Athletics) check with advantage. You can also push the opponent 10ft instead of five, or push them 5 feet and knock them prone.
+	
+
+
+**Pure Thinking**
+	Req: Proficiency in investigation
+	Gain a +1 to intelligence and increase your maximum intelligence by 1 (to a maximum of 30) 
+	You can perform one of the following feats of dazzling intellect on your turn as a bonus action:
+		* interact with an object (without using your interact with object action)
+		* Determine the AC of a creature you can see
+		* Gain advantage on one intelligence based skill check before the end of your next turn.
+		* Discern one non-obvious fact through your senses (DM's Discretion. This can include things like  the cultural background of an enemy, indications of recent animal migrations, or the original of wood used in a structure.)
+
+**Present Mind**
+	Req: Proficiency in Perception
+	Increase your wisdom by +1 and increase your maximum wisdom by +1
+	 You can perform one of the folliwng feats of awareness on your turn as a bonus action:
+		* Gain +2 to AC until the start of your next turn
+		* If a caster you can sense begins casting a spell, you can use your arcana check to identify that spell (DC 10+ the spell's level) without using your reaction
+		* Make one wisdom-based skill check with advantage and increase your passive perception by an amount equal to your proficiency modifier until the start of your next turn.
+
+**Display of Growth (needs work)**
+	Choose an ability score. Gain +2 to attacks and checks made with that ability score as well as to your Save DCs (not saving throws) based on that ability score. You may choose this feature more than once, choosing a different ability score for it each time.
+	
+**Unifier of Hearts**
+	req: Proficiency in Insight and either Intimidation, Persuasion, or Deception
+	Increase your charisma by 1 and your charisma Maximum by 1 (to a maximum of 30)
+	As a reaction, you can determine a creature's mood toward whatever it is focused on. You are able to discern between different types of similar emotions such as territorial anger or fear-based anger. 
+	Add a D4 to charisma-based skill checks
+	
+**Enduring Spirit**
+	Req: 15 Con
+	Increase your constitution score by 2 and your constitution maximum by 2 (to a max of 30)
+	Increase your AC by +1
+	Increase all your saving throws by +1
+	If something would force you to move against your will, you may reduce that movement  by  a number of feet equal to 5 times your constitution modifier
+	
+**Echoing Immortality**
+	Req: Proficiency in history
+	You add double your proficiency bonus to all history, and insight checks about or concerning yourself and information about you. 
+	If you die and your soul is free and willing,  You are reincarnated as a member of another random race from a culture you have had contact with. You retain all of your stats and abilities, save those of your race, which are replaced by those of your new race. You have all the memories of your new body, but can only remember things that people from your new body's culture would know about your previous one (and any ones before that). Your personality remains entirely unchanged. You have a persistence awareness of your most recent graves until you choose to ignore them. 
+
+**Irrevocable Ambition**
+	Req: A bonus to checks with a skill or tool that is greater than 10 (no magic items, spells, or impermanent effects included) 
+	Gain +5 to all checks using that skill or tool. You may take this feat multiple times but must choose a different skill or tool each time. 
+
+**Immediate Action**
+	Gain a +2 to Initiative rolls
+	As a reaction  you may may make one skill check or saving throw so long as you do not have disadvantage on it.
+	
+**Inner Void**
+	When you roll a wisdom or charisma saving throw or to maintain concentration, add 1d4 to your roll. You may only use this ability a number of times equal to your proficiency bonus, regaining all expended uses at the end of a long rest. You are resistant to damage from spells and effects that are illusions or enchantments
+	
+	
+**Reflex Training** 
+	 You can use the extra attack feature as part of a prepared action that uses the attack action
+
+**Silver Knight Wrestling** 
+	 Targets you have grappled cannot use acrobatics to escape from the grapple. While an opponent is grappled by you, you can make a special unarmed attack as a bonus action, if the attack hits, you may knock that opponent prone. 
+
+**Goatrider Polearm Training** 
+	 When you hit an target of your size or smaller with a weapon that has reach, as a bonus action you can make a special grapple check. On a success instead of being grappled, you can move the target to another space within your reach. If you are mounted, You can move a creature up to one size larger
+
+**Iron Wing Training** 
+	 While you are wielding a two handed melee weapon that does not have reach, a spear or a trident, add 5ft to the distance you can attack with that weapon
+
+**River Taijutsu** 
+	 When you are moved in a way that does involve an action or reaction, you can instead use your reaction to move in a different direction an equal amount. This distance cannot exceed your movement speed or jump distance and does not provoke opportunity attacks. You can stand up from prone using a bonus action instead of movement.
+
+**Mazehunter Versatility** 
+	 Gain a +1 to your constitution. You can add your proficiency bonus to all checks made to climb, Arcana checks involving magical effects that are not spells, and perception checks to all senses that are not sight or hearing. If you are already proficient in this check you may add twice your proficiency bonus to the check instead. As a bonus action, you can make an investigation (intelligence) check against the save DC of an illusion if it has one. 
+
+**Ramishi Ambusher**
+	When you make an melee weapon attack as an opportunity attack against an target while hidden, you may also make a melee weapon attack against all other targets within 5ft. If an opponent provokes an opportunity attack from you while you are hidden from them, you may move up to half your movement speed and roll a stealth (dexterity) check to maintain being hidden. 
+
+**Turtle Fencing**
+	Whenever you teleport, the next melee attack you make before the start of your next turn has advantage. If you cast a spell or use an ability that allows you to teleport, you may take one extra willing creature with you, the extra creature gains no other benefits from the spell or ability.
+	
+**Manaharahi Duelist**
+	As a reaction, you may make an Arcana check on a spell that is being cast to identify the spell. You can make this arcana check if you can see or are touching the caster and the spell has somatic or uses its material components (as opposed to a casting focus) or if you can hear them and it has audible components.  The DC of the check is equal to 10+ the level of the spell being cast. If you are able to identify the spell, you may cast a spell that has a casting time of a reaction as part of this reaction. 
+	
+	
+**Kholirahi Wood-Dancer**
+	When you are wielding a club, greatclub, or staff, and an opponent makes an attack and misses you, you may use your reaction to move up to your speed toward that opponent and make a melee weapon attack against them
+	
+**Green Knight Dive**
+	At the end of freefalling 10ft or more, you can use your reaction to make a melee weapon attack against a target within 5ft of you. If you fall on the target and hit with the attack, the target additionally takes half of the fall damage they would have taken if they fell that distance. If the target is smaller than you are, it takes the full damage. You cannot benefit from anything that would slow your fall and still deal this extra damage.
+

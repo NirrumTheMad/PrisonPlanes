@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-19T23:52:43-02:30
+
+====== Runes ======
+Created Sunday 19 September 2021
+
+Bizzarely Situtational Magic inscriptions
+
+
+Knørra - This rune can be inscribed on any item. The item reflects twice the Light that hits it unless that light was already reflected by an item marked with a Knørra rune. If the item does damage while it is in bright light, it does radiant damage instead. 
+
+
+Ikälma

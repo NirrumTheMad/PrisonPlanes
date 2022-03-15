@@ -1,0 +1,227 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-08T23:38:32-02:30
+
+====== Spells ======
+Created Thursday 08 October 2020
+
+Snarl is a land of magic, extremely potent magic and a lack of interference from the gods, the stuff of creation leaks directly into this place from the corrosive flows of the far realm. When the Manarahi lifted the chains of the so called gods of magic with their own might and threw them aside, they immediately began working to screw over those gods. The Manarahi do not take threats lightly. No race on snarl does. The workings of the people of snarl are //far beyond the scope of what can be achieved on most worlds. The degree of potency that most planes cannot even bear, the consequences for failure are dire and in many cases, the consequences for success are far worse.//
+
+Anyway, here's a list.
+
+==== Cantrips ====
+	//Cloud vision. (Artificer, Wizard, Sorcerer, Bard, Warlock)//
+		1 action, S,M (a tiny fragment of cave lichen)  Illusion
+			Range: 40ft
+			Concentration: 1 round
+			One target you can see makes a Charisma saving throw. On a failed save they are blinded until the start of your next turn or until you lose concentration. 
+			
+	//Offend (Sorcerer, Druid, Wizard, Artificer)//
+		1 action, V,S,M (an extremely small amount of hydrogen sulfide), Enchantment
+			Range: 65ft
+			Instantaneous
+			You produce a harmful sensory effect, such as a foul taste, flashing lights, a strange smell, a weird tingle. Target creature must make a constitution saving throw, on a failed save, if they are concentrating on a spell, ability, or task, they must make a concentration saving throw with disadvantage to the roll.
+			
+	//Pull of the Ninewise (Warlock, Sorcerer)//
+		1 Action, V,S, Evocation
+			Range: 300ft
+			Duration: instantaneous
+			A magical chain extends from your hand. Make a ranged spell attack roll agains a target you can see within range, if the spell hits, the target is pulled 15ft toward you.
+				This spell creates more chains as you reach higher levels: Two chains at 5th level, Three Chains at 11th level, and 4 chains at 17th level. You can direct the chains at the same target or at different ones. Make a separate attack roll for each chain.
+				
+	//Wedge (Artificer, Bard, Sorcerer, Wizard)//
+		1 bonus action, S, Transmutation
+			Range: 30ft
+			Duration: Instantaneous
+			A magical force warps space around an opponent. One creature you can see or hear within range must make a dexterity saving throw or be moved 5 ft parallel to the ground in a direction of your choice. Attempting to lift or prone a creature with this spell might only have an effect of inches
+
+	//Minor Transposition (Artificer, Wizard)//
+		1 action, V,S,M (An object of very similar weight to the target) Conjuration
+			Range: 60ft
+			Duration: Instantaneous
+			The material component and an object that is within range neither worn nor held that you can see or hear swap places.
+			
+	//Enhances senses (All casters)//
+		1 action S, M, (A glass cup) Divination
+			Range: self
+			Duration: 1 hour, Concentration
+			Your range and accuity of all of your external senses doubles for the duration of the spell. Internal senses, such as visceroception are unaffected.
+			
+	//Animate Hand (Cleric, Sorcerer, Wizard, Warlock)//
+		1 action V,S,M, (the dismembered hand, claw, or prehensile extremity of a medium or smaller creature) Necromancy
+		Range: 10ft
+		Duration: 8 hours
+			The material component becomes a Crawling Claw (Monster manual 44) for the duration. It obeys your mental commands as if it had your intelligence and uses your proficiency bonus. It can only communicate telepathically simple concepts and only what it can feel. The claw partially echoes the personality of the creature it came from, but is always under your control. You may only have one such claw at a time
+			At level 5, you can use a part from a large creature, which deals 1d4 extra damage, at level 11, that of a huge creature, which deals 2d4 extra damage, and at 17th level, that of a gargantuan creature, which deals 3d4 extra damage
+			
+	//Buffer (Artificer, Cleric, Druid, Wizard, Warlock) WORK (maybe first level)//
+			1 reaction when a creature in range that you have seen within the past minute takes damage, V,S, Abjuration
+			Range: 30ft
+			Duration: instantaneous
+			You know instantly that the creature is being attacked and force magic between that creature and the source of the damage. The creature gains temporary hit point equal to your spellcasting modifier before the attack hits. The temporary hit points fade at the end of the current turn.
+			At 5th level, the amount of Temporary hit points is equal to double your spellcasting modifier, at 11th level they are equal to triple your spellcasting modifier, and at 17th level, 4 times your spellcasting modifier.
+
+
+
+
+
+==== Level 1 spells ====
+	
+	//Prestimanipulation** (**Artificer, Bard, Sorcerer, Warlock, Wizard)//
+		1 action, V,S Transmutation
+		Range: 30ft
+		Duration: Up to 2 hours
+		You've been practicing your magic a lot. You create one of the following magical effects within range
+			* You produce an instantaneous distracting sensory effect. A  creature you can see within range makes a saving throw. On a failure, the creature has disadvantage on all perception checks that aren't to detect you.
+			* you instantly start or snuff out a number of small flames at points within range equal to your spellcast ability modifier. 
+			* You instantly clean or soil an object no larger than a number of cubic feet equal to your spellcast ability modifier
+			* You instantly Chill, warm, or flavour a number of cubic feet of nonliving material equal to your spellcast ability modifier
+			* You make a colour, medium mark, or symbol appear on an object or surface for a number of hours equal to your spellcast ability modifier.
+			* You create a nonmagical trinket or an illusory image that can fit in both of your hands and that lasts until the end of your next turn.
+	
+	//Saif of the Sword Sorcerer//  (Artificer, Bard, Sorcerer, Warlock)
+		1 action, V,S, Conjuration
+		Range: Touch
+		Duration: 1 hour, concentration
+		Reality works how //you// want it to work dammit, and this whacky thwacky thing should be no different.  You conjure a melee weapon that lasts  for the duration of the spell or until you dismiss it as an action. The melee weapon takes the form of your choice, choosing from the weapons table. The weapon you summon cannot have the heavy or reach property. Attacks with the weapon use your spellcasting modifier instead of strength or dexterity. 
+		
+	//Bumblehex //(Druid, Bard, Sorcerer, Wizard, Warlock)
+
+
+==== Level 2 spells ====
+	//**Prestibrachiation (**Artificer, Bard, Sorcerer, Warlock, Wizard)//
+		1 action, V,S Transmutation
+		Range: 60ft
+		Duration: up to 8 hours
+		This spell is a natural consequence of one of the most useful cantrips ever devised. Choose one of the the magical effects within range
+			* Your create an instantaneous,  sensory effect in a sphere of 30ft from a point within range, such as a storm of sparks, a blast of wind, or a strong scent, or a strange song. Targets of your choice in the area must make a single saving throw of your choice the effects differ for each saving throw. For Strength, targets that fail fall prone, for dexterity they get pushed 5ft in one direction, For constitution they gain disadvantage on perception checks made  with one sense until the start of your next turn, For intelligence they must use their reaction to flail helplessly, for wisdom they are frightened by you until the start of your next turn, for charisma they are charmed by you until the start of your next turn.  The effect must be the same for all targets in the area and is obviously magical.
+			* You instantly light or snuff out up to a number candles, torches, or lamps or you start or extinguish a fire of a number of feet. If you choose to damage a target with this effect, the targets must make a dexterity saving throw. On a failed saving throw you can do up to a number of damage divided as you choose among targets that failed. The number in all cases is equal to twice your spellcasting ability modifier. 
+			* You instantly Sanitize or Contaminate a spherical zone of 30 feet. In this area, either all diseases that are not already within a host are immediately destroyed and all uncontained fine particulate matter is pushed toward the outside of the area, flowing around obstructions to the farthest point in the spells area, or all diseases within 60ft of the point you choose that aren't already within a host are drawn and distributed evenly around the 30ft area. Fine particulate matter within 5ft of the area is drawn in as well, moving gently along the ground until they are within the 30ft area, whence they are distributed evenly on any surface. 
+			* You chill, warm, or flavour up to 10 cubic feet of nonliving material for up to 8 hours. 
+			* You make a colour, texture, medium sized mark, or a symbol appear on a solid  target for up to 8 hours. Targets may make an intelligence saving throw  to avoid being marked by this effect. With this effect, your marking emits bright light for 5ft and dim light for another 5ft.
+			* You create a nonmagical trinket or an illusory image that is as wide as your shoulders and lasts until the end of your next turn
+		You may dismiss any of the effects of this spell as an action.
+		
+	//**Spring Wind **(Cleric, Druid, Ranger, Paladin)//
+		1 Action, V,S,M (a small piece of ice, cold water, mud, or an unsprouted but viable seed)
+		Range: 30ft
+		Duration: 1 minute, concentration
+			You draw vitality toward yourself and let growth flow back, if you can manage it. Choose one creature you can see or smell within range. You immediately make a saving throw that that creature would have to make on their turn using your own modifiers. While this spell is active, the creature no longer makes saving throws, but you must make saving throws for them against the effect as normal. They still suffer the effects of the spell or ability as normal. If you succeed on the saving throw, it is as if they have succeeded the saving throw, if you fail, it is as if they failed.
+			**Casting at higher levels.** For each slot level beyond second, you are able to roll an additional effect 
+
+==== Level 3 Spells ====
+	
+	//Phobia//
+
+	//Misty Leap //
+		Casting time: 1 Bonus action
+		60ft
+		
+
+
+==== Level 6 Spells ====
+	
+	//Select All (Conjuration)//
+		Casting time: 1 action
+		Range: 500ft
+		Duration: Instantaneous
+	All objects of a single type (weapons, tools, armour, etc;) that weigh less than 20lb each that you can see within range that are not worn, carried, attuned, or affixed so that they cannot move are all transported a special demiplane. This Demiplane cannot normally be entered by a creature but its contents can be expelled by casting this spell again, at which point the contents appear in an efficiently packed space within 30ft of the caster. 
+
+
+==== Level 7 Spells ====
+	
+	//**Frisson Static (**Wizard, Sorcerer, Warlock)//
+		Casting time: 1 Action (V,S,M, a fine quality metal disc) Enchantment
+		Range: 10ft radius centered on you
+		Duration: Instantaneous
+		Each creature within range makes a Charisma Saving throw. On a failed save They are stunned until the start of your next turn. Creatures that are immune to being charmed have advantage on the saving throw
+
+
+==== 8th level spells ====
+	Invoke Taliyudur
+		You infuse those who hear you with the magic of the court of whispers. Creatures friendly to you make insight, persuasion, deception, and intimidation checks using your modifiers unless theirs are higher. 
+	Invoke Neskir
+		The Magic of the Court of swords bolsters your allies. Weapon attacks made by creatures friendly to you deal extra damage equal to twice your charisma modifier 
+	Invoke Rei-oh
+		The Court of valour's magic cascades to your allies. When an ally that can hear you moves, they  do not provoke opportunity attacks and they can make opportunity attacks when a target uses its movement to move into their range.
+	Invoke Sillowdar
+		The court of Glamour's magic erupts from you. For the duration of the spell, allies make 
+	Invoke Unshinihi
+		The Court of Terror's magic oozes across the terrain. All allied creatures that can hear you add your charisma bonus to any saves they make. The ground around them is difficult terrain
+	Invoke Dalri
+		The skillful magic of the court of lore threads through your allies and back to you. All allied creatures (yourself included) may use their reaction to make a skill check of the type of your choice. Add the totals together and use that for the result of your check
+
+==== 9th Level Spells ====
+	//**Gatewarding**//
+		casting time: 1 day VSM (an object that functions as a tool, such as a sword, wrench, or pen worth at least 5000gp, which the spell consumes)
+		Range: 1 mile
+		Duration: Until dispelled
+		You ward an area with a radius of up to a quarter mile from intrusion. Choose a condition that any creature can fulfill in response to a challenge. As a creature approaches  1 mile of  the centre of the radius, they will become aware of the challenge but not the condition to fulfill it. If the creature fails to meet the challenge, they take force damage from a number of d6s equal to twice your **ability score. **If they meet the condition, they are unaffected by the spell and can continue into the area. The area is warded against planar travel, teleporation, scrying, and is completely invisible to those who have not met the condition
+		
+	//**Conjure Abberration**//
+		Casting time: 1 action
+		Range: 60ft
+		Components: VS
+		Duration: Concentration up to 1 hour
+		You summon abberations that appear in unoccupied spaces that you can see within range, Choose one of the following  options for what appears
+			* One Abberation of CR 12 or Lower
+			* Two Abberations of CR 6 or Lower
+			* Four Abberations of CR 3 or lower
+			* Eight Abberations of CR 1 or Lower
+			* Sixteen Abberations of CR 1/2 or lower
+		A summoned creature disappears when it drops to 0 hit points or when the spell ends
+		The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise begin ripping holes in reality. If sixteen or more holes are ripped in reality before the spell ends, an abberation of CR 10 or higher (chosen by the DM) emerges from the rifts and all summoned creatures become hostile to all life and ending the spell does nothing. The Creatures then remain until killed, during which time they attempt to destroy reality further. 
+		
+
+==== 10th level Spells ====
+There are very few spells past 9th level that aren't prohibitively expensive to cast. From A DM's perspective, quests are guaranteed, because on this plane (which has a prohibitively small amount of metamorphic rock) it is difficult to find ingredients like *slate*
+
+
+//Nirrum's Recursive Happening//
+	Every six seconds in an area of up to 1 mile, events repeat themselves cumulatively for the duration of the spell
+//Grand Warding//
+	It's like forcecage but permanent
+//Tarn's Shadowy Field - A normal fuckin spell, just cast this shit.//
+	oh my god, so much damage, 
+//Tasavenvil's Arrow//
+	**Even More Damage**
+//Summon Extraplanar Entity//
+	You might be a god but you'd better make a save or get got
+//Sunsphere//
+	so much damage
+//Leyline Tap//
+	Sorcery points for days
+//Scatter Mind//
+	like feeblemind but FUCK coming back from it
+//Chepi's Creation//
+	Fabricate, but a mile
+//Grant power --Patron--spells--Quieting//
+//Grand Lure//
+	Sympathy but for eldritch  forces
+//Create Mythal//
+	Make a bullshit area effect
+//Power word Erase//
+	Power word kill but with none of that 100hp nonsense and no body
+//Anchor plane//
+	in case of unsteady reality
+Manaphony
+	mass bardic inspiration
+//Ocean Current//
+	Control and direct an ocean current. Can permanently change the climate of an onshore area, as well as anger the whales
+
+==== 11th level spells ====
+//Control celestial body//
+	Move everything up to stars
+Superior Disenchantment
+	If it was magic, it isn't any more
+Seize Lesser Divinity
+	become a god but like, basic god
+//Create Seal//
+	Create an item that locks something in a prison, necessary to keep the health of a prison, unique to each entitty
+//Nirrum's Interuniversal Scrying //
+	Become the DM, ignore most scrying protection
+
+==== 12th Level Spells ====
+//Create Prison//
+	what it says on the tin
+	

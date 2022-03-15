@@ -1,25 +1,27 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-10-24T12:15:38-02:30
 
 ====== The_Bone_Artifacts ======
 Created Wednesday 24 October 2018
 
+**DM's Note: Old dates were 2584, update all to ~5854)**
+
 Car'Teruna, commonly called Teruna, is a Demon. The Abyssal status is questionable, the effect of Teruna's Tenacity far Dwarfs that of the so called Demonic Princes. This creature drinks death, feeds on the inefficiencies in Necrotic energies and Prevents the inevitable indefinitely. Considering how much food there is for it, there is no wonder as to why it became so powerful. Juiblex would weep at the sheer potency of Teruna's Hunger.  Yeehongu would finish his meal long before Teruna did. The problem is that there is no sweet release under Teruna. There is no insurance of quality of life, and indeed, it seems beneficial to the demon to make most things as //dead as they can be without allowing them to die.  //The ideator of Snarl, Nek Uiji, had seen entire worlds razed to unfortunate goo by the work of Car'Teruna 
 
 To Break Teruna, a Gargantuan three-stage ritual needed to take place. First, The World-seal needed to be built. Copied and appropriately modified from other successful prisons, the Elliptical Dodecahedract design would prove a successful final pin for Teruna's Power. The Silencing ritual was the easiest part, but the last part, splitting and leaking all of Teruna's power, required outlets. Over a hundred and seventy artifacts, each the piece of a deceased creature, specially chosen for the task, were used to spread out Teruna's Power and unfocus it. These were originally held on stone caged shrines around the continent, but over time they got lost. 
 
-It is not known exactly when the Cult of Teruna arose, but They have succeeded in breaking at least One (**2851a: Two, 2854s:Three**) of the bone artifacts and are studying others in an attempt to Free Teruna. In the Meantime, each one of the Artifacts holds some Nifty benefits and extreme powers. Many of them have undergone crafting and shaping to become something useful, and while this weakens the artifact as a whole, the chips that come off are mundane and useless. 
+It is not known exactly when the Cult of Teruna arose, but They have succeeded in breaking at least One (5**851a: Two, 5854s:Three**) of the bone artifacts and are studying others in an attempt to Free Teruna. In the Meantime, each one of the Artifacts holds some Nifty benefits and extreme powers. Many of them have undergone crafting and shaping to become something useful, and while this weakens the artifact as a whole, the chips that come off are mundane and useless. 
 
 
 Eye of Dramuut 
-	- A massive calcite crystal that grants rather effective invulnerability to the holder, Rumoured to be in the hall of Dramuut but no one has found it (**2853, It is now in the hands of an umber dragon**)
+	- A massive calcite crystal that grants rather effective invulnerability to the holder, Rumoured to be in the hall of Dramuut but no one has found it (**5853, It is now in the hands of an umber dragon**)
 
 A Skull 
-	- a human skull that will not let anything die, and will begin to reform the dead to life in a small vicinity, rumored to be in blackwater (As of **2838, Mostly destroyed. ** As of **2851, entirely**)
+	- a human skull that will not let anything die, and will begin to reform the dead to life in a small vicinity, rumored to be in blackwater (As of **5838, Mostly destroyed. ** As of **5851, entirely**)
 
-The Dead Mans Chest - Rumored to be in Grand Tortuga (**As of spring, 2584, worn by the already hard-to-deal-with Fleet King Lazarus Honore Dorian Tibeaux-Avisen-Bruchev)**
-	The Raising Mantle, the clavicle of a humanoid with a long red cape attached (as of 2584, Also attached to The Yokumo Mantle)
+The Dead Mans Chest - Rumored to be in Grand Tortuga (**As of spring, 5584, worn by the already hard-to-deal-with Fleet King Lazarus Honore Dorian Tibeaux-Avisen-Bruchev)**
+	The Raising Mantle, the clavicle of a humanoid with a long red cape attached (as of 5854, Also attached to The Yokumo Mantle)
 		Artifact (requires attunement)
 			 You gain +1 AC and resistance to Necrotic damage,
 			You  can cast
@@ -32,7 +34,7 @@ The Dead Mans Chest - Rumored to be in Grand Tortuga (**As of spring, 2584, worn
 			You are 5lb lighter
 			You musts eat 6 times the normal amount each day as the microorganisms inside you refuse to simply *die*
 			
-An axe made of shoulder - Lost somewhere in the Gannaga Region. (**As of late winter 2582, in the posession of Lo-Kag, and as of early 2583, in Grand Tortuga**)
+An axe made of shoulder - Lost somewhere in the Gannaga Region. (**As of late winter 5882, in the posession of Lo-Kag, and as of early 5883, in Grand Tortuga**)
 	Farash Kiror, a Bone axe embedded with Zinc and pipe opal. A person attuned to Farash Kiror has the following affects
 	* Disadvantage on saving throws against poison, you get drunk faster too
 	* While attuned, other creatures can't benefit from short or long rests while within 300ft of you
@@ -41,20 +43,26 @@ An axe made of shoulder - Lost somewhere in the Gannaga Region. (**As of late wi
 	* Aura of Life,Investiture of wind, recharge on 6 on a d6 or wait until dawn
 	* When Attuned to Farash Kiror, the weilder has advantage against death saving throws, Trying to use spells such as animate dead on the weilder if they have died will simply return them to life at 1d10hp, to a maximum of their own, spells such as resurrection that target the previously attuned creature do not require material components
 			
-An Axe made from a different shoulder - In the Hands of the Kholirahi General
+An Axe made from a different shoulder - In the Hands of the Kholirahi General Padmavaat
 	This axe doesn't deal damage or even kill, but instead it lops off body parts and leaves them living and still capable of feeling.
+		//Nirrum's note: I fear that there is a reference to the sands of pain, somewhere in the shadowfell, that makes some incidents described in old Konian texts about the wars against manaharamu come off in much more grim lights than I was prepared for.//
 	
-The Seat of Power - Lost somewhere near skalmirthon (**As of Autumn 2584, Found in the posession of King Deloch Welch**)
+The Seat of Power - Lost somewhere near skalmirthon (**As of Autumn 5854, Found in the posession of King Deloch Welch**)
 	Sealed in a throne made of stone, sitting in this throne allows time to speed up for only the one person that is in it, mostly just giving the person time to think. This artifact was made from a pelvis
 	
-The wand of want - In he hands of a wizard who controls konia's Undead (**As of summer 2582, in the posession of Combartch T'c't'caeri, as of spring 2584, destroyed over Konia**)
+The wand of want - In he hands of a wizard who controls konia's Undead (**As of summer 5852, in the posession of Combartch T'c't'caeri, as of spring 5854, destroyed over Konia**)
 	This wand allows one to cast animate dead at will. 
 	
-The hand of Power - whereabout unknon (As of **2539 unlocked**)
+The hand of Power - whereabout unknown (As of 5839** unlocked**)
 	This hand, shaped to grasp a lock of red hair allowed the wielder, once attuned to it to grow an extra hand which cast magic at a +4 bonus to attack rolls and saving throws.
 		**DM's Note: **//This was the origin of Kotsi Kemadumana'ab, and as such, is a part of him.//
 
-The cane of Quick Travel - In the posession of Combartch T'c't'caeri
+The cane of Quick Travel - In the posession of Combartch T'c't'caeri (as of 5854, in the Posession of Ridcully Cosades)
 	A Rod made of some humanoid's Femur, it can be used as an arcane or even Druidic focus, but even more importantly it grants the wielder 80 fly, climb, run, swim, and burrow speed, as well the ability to teleport 160ft as an action. 
 	
+Amulet of All Memory - In the Posession of the Archmage of Ardeo, a 20th level Divination wizard
+	Encased in skillfully tempered glass and nearly indestructible, a small ear bone, the anvil, allows a person to revist any thoughts they have had, any memory or sensation they have experienced with not only perfect recall, but with significant added context, such as how their own biases shaped their perception, and to do so with infinite time. The Amulet requires magic to work, and memories within the amulet fade if magic is absent. This functionally means having honest conversations with the DM about how encounters went and what actions lead to what consequences.
+
+Ring of All Thought - Lost
+	A person attuned to and wearing this ring, which contains one of the small bones of the ear, the hammer, they are capable of reading and understanding all thoughts of all creatures within 80ft of them. This power bypasses most resistances, though Rings of mind shielding are capable of defending against it. Rings of Mind shielding (at least ones native to the plane) produce a loud screaming sound in the head of someone attuned to this ring. Interestingly, this allows one to translate the thoughts of most stranger abberations into somewhat intelligible concepts, though how their wants relate to the current situation is invariably confusing, such as a gibbering mouther being insistent on making it to "The kitchen", or many starspawn being entirely baffled by the effects of the ring and "swearing it has never been so warm"
 

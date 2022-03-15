@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-03T17:59:12-02:30
+
+====== Broville ======
+Created Saturday 03 July 2021
+
+Perhaps a shortening of Burrowville, Broville lies underneath the Desert, far below the sand and sandstone sitting on the intact iron mesh that used to span the plane. 
+Broville's people are mostly tabaxi and Aasimar (Descent of a deity who represented light in dark places). A land of flighty folk.
+
+===== Description =====
+	Broville is a single, long cavern system that originates under the outer edge of the eastern aegis and ends near the eastern undergound sea. Tucked into this cavern, from floor to cieling are tall buildings built of steel and iron forged by dwaves in exchange for their hospitality and cave wheat, which the dwarves favour for beer. Each building extends into the buildings around it, is anchored into the ceiling, any nearby walls, and generally makes for a replacement for the rock that once occupied the interior of the crevice. 
+
+	Broville was established as a large community in 2434, before which it had been an underdark settlement for centuries. The main denizens of this place are  Aasimar farmers and Tabaxi everything else. The Aasimar are hugely autonomous and notoriously calm, as they operate the farms that the town depends on and more than once they have simply walked away when placed under political pressure, often taking huge amounts of the workforce with them. 
+	
+
+
+===== Urban =====
+	Broville is a city of verticality. Away from the farms there are tall pillars of glass, Wood, and steel. It is perhaps best to separate the town by strata. Base, Strand and  Anchor.
+	
+	
+	**Base: **The base of Broville is the bottommost layers. This is where many of the aasmiar and most of the infrastructure  is located. Water is funneled in through the roofs and through the central beams. The bottom carries much of the waste from the strands toward the fields which does cause an unfortunate smell. Here, the aasimar tend to live a simple life, farming, meditating, and handing down their unique martial arts tradition. An Aasimar house at the base may either be built into the base and made of concrete or further from it, where it is built from Zhurkwood timbers except the roof. The Aasimar prefer Egg-shaped solid stone domes  on their houses, which can seem like strange mushrooms. Without much wind, the houses do not need to build for storms, but occasional rockfall can be damaging. The upshot of this is that in the event of collapse, the houses are unlikely to kill anyone. Other races may just use zhurkwood for the entire construction,  as rockfall is incredibly rare. 
+
+	**Strand: **The strand, that is, the main buildings of Broville are build around single or Quadruple steel-beam cores, with single-cross beams serving as both support and bridges These support the square-box appartments of Zhurkwood and glass that coat the strand. Each is tapped into  three pipes, the power conduit, the wastewater pipe, and the freshwater pipe. Power is limited to lighting and heat in broville, and most of that goes to heat. Light is mostly limited to the inside of shops and the bridges, as when one is inside one's own house, it's usually for sleeping. This is where the Tabaxi live and keep watch of the area. 
+	

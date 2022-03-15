@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-07-15T23:53:51-02:30
 
 ====== Konia ======
@@ -115,3 +115,5 @@ Konia. Once, the largest human settlement on Varomar, is now reduced to a hollow
 
 ==== Environment ====
 	Temperate climate
+	The area around Konia is enriched with iron along ancient cracks from the cataclysm. This not only provides the ore for steel production, but also sources Ochre, Umber, and Sienna which are used for pigments
+	

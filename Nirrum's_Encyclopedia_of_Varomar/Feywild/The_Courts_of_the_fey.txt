@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-27T15:33:10-02:30
+
+====== The Courts of the fey ======
+Created Monday 27 July 2020
+
+By their nature, fey politics is a life-and-death concept, and at the end of the day, any decision made by any court is going to end up with someone in favour, and someone not. This can be devastating to the less valued fey, who often feel the brunt of these decisions. On Snarl, the fey have organized into six primrary factions in an attempt to prevent open and active warring between the traditional summer and winter factions. While this system ends up with more conflicts, any one group is less likely to feel  the effects of any decision made, and with the help of creatures from the humanbonkers, the feywild has been able to maintain stability. Each Faction of the fey includes many subfactions and subspecies with some but little crosstalk between them. A fey cannot change factions but a fey can be born into another faction regardless of its parentage or method of incarnation.  
+By coincidence, there is a dichotomy within these courts, but instead of summer and winter, they are described as "Actor" and "Stage".  This represents the fundamental method by which a fey weaves their magic. An Actor will apply favours to selves, to objects, they will always make their arts about a singular thing. To describe it in mortal terms is difficult, but considering them as concerned with actors, as one would in a stage production, is a fitting method. The others, the Stages, apply their magic in holistic senses to their environments or to objects that don't modify a person or subject. Again it is difficult to describe, what is the difference between makeup and painting a background? What is the line between an extra and a lead role? The fey know these roles intrinsically and can navigate them with ease.  
+
+For courtesy, these aren't the true names of these fey, but titles that they can be referred to with
+
+
+===== The Actors =====
+
+Among the actor types are the courts of Glamour, Swords, and Valour. 
+
+[[+The Court of Glamour and Eloquence]] 
+The Court of Glamour holds the fey most known for their appearance, their immediacy. To fey in this court, a first impression is almost always a complete story, an outfit, an image, a pose. The Court of Glamour is bound and binds to immediate senses. All who behold a member of the works of the court of glamour are part of its magic.
+
+[[+The_Court_Of_Swords]] 
+The Court of swords is host to the fey known for their communication and their combat ability, which they view as the same thing. These fey are complex, In the same effort that they make a new word they can also teach a combat technique. They teach the binding of blades as the movement of partners, they teach perspective and decisiveness. They are bound and bind in reactions, less immediate but still pertinent senses than the court of glamour. They are direct and forward, and all who come into direct contact, verbal or otherwise, with the court of swords are part of their magic. A glance, a swing.
+
+[[+The_Court_of_Valor]]
+The court of Valour is home to the fey known for their compositions. The Valourous fey do magic in large pieces, things that take time to explore, to know, and to understand. Song, Dance, poems, full plays. It takes a long time to understand their works, but they are effective. Their magic is subtle and works throughout all of a society. They bind and are bound by stories, songs, performances, and the processes of other artists as they make their works. Their magic is some of the most dangerous of all fey, as it changes the performer directly. More than one fool has danced themselves out of existing or changed their voice into fire. 
+
+===== The Stages =====
+
+Among the stage types are the courts of Lore, Whispers, and Terror
+
+[[+The Court of Lore and Creation]] 
+The court of lore is one of the strangest of the courts by nature of being the most familiar. The fey in this group are crafters of objects. Machines, shoes, carvings, dictionaries. Because of this peculiarity, they don't necessarily require favours, as their favours //are// material goods and exchanged services. It has been proposed more than once that all humanoid species and most creatures of the humanbonkers realm are fey of this type, but I am assured that this is not the case, though it does appear to be true for **gnomes. **By this nature, they are bound and bind with... well.. cages, chains, physical restraints. 
+
+[[+The_Court_of_whispers]] 
+The whispers fey are Treacherous and it is recommended against dealing with them. Their magic runs through entire societies, much like the court of valour, but it runs through the words of people, through their daily lives and interactions. It is not spectacularly subtle. The whispers fey make governments, regulatory bodies, they make gangs and organizations, they make muggings in the street and lotteries and wars and so many other things. A fey's magic is wrought from the thoughts that are made when something beholds their work. The whispers fey manipulate things so subtle that we would call them chance and probability. They are not intrinsically evil, but it often suits them to have things remain tumultuous. If you live in a society or interact with other sentient creatures, there's a good chance that these fey have placed you among their pieces. They are bound in and bind by planning, infrastructure, and socialization of any kind, and by this nature they are also the easiest to capture. When dealing with one, make sure to cheat politely, they expect you to and are doing the same. 
+
+[[+The_Court_of_Terror]] 
+The Court of Terror are the fey of the wilds, rooms, and places. They weild the most obvious forms of magic as their magic is within entire spaces. They are not unlimited, but a member of this court may hold domain over a forest, a bookshelf, a mountain range, or a group of animals. They gather magic from the subtle thoughts one gets from being in a place, and they are very efficient at this. The sound of a cracked branch in the middle of the night or the subtle shades of a sunset through a window are great sources of power to these fey. They bind and are  bound with settings, with the pieces of rooms or the shapes of trees. Often they get their power from animals and lesser creatures, who know mostly fear and hunger. Being in one of these spaces makes you part of their magic. A note of warning needs to be said for altering their homes out of their favour. Hunting in their woods or eating their berries can see you spirited away if you're not careful with your protections. 

@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-19T00:59:11-03:30
 
 ====== Mobster Rogue ======
@@ -35,7 +35,7 @@ You're not like the other rogues, you don't work alone. You are part of a gang o
 		Celestial - You gain proficiency in the Persuasion and Jeweller's Tools
 		Hexblade - You gain proficiency in the Deception and smith's Tools
 		Undying - You gain proficiency in the Medicine and Leatherworker's Tools
-	While you or your allies are wearing or wielding an item made with your tool set, they can add your charisma or intelligence modifier to the associated skill. You can only grant this bonus to a number of people equal to your charisma or intelligence modifier.
+	While you or your allies are wearing or wielding an item made with your tool set (or have their hair styled by your tools), they can add your charisma or intelligence modifier to the associated skill. You can only grant this bonus to a number of people equal to your charisma or intelligence modifier.
 
 **Grandpatron's Expertise.**
 	At 9th level, You represent a group of fine talents and you make your grandpatron proud if they're aware of you. You gain expertise in your Grandpatron's associated skill and tool proficiency. You and your allies wearing one of your empowered items gain a bonus to the associated skills associated with other Grandpatrons equal to half your charisma or intelligence modifier while benefitting from your Grandpatron's standards.
@@ -45,15 +45,15 @@ You're not like the other rogues, you don't work alone. You are part of a gang o
 
 **Arcane** **Mafioso.**
 	Starting at 17th level, you and your people are a well-oiled machine. At this point, you're probably in charge of something. You gain a benefit depending on your choice of Grandpatron to aid your allies in battle. You also no longer suffer the effects of  aging nor can you be aged magically.
-		**Fey. **Instead of dealing damage on your sneak attack, you may instead cast the spell S**low** without using a spell slot or components targetting only the creature you hit. The effects of this spell last until the start of your next turn and do not require concentration
+		**Fey. **Instead of dealing damage on your sneak attack, you may instead cast the spell S**low** without using a spell slot or components targetting only the creature you hit. The effects of this spell last until the start of your next turn and does not require concentration
 		**Fiend. **Instead of dealing damage on your sneak attack, you may instead cast **Bestow Curse** without using a spell slot or components targetting only the creature you hit.
-		**Great Old One. **Instead of dealing damage on your sneak attack, you may instead cast **Banishment**  without using a spell slot or components targetting only the creature you hit.  The effects of this spell last until the start of your next turn and do not require concentration
+		**Great Old One. **Instead of dealing damage on your sneak attack, you may instead cast **Banishment**  without using a spell slot or components targetting only the creature you hit.  The effects of this spell last until the start of your next turn and does not require concentration
 		**Celestial.** Instead of dealing damage on your sneak attack, you may instead cast **Remove Curse, **or **Dispel magic, **without using a spell slot or components targetting only the creature you hit or an ally within range.
-		**Hexblade.** Instead of dealing damage on your sneak attack, you may instead have the creature you hit takes a **penalty to attack rolls** equal to the number of sneak attack dice you would roll.  This effect lasts until the start of your next turn and do not require concentration
+		**Hexblade.** Instead of dealing damage on your sneak attack, you may instead have the creature you hit takes a **penalty to attack rolls** equal to the number of sneak attack dice you would roll.  This effect lasts until the start of your next turn and does not require concentration
 		**Undying. **Instead of dealing damage on your sneak attack, you may instead roll your sneak attack dice and either you or a creature that can see or hear you can **regain that many hit points**.
 
 **Special invocation**
-	**Sneaky blast. **
-		//Prerequisite Mobster, Eldritch blast cantrip//
-			You can also use your sneak attack feature when you hit with an eldrtich blast. As usual you must either have advantage or there must be another enemy of the target within 5ft of it, and you can only use sneak attack once per turn.
+	**Sneak Trick **
+		//Prerequisite Mobster, Sneak Attack//
+			When a creature who is wearing an item from your grandpatron standards hits with an attack, you can use your reaction to add your sneak attack damage to their attack. Once you use this feature, you cannot use your sneak attack feature until the end of your next turn. 
 

@@ -1,0 +1,89 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-24T14:32:10-02:30
+
+====== Cheatsheet ======
+Created Sunday 24 October 2021
+
+Locations and cultures
+	Snarl- whole prison plane
+	Varomar - Surface of only known major Continent
+	Ctutoletl - Jungle Snake people who really don't like other things
+		Out-of-book yuan-ti
+		Known dislike of the world-spirit
+	Danzuishan - Dragonborn city in the south west of Varomar
+		Built on a river
+		Likes Personal responsibility, because most citizens have the ability to kill eachother on accident.
+		Ruled by multiple dragons (and a dragonborn Queen)
+		Dragon Theocracy>Monarchy>Aristocracy>oligarchy>Personal Achievement>Welfare
+		Has a crazy magical maze that supplies much of the plane's wealth and weird magic
+	Dragon coast - What it says on the tin
+		Mostly Jungle, Ocean, and Desert
+		Borders The Dragon Forest, The desert, and Drakenhearth
+		Home to Dragons
+		Previous home to Manaharahi, including Tepet and Mana Ulla
+	Drakenhearth - Swampy jungle peninsula on the south west of varomar, Part of the dragon coast and trinity gulf
+		Populated sparsely by bullywugs
+		really backwater
+	Feywild - Home of the fey
+		Absolutely bonkers
+		Don't give them your name, you'll die without it
+		Home to Aulufeydth Orcs, Intelligent and less prone to violence
+	Gannaga and Xia Rivers
+		Gannaga is Second longest river on the continent, largest by volume
+		Xia is third longest, meets upper Gannaga
+		Defines the climate of the entire west coast south of the aegis down to the trinity gulf
+		Sparsley populated but touches two major Centres, Danzuishan and Umlil Orill
+	Grass Road
+		Long Steppe and grassland south of the aegis mountains
+		Home to out-of-book Orcs, Gnolls, and Special Halfling people
+		Ramishi halflings are part of the Manarahi people, but also culturally distinct
+		Ramishi are friendly
+		Entire road is mostly edible grains, though somewhat sparse water
+	Kholira - Northern Mountain valley containing Kholirahi civilization
+		Quiet sexist druids to the far north.
+		Kholirahi are Manarahi but do not like the Manaharahi
+		Out of book Orc race partially enslaved as military
+		Orcs control less powerful slave-army
+		Kholirahi have Roots of the world tree in their skin, gives them root magic
+		Values truth, hates deception, still power-hungry
+		Not in permafrost region
+	Konia - Mostly Human Civilization. Castles, Knights, Western Europe feel but on the far east of the continent
+		Don't like Manaharamu or Kholira, Stood up to Both for thousands of years with minimal magic.
+		Not doing very well after the war of ants (**Spoilers: not even ruins in 5854)**
+		Used to be a Monarchy, but the last King is long dead
+		Nobles Scattered, forming own, weaker countries like Morwerta and Quire
+		Navy only functioning part of government still extant
+		Filled with competing religious organizations trying to "help"
+		Used to have a very strong martial culture, headed by Silver Knights who were trained to fight mages
+		Area of Konia proper is roughly the size of germany in terms of internal surface area
+		Main Citadel roughly the size of Modern London
+	Kriegcove - Cove on Graoton Island in the west, mostly exiles from other places
+		used to be a prosperous port before the fall of Graoton
+		Low level thugs and assholes, humans are largest minority
+	Manaharamu - Magic Mountain town, edge of the desert and grass road in the south east
+		Magic is very important, as is social welfare
+		Nearly everyone knows a cantrip or two
+		Freeish Healthcare
+		Manaharahi descend from Manarahi, arguable inheritors of legacy
+		Very accepting of physical diversity, less so of cultural diversity (They will get into a fist fight and lose just to protect someone's right to free expression, so long as that free expression doesn't challenge their culture based on supporting eachother)
+		Home to  University filled with mages, Many level 20s around
+		Constitutional Monarchy
+		Densley populated, housing very expensive for non-natives
+		Will sell magic items, some for ridiculous markdowns
+		Has Special military division with antimagic fields
+	Mana Ulla - a mostly abandoned Port city south of Manaharamu on the dragon coast
+		Previous home to both the Kholirahi and Manaharahi, before they were divided 
+		Wild Magic everywhere
+		High Octaride (magical ore) concentrations 
+		Crossing of the two largest leylines on the plane
+		Well is Magic in unpredictable ways
+	Monteblanca - West coast redwoods against Mount Skal and the western Aegis. 
+		Boreal West Coast
+		Fallen empire of out-of-book (but large) Firbolg druids
+
+
+
+People
+Deities, Eldritch forces, and Larger entities
+History

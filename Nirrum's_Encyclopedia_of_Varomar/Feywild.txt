@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-19T00:37:44-02:30
+
+====== Feywild ======
+Created Sunday 19 July 2020
+[[+Geography_and_Environment]]
+[[+A_Description_of_The_Fey]]
+[[+The_Courts_of_the_fey]]
+[[+Geography and Environment:Floraids]]
+[[+Geography and Environment:Faunaids]]
+[[+Fey]]
+[[+non-fey_Denizens]]
+
+[[+Adventuring_In_The_Feywild]]
+
+**A content warning is strictly necessary, They fey are psychologically themed, and among them are elements of horror, including many uncomfortable topics and realities. Gore, Sexuality, Bugs, Personal responsibility, Old age, the inevitable march of time, secrets you wish had stayed forgotten as well as some that could not be, Inadequacy, Dysphoria, and the idea that the worst monsters look just like you and that perhaps the thought that one such monster IS you are all things that come up. If you're not willing to face yourself, don't come into the feywild.**
+
+**Dm's Note:** Many of the fey are built Anthropomorphically, and generally arranged in human shape and with human concerns. This does not need to be the case in your game, as the realm of the fey is a reflection of one's self in many ways, and so too is it not uncommon for one fey to be swapped out with a *nearly* identical copy. Do what is right for the story and the experience.
+
+
+
+Heading to the feywild is an intrinsically dangerous endeavour.  The very nature of it is different from the prime material plane. Light is Metaphor, sound is allegaory. The experience of being in the feywild is, despite all appearances and with only one exception, not like being in the prime material plane. There are millions of rules that are so intuitively sensical but fundamentally different than what the prime material plane has, it would be impossible to list them all. Thankfully there's a fundamental superstructure that is not impossible to parse. While you will get yourself in sticky situations in the fey, knowing one's own powers and this superstructure will help you. Being in the feywild is to be exposed to this energy and that energy acts upon you. The very act of writing this section has changed me intrinsically, left scars on my soul that will never heal, not without some more magical preparation. Talking to the fey is taking part of them into you and them taking part of you away. Be wary of who you talk to, that is the easiest way they work their magic. 
+
+===== Geographic (and physical) consistency =====
+There is a myth that there are no maps of the feywild. There is also a myth that there is a map of the feywild. Neither of these are true. Rather, while maps of the feywild exist, they can't be printed like normal maps because normal paper lacks the ability to convey the context of even the smallest portions of the feywild in a reasonable sense.
+
+The feywild is divided into two semi-repeating portions, to start with. The Feylight and the Feydark. Conveniently, the feydark is both to the west and east of the feylight,  and vice-versa. Not unlike day and night here, one comes after the other, but described in distance instead of time. Moving north or south will have strange effects including sharp changes in relative facing direction of approximately 116.57 degrees (these actually occur travelling east to west as well, but as long as you have a heading you can track it relative to the light, but eventually you will reach positions where, depending on the position of your feet, the sun will either be completely inaccessible or completely unavoidable, seeming to be in either no direction or every direction at once. If you stay away from these poles,  you'll always be able to know where you are, with a period of roughly one feywild day per 2.802 planar lengths. 
+	//Nirrum's note: I've figured it out. Take a tube and fill it with 12 sided dice that are white on top and black on bottom but kinda diagonally. It's that. You're travelling through the tube from the middle. I really wish my meter stick would work in there so I could get the exact planar length value but that wouldn't make sense I guess. You can cross over from link to link at any dawnpoint which would be the 9 face or any duskpoint which is at the 4, almost opposite eachother. Though sometimes you can go from different points... is it a sphere of some sort? They also seem to move so the dawnpoint and duskpoint will move along edges to new vertexes//
+	
+The Feywild's strongest intersections with the prime material plane overlap roughly (just under) every two feywild hours, and this only loosely and occasionally correlates to the time in the prime material plane, a fact which is tremendously shocking to most fey upon visiting the prime material plane until they figure it out. It does not take much magic to slip in and out of the feywild, per spells such as some forms of misty step, but outside of those contact points, a higher level is necessary.
+
+When travelling in the feywild, keeping that 116.57 degree change in mind is critical. Instead of our delightful 90-180-360 geometry, things in the feywild seem to favour this angle, meaning a circle has just over 466 degrees, though it might seem to be normal from where you are standing. If you fail to take this into account, you will very likely find yourself walking upside down above your comrades, being *technically* on the same level, being pulled in the same direction by gravity (or it's substitute) but having transposed yourself along other axes. For this reason you can confuse many fey by putting them into a torus-shaped room, they will likely keep attempting to turn a lot slower than beings of the prime material plane to maintain their heading along the track. Straight lines on this plane will seem to material planars to be a series of 64 degree turns alternating to the left and right. There seems to be a sort of right-hand chirality so going left and then left will only turn you left but going left and straight will cause you to turn //downwards. //Right and straight will tilt you upwards. The outermost vertices change through as the dawnpoint and duskpoint move.
+
+With this in mind, **It should be clear why without relative reference frames at every step, no map of the feywild would even begin to make sense, despite the fact that they can technically be constructed and give accurate directions.** The gap between context and abstraction does not fit on paper. **Though with clear reference frames, such as a straight hallway, it is hard to tell the difference.**
+
+
+IF you want a completely sane fey projection, like a nerd, any given region of the fey follows these rules or just use a C120 Projection of a hyperdodecahedron, because if you're here for this part, you're probably crazy and I want to hear all of it:
+	There is an up and a downside to any 3-space orientation, they are different places occupying the same regional space, and are differentiated by some (magical) difference in 4-space orientation, specifically a full inversion along one axis. For a fun version of this effect, Standing on one's head and spinning counterclockwise is enough to get you to the other side, though the geographical features may be prohibitive through movement from one side of the face to another. 
+	
+	Moving any amount in any direction can bring you to one of two other possible locations, in the same orientation. Moving in a "straight line" realative to your local projection of 3 space will bring your back to your original location after 1.028 planar lengths. For ease, this will be about six full days' travel on foot. You'll move out of a region in 0.324 planar lengths, or about two full days walk in a straight line. Any deviation at all can lead you to one of two other sets of 12 regions, each of which share one region with the region set you just moved out of. In a nearly infinitely improbable chance, one may travel across a vertex and end up in one of //six// adjacent regions.  
+
+
+Other interesting notes: 
+* By nature of equivalence, the forces that govern a body change drastically on large scales. 
+
+==== Fey Region Temporal Alignment ====
+		Because of the strange temporal properties of the feywild, Many makers of time and change are simultaneously //constantly changing, //and //completely stagnant. //All times happen at once in an area, but those times become some sense of space. Snarl is set in the very middle of the summer for the feywild, and by default, all lands are considered in the sense of the summer. But by journeying far, making the right turns, passing through the right plants or features, you may reach the same spot you were before, but earlier or later in the fey "year"  which has nothing to do with the proceedings of events, but is a natural consequence of how time is experienced in the feywild. The mathematics behind these phenomena are very complex 
+			**DM's note: And complete Bullshit, made entirely out of convenience and thematic appropriateness **
+		Heading winterward or Springward isn't something one can normally do without walking for a very long time, but there are paths in the feywild that minimize that time, and many of the fey's own unique magic that can make it trivial, not unlike a good teleportation spell
+		As mentioned previously, the Day and Night are also things to contend with. These are dimensionally different from the seasonal  represenation of location, and a daytime spot in the feywild will almost always remain such, There are places in the feywild where this is not the case, and regions in the feywild that do have periodic diurnal experience. There are even some places that experience complex diurnal states, where a day might start with dawn, reach noon, hit dawn again, then noon again, then sunset, then noon, then sunset, then finally, nighttime. There are //specific// regions in the feywild known as the Dawn, Dusk, Noon, and Midnight points, which represent a relatively limited set of locations. These regions are demarcated by the position of the Sun. The parallax caused by the sun is the best way to navigate in the feywild, but deciphering which way to turn to go straight is always going to be a challenge. 
+		
+

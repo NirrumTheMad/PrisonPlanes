@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-20T23:03:08-02:30
+
+====== Influence ======
+Created Friday 20 August 2021
+
+~~Many fey listed here contain an influence roll. This is simultaneously binding the fey and having it agree with or respect you in such a way that it does your bidding to some degree equal to a favour. To find what roll to use, take the skill with its usual ability (example: Stealth(dexterity) and roll that first. If the character passes the DC, they know what ability score they have to use, and can tell others (Example: Stealth(intelligence). These influences are usually kept very secret as the fey do not want them to be known.~~ 
+
+Influence is what needs to be done to impress and elevate one's status to the fey. It can only be done once per visit. It is difficult to negotiate with them otherwise
