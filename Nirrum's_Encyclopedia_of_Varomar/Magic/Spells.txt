@@ -26,7 +26,7 @@ Anyway, here's a list.
 		1 Action, V,S, Evocation
 			Range: 300ft
 			Duration: instantaneous
-			A magical chain extends from your hand. Make a ranged spell attack roll agains a target you can see, if the spell hits, the target is pulled 15ft toward you.
+			A magical chain extends from your hand. Make a ranged spell attack roll agains a target you can see within range, if the spell hits, the target is pulled 15ft toward you.
 				This spell creates more chains as you reach higher levels: Two chains at 5th level, Three Chains at 11th level, and 4 chains at 17th level. You can direct the chains at the same target or at different ones. Make a separate attack roll for each chain.
 				
 	//Wedge (Artificer, Bard, Sorcerer, Wizard)//
@@ -39,7 +39,7 @@ Anyway, here's a list.
 		1 action, V,S,M (An object of very similar weight to the target) Conjuration
 			Range: 60ft
 			Duration: Instantaneous
-			The material component and an object that is within range neither worn nor held that you can see or hear
+			The material component and an object that is within range neither worn nor held that you can see or hear swap places.
 			
 	//Enhances senses (All casters)//
 		1 action S, M, (A glass cup) Divination
@@ -102,11 +102,47 @@ Anyway, here's a list.
 			* You create a nonmagical trinket or an illusory image that is as wide as your shoulders and lasts until the end of your next turn
 		You may dismiss any of the effects of this spell as an action.
 		
+	//**Spring Wind **(Cleric, Druid, Ranger, Paladin)//
+		1 Action, V,S,M (a small piece of ice, cold water, mud, or an unsprouted but viable seed)
+		Range: 30ft
+		Duration: 1 minute, concentration
+			You draw vitality toward yourself and let growth flow back, if you can manage it. Choose one creature you can see or smell within range. You immediately make a saving throw that that creature would have to make on their turn using your own modifiers. While this spell is active, the creature no longer makes saving throws, but you must make saving throws for them against the effect as normal. They still suffer the effects of the spell or ability as normal. If you succeed on the saving throw, it is as if they have succeeded the saving throw, if you fail, it is as if they failed.
+			**Casting at higher levels.** For each slot level beyond second, you are able to roll an additional effect 
 
 ==== Level 3 Spells ====
 	
 	//Phobia//
 
+	//Misty Leap //
+		Casting time: 1 Bonus action
+		60ft
+		
+
+
+
+
+==== Level 7 Spells ====
+	
+	//**Frisson Static (**Wizard, Sorcerer, Warlock)//
+		Casting time: 1 Action (V,S,M, a fine quality metal disc) Enchantment
+		Range: 10ft radius centered on you
+		Duration: Instantaneous
+		Each creature within range makes a Charisma Saving throw. On a failed save They are stunned until the start of your next turn. Creatures that are immune to being charmed have advantage on the saving throw
+
+
+==== 8th level spells ====
+	Invoke Taliyudur
+		You infuse those who hear you with the magic of the court of whispers. Creatures friendly to you make insight, persuasion, deception, and intimidation checks using your modifiers unless theirs are higher. 
+	Invoke Neskir
+		The Magic of the Court of swords bolsters your allies. Weapon attacks made by creatures friendly to you deal extra damage equal to twice your charisma modifier 
+	Invoke Rei-oh
+		The Court of valour's magic cascades to your allies. When an ally that can hear you moves, they  do not provoke opportunity attacks and they can make opportunity attacks when a target uses its movement to move into their range.
+	Invoke Sillowdar
+		The court of Glamour's magic erupts from you. For the duration of the spell, allies make 
+	Invoke Unshinihi
+		The Court of Terror's magic oozes across the terrain. All allied creatures that can hear you add your charisma bonus to any saves they make. The ground around them is difficult terrain
+	Invoke Dalri
+		The skillful magic of the court of lore threads through your allies and back to you. All allied creatures (yourself included) may use their reaction to make a skill check of the type of your choice. Add the totals together and use that for the result of your check
 
 ==== 9th Level Spells ====
 	//**Gatewarding**//

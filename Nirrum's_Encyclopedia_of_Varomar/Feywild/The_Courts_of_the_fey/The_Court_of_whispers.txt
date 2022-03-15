@@ -37,6 +37,17 @@ Tucked in the nightways and moonlit parts of the feywild, behind  Sprawling thin
 			//Nirrum's note: It has been over a year. I give up, I'm not looking into this creature any further as they have stymied my work entirely and made it nearly impossible to write anything.//
 
 
+	**The Kelaningo (ENFJ) **Whispers, Archfey (Bard 9)
+		This Ancient looking elf-like creature appears ready to topple over at any moment, but is really going to topple other things
+			Height: an imposing 4'10 hunched.
+			Influence: 12 Persuasion (dexterity) to avoid falling into their trap.
+		The Kelaningo is a mule for The Gassure's will and plots in the feywild and one of many, that much is for certain. They are one of the most reliable vassals to the court of Whispers, and are paired with the shaeling gry for efficacy and protection, though they in turn are protected by a gaggle of lesser fey mages and thicker plots, it is a sickly feeling even writing about them, as millions of threads attempt to ensnare you. The Kelaningo dresses colourfully, in bright, puffy breeches, a maroon doublet, and yellow and green striped shirt with frilled sleeves. He wears a wide hat, which he can hide entirely inside while he looks for a direction that brings him out of sight, appearing to pull the hat behind them.  
+		
+	**The Shaeling Gry(ENFP) **Whispers, Archfey (Adult green shadow dragon)
+		A cloud of Mysterious dimness that followss the Kelaningo and occasionaly looks like an elf
+		
+		
+
 ==== The Whisper's Toyshop ====
 	A thick and tall building bursting through several layers of the feywild, aglow with candlelight, this mishmash of workshops is where whisper fey go to build prodigies. This great workship is home to some masterful workers, mostly specializing in toys. As works of the fey, they are imbued with fey magic. A Whispers fey will use these toys to sneak ideas into sleeping children. Ideas of ambition, rebellion, passivity, or the perpetual singing of muses. Only a child can hear the works coming from their toys, and of course, they'll always think it's in their head. Great heroes are often the product of whisper fey plots, as are many villains, and many of both are cultivated from birth, shaped to become what they do. The Whisper's toyshop is watched over by **The Master Bellman,** The Archfey of Unintended influences**. The Ringing of his bell is very very dangerous, especially to fey,**
 	
@@ -57,7 +68,7 @@ Tucked in the nightways and moonlit parts of the feywild, behind  Sprawling thin
 		**The Uuduroshi (ESTP) Archfey of Dice (Patron, Fey)**
 			Height: 32ft
 			Influence: 27 Perception (wisdom) You must notice them cheating to bind them. A deception (dexterity)  27 has the same effect, a subtle change in body language to indicate that you know they cheated
-		The Uudurosh is a gargantuan and muscular creature, with short bluish-green fur covering a  femalish body, She binds her chest  with wrappings and wears plate armor on her legs.  Her face is Humanoid,  with deep laugh lines and sharp teeth. The skin around her face bears little fur and is very grey with a slight hint of tan. Her eyes are always wild and regardless of the rest of the face's position, seem to imply hunger.  Her favours appear to be given out as gambling losses but, as per usual, the Archfey of dice never loses except on purpose. She has no and intends to bear no offspring, but she has thousands of warlocks who earn their lessons by "losing" her dice in places they visit, by gambling, playing games, or by enticing others to do so. Any money lost on this gambling is to be considered payment, any money won is to be considered a tip. She will not hesitate to eat someone who displeases her, but she is known to boast and is prideful and easily swayed by flattery, even lies. 
+		The Uudurosh is a gargantuan and muscular creature, with short bluish-green fur covering a  femalish body, She binds her chest  with cloth wrappings and wears plate armor on her legs.  Her face is Humanoid,  with deep laugh lines and sharp teeth. The skin around her face bears little fur and is very grey with a slight hint of tan. Her eyes are always wild and regardless of the rest of the face's position, seem to imply hunger.  Her favours appear to be given out as gambling losses but, as per usual, the Archfey of dice never loses except on purpose. She has no and intends to bear no offspring, but she has thousands of warlocks who earn their lessons by "losing" her dice in places they visit, by gambling, playing games, or by enticing others to do so. Any money lost on this gambling is to be considered payment, any money won is to be considered a tip. She will not hesitate to eat someone who displeases her, but she is known to boast and is prideful and easily swayed by flattery, even lies. 
 		
 		**The Sha-Malnui (INFP) Archfey of Secrets (Patron, Fey)**
 			Length: 1 mile

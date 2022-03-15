@@ -404,6 +404,11 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 **Hand of the Clockwork Castle **
 	//Any Sword, Requires attunement by a Paladin or Warlock//
 	You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit an Abberation or Monstrosity with this weapon, it deals an extra 2d10 Lightning damage, ignoring resistances and immunities. While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
+	
+**Rimewine and Chillwine**
+	Wondrous item (consumable) 
+		Whenever this liquid is still for any period of time, the surface of it freezes over with a very thin sheet of ice. Both types of wine are perpetually just below freezing in temperature, and both are alcoholic. Rimewine is stronger and more fortified than chillwine.  Drinking either of these wines give you the ability to see into a place in the feywild, whichever part is closest to your location for one hour. Drinking them while in the feywild allows you to see the prime material plane. The drinks each have a secondary effect depending on which one.
+			Rimewine: you 
 
 
 ==== Tagic Company Items ====

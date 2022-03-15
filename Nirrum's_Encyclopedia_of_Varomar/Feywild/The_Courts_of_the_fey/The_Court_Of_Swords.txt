@@ -14,7 +14,7 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 			Height: Equal to the height of the person they last spoke to
 			Influence: 19 Athletics (constitution) withstand a mighty fistbump with the core of your soul
 			Favour: 2560
-		THE RIGID BARON is a Muscular humanoid of masculine figure, firm hands, and skin that is golden if he is viewed from the back, Blue if he is viewed from the front, ruby red if viewed from the right and bright purple if viewed from the left. He is green if viewd from above and sunrise pink if viewed from below.  His face is the face of an axolotl but with a Large sweeping moustache. He wears only a black and gold kilt and leather sandals. THE RIGID BARON  likes to test the resolve of people who ask for his help by challenging them to a wrestling match. The outcome of the match is irrelevant to the baron though, simply that they showed their resolve by fighting well. The Rigid baron uses their favours to force people to use their strength, physical or mental. The rigid baron has a gargantuan greatsword that he can summon and weild without penalty as a bonus action, but only does so in the most dire of situations
+		THE RIGID BARON is a Muscular humanoid of masculine figure, firm hands, and skin that is golden if he is viewed from the back, Blue if he is viewed from the front, ruby red if viewed from the right and bright purple if viewed from the left. He is green if viewed from above and sunrise pink if viewed from below.  His face is the face of an axolotl but with a Large sweeping moustache. He wears only a black and gold kilt and leather sandals. THE RIGID BARON  likes to test the resolve of people who ask for his help by challenging them to a wrestling match. The outcome of the match is irrelevant to the baron though, simply that they showed their resolve by fighting well. The Rigid baron uses their favours to force people to use their strength, physical or mental. The rigid baron has a gargantuan greatsword that he can summon and weild without penalty as a bonus action, but only does so in the most dire of situations
 		
 
 ==== The Hall of Moments ====
@@ -130,7 +130,7 @@ Dance person
 	The **Geenchena** looks like a
 	
 	
-	**The Geencheyna, Archfey of Swords (ENTJ) (fighter 20 Battlemaster)**
+	**The Geencheyna, Archfey of Swords, lord of the court of Swords (ENTJ) (fighter 20 Battlemaster)**
 		This murky green Lord does not speak with words, but with swords
 			Hieght: Matches opponent
 			Favour: 4000

@@ -14,7 +14,7 @@ Here is a list of some of the things you //may// do without breaking the setting
 
 	**Legend:**
 		//Published options - //Official Wizards of The Coast Dungeons and Dragons Published material (in books), not including Unearthed Arcana or Plane shifts and streams
-		//Unearthed Arcana - //Official Wizards of the coast playtest material and planeshifts
+		//Unearthed Arcana - //Official Wizards of the coast playtest material and planeshifts such as Strixhaven and Ravinica settings.
 		//Specific homebrew - //Certain Homebrew materials that will be usually mentioned by name
 		//Setting legal - //They exist in the world frequently enough that a DM //should// allow them, but as always, are under no compulsion to
 		//Are allowed - //Exist infrequently in the world, A DM may choose at their leisure to allow these, though it is assured they are not too potent
@@ -30,7 +30,7 @@ Here is a list of some of the things you //may// do without breaking the setting
 	All published options are setting legal. Gunpowder and most explosives don't work on this plane but things like compressed air and //magic// Obviously do. Artificers often are trained at the university of Manaharamu but nothing stops anyone from tinkering.
 	
 **Barbarian**
-	All published options are setting legal, but battleragers are going to feel nerfed in comparison to other barbarians. The specific homebrew for the Wild Soul Barbarian is allowed as well
+	All published options are setting legal, but battleragers are going to feel nerfed in comparison to other barbarians. 
 	
 **Bard**
 	All published options are setting legal. Because of their studious nature, Bards may use Intelligence as their dominant stat, reflecting then a different type of wizard, capable of learning in a different way as well as the Bard's explicit use of memory. 

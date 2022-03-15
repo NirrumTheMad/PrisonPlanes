@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-02-20T01:02:15-03:30
+
+====== Names ======
+Created Sunday 20 February 2022
+
+To have a creature's true name in fey terms is to become the recipient of all favour that that creature earns, divided evenly among all those who have the name. This does not work against gnomes, who can craft names from scratch to overcome this weakness, nor does it affect some of the more powerful fey whose names are monumentous, trapped, or those who are also capable of fixing their own name.
+If you have lost your name, All skill checks total to Zero, at the whim of the one who has your name. 
+Prime material creatures have the benefit of being able to save themselves by having someone else say their name to them, thus re-asserting their control. Many fey will only bargain for names with those from the prime material plane if they are alone, and have no one who knows their name. A creature who has lost their name cannot say their name, nor communicate it in any way, nor even think it. A cast of legend lore can reveal the truth of a lost name, but not a hidden one.
