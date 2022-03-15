@@ -119,6 +119,13 @@ Anyway, here's a list.
 		
 
 
+==== Level 6 Spells ====
+	
+	//Select All (Conjuration)//
+		Casting time: 1 action
+		Range: 500ft
+		Duration: Instantaneous
+	All objects of a single type (weapons, tools, armour, etc;) that weigh less than 20lb each that you can see within range that are not worn, carried, attuned, or affixed so that they cannot move are all transported a special demiplane. This Demiplane cannot normally be entered by a creature but its contents can be expelled by casting this spell again, at which point the contents appear in an efficiently packed space within 30ft of the caster. 
 
 
 ==== Level 7 Spells ====
