@@ -14,19 +14,27 @@ Without attempting to describe their relationships to eachother, the feywild has
 
 ==== The Dragonleaf Rainforests ====
 	It turns out that dragonleaf trees flourish in the feywild, preferring the crepuscular regions mostly. Along several levels of one of these crepuscular regions is the dragonleaf rainforest which seems to be made *exclusively* of young dragonleaf trees. Depending on the position of the dawnpoint and duskpoint, they remain there constantly. When the dawnpoint gets to directly overhead, they start their flowering cycle, where they get extremely aggressive. Ones that succeed then leave the dragonleaf rainforest for other parts of the feywild... probably. They definitely leave for somewhere. Within one of these forests, closer to the dayside than the nightside, is the infinite river, which connects to the prime material plane somewhere south of Manaharamu
+		* Dragonleaf tree
+
 
 ==== The Puddletops ====
-	Along the afternoon and ealy night bands of the feywild, there is a region known as "the puddletops". The puddletops are a series of pools of water which seem to defy gravity, at least for a bit. Water flows from groundwater aquifers and up along aquacles shaped not unlike tree trunks and into a canopy  of... just floating water.  These pools seldom connect but on occasion they do, and in a few places small rivers can be found flowing uphill. The further upstream one goes, the thicker the trees become. These trees, known as Skypools, house many fish, as well as a relative of the darkmantle that drops down from them, as well as fey Hydra anenomes, which lie in wait with dangling tentacles to pull up things that wander into them.  four legged skimmers run across the tops of these skypools looking for organisms to feed on with their sharp proboscis, but occasionally descend underneath the skypools for safety. The largest skypool is often described as "The size of ten dragons". It is suspected that there is a connection to the elemental plane of water at the top. 
+	Along the afternoon and ealy night bands of the feywild, there is a region known as "the puddletops". The puddletops are a series of pools of water which seem to defy gravity, at least for a bit. Water flows from groundwater aquifers and up along aquacles shaped not unlike tree trunks and into a canopy  of... just floating water.  These pools seldom connect but on occasion they do, and in a few places small rivers can be found flowing uphill. The further upstream one goes, the thicker the trees become. These trees, known as Skypools, house many fish, as well as a relative of the darkmantle that drops down from them, as well as fey Hydra anenomes, which lie in wait with dangling tentacles to pull up things that wander into them.  four legged skimmers run across the tops of these skypools looking for organisms to feed on with their sharp proboscis, but occasionally descend underneath the skypools for safety. The largest skypool is often described as "The size of ten dragons". It is suspected that there is a connection to the local elemental plane of water at the top. 
+		* Puddleskimmer
+		* Hydra Anenome
+		* Splashmantle
 	
 
 ==== Bouldergarden ====
-	The rocks in bouldergarden show every sign of being alive, autotrophic and growing though the growth is extremely slow, even in feywild time. That said, the boulders can be found to grow. What trees grow in this region often have boulders *overgrowing* them. Many of the larger ones have fossilized fey who decided to try to make a home inside one, only to find one day that they couldn't get out
+	The rocks in bouldergarden show every sign of being alive, autotrophic and growing though the growth is extremely slow, even in feywild time. That said, the boulders can be found to grow. What trees grow in this region often have boulders *overgrowing* them. Many of the larger ones have fossilized fey who decided to try to make a home inside one, only to find one day that they couldn't get out. Many of the trees that grow in bouldergardens are usually mundane, though they're often particularly fast growing trees, such as maples. Stonepeckers like to use the boulders for getting food, by methodically carving out large portions of rock, leaving them tenuously attached, and then severing them when a creature passes underneath. 
+		* Stonepecker
 
 ==== Mirrorlakes ====
-	Dotted around the feywild are mirror lakes, which behave like normal lakes but with some odd features. They are always perfectly reflective, but splashes and drips sound like and behave like broken glass, slowly melting back into the main body after being separated and returning to a smooth surface.  Real aquatic creatures cannot breathe under the surface, but they are not uninhabitted, as the reflections in the pond take a life of their own, and often an adventurer has been spooked after taking a drink and watching their reflection walk off looking unconvinced before they get a chance to do the same. Some lakes seem to allow more than one of the same reflection, others do not. 
+	Dotted around the feywild are mirror lakes, which behave like normal lakes but with some odd features. They are always perfectly reflective, but splashes and drips sound like and behave like broken glass, slowly melting back into the main body after being separated and returning to a smooth surface.  Real aquatic creatures cannot breathe under the surface, but they are not uninhabitted, as the reflections in the pond take a life of their own, and often an adventurer has been spooked after taking a drink and watching their reflection walk off looking unconvinced before they get a chance to do the same. Some lakes seem to allow more than one of the same reflection, others do not. Mirrorlakes are usually peaceful regions, and one can indeed drink the water in a mirrorlake, though it feels as though one is chewing on tin, and one's urine will look like quicksilver for a day or so. Most creatures despise this feeling though at least one adventurer reports that they have come to enjoy it.
 
 ==== Wronghouses ====
 	Not unlike the bouldergardens except they grow buildings, often ones that can be found in the real world. However, the features of these grown buildings are frequently flawed and sometimes two might combine. A room might not have a door or the door may be too small and way too high off the ground, A window may look into a wall, a rail may be across a hallway. these are signficantly more safe to be in but getting lost  is still easy, this is the feywild after all
+		* Wrongoblins
+		* Culdersnatch
 
 ==== Storygrass Grasslands ====
 	When the wind blows in the wide plains that have storygrass, you can hear whispers, songs, and occasionally stories old and new. The grass is semi-sapient and can communicate but usually isn't spectacularly helpful. 
@@ -176,3 +184,48 @@ Without attempting to describe their relationships to eachother, the feywild has
 ==== Gamnus Oak Woods ====
 	A tree not disimilar from Spruigia in its immensity, Gamnus Oaks are impossibly broad trees with dense canopies, such that it is hard to tell what is ground and what is wood. A few gamnus Oaks can fill a mile of space as they absorb starlight in the midnight regions. Fey that do not wish to be found (or eaten) often hide in these and do their best to remain hidden
 
+==== **Highmeads** ====
+	noonwise, rolling fields sometimes find themselves at the foot of a mountain, or occasionally, they become the mountain. Highmeads are among the highest peaks in the feywild, next to firehearts, though they always look like grassy hills, just... ones that go up too far. They have gentle slopes, and if one travels into the winter, there is nothing better for sliding. Sometimes, they even breach the clouds, and at their summit, one can feel the warmth of the sun as flowing magic.
+
+==== Manglowves ====
+	Planted firmly at the edge of night, just after the last hues of violet dim, one can find great glowing pools  of cyan water spanning miles. Drinking in the phosphorescent blue  glow are great black trees with reflective and shimmering green flowers, standing on stilt-like roots that presumably reach the bottom of the pools. The pools do not seem clear, but very much are, and a creature within them can see as they normally would in bright light  for about a third of the distance, as the glow does slowly overcome the silhouettes off the tree roots. That said, the pools are extremely deep, and only interrupted on the surface by the trees and buildups of detritus  between them, functioning as some semblance of ground. Great lilypads with luminescent red flowers also climb from the depths, their lancet petals giving off a  scent like melted chocolate. The flowers are edible but will give a bad stomach unless cooked (or eaten by a creature with poison resistance).  
+	
+==== Midnight Point ====
+	Shuddering through the feywild is the peak of all darkness in an otherwise glowing realm. Wherever the midnight point passes, one can find the remnants of the **Old Courts, **Empty, Hollow shells of structures that still hold immense power. The Old Courts were buried here by the six new courts, crushed under the weight of immense magic, though the old Powers of Summer and winter still slumber, perhaps eternally, under the thick mausoleum of the machinations that placed them there. Buildings, Structures, old vaults, and occasionally roads all reveal themselves. For Six hundred rounds, one hour, the remnants are explorable, but once that time is up, the magic sinks the structures beneath some other midnight biome and anyone within the stones is lost  there in stasis until the midnight point passes again, and that can be an extremely long time. 
+	
+==== Noon Point ====
+	The **Warden Of Lightning's** greatest machination is the feywild sun, through which most magic enters the feywild. A Mosaic of interference patterns ripples across the surface of the great disc. Where this portal of magic passes directly above the land, the truth of the feywild is born. All creatures under the noonpoint are capable of casting the following spells without using spell slots or requiring components
+		Plant Growth
+		Awaken
+		Continual flame
+		Control Flame
+		Control Water
+		Control weather
+		Create Food and Water
+		Create or Destroy water
+		Bones of the earth
+		Immovable Object
+		Mending
+		Nystul's Magic Aura
+		Reverse gravity.
+	The effects of these spells do not end as they usually would and most are simply permanent. The Magic of the noon point lasts for 600 rounds, one hour, before moving. Either the region is replaced with another noonwise biome or, if sufficiently altered, remains as it is.
+	
+==== Shallow Oceans ====
+	Slipping along the afternoon is a child of the feydeep. Shallow Oceans are long flat sheets of salty water that are only about a foot deep at their deepest, sitting above fine tan sands. Sunrays bask among seawheat, which pokes its heavy grain out of the small surf. Exploding Glass shrimp dart along with the ebb and flow of the rippling waves, often blasting themselves into tiny shards to escape from barking barracudas. Dewy Flounders secrete fresh water that tastes like pressed rose petals when threatened, and indeed, the smell of their water is the only thing that  can ward off the Sumigi Lungfishes. One of the only things to notably break the water, the Lungfishes are huge and hungry creatures that half swim, half slither toward creatures in an attempt to eat them. Where rocks breach the sandy bottom, long tentacled anenomes reach for plankton and try to avoid Laserclams and warrior mussels. When the moon passes near, it is not uncommon for these to flood entirely as the true ocean moves in.
+	
+==== Ticking Forests ====
+	Once a year, which is nearly always for this part of the fey, some otherwise unremarkable coniferous forests seed all at once. Along their branches, tufts of thin white and sometimes tan fibres burst forward, covering their green needles. Ticking forests are excellent sources for plant fibre but wooly beasts hide among the branches, waiting to drop down and mangle people passing by.  Cottonfir, thistlepine, Feathered spruce, and the occasional Silken Larch all crowd together in thick stands, cut only by artifical pathways. underneath the canopy is very dark, despite the brightness outside of it. Giant Jays call mockingly above anything that moves except Runeskunks, which are given exceptional berth. 
+
+
+==== Dewseas ====
+	Exclusively in the early morning, one can find the little cousin of the puddletops. Massive carrot-like umbels gather the mist and moisture from the night and hang on to the water so tight that one can very frequently find fish swimming around in the oversized drops, which connect from flower to flower. It is easy enough to dislodge the dew, to the despair of the things that live inside it, for the water is supported only by thin stalks. The largest of these are over 12 feet tall, while most barely crest 6. The light of the sun is enough to make the dew throw brilliant rainbow hues into the low paths carved by fey who travel through these regions. This is a good place to be careful, for Pipers are often born in dewseas, and they have a great hunger for the names of non-fey
+
+==== Amphivalleys ====
+	Sometimes, often off of stageroads, one will find the ground falls into a series of steep terraces. Deep pits gouged into the land, strangely with concentric circles leading down to a slightly raised dias. A valour fey that is ready to die is almost always present, though sometimes a young terror fey, a stressed Lore fey, or any sort of glamour fey. Ostensibly, any sort of fey will be drawn to the Amphivalley. The Crowds vary wildly in the amphivalley. Those who wish to pass through can either take the ring road, which runs around the middle of the cone, or take the middle path, which brings them to the dias. Those that go through the center are often drawn into whatever event is being shown.
+
+==== Glittergrass Field ====
+	Sweeping broadly around in the last edge of the late morning, just before noon, is one of the boldest biomes of the daylight regions. What appears to be mundane ryegrass is in fact fey Glittergrass. The seedpods of glittergrass snap into iridescence when disturbed roughly, meaning that creatures walking through the field leave a spectral wake that takes a few days to reset. Giant owls patrol the field, looking for creatures to eat. 
+	
+==== Girderfall ====
+	It is hard to describe the true nature of a Girderfall. Not unlike Spruigia, girderfalls are extremely tall, or perhaps extremely deep regions of the feywild where Lore fey have made or perhaps grown great steel beams that cross over chasmic interruptions in the landscape. Often local fey will say that girderfalls are put in place where great catastrophes happen, but it might not be a coincidence that all of them become mines for all sorts of fey, as each seems to contain some useful material. These misty and impossibly deep mazes of metal attract their own sorts of problems, as many malevolent fey can use the steam billowing up from the depths to hide from prying eyes. Worse for the unwary traveler, these structures are always in the deep night regions, and often where stars are dim. One can see them from a ways off by the huge pillar of condensation, but that is only if moon and cloud allow. Unlike Spruigia forests, Girderfalls do not always twist their way through the feywild, and indeed, one can exit and enter at many points along the structure. 
+	
