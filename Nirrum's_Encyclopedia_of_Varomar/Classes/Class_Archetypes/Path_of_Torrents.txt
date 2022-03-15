@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-03-21T01:55:20-02:30
 
 ====== Path of Torrents ======
@@ -10,7 +10,8 @@ So often among the Manarahi, people are born with great focus and great reckless
 
 **Ta Walshkao**
 	When you choose this path at 3rd level, You are able to concentrate on spells while raging. 
-	Choose one first level spell from any spell list. You know this spell and while you are raging you can cast it at its lowest level a number of times equal to your intelligence modifier without expending a spell slot (you do not gain spell slots form this feature). A spell cast this way uses your Intelligence as your spellcasting ability and does not require material components. While you are not raging, you can only cast this spell using the appropriate spell slots. If your rage would end because you did not attack or take damage since the end of your last turn, your rage does not end if you cast or were concentrating on a spell this turn.
+	Choose one first level spell from any spell list. You know this spell and while you are raging you can cast it at its lowest level a number of times equal to your intelligence modifier(minimum 1)  without expending a spell slot (you do not gain spell slots form this feature). A spell cast this way uses your Intelligence as your spellcasting ability and does not require material components. While you are not raging, you can only cast this spell using the appropriate spell slots. If your rage would end because you did not attack or take damage since the end of your last turn, your rage does not end if you cast or were concentrating on a spell this turn.
+		At 9th Level you learn one 2nd level spell and can cast it with the same conditions
 		At 14th level you learn one 3rd level spell and can cast it with the same conditions.
 
 **(8+proficiency+spellcasting ability modifier= Spell save DC)**

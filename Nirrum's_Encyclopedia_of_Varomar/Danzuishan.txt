@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-06-07T18:25:15-02:30
 
 ====== Danzuishan ======
@@ -11,14 +11,14 @@ Created Thursday 07 June 2018
 [[+Deep_Citadel]]
  
 
-**In Throughout 5854, Manahararahi begin flooding into the city, trying to find a home. Addressed as a group by Gono the Blue, it is made clear that their culture is not Danzuishan's. This is the home of the dragon-blooded, the dragon-like. This is a place for Driven people who can help themselves. The Displaced Manahararahi set up mostly in Gari and Keina but many move on seeking a new home. Danzsuishan forbids trade to Kholirahi Agents, which were until the fall of Manaharamu, welcome to trade. Queen Keemuitsi vehemently opposes trade with the Kholirahi and attempts to forge strong alliances with Stalwark and Skalmirthon. Grand Tortuga extends no such alliance, but the King of the Pirates extends nonagression to military vessels. **
+**In and Throughout 5854, Manahararahi begin flooding into the city, trying to find a home. Addressed as a group by Gono the Blue, it is made clear that their culture is not Danzuishan's. This is the home of the dragon-blooded, the dragon-like. This is a place for Driven people who can help themselves. The Displaced Manahararahi set up mostly in Gari and Keina but many move on seeking a new home. Danzsuishan forbids trade to Kholirahi Agents, which were until the fall of Manaharamu, welcome to trade. Queen Keemuitsi vehemently opposes trade with the Kholirahi and attempts to forge strong alliances with Stalwark and Skalmirthon. Grand Tortuga extends no such alliance, but the King of the Pirates extends nonagression to military vessels. **
 
 
 **Evisern Iyrelm, Vice Admiral of the Red Mist Pirates Retires to Asulaka with his new wife, Moonbeam Brumia. There he takes over the Iyrelm Trading post. The Iyrelm Family does not like this but cannot stop them, As they appear to be good Friends with Slovenka Bruchev, A White haired and young-appearing woman who Frequently spends her days in the company of Vintaasklo. Slovenka, Previous leader of the Bruchev Pirates has also settled in Asulaka. **
 
 
 ===== Description: =====
-	A collection of smaller towns amalgamated into one. Over time this place gained a prosperous economy, managed by over 9 town councils that bicker and squabble over every movement among themselves and the others. Originally, the townships were each their own pirate band, each ready to retire and settle down, thus, the Danzuishanese Navy was well formed from the beginning as a concillar militia. The most effective member of each militia tends to move up the ranks by nature of being good at their job. Each Militia slowly specialized over time to make themselves more valuable to the whole army, eventually, the original Danzi and Shan Clans were at the top, and in 2663, became one clan through a landmark marriage. Danzuishan boasts exciting spices, fish, and engineering. Their shipwrights are the best, and have often been contracted out to Manaharamu to build their airships. Danzuishan is the richest part of the plane, having great stability in its physical location and exports of wealth such as gems, gold, and adamantine
+	A collection of towns amalgamated into one Massive. Over time this place gained a prosperous economy, managed by nobles from the old clans that bicker and squabble over every movement among themselves and the others. Originally, the townships were each their own Dragonborn clan, and as each tired of civil war and decided to retire and settle down, the Danzuishanese Navy was well formed from the beginning as a concillar militia. The most effective member of each militia tends to move up the ranks by nature of being good at their job. Each Militia slowly specialized over time to make themselves more valuable to the whole army, eventually, the original Danzi and Shan Clans were at the top, and in 2663, became one clan through a landmark marriage. Danzuishan boasts exciting spices, fish, and engineering. Their shipwrights are the best, and have often been contracted out to Manaharamu to build their airships. Danzuishan is the richest part of the plane, having great stability in its physical location and exports of wealth such as gems, gold, and adamantine
 	
 	
 	
@@ -26,7 +26,7 @@ Created Thursday 07 June 2018
 
 ===== Urban =====
 	
-	Danzuishan is the great city of rivers. Built on Dams and locks, The Danzuishanese people live life on the river as tradespeople, providing the link between Stalwark, Xia Ochiko, and Mjoriskivor (thus Skalmirthon) to Grand Tortuga, Kara'ite, and Kriegcove. Danzuishan is populated mostly by Dragonborn, and this makes Danzuishan a hard place to invade. Every single dragonborn is capable of using their breath weapon and thus, many armies do not stand much of a chance when faced with the citizenry, let alone the guard. The City is built of stone, wood, and rust-proof metals, all pressed up against the water and warded against its temper. Danzuishan also hosts the great Danzuishanese Maze, Built by a mildly angry wizard, the maze acts as a great net and pulls incoming off-plane creatures from the area and lands them safely somewhere randomly in the maze. Maze-hunters frequently dive into the maze to rescue them and to find the treasure that sometimes gets pulled in with stranger beasts and monsters
+	Danzuishan is the great city of rivers. Built on Dams and locks, The Danzuishanese people live life on the river as tradespeople, providing the link between Stalwark, Xia Ochiko, and Mjoriskivor (thus Skalmirthon) to Grand Tortuga, Kara'ite, and Kriegcove. Danzuishan is populated mostly by Dragonborn, and this makes Danzuishan a hard place to invade. Every single dragonborn is capable of using their breath weapon and thus, many armies do not stand much of a chance when faced with the citizenry, let alone the guard. The City is built of stone, wood, and rust-proof metals, all pressed up against the water and warded against its temper. Danzuishan also hosts the great Danzuishanese Maze, Built by a mildly angry and very driven wizard, the maze acts as a great net and pulls incoming off-plane creatures from the area and lands them safely somewhere randomly in the maze. Maze-hunters frequently dive into the maze to rescue them and to find the treasure that sometimes gets pulled in with stranger beasts and monsters
 	
 	
 	Danzuishan's 9 locks are each a neighborhood and it is worth talking about each
@@ -68,7 +68,7 @@ Created Thursday 07 June 2018
 
 
 ===== Economy =====
-	Danzuishan's Economy is largely driven by trade, the locks, and the constant influx of treasure through the Danzuishanese maze. Inflation was previously a problem, creative solutions such as casting Arcane lock on every door proved successful but the end result was simply shipping off the excess treasure to manaharamu in exchange for magical services or other types of treasure. 
+	Danzuishan's Economy is largely driven by trade, the locks, and the constant influx of treasure through the Danzuishanese maze. Inflation was previously a problem, creative solutions such as casting Arcane lock on every door proved successful but the end result was simply shipping off the excess treasure to manaharamu in exchange for magical services or other types of treasure. Danzuishan's Boat production has bled over into the Airship construction field, and the area around Danzuishan sits on convenient Adamantine and Copper mines. The presence 
 
 
 ==== Supply Chain ====
@@ -80,6 +80,7 @@ Created Thursday 07 June 2018
 	* Danzuishan has low food sufficiency in comparison to other parts of the plane and largely imports such things. While meat and game come from the forest nearby, the populations are dangerously low, to the effect that predatory monsters sometimes wander into town. For this reason, even the meat tends to be imported, often under the effects of gentle repose for freshness.
 	* Danzuishan does not import much in the way of artificery, see sociological notes
 	* Danzuishan does make a point of bringing in self-repairing fabrics, self-cleaning dishes, and tools with +1 enhancements.
+
 
 ==== Sociological notes ====
 	* Danzuishan is a classist organized aristocracy. While upward mobility is highly possible in Danzuishan in comparison to Kara'ite, it still poses challenge
@@ -94,7 +95,7 @@ Created Thursday 07 June 2018
 	* Healthcare is not socialized in Danzuishan but is inexpensive as there are healthy populations of clerics and a constant influx of high-level healers, many of whom end up performing their services for free, especially with the abundance of appropriate ingredients
 	* Hospitality is a mainstay of Danzuishanese culture, and knocking on a door will frequently gain a room for the night, though this is less common in the more central regions.
 	* Inns are uncommon, but there is a Xanaran's in turunga. Prices on inns are low for this reason
-	* Shops tend to be in the middle of the river and have long piers trailing downriver, very few docks are solidly anchored and most are made to float. They are often crowded as competition is limited by the modestly corrupt police force, making similar shops spread out from each other.
+	* Some Shops tend to be in the middle of the river and have long piers trailing downriver, very few docks are solidly anchored and most are made to float. They are often crowded as competition is limited by the modestly corrupt police force, making similar shops spread out from each other.
 
 ==== Political interactions and relations ====
 

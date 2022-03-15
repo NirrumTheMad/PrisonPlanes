@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2019-04-11T01:31:43-02:30
 
 ====== Fourth Floor - Duality and Representation ======
@@ -21,9 +21,9 @@ There is no way down from the crescent save a 30ft drop
 * Both are gargantuan and trapped within the room and think highly of the party unless magically made hostile. The Construct is unable to think in terms simple enough for telepathy to work, while the monkey is a monkey.
 * The construct is made of mundane materials, the monkey is made of meat.
 
-At the far end of the field of sand is a single gate That is only large enough for a small character to fit through, and only if squeezing. **The guide says the party needs to turn back and find another way forward, unless a way in is figured out.**
+At the far end of the field of sand is a single gate That is only large enough for a small character to fit through, and only if squeezing. Any** guide the party brought says the party needs to turn back and find another way forward, unless a way in is figured out.**
 
-The other side of the small corridor Has Six gates  on the walls of a narrow room with an octagonal pendentive. A square shaft leading from the second floor to the fifth passes through here on the way to floor 5 room 2.
+The other side of the small corridor Has Six gates  on the walls of a narrow room with an octagonal dome. A square shaft leading from the second floor to the fifth passes through here on the way to floor 5 room 2.
 From left to right:
 * Door 1 is a gothic iron double gate that is 5 feet across. Through its bars the party can view a room that contains an empty brass braizer, covered in charcoal dust. Bags of charcoal and dried sage, mugwort and lavender, all clearly labelled in infernal. functionally there is over 250g worth of such material here.
 * Door two is a sliding glass door, through which the party can see a writing mass of rot grubs consuming a corpse, The corpse has a wand of fireball with 2 charges remaining

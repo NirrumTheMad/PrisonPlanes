@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-19T23:51:41-02:30
+
+====== Runegraver ======
+Created Sunday 19 September 2021
+
+[[Magic:Runes]]
+
+
+Alt wizard
+Learn runes like spells. Expend spell slots  for permanent buffs to Physical items

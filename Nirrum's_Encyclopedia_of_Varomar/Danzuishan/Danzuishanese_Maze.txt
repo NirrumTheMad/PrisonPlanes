@@ -1,9 +1,12 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-06-18T14:48:26-02:30
 
 ====== Danzuishanese_Maze ======
 Created Monday 18 June 2018
+
+
+**Abridged description: Roguelike Funhouse dungeon, every floor has a unique but very esoteric theme, Treasure for days, no sense of encoutner balance.**
 
 Built in 2672 by Shang Lai, a grumpy white dragonborn, The Danzuishanese Maze is the truest testament to the school of the Irrevocable death.
 Manaharamu has not yet been able to replicate this void-netting technique despite centuries of trying.  The maze yet stands as Danzuishan's chief source of exports. The entrance is a massive blue-green copper-adamantide in the shape of a rather bulbous and stylized trout. It sits in the middle of the river in the center of vehi, sitting lower than every single building nearby, its mouth open, exending a platform in the shape of a wide tongue, bifurcated slightly at the tip out into the water. The water never seems to rise up high enough to flood the entrance, which is simply open to a large staircase
@@ -30,3 +33,5 @@ My maze looks like this
 [[+Fourth_Floor]] 
 [[+Fifth_Floor]] 
 [[+Sixth_Floor]]
+[[+Seventh_Floor]]
+

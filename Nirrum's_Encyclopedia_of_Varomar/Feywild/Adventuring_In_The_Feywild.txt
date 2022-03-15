@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-27T16:31:04-02:30
+
+====== Adventuring In The Feywild ======
+Created Monday 27 September 2021
+
+**This section is Largely for DMs, though the information contained within can reasonably found in a large, magical library.**
+
+Because of the game-changing nature of many of the things in the feywild, getting to the feywild must be difficult. In Terms of power, most archfey are on the tier of minor gods, and a few of them surpass normal gods in some aspects. But the feywild is characterised by its rules, and much like the rest of this setting, it is intended to be consistent.
+
+Things to do when the players enter the feywild
+1. Mark the date they entered on the prime material plane
+	a. This will be the anchor for determining when they return
+2. Make note of any fey favour they have Gained, owe, or have fulfilled
+	a. Gained, unredeemed favour entering the feywild grants them awareness of whenever they might incur favour, as they attune to the new sensation of something being gained and lost. A player who has gained favour before entering the feywild **cannot be bargained with unknowingly. **For example, they are no longer going to accidentally give away their name, as you, the DM will inform them of what consequence that will have. This does not mean they will leave the feywild unscarred. 
+	b. Owed favour entering the favour binds them to the will of any fey whose CR exceeds their level until they pay it back //plus the Favour value of that fey.// This increments the time forward by a number of days equal to the total favour they have to pay that fey. If they are already bound by the will of a different fey, then while they are under the influence of the newer fey, that fey incurs owing favour to the fey they are bound by first. 
+	c. Fulfilled favours,  complete transactions with the fey before entering the feywild grants the individual the sense that something is missing but extends their life by a number of days equal to the value of the favour after they leave the feywild
+3. Begin a tally of favour incurred for each individual character.
+	a. Whenever a fey takes something from them by asking for it, the individual is owed favour equal to their own level.
+	b. Whenever they ask something of a fey being, if that being provides, then they owe that fey favour equal to *its* CR
+		1. Fey that answer directly and clearly are given their full owed favour,
+		2. Fey that answer indirectly  or partially are only owed a fraction of their CR, though how much varies. Fey may do this to unaware material beings in order to get them to keep asking, thus making them owe more favour. This does not fly with other fey
+	c. Whenever a favour is completed or redeemed, that is, when an individual has payed off the favour it owes, then the person who was owed the favour loses that much. Usually this coincides with a fey being born somewhere shortly thereafter
+	//Nirrum's note: Fey are social beings, and may still act without necessitating a transaction of favour, but acting always uses up favour, and they only have a limited amount of their own. No fey is aware of this limit or how close they are to it, but the passage of favour is evident similarly to age. A pixie who has almost used up their favour may have grey hair and reduced function in their wings. It would be wise for a material creature to repay kindness with favour. That said, **There should be no assumption that a fey will ever answer a question for free. **//
+4. If/When Players leave the feywild
+	a. If they are travelling separately
+		1. They age a number of days equal to the value of the cumulative favour they still owe. 
+		2. If they have gained more favour than they owe, then time does not increment forward for them, and their life on the prime material plane extends by an equal number of days, and miscellaneous fey may stop by through their entire life to fulfill an old debt
+		3. For each favour they have completed while in the feywild,  Increment the number of days of time that has passed in the waking world by the amount of favour they owed, though they do not necessarily age that much.
+	b. If they are travelling as a group, the group's totals are taken into account and the average is used, though individual results may be applied for extremely standout results
+5. Magic items from the feywild
+	a. Unless made of fully redeemed favour, that is, unless a fey has put their full due effort into an item, it may come apart under the most arbitrary of circumstances. Sunlight exposure being a very common thing to evaporate fey items. 
+	b. Items made with the full power of a fey can last indefinitely, but the conditions for their failure may be strange. Instead of breaking under tension, they may break with the volume of a song. Instead of tearing from being caught on something, they might rip slightly if someone falls in love with the wearer. Get weird but uncommon.  
+6. Some spells do not work
+	a. Conjure fey
+	b. Conjure woodland critters
+	c. misty step
+
+[[+Municipalities]] 
+

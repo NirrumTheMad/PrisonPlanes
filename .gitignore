@@ -1,2 +1,20 @@
 
 notebook.zim
+Nirrum's_Encyclopedia_of_Varomar/The_Feywild/The_Courts_of_the_fey/The_Court_Of_Swords/pasted_image.png
+Nirrum's_Encyclopedia_of_Varomar/_bisect.cp39-mingw_x86_64.pyd
+Nirrum's_Encyclopedia_of_Varomar/_blake2.cp39-mingw_x86_64.pyd
+Nirrum's_Encyclopedia_of_Varomar/_ctypes.cp39-mingw_x86_64.pyd
+Nirrum's_Encyclopedia_of_Varomar/_bz2.cp39-mingw_x86_64.pyd
+Nirrum's_Encyclopedia_of_Varomar/_datetime.cp39-mingw_x86_64.pyd
+Nirrum's_Encyclopedia_of_Varomar/_elementtree.cp39-mingw_x86_64.pyd
+Nirrum's_Encyclopedia_of_Varomar/_hashlib.cp39-mingw_x86_64.pyd
+Nirrum's_Encyclopedia_of_Varomar/_heapq.cp39-mingw_x86_64.pyd
+Nirrum's_Encyclopedia_of_Varomar/_json.cp39-mingw_x86_64.pyd
+Nirrum's_Encyclopedia_of_Varomar/_lzma.cp39-mingw_x86_64.pyd
+Nirrum's_Encyclopedia_of_Varomar/_multiprocessing.cp39-mingw_x86_64.pyd
+Nirrum's_Encyclopedia_of_Varomar/_opcode.cp39-mingw_x86_64.pyd
+Nirrum's_Encyclopedia_of_Varomar/_pickle.cp39-mingw_x86_64.pyd
+*.pyd
+*.dll
+*.typelib
+*.exe
