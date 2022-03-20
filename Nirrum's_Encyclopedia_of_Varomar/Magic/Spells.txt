@@ -88,20 +88,22 @@ Anyway, here's a list.
 	//Bumblehex //(Druid, Bard, Sorcerer, Wizard, Warlock)
 
 
+
 ==== Level 2 spells ====
 	//**Prestibrachiation (**Artificer, Bard, Sorcerer, Warlock, Wizard)//
 		1 action, V,S Transmutation
 		Range: 60ft
 		Duration: up to 8 hours
 		This spell is a natural consequence of one of the most useful cantrips ever devised. Choose one of the the magical effects within range
-			* Your create an instantaneous,  sensory effect in a sphere of 30ft from a point within range, such as a storm of sparks, a blast of wind, or a strong scent, or a strange song. Targets of your choice in the area must make a single saving throw of your choice the effects differ for each saving throw. For Strength, targets that fail fall prone, for dexterity they get pushed 5ft in one direction, For constitution they gain disadvantage on perception checks made  with one sense until the start of your next turn, For intelligence they must use their reaction to flail helplessly, for wisdom they are frightened by you until the start of your next turn, for charisma they are charmed by you until the start of your next turn.  The effect must be the same for all targets in the area and is obviously magical.
-			* You instantly light or snuff out up to a number candles, torches, or lamps or you start or extinguish a fire of a number of feet. If you choose to damage a target with this effect, the targets must make a dexterity saving throw. On a failed saving throw you can do up to a number of damage divided as you choose among targets that failed. The number in all cases is equal to twice your spellcasting ability modifier. 
+			* You create an instantaneous,  sensory effect in a sphere of 30ft from a point within range, such as a storm of sparks, a blast of wind, or a strong scent, or a strange song. Targets of your choice in the area must make a single saving throw of your choice the effects differ for each saving throw. For Strength, targets that fail fall prone, for dexterity they get pushed 5ft in one direction, For constitution they gain disadvantage on perception checks made  with one sense until the start of your next turn, For intelligence they must use their reaction to flail helplessly, for wisdom they are frightened by you until the start of your next turn, for charisma they are charmed by you until the start of your next turn.  The effect must be the same for all targets in the area and is obviously magical.
+			* You instantly light or snuff out up to a number candles, torches, or lamps or you start or extinguish a fire of a number of square feet. If you choose to damage a target with this effect, the targets must make a dexterity saving throw. On a failed saving throw you can do up to a number of damage divided as you choose among targets that failed. The number in all cases is equal to twice your spellcasting ability modifier. 
 			* You instantly Sanitize or Contaminate a spherical zone of 30 feet. In this area, either all diseases that are not already within a host are immediately destroyed and all uncontained fine particulate matter is pushed toward the outside of the area, flowing around obstructions to the farthest point in the spells area, or all diseases within 60ft of the point you choose that aren't already within a host are drawn and distributed evenly around the 30ft area. Fine particulate matter within 5ft of the area is drawn in as well, moving gently along the ground until they are within the 30ft area, whence they are distributed evenly on any surface. 
 			* You chill, warm, or flavour up to 10 cubic feet of nonliving material for up to 8 hours. 
 			* You make a colour, texture, medium sized mark, or a symbol appear on a solid  target for up to 8 hours. Targets may make an intelligence saving throw  to avoid being marked by this effect. With this effect, your marking emits bright light for 5ft and dim light for another 5ft.
 			* You create a nonmagical trinket or an illusory image that is as wide as your shoulders and lasts until the end of your next turn
-		You may dismiss any of the effects of this spell as an action.
+		You may dismiss any of the effects of this spell as an action. 
 		
+<
 	//**Spring Wind **(Cleric, Druid, Ranger, Paladin)//
 		1 Action, V,S,M (a small piece of ice, cold water, mud, or an unsprouted but viable seed)
 		Range: 30ft
@@ -109,8 +111,36 @@ Anyway, here's a list.
 			You draw vitality toward yourself and let growth flow back, if you can manage it. Choose one creature you can see or smell within range. You immediately make a saving throw that that creature would have to make on their turn using your own modifiers. While this spell is active, the creature no longer makes saving throws, but you must make saving throws for them against the effect as normal. They still suffer the effects of the spell or ability as normal. If you succeed on the saving throw, it is as if they have succeeded the saving throw, if you fail, it is as if they failed.
 			**Casting at higher levels.** For each slot level beyond second, you are able to roll an additional effect 
 
+	Cloud of blank
+
+
 ==== Level 3 Spells ====
 	
+	**Effectation**
+		1 action, V,S, Transmutation
+		Range 90ft
+		Duration: Instantaneous
+		You're getting good at this. Choose one of the following magical effects within range. You create an instantaneous sensory effect in a sphere  of 40ft within range. A number of targets within range equal to your spellcasting ability modifier must make a saving throw of one ability of your choice, suffering one of the conditions of your choice 
+				* Each target is moved 10ft in the direction of your choosing
+				* Each target loses the ability to use one main sense (sight, touch, hearing, taste, smell) until the start of your next turn
+				* Each target is Incapacitated until the start of your next turn
+				* Each target is either Frightened or Charmed by you until the end of your next turn
+
+	**Conflagration/Extinguish**
+		1 action, V,S, Transmutation
+		Range 90ft
+		Duration: Instantaneous
+		You're getting good at this. You instantly start nonmagical fire in an area of a radius equal to 10 times your spellcasting ability modifier. Creatures in this area must make a dexterity saving throw or take damage equal to three times your spellcasting ability modifier and take 1d8 fire damage at the end of each of their turns. A creature may use an action to put out this fire on themselves or another creature. Alternately you can Extinguish fire in the area. Nonmagical fire is instantly extinguished. This spell can also extinguish magical fire unless the fire was produced by a higher level spell slot
+		//**At Higher Levels. **//The damage taken increases by three times your spellcasting ability modifier or you can extinguish fire produced by a single level higher spell for each slot level above 3rd. 
+		
+	**Clean/Foul**
+		1 action, V,S, Transmutation
+		Range 90ft
+		Duration: Instantaneous
+	You're getting good at this. you instantly Sanitize or Contaminate a spherical zone of 60 feet. In this area, either all diseases that are not already within a host are immediately destroyed and all uncontained fine particulate matter is pushed toward the outside of the area, flowing around obstructions to the farthest point in the spells area. Open sores and exposed decay are instantly cleaned.  or all diseases within 120ft of the point you choose that aren't already within a host are drawn and distributed evenly around the 30ft area. Fine particulate matter within 5ft of the area is drawn in as well, moving gently along the ground until they are within the 30ft area, whence they are distributed evenly on any surface.
+
+
+
 	//Phobia//
 
 	//Misty Leap //
@@ -143,6 +173,9 @@ Anyway, here's a list.
 		The Court of Terror's magic oozes across the terrain. All allied creatures that can hear you add your charisma bonus to any saves they make. The ground around them is difficult terrain
 	Invoke Dalri
 		The skillful magic of the court of lore 
+
+==== Fourth Level spells ====
+Glimpse the blank dimension 
 
 ==== 9th Level Spells ====
 	//**Gatewarding**//
