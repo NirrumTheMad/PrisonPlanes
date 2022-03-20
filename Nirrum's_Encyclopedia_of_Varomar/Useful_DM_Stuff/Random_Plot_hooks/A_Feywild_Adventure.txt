@@ -18,12 +18,11 @@ Recommended items:
 	A magnifying glass
 
 Visible conflict: A lost party must find a way to leave the feywild.
+	A well known-passage out of the feywild, The one at Gunenmu Sillowdar, has recently closed. The other, more dangerous route lies in  Chal-Ad, the old castle of the summer fey
 
 The Map
-	 Every two days of travel in a straight line without a guide, flip a coin (or roll 1d2). If there has been any deviation, do this sometime during the third day of travel. If the result is the same for three days in a row, they end up in the same region that they started in.
-	
-	Remember to roll for structure
-	
+	 Every two days of travel in a straight line without a guide, flip a coin (or roll 1d2). If there has been any deviation, do this sometime during the third day of travel. If the result is the same for three days in a row, they end up in the same region that they started in. These regions are made for the summer, they will change wildly between each season
+		
 	
 	d2
 		Heads light
@@ -35,34 +34,38 @@ The Map
 			3 Lightflower hills/Bladefen
 			4 Structure
 			5 Gamnus Oak Woods/Iridescent woods
+			6  Midnight point / Noon Point 
 		2 - Deep night/Afternoon
 			1 Unveiling Woods/Puddletops
 			2 Witchriver Grove/Elephant Sargasso Sea
 			3Bellfields/Songgrove
 			4 Structure
 			5 Pale Expanse/Lightning Praerie 
+			6  Girderfall/Shallow Ocean 
 		3 - Morning/ Late afternoon (**Dawn and Dusk)**
 			1 Dragonleaf Rainforest/Puddletops
-			2 Storygrasslands/ Painted rainforest
-			3 Solid Dunes/Drayevarg
+			2 Storygrassland/ Painted rainforest
+			3 Solid Dune/Drayevarg
 			4 Structure
 			5 Myceloria/Dimming Marsh
-			 
+			6  Dewsea/Ticking forest
 		4 - Evening/Late Morning
 			1 Stage Road/Mirrorlakes
 			2 Wicklands / Halberd Pine forest
 			3 Weeping River/Spruigia Forest
 			4 Structure
-			5 
+			5 Manglowve/Highmead
+			6 Amphivalley/Glittergrass Field
 	Structures
-		Wronghouse
-		Fairy Ring
-		Fireheart
-		standstone outcropping
-		Serpent's Cave
+		Wronghouse (roll for region)
+		Fairy Ring (roll for region)
+		Fireheart (roll for region)
+		standstone outcropping (roll for Region)
+		Serpent's Cave (roll for region)
 		Courtly Location
 		Feydeep Ocean
 		Revelvalley
+		Unspecial biome!
 		
 	Weather
 		Seafog
@@ -114,6 +117,10 @@ Beats: Entering the feywild
 	
 	
 	
+	
+	
+
+
 	A visit from the Gassure, Archfey of Sedation, who offers them a way out
 	Journey to blackmail, to set up other fey to be indebted to the Gassure through their agent The Kelaningo. Any outcome is the "planned" outcome
 		Getting a Gamblebrumbus fruit and getting it into the drink of an archfey called **The Calluwegga**, at which point they turn into a pixie and throw a fit. Players are instructed to not take more than the one they need for the quest or consequences could be dire. 
