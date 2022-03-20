@@ -37,13 +37,19 @@ Without attempting to describe their relationships to eachother, the feywild has
 		* Culdersnatch
 
 ==== Storygrass Grasslands ====
-	When the wind blows in the wide plains that have storygrass, you can hear whispers, songs, and occasionally stories old and new. The grass is semi-sapient and can communicate but usually isn't spectacularly helpful. 
+	When the wind blows in the wide plains that have storygrass, you can hear whispers, songs, and occasionally stories old and new. The grass is semi-sapient and can communicate but usually isn't spectacularly helpful.  Take care to have manners and to excuse yourself when you tread through the plants, for Wusslebargs attack those who aren't polite.
+		* Wusslebarg
 
 ==== Elephant Sargasso sea ====
 	In A few areas in the feywild there are vast oceans of grasses standing over 10 ft tall. The grass is sharp and can cut if you're not wearing clothes but has trouble going through clothing or scales. While the area is navigable on foot, fey eels swim through the grass looking for prey. Other pseudo aquatic life forms live here including Screeching crabs, spritefish (which are like sea horses), and Chaff barnicles. Interestingly also Lucky Tigers (with lucky) and of course, Normal elephants
+		* Fey Eels
+		* Sprite Crabs
+		* Lucky Tiger
+		* Chaff Barnacle cluster
 
 ==== Solid Dunes ====
 	Areas of vast desert that are made of solid sandstone. The sandstone still moves in a way that imitates a dune, individual grains swim up through the dune to the lead edge and cement themselves in. A traveller at the leading face might find it begin to grow over their body rather quickly, trapping them and suffocating them unless they can hold their breath until the dune passes, though, most of the dunes are too big for that. The Face of the dunes only move about 5ft per round at their fastest, and only when the wind is high
+		* Roller Scorprions
 	
 
 ==== Rotoscapes ====
@@ -63,6 +69,9 @@ Without attempting to describe their relationships to eachother, the feywild has
 
 ==== Halberd Pine Forest ====
 	Halberd pines are a broad category of Coniferrous (heh) trees that have a habit of having their tips be various polearms, all modestly strong steel, True Halberd pines being the most impressive. The wood is surprisingly dense and strong. The cones of the halberd pine are full of fragrant oil, which feed Tellar Sheep and Mara Beetles. The Mara beetles in turn get preyed on by Holdoron's Weasels which are gargantuan. Halberd pine forests are always the territory of a singular Lonely Barrier Roc, whose droppings are what provide nutrients to the forest. The aulufeydth often get their weapons Grown fresh from these forests, and take them home to work-harden them into proper blades. When the Roc takes off, the heads of the trees have a tendency to fall.  Unfortunate creatures caught in these storms have to be careful to not get hewn in two!
+		* Tellar Sheep
+		* Mara Beetle
+		* Holodron's Weasel
 
 ==== Songgroves ====
 	A songgrove is a colony of plants that bear the sounds of instruments. They all play in harmony but they only play in harmony with what they can hear, travelling through a songgrove is a journey through a theme of music.
