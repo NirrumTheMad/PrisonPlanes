@@ -18,7 +18,7 @@ Recommended items:
 	A magnifying glass
 
 Visible conflict: A lost party must find a way to leave the feywild.
-	A well known-passage out of the feywild, The one at Gunenmu Sillowdar, has recently closed. The other, more dangerous route lies in  Chal-Ad, the old castle of the summer fey
+	A well known-passage out of the feywild, The one at Gunenmu Sillowdar, has recently closed. The other, more dangerous route lies in  Chal-Ad, the old castle of the summer fey.
 
 The Map
 	 Every two days of travel in a straight line without a guide, flip a coin (or roll 1d2). If there has been any deviation, do this sometime during the third day of travel. If the result is the same for three days in a row, they end up in the same region that they started in. These regions are made for the summer, they will change wildly between each season
@@ -50,8 +50,8 @@ The Map
 			5 Myceloria/Dimming Marsh
 			6  Dewsea/Ticking forest
 		4 - Evening/Late Morning
-			1 Stage Road/Mirrorlakes
-			2 Wicklands / Halberd Pine forest
+			1 Stage Road/Greenriver cracks
+			2 Wicklands / Floropolis
 			3 Weeping River/Spruigia Forest
 			4 Structure
 			5 Manglowve/Highmead
@@ -63,9 +63,12 @@ The Map
 		standstone outcropping (roll for Region)
 		Serpent's Cave (roll for region)
 		Courtly Location
-		Feydeep Ocean
+		Feydeep Ocean, the feydeep ocean always borders another feydeep ocean region on at least one edge. make roll table for coast
 		Revelvalley
 		Unspecial biome!
+		Mirrorlakes
+		Everfall - Waterfalls that go through all layers of the feywild kinda
+		
 		
 	Weather
 		Seafog
@@ -90,12 +93,31 @@ The Map
 Possible Rewards: One Antimagic amulet like those the trussari wear
 				Mounts FROGS
 				Adventurer's axe
+				Folding boat
 
 
 Example buy-in quests:
 	Finding a fey parent or ancestor: Reward
 	Lost Caravan: Enter with goods
 	Hunting down a hag to save a child: Reward
+
+Things  worth taking:
+	Any Toolkit
+	Books
+	Candles
+	Lanterns
+	Land vehicles
+	Water skins
+	Fishing tackle
+	Camping gear
+	Bread
+	Clothing
+	Iron
+	Silver
+	Gold
+	Things to write on and with
+	Waterskins
+	The Keen mind feat
 
 
 
@@ -109,7 +131,31 @@ Moments:
 	A fairy they've been having conversation with gets suddenly upset, runs to a valourboard, and requests aid. A sprite wielding a sewing needle and an acorn cap accosts the party and tells them to stop talking to that fae
 	
 	
-	
+
+
+
+==== take 3 ====
+	Start at level 3
+	The party finds themselves in the feywild one at a time and meet up in order. 
+		The person with the most items
+		The person in need of the most combat protection (Sorcerer, Wizard, etc;)
+		A remaining person least likely to be a good defense
+		and finally, the person who is most likely to be a good defence. 
+	Unfortunately, the person most likely to be a good defense is in combat when they find them. The others enter on the second round of initiative
+		the person is fighting a slightly beefy dracoon, in that it axiomatically takes four attacks of any quality to kill
+	The party begins to take stock of their surroundings.
+	The party begins to travel down what might be called a road if one were mythically generous. 
+	The first thing the party finds themselves in a ticking forest. 
+		Along their path, there is a wooly beast that has just moved into place, ready to drop on them.
+	Travelling further into the forest, they will hear voices, and at a certain point, see a giant standing above the hieght of the trees, only to stoop down shortly after they spot it. As they progress it becomes obvious that they've come across a town [[..\..\..\Feywild\Adventuring_In_The_Feywild\Municipalities\Shildeerintin.txt|Shildeerintin]]
+		while in Shildeerintin they can get answers to questions such as
+			"Where are we" - Shildeerintin!
+			"What world are we in" - The Fey Lands!
+			
+
+
+
+==== take 2 ====
 Beats: Entering the feywild
 	Accruing debt 
 	The First hub is Shildeerintin
@@ -120,7 +166,7 @@ Beats: Entering the feywild
 	
 	
 
-
+==== take 1 ====
 	A visit from the Gassure, Archfey of Sedation, who offers them a way out
 	Journey to blackmail, to set up other fey to be indebted to the Gassure through their agent The Kelaningo. Any outcome is the "planned" outcome
 		Getting a Gamblebrumbus fruit and getting it into the drink of an archfey called **The Calluwegga**, at which point they turn into a pixie and throw a fit. Players are instructed to not take more than the one they need for the quest or consequences could be dire. 
