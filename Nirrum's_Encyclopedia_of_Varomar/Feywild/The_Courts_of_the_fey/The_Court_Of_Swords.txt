@@ -17,6 +17,8 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 			Favour: 2560
 		THE RIGID BARON is a Muscular humanoid of masculine figure, firm hands, and skin that is golden if he is viewed from the back, Blue if he is viewed from the front, ruby red if viewed from the right and bright purple if viewed from the left. He is green if viewed from above and sunrise pink if viewed from below.  His face is the face of an axolotl but with a Large sweeping moustache. He wears only a black and gold kilt and leather sandals. THE RIGID BARON  likes to test the resolve of people who ask for his help by challenging them to a wrestling match. The outcome of the match is irrelevant to the baron though, simply that they showed their resolve by fighting well. The Rigid baron uses their favours to force people to use their strength, physical or mental. The rigid baron has a gargantuan greatsword that he can summon and weild without penalty as a bonus action, but only does so in the most dire of situations
 		
+		[[+SiliaTheStrong]]  
+		
 
 ==== The Hall of Moments ====
 	In a seaside cave on the edge of a harsh ocean an octagonal tower stands.It has three floors but seems to grow more as you approach it and usually less as you move away. The Tower's walls are Red with pink and metallic green streaks. The Doors are a set of curtains that are very heavy but will flutter under the lightest breath. Inside the tower Is a series of rooms that show people singular moments or allow them breif, ephemeral experiences. Upon entering the tower, one finds that there is onyl one floor with one corridor that branches into 3 after 1/3d it's length. The circular windows never seem to show the same outside, but other areas of the feywild (which one can travel through, should one leave through the window. The windows can be entered through but it is considered rude). Each room holds a powerful enchantment built by the fey working within. Once you enter, you experience the moment, and then it slowly fades. Love, fear, Agony, Ambedo, Loss, jubilation, thrill, Dysphoria, Sonder, Occhiolism,. Each enchantment's form comes with an illusion, what you see when it grabs you. On occasion, Manaharahi Therapists will visit this tower with their patients to help them face trauma or to experience something they usually don't. You cannot be physically forced into any room in the hall, The doors will not open if you don't want them to when you grasp the handle. The Illusion that comes with each enchantment is unique to the person experiencing it. The Hall of moments is tended to and overseen by **The Gogg (or Gogue)**, who is also the archfey of hearts (metaphorically. To our knowledge, none of the archfey hold any extra power over actual viscera, save one). A water channel runs through this tower, and it is said to either feed into or derive from the river styx, following the flow has been an exercise in futility though, as it often disappears underneath roots or falls around corners that are not intuitive to navigate. **The Gogg** grants favour for one dreamless night, in which the gogg raids one's memories for the most potent feelings a person has ever felt and their context, causing a level of exhaustion the next day. For favours, **The Gogg** is willing to teach the spells "plant growth" and "spike growth" to any class that does not use wisdom as their casting modifier. To warlocks, **The Gogg** is willing to teach eldritch blast, which takes the form of long vines with curved knives for leaves. For anyone else, **The Gogg** can make slippers (or other footwear) of spider climb that also cause one's hair to smell of citrus when cut.
@@ -110,11 +112,19 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 		A smug and cocky elf from some plane where they do not know the name Manaharamu. Training with **The Saithek** to get an edge on their targets and disguising as a fey to pass under the radar of travellers. They will likely attack anyone who sees through their illusion, and they are a formidable opponent, but a prepared party can simply undo their machinations. The Saithek wishes to keep them alive but wants to ensure they learn a lesson about keeping their composure. They are dressed in purple silk and use a Jambiya (dagger) coated in drow sleep poison. 
 		
 
+==== Chalktone caverns ====
+	nestled in the underfey. Six armed chalk dude. Archfey of deflection, redirection and angles.
 
 
+==== The Waterfall, Cave, and Hostel ====
+	Erupting from a cliff above a  songgrove, travellers of the feywild may find a long rectangular stone protrusion drooling water onto the land below, and while it leads into (or out of) the underfey, the waterfall passes through two other interesting locations. The water spills out of a passage that runs perpendicular to the  chute and waterfall, from a large spherical chamber hidden in the rock. The Chamber is absolutely filled with webs, belonging to various predators, cyclomorphs, spiders, ettercaps, and other unspeakable silklings. The most benign threads, however, are vibrant and luminous hues. Straight cuts of cyan, crimson, and purple might lead you to one of the stranger sets of archfey. Siblings, born in the same fireheart, **The Mnering, The Haxilate, and the Goonoïg, Archfeys of Tension. **Each is unique, and hard to define without overlap. 
 
-
-
+		**The Mnering, Archfey of Taut threads**
+			This chitinous lady spins colourful threads that never go slack
+		**The Haxilate, Archfey of Catastrophic Potential**
+			This tall androgyne lives on the edge and takes everyone with them
+		**The** **Goonoïg, Archfey of Centrifugal Pull**
+			This Civet-faced creature fights with a flail, not that you can tell.
 
 ==== Dragonwild Garden ====
 	In the midmorning regions of they feywild, in a muggy dragonleaf forest not far from a coast is the Dragonwild Garden. Here, several Lore and Swords Fey work to procure many rare ingredients from fey and magical plants. They are overseen by **The Rosfunss, Archfey of quick wit, insults, and comebacks. **This is an excellent place to get ingredients for 

@@ -11,10 +11,7 @@ Set among the darker regions of the feydark mostly,
 
 
 
-==== The Stonestands ====
-	In a Dizzying peatland, the Stonestands are the home of the **Neriadniclu, Archfey of Beginnings and Endings. **The stonestands are easily spotted as a garden of vines and 10ft tall cylindrical statues. Among them stalk hags and mages all trying to glean some form of prophecy. They are unlikely to find it, as the statues, all of archfey. tell only of their beginning and their end, and their end is almost invariably "ran out of favours to give". Stalking a grassy hill near one side of the swamp is The Neriadniclu. 
-		
-		the **Neriadniclu,** Archfey of Beginnings and endings, 
+
 
 
 
@@ -44,6 +41,9 @@ Set among the darker regions of the feydark mostly,
 			Favour:1690
 		The Quindylade pines for Aralc, but knows she won't return any time soon. She is depressed, hungry, and craves favour in the form of lost reflections. In return, she teaches powerful abjuration spells, and can give them in the form of silver slivers that permanently carry the effect of one spell, though these break if they are ever exposed to a mirror. The Quindylade is playful but wrathful, and she is very quick to anger, though easy to flatter.  
 
+	[[+Monster_In_The_Mirror]] 
+
+
 ==== Balemorn Citadel ====
 	Positioned where the sun is precisely halfway above the horizon, the White and Green Towers of Balemorn Citadel give a view for the lord of the morning
 	
@@ -52,9 +52,9 @@ Set among the darker regions of the feydark mostly,
 		This Enemy of the Autumnal fey is dressed in ermine fur and teal suede and speaks briskly
 			Height: 5'8
 			Favour: 3240
-		Perpetually smelling of bright acids, alcohols, savoury, sage, mint, and wintergreen, the Liavalri is a busy fey. Almost indistinguishable from an average elf, the Liavalri is most notable for his purple skin below his neck, all of which he keeps covered. The Liavalri considers the arguably benign discoloration a disfigurement contracted at the hands of the Horachibald during a dispute. The Liavalri  procures favour in exchange for things of his soft ecru-golden-green aesthetic. Things such as cane sugar, bitter teas, and white furs are all things he's willing to trade for as well. Though his greatest prize and the only thing he will give full favour for is a jar of not uncommon but hard-to-produce chemical called Geosmin, which he needs to woo his beloved lady  **The Harlannenna, **of the court of Valour, Archfey of the rains (And what we do in them). The Lliavalri used to be one of the archfey of the old spring court, and helped with its overthrow
+		Perpetually smelling of bright acids, alcohols, savoury, sage, mint, and wintergreen, the Liavalri is a busy fey. Almost indistinguishable from an average elf, the Liavalri is most notable for his purple skin below his neck, all of which he keeps covered. The Liavalri considers the arguably benign discoloration a disfigurement contracted at the hands of the Horachibald during a dispute. The Liavalri  procures favour in exchange for things of his soft ecru-golden-green aesthetic. Things such as cane sugar, bitter teas, and white furs are all things he's willing to trade for as well. Though his greatest prize and the only thing he will give full favour for is a jar of not uncommon but hard-to-produce chemical called Geosmin, which he needs to woo his beloved lady  **The Harlannenna, **of the court of Valour, Archfey of the rains (And what we do in them).  One of the things the Lliavalri can do if given favour, is to produce bottles of sunlight, The Lliavalri used to be one of the archfey of the old spring court, and helped with its overthrow. 
 
-
+[[+Silver_and_Burgundy]]
 
 ==== Gunenmu Sillowdar, Castle of Glamour and Eloquence ====
 	White columns set in black strapping and Gold croquets keep the contrast of this building high. Walls of emerald in a motif of a single swell wave set against iolite skies. Dusky iron domes cap the symmetrical towers  that run toward the centre of the building. The cleverly flared towers look to have perfectly parallel sides when seen from the ground, having the effect of making the ground look farther away when one is in one. The windows are set with thick Gold tracery that is angled with Curlicue to catch the light. The front doors are Dark jade set in similarly dark grey marble. A silver path leads to the door and seems to melt into the ground. Gunenmu Sillowdar is in the midmorning parts of the autumnal feywild so the light can cast shadows deep enough to put another dimension to the contrasts of its design. It is smaller than the other castles of the fey courts, but no less complex. Each room within is  made of stunning architectural choices and eye-catching colour schemes. Muqarnas, Frescoes, Arcades on wildly varying columns that present spaces with increasing vastness. The impossibility of fey architechture is taken to incredible peaks in the castle, as prime material guests are often given very small rooms only to find on their journey to the bed that there is, in fact, a complete arboretum  within the room. Within the castle are some of the most powerful glamour fey, though notably two are missing.
@@ -92,6 +92,22 @@ Set among the darker regions of the feydark mostly,
 			A Ring of Spell Attraction, Which makes the attuned creature the target of spells that you are within the range of
 			A Torc of Splendour which magically makes anything you wear seem reasonably fashionable to any creature that is not immune to charm effects
 		
+
+==== The tower of bones and ivory ====
+Bridging the lands between a Corona mesa, a particularly dim pale expanse, and a range of solid dunes is a massive spike-like spire jutting out of the landscape like a half-collapsed tree that hasn't given up on standing. The angle at which it finds its repose is shallow enough that one can easily walk up the spiny and thorny side. Adventurers who have seen the spire before describe it akin to a cactus or cut rose branch, though neither description does justice to the variety of thorns, from the thirteen wickedly curved dentide hills that conduct rapid changes in the slope, to the millions of knee-high needles that  standout every few feet along the side of the tower. The tip of the tower of bones curls into a vicious and rigid hook, from which hangs the realm of the **Volinbode, Archfey of masks, ** an ornate and round birdcage that bridges horizontally to the tower with a thick chain. The tower of bones also houses the **Mornkino, Archfey of Graveyards and Tombs **of the court of Terror. The two do not get along
+
+There is a knot hole in the base of the tower where it sits out of mostly still sands and rocky edifice, and it is this hole that serves as the entrance. On the outside, gangly thorngrippers patrol looking for the foolished and impaled. On the inside, occasional holes allow surprisingly bright pale light to mottle the shadows and illuminate the wide, cavernous ramp, made enitrely of bones, horns, antlers, and the odd tusk. There are, save for the tusks, no teeth among the clutter of the ascent. The tower itself is the realm of the Morkino, a very elf-like being whose face seems to be composed only of a thick-lipped mouth that stretches from ear to ear, framed by black hair. He lacks eyes or a nose, though this does not seem to impact his ability to speak clearly nor his ability to see, or at least, his ability to turn to face the person he's talking to and to not stumble over his environment. The Morkino wears a leather single-breast jacket and leans heavily on a shovel. He makes a game of trying to get underneath people's armour around their lost loved ones, or their own fears about the grave. He does aim to depress though, and prefers to imply that afterlives are fickle and that often people fall through cracks into the care of worse beings. 
+
+Climbing the inside tower is difficult, as it lacks any form of staircase. Several forms of undead crawl around, attacking indiscriminately, often each other. These undead look, behave, and have the abilites of their normal counterparts, but can be destroyed with dispel magic, or a cast of the sleep spell, as they lack necrotic energy. They are also unaffected by abilities that specifically target undead. They also have only limited intelligence and are often tied to a fey puppetteer, hiding out of sight.
+
+Near the top of the tower, the chain bridge is anchored underneath a  wooden platform. The chain swings, high above the ground below, and it lacks rails or guards or even a level path along its humungously thick links of a guage twice as thick as a horse around. While careful footing is needed, one can reasonable expect to get across alive. The chain leads into the birdcage, home of the **Volinbode.** The **Volinbode** is a 4ft tall pillar which hovers along the ground. The pillar is about a foot wide and is covered in masks. As **The Volinbode** speaks though each mask, its voice changes to fit the mask's "character".  
+
+
+
+
+
+
+
 
 ==== The Mosaic City and the Kaleidoscope Castle Brituelle ====
 	In the Early afternoon, in the full light of summer, is the stunning Mosaic city, the center of the Courts of Glamour and Eloquence (by hostile merger). Part of the law of this land is to keep the colour scheme 

@@ -19,12 +19,13 @@ Shildeerintin is a village on the sunset, near a wide, white ticking forest of C
 			Terrorspeaker: A forewarning of the circumstances of journeys leading from the town in the near future. Omens
 				Covered in a thick brown blanket against a very out-of-place oak tree is a wizened and wrinkled human-like old man. When approached, his centipede-like body frailly rises from the blanket and levels his face with any and for a favour of any quality will give an omen, telling the party what weather they will face on a weak favour, but for a strong favour, the terrorspeaker will give a plot hint in threatening language as well as the weather and notable other conditions that may change in the feywild
 			Swordguides: Travel Guides!
-				In Any fey town, a swordguide is available. Swordguides are capable of Guiding non-fey folk to any structure, for a favour per region. If the favour is large enough, a more powerful fey is called to escort people instead.
+				In Any fey town, a swordguide is available. Swordguides are capable of Guiding non-fey folk to any structure, for a favour per region. If the favour is large enough, a more powerful fey is called to escort people instead. The next nearest town is Runewood, a six day journey.
 			Mayor's House
 				The mayor of this town is an //exceptionally tiny// creature that looks like a Green Kidney bean with arms and legs that wears a stylish renaissance hat with a yellow plume that is almost as large as she is. She wears a tiny vest and pants made of silk. As she is the mayor, she lives at the centre of town, and as such, her house is the tiniest. She has no capability to be mayor, but she must be the mayor as she lives in the centermost house in town
 
 		**Small to large Xanarans**
 			It's a Xanarans!
+			This Xanarans accepts favour as well as gold
 		**Tiny Xanarans**
 			_{it's a Xanaran's!   }
 

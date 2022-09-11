@@ -12,6 +12,14 @@ The court of lore is one of the strangest of the courts by nature of being the m
 To a creature born into the Court of Lore, physical forces are what govern the rule of favour. The tightest curling of forces, the most abstract limits of their mathematics, the most distinguished curl of ink on a page, all stand to nourish them. A Lore Fey's craft is craft itself. Skill in the workfolkship of any object that lasts beyond their hands. They have the most solid works of any fey and care the least for promises
  
 
+
+==== The Stonestands ====
+	In a Dizzying peatland, the Stonestands are the home of the **Neriadniclu, Archfey of Beginnings and Endings. **The stonestands are easily spotted as a garden of vines and 10ft tall cylindrical statues. Among them stalk hags and mages all trying to glean some form of prophecy. They are unlikely to find it, as the statues, all of archfey. tell only of their beginning and their end, and their end is almost invariably "ran out of favours to give". Stalking a grassy hill near one side of the swamp is The Neriadniclu. 
+		
+		the **Neriadniclu,** Archfey of Beginnings and endings,  WHO DOESN'T WANT TO BE WRITTEN UNTIL THE END BUT OF COURSE IS THE FIRST FUCKIN ONE ON THIS LIST
+
+
+
 ==== The Clockwork Castle And Tower of Lightning, Jukagacgon Dalri ====
 	Built in a blasted plain on the stormy side of the morning, a Nacrous green castle with copper beams and trim stands watch around an impossibly tall standstone tower. The castle is filled with sounds of ticking and quiet but ponderous gears turning. The Clockwork castle houses seven vast machines, all warded and presided over by the **Lord of Wiles and Stone, The Gammunacteries Rayl. **The Rayl, the archfey of sequences, is the one who decides what crafts can be made real. They hold a very powerful place among the fey as a governing body used to deter certain horrors from emerging in the feywild. The Rayl is the only creature that can speak with **the Warden of Lightning, Archfey and ruler of the court of Lore. **The Warden of Lightning is an immensely powerful being that bestows raw inspiration unto the fey. They are the portal through which much of the magic of the feywild flows. They exist beyond the comprehension and power scales of most beings. In the eyes of the gods, the warden of lightning is as a sword, less powerful in a broad sense, but nearly indisputable in others. They sit within the tower of lightning, which acts as a gutter, allowing the magic that flows from them to enter the machinery of the clockwork castle, from which it disperses into the feywild.
 	
@@ -28,13 +36,15 @@ To a creature born into the Court of Lore, physical forces are what govern the r
 
 	**The Warden of lightning is too powerful to really describe here, The concepts of swords or magic exist in states so far below their existence that there is no reason to include stats. The Warden of lightning, Ruler of the Court of lore apparently can only be described as a hypermetagnome. **Hypermetagnome, a word which exists exclusively to describe the Warden of Lightning, is a hyperintelligent sapient being that exists as a seies of thoughts composed of interactions  at high energy states within the incredibly dense magical field that  flows through them. They are closer to an incredibly powerful spell than they are any sort of creature. **The Gammunacteries Rayl** still describes them as inquisitive, somewhat insensitive, and a deep learner who delights in facilitating exploration where they can, though their interactions don't function as direct boons or magic, but as series of favourable or interesting events that may happen at various points throughout time and space //particularly// around this prison plane. Despite this, their most useful "location" is at the top of the tower of lightning, named such because, despite numerous lightning rods, it does keep getting hit by magical lightning.
 		//Nirrum's Note: Turns out lightning rods actually prevent lightning from striking normal buildings by normalizing electric potential. Neat. //
+		
+		[[+Litany_of_Lightning]] 
 	
 **The Gammunacteries Rayl, Archfey of Sequences, lord of wiles and stone **(INTP) Court of Lore, (Patron, Fey)
 	This strange  creature looks relatively elven but with deep red skin, yellow hair, three legs, a green shirt, a blue robe, and purple overcoat
 		Height: 8ft
 		Influence: Perception (Intelligence) or Arcana (Charisma) 25 to solve a magical problem that consistently floats about the  Rayl, being the one he's working on
 		Favour:4410
-	The Gammunacteries Rayl is sour but brisk and official. He takes his job very seriously. He does not have time for much humour as he has to listen fairly frequently for the lightning. He Does not often barter in favour, save to access the machines. If someone manages to influence the Rayl, he'll Grant them the Action surge feature from the fighter class. If the person already has action surge, they gain an additional use of it. The Rayl is capable of casting 12th level magic with relative ease, and is the surest bet to solve a problem, but to do so, he must be influenced and the threat must be planar. The Gammunacteries Rayl still requires the costly material components  of the spells and rarely has any on hand.
+	The Gammunacteries Rayl is sour but brisk and official. He takes his job very seriously. He does not have time for much humour as he has to listen fairly frequently for the lightning. He Does not often barter in favour, save to access the machines. If someone manages to influence the Rayl, he'll Grant them the Action surge feature from the fighter class. If the person already has action surge, they gain an additional use of it. The Rayl is capable of casting 12th level magic with relative ease, and is the surest bet to solve a problem, but to do so, he must be influenced and the threat must be planar. The Gammunacteries Rayl still requires the costly material components  of the spells and rarely has any on hand. He is also notable in his other title, the lord of wiles and stone. The Gammunacteries Rayl has extreme control over sequences, bordering on omnipotence, which he doesn't really use, save in two instances. He is entirely immune to deception as well as the shenanigans of the court of whispers, and has the uncanny ability to shape solid stone to perfectly suit his purposes. While he can almost certainly do other things with this power, he simply doesn't.
 	
 
 	
@@ -53,6 +63,8 @@ To a creature born into the Court of Lore, physical forces are what govern the r
 	It is not that this white-bearded being can read minds, but that upon seeing a creature, simply //knows //whether or not it has been relatively pro-social and "good" for the past year. Those who fail this test get beaten with a staff, and those who pass are given a small gift, often in the form of food or clothing, but not uncommonly toys. The Euratsatni can procure any item that would remind a person of their most innocent and carefree times, and will gladly produce such items for anyone willing to get them into the hands of the people who need them
 	
 
+==== Bunsharina ====
+	Bunsharina is home of the Bunsharinan, a hunchback with dragonfly wings and baggy white silk pants who is unashamed of their form in a powerful way, as if shame could never visit them
 	
 
 ==== Library of Shears ====
@@ -103,19 +115,39 @@ To a creature born into the Court of Lore, physical forces are what govern the r
 		//Nirrum's note: I find this place quite calming, despite the clamour. It's most of the draw of the more lawful planes without having to dismantle a modron infestation every few minutes.//
 	
 	**The Mortamankia, Archfey of engineering (ESTJ) **(Artificer 14, armorer)
-		One of the most accomplished fey, an archfey proven, not born
+		One of the most accomplished fey, an archfey proven after being born twice
 			Height: 7ft
 			Length: 15ft
 			Favour: 1960
-		What was once a reasonable pixie has been slowly replaced, piece by piece by an intriguing crawfish like construct, leaving only a stretched face as a remnant of the original being. Through dangerous trades and clever design, the Mortamakia has put their limited capacity for favour entirely into their new body, provably their work and works are those of a high favour fey, and by nature of their conquest, they are a well accepted archfey, for clearly, they were not born themselves and thus, were clearly not done being born. An Archfey of metal, hatched from a pixie. The Mortamankia will grant favour for detailed plans to a complex or clever machine, and for favour will make custom "dancing" melee weapons (eg Dancing sword) of any size.  For residuum or gold worth the standard cost, they can also put any other applicable enchantment on the weapon in conjunction with its dancing status. These don't need to be melee weapons either, and the Mortamankia uses this mostly on wrenches which will tighten a bolt on a bonus action. 
+		What was once a reasonably shaped pixie has been slowly replaced, piece by piece by an intriguing crawfish like construct, leaving only a stretched face as a remnant of the original being. Through dangerous trades and clever design, the Mortamakia has put their limited capacity for favour entirely into their new body, provably their work and works are those of a high favour fey, and by nature of their conquest, they are a well accepted archfey, for clearly, they were not born themselves and thus, were clearly not done being born. An Archfey of metal, hatched from a pixie. The Mortamankia will grant favour for detailed plans to a complex or clever machine, and for favour will make custom "dancing" melee weapons (eg Dancing sword) of any size.  For residuum or gold worth the standard cost, they can also put any other applicable enchantment on the weapon in conjunction with its dancing status. These don't need to be melee weapons either, and the Mortamankia uses this mostly on wrenches which will tighten a bolt on a bonus action. 
 		
 	**The Skillogintan, Archfey of Chronoception (INTP) **
 		A bit bitter about not being in the clockwork castle, but willing to wait
 			Height: 1ft (beard excluded)
 			Favour: 2890
-		Situated under a sapphire dome on the top of the cogkeep is the Skillogintan, a very short gnome-like creature with a long twig-like nose, upon which are perched two large round spectacles. They wear a blue conical hat about as high as they are, and a matching blue robe. Their nearly white beard is easily three feet long, and their moustache extends half a foot sideways off their face. They grip a staff with an hourglass on the end which occasionally detaches to flip itself over before reattaching. They smell of burnt toast. The Skillogintan is a distant mystic who is rather surprised whenever they have visitors, as they never expect anyone so suddenly. The Skillogintan will offer favour for Petrified creatures, and will redeem favour
+		Situated under a sapphire dome on the top of the cogkeep is the Skillogintan, a very short gnome-like creature with a long twig-like nose, upon which are perched two large round spectacles. They wear a blue conical hat about as high as they are, and a matching blue robe. Their nearly white beard is easily three feet long, and their moustache extends half a foot sideways off their face. They grip a staff with an hourglass on the end which occasionally detaches to flip itself over before reattaching. They smell of burnt toast. The Skillogintan is a distant mystic who is rather surprised whenever they have visitors, as they never expect anyone so suddenly. The Skillogintan will offer favour for Petrified creatures, and will redeem favour for **Advanced Chronoception. **A character with this ability can either choose to slow their perception of time up immensely, gaining two exhaustion levels when they return to normal, or speed it up, Passing time rapidly without getting tired (or recharging abilities). In both cases a creature still ages normally, it is just their perception of time that changes.
+		
+	**The Heesilockloly, Archfey of Infusions, Teas, tisanes, and other plants in water (ISTJ)**
+		A severe but large fey with round eyes, a round body, and a large cleaver
+			Height: 5'5 - 10'5 when angered
+			Favour: 1440
+		Making use of the Cogkeep's perpetual movements, The Heesilockloly grinds herbs and uses stressed metals to heat water.  They have their black hair tied in a bun, keeping it out of their large round eyes, which are both marked with red lower lid eyeshadow-like pigment. Their bare chest bears symmetric black markings that suggest flame and occasionally move. They wear yellow pants and have thick but somewhat short legs. Their arms are large and muscular, though proportionate. Their cleaver is large and rectangular. They will prepare tea for guests without requiring favour, and they will give favour for anyone who brings them new plants to brew. In Return for favour, the Heesilockloly will brew any potion, or give a list of the raw ingredients. Protocol must be followed around the heesilockloly. Greet them first, then bow, then sit only when a seat is offered.
+		
+		
+
+==== Mount Colossus ====
+	Half-reclining in the beginning of the late afternoon, among a particularly dense forest on an ancient bedland is Mount Colossus. It is of course, no real mountain, but the yet still figure of a construct or being of barely describable size. The colossus is the shape of an orc, with its longer arms, short but pointed ears, and immense tusks. The colossus' face bears only one feature beside its mouth, and that is a single eye, lidded sideways, open and staring into the sky, unmoving but clearly searching. At its hip there is an empty scabbard, suited for an appropriately sized curved sword (a smithing tools (intelligence) check of 12 will determine the form to be akin to Khopesh, Laz bichaq, or some Sosunpata.  The Mountain is half-sitting on the ground, holding itself up with one arm, while the other reaches upward into the sky. Indeed, its size is so large that to see the whole structure, it must be a very clear sky, and you must view it from far away. The Structure's shoulder is where one  can find the **Sunyengumthi, Archfey of Solutions and Solutions. **To reach the though, it is recommend one bring a ladder, as it is necessary in order to navigate the crags of the skin of the mountain. The mountain is, for all intents and purposes, just a mountain, but creatures that try to dig into it frequently just disappear, never to be heard from again. The mountain secretly is a creature of the far realm, embroiled in politics beyond the comprehension of mortals or indeed, most immortals, and that it looks so familiar is a mere coincidence in an ocean of circumstance.
+	
+		**The Sunyengumthi, Archfey of the solved and dissolved (ENFJ)**
+			A  Lion's head on a skeleton built of bones that look like twisted vine
+				Height: 7'9
+				Favour: 3240
+			**The Sunyengumthi** has a dull grey mane that moves like it is under water, shifting in some invisible flow. Their eyes are vibrant purple and lavender, set in a greyish-green face. Even in the harsh winds and thin air so high up, the smell of baked bread eminating from their structure is  overpowering. **The Sunyengumthi**, has wild eyes, perpetually excited, almost at the verge of erupting, but speaks in a low, smooth growl with slow words. They will grant favour for a DC 24 Arcana check to unravel a complex Arcanochemical formula, and will return that favor with fey salt. **Fey Salt** is a chemical compound of interesting properties. If used to season food, it not only tastes better than any of the halide salts, but has the curious quality of allowing someone to know the full history of whatever they are eating that was alive in its most recent form, from conception to death, as if they lived that creature's life. It is also phenomenally useful in high level divination spells. If mixed with raw powdered octarite and distilled water, it creates a delayed blast fireball whose bead lasts two days before exploding on its own at three times the spell's original radius. Alternately, the **Sunyengumthi** can increase one's intelligence by 2 and intelligence maximum by 2
+
+
+[[+Alchemy_of_Rationality]]
+
 
 ==== Desellemachonia's Gardens ====
 	Far into the deep Autumn of the fey, Perched in the ripe morning is a wide set of fields, orchards, paths, and patties. pumpkins go here
 	
-

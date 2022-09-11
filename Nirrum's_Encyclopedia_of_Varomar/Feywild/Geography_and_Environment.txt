@@ -38,6 +38,10 @@ Without attempting to describe their relationships to eachother, the feywild has
 
 ==== Storygrass Grasslands ====
 	When the wind blows in the wide plains that have storygrass, you can hear whispers, songs, and occasionally stories old and new. The grass is semi-sapient and can communicate but usually isn't spectacularly helpful. 
+		Some helpful story ideas
+		* Romeo and Juliet but mercutio comes back as a revenant and roasts everyone for the rest of the play
+		* Any Sherlock holmes story but the villain is a fey named "the Gomnos", a recurring character in any such stories.
+		* any of the Prewritten fairy tales among the courts
 
 ==== Elephant Sargasso sea ====
 	In A few areas in the feywild there are vast oceans of grasses standing over 10 ft tall. The grass is sharp and can cut if you're not wearing clothes but has trouble going through clothing or scales. While the area is navigable on foot, fey eels swim through the grass looking for prey. Other pseudo aquatic life forms live here including Screeching crabs, spritefish (which are like sea horses), and Chaff barnicles. Interestingly also Lucky Tigers (with lucky) and of course, Normal elephants
@@ -115,8 +119,7 @@ Without attempting to describe their relationships to eachother, the feywild has
 ==== Firehearts ====
 	Occasionally, the forces that compose the feywild combine with catacylsmic releases of energy. Usually a fireheart volcano is part of this. A solid mountain of mostly clear glass, or at least something very like glass, clear enough at least to see the warm glow of the lava at its core. There are two types of Firehearts, faceted and frosted, with Facetted ones giving off stunning light patterns and the frosted ones giving a diffuse glow. Whenever lava is thrown or flows from one of these, it will always harden into a frosted or faceted crystal, making for superior orbs for wizards. Sometmes, fey are born in firehearts, either from the crystal tephra or from the heart of the volcano itself. Fey born of the crystals might be indistinguishable from other fey save for their glassy composition. Fey born from the heart of the lava are always powerful. 
 
-==== Seafog ====
-	Along coastal locations, particularly rocky ones, folk may find the air suddenly very thick and hard to breathe as fog rolls in. What were rocks may open to be anenomes or barnacles, and coming in with the fog may be many fantastical skyfish. A decent athletics check will allow a person to fly, but be warned, the fog can roll out quickly.
+
 
 ==== The Underfey ====
 	There is apparently an underdark in the feywild.
@@ -203,15 +206,7 @@ Without attempting to describe their relationships to eachother, the feywild has
 	//Nirrum's note:  Nor has anyone who has attempted a handstand in these fields returned... I wonder if Archmage Kotsi would be willing to go//
 
 
-==== Defacing* ====
-	Entering this zone is like entering a kind of.. fuzzy crosshatch vision. Everything desaturates and becomes just a little sharply fuzzed at the edges, but faces smear in long trails (of both people and animals). Identity fluid here, and one might find oneself in the company of more than one initially suspects.
 
-==== **Foefog** * ====
-	A creation of a dark night-time mist descending upon the feywilds, a time when the fleeting shadows in your periphery wake to become temporarily just a little too real, creeping up to stand in the corners of your room, hiding in the piles of clothes and among the books, and even curled at the end of your sleeping bag.
-	
-
-==== Deepstorm* ====
-	Tentacles from the sky in storm vortexes like an upside down ocean. Sometimes fish drop out of the sky.
 	
 
 ==== Dimming marsh ====
@@ -277,9 +272,62 @@ Without attempting to describe their relationships to eachother, the feywild has
 	
 
 ==== Greenriver Cracks ====
-	among hills and mountains in the late morning, as the day gets well underway, the vegetation that is so common in the feywild becomes sparse. Almost flat plateaus of smooth, dark stone make up the region. The stone is laced with fossils, mostly shells, the occasional aerial or terrestrial creature, the odd tiny humanoid. Very little can grow on this, Scraggly and thorny bushes do their best in rare clumps, as well as winding Acacia trees which seem to always have creamy lily-like blooms that smell of vanilla, but taste bitter. The fruit found among these blossoms tastes not unlike Cayenne pepper and salty cheese. Feeding on these are small herds of caribou, which sport impressive but somewhat delicate antlers made of various gemstones. The harder the gem, the more likely they are to mate for both males and females. The land is very regularly cut into chunks with somewhat deep  but very narrow canyons  between them, ones that can often be stepped over. Down in those glassy crevices, a hundred feet deep at their deepest, and maybe three feet at their most shallow, one will find small streams and creeks with clear emerald liquid, completely surrounded and on occasion choked with pungent mint. The liquid itself smells minty but also stings the eyes and mouth, and is unfortunately poisonous to most creatures. White slugs with jade stripes feed on algae on the bottoms of these creeks, preyed upon by black toads and sky blue snakes. When threatened, the slugs can deploy a defense, a thick glue that is hard to get off if the creature comes in contact with the flowing green liquid.  All three of these creatures try to avoid the bright red Geladas. These roving herbivores are fierce, and eat the mint from the sides of the rivers, climbing back up to their families on the flat ground when they are finished. Their faces are transparent yellow, as if made of amber, and one can see their skulls within them, save around the eyes, which are lined with black flesh. They have air sacks on their chest that they puff up for display and communication which are striped in blue and white. The Dominant predator, aside from the odd horned tiger, are rare titanic whip scorpions, which lay flat until they spot something and then reach forward to grab it. 
+	among hills and mountains in the late morning, as the day gets well underway, the vegetation that is so common in the feywild becomes sparse. Almost flat plateaus of smooth, dark stone make up the region. The stone is laced with fossils, mostly shells, the occasional aerial or terrestrial creature, the odd tiny humanoid. Very little can grow on this, Scraggly and thorny bushes do their best in rare clumps, as well as winding Acacia trees which seem to always have creamy lily-like blooms that smell of vanilla, but taste bitter. The fruit found among these blossoms tastes not unlike Cayenne pepper and salty cheese. Feeding on these are small herds of caribou, which sport impressive but somewhat delicate antlers made of various gemstones. The harder the gem, the more likely they are to mate for both males and females, though this means they are easier to break, depriving them of their weapons. The land is very regularly cut into chunks with somewhat deep  but very narrow canyons  between them, ones that can often be stepped over. Down in those glassy crevices, a hundred feet deep at their deepest, and maybe three feet at their most shallow, one will find small streams and creeks with clear emerald liquid, completely surrounded and on occasion choked with pungent mint. The liquid itself smells minty but also stings the eyes and mouth, and is unfortunately poisonous to most creatures, especially small disease-causing ones. White slugs with jade stripes feed on algae on the bottoms of these creeks, preyed upon by black toads and sky blue snakes. When threatened, the slugs can deploy a defense, a thick glue that is hard to get off if the creature comes in contact with the flowing green liquid.  All three of these creatures try to avoid the bright red Geladas. These roving herbivores are fierce, and eat the mint from the sides of the rivers, climbing back up to their families on the flat ground when they are finished. Their faces are transparent yellow, as if made of amber, and one can see their skulls within them, save around the eyes, which are lined with black flesh. They have air sacks on their chest that they puff up for display and communication which are striped in blue and white. The Dominant predator, aside from the odd horned tiger, are rare titanic whip scorpions, which lay flat until they spot something and then reach forward to grab it. 
 	
 
 ==== Floropoli (Floropolis singular) ====
 	Towering in the late morning, Gargantua flowers lift their faces to the sun and attempt to curry favour with Nectar, and indeed, favour. This place is a fiercely competitive and dangerous despite its beauty. Among flowers taller than many trees, one can find Greater and Shimmerwooled Rumblebees (//Megabombus Titanicus// and //Incidentus), //looking for pollen. Sprites and pixies often work here, as it is the easiest way to get favour above one's stature, but they are preyed upon by everything from displacer beasts to dragons. On occasion, one might find that some of the flowers are quite talkative, especially as they convince creatures to move their pollen around. Some of them are so insistent on spreading their pollen that they die shortly after it is done, having spent all their favour. 
+
+==== Ancient bedlands ====
+	Set where the solid yellow sunlight of the afternoon just barely tips toward evening, walls of Marrowbark spruce sit on the thinnest topsoil among barren highlands. Among these trees, poking through downy moss or out of solid bare rock, are massive bones, the relics of titans from ages gone past. Dinosaur, Dragon, Demon, Devil, Giant, Titans, and various monstrosities all coalesce here. Bonechitterings, small gangly human shaped creatures with a mane of hair but no face nest among skull and ribs, leery of travellers but not dangerous until aggravated. Stone colossi sit silent and waiting among these lands, incapable of communicating, indifferent, but very much aware, Occasionally they attack each other, particularly ones of similar make. The bones from these bedlands make excellent material in the creation of phylacteries, though fickle. If they're damaged enough, they return to the place they came from with incredible magical force. 
+
+==== **Corona Mesas** ====
+	Past the twilight hours, after dark is properly established, one might find Corona Mesas. A relatively dry and sandy landscape, the Corona Mesas host some very vibrant life. Cacti (and Cacti adjacent), Succulent, and desert plants of all sorts glow in their own special patterns and colours. Red Ribbed Saguaros, Aloe with dim cyan taproots, Agave with bright light green flowers. But the luminous stars of the show, far outshining the yet dim stars, are the Mesas. At least one band of the towering stone buttes and plateaus glows a cool orange. 
+
+==== Wanderswamp ====
+	Early in the gloaming hours of the evening, there are swamps which have a vile trick to play. Wanderswamps are marked by their knee-deep waters that are sharply demarcated by thick reeds and plants. The beds of the rivers that flow through these swamps are firm and sandy and have no plants growing from them. All of the plants are extremely hostile to anything that touches them,entangling anything that walks on them, slowly dragging them down into the mulchy earth they've made. Will-o-wisps and marsh candles made from the decaying dead often mislead unwary travellers. 
+
+==== Evermountain ====
+
+
+==== Lushlava Fields ====
+	Around the noon hours, when the sun has just begun its descent, cracks in the land may spew forth with raw fey magic
+
+
+Half normal pond but fairy and corals
+
+
+===== Weather =====
+
+==== Immense Sky ====
+	The sky feels bigger, larger, and heavier. Wis save to not be exhausted
+	
+
+==== Defacing* ====
+	Entering this zone is like entering a kind of.. fuzzy crosshatch vision. Everything desaturates and becomes just a little sharply fuzzed at the edges, but faces smear in long trails (of both people and animals). Identity fluid here, and one might find oneself in the company of more than one initially suspects.
+
+==== **Foefog** * ====
+	A creation of a dark night-time mist descending upon the feywilds, a time when the fleeting shadows in your periphery wake to become temporarily just a little too real, creeping up to stand in the corners of your room, hiding in the piles of clothes and among the books, and even curled at the end of your sleeping bag.
+	
+
+==== Deepstorm* ====
+	Tentacles from the sky in storm vortexes like an upside down ocean. Sometimes fish drop out of the sky.
+
+==== Seafog ====
+	Along coastal locations, particularly rocky ones, folk may find the air suddenly very thick and hard to breathe as fog rolls in. What were rocks may open to be anenomes or barnacles, and coming in with the fog may be many fantastical skyfish. A decent athletics check will allow a person to fly, but be warned, the fog can roll out quickly.
+
+
+===== Coasts =====
+	Coral
+	Beach
+	Tidepools
+	Cliffs
+	Interrupted Cliffs
+	Stony beach
+	Sandy Delta
+	Deep delta
+	Many stone pillars
+	Underfeydeep
+	Flat stone shore
+	
 

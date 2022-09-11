@@ -33,3 +33,5 @@ Craghaunter
 Witcheater
 
 Dandelion Pastures: lush yellow fields prowled by plant-like beasts with manes of yellow or white. The milk from these creatures tastes deliciously irresistable to creatures of extraplanar/non-prime material creatures (fae, tieflings, genasi, aasimar and such) but vile and bitter to everybody else. The creatures are hermaphrodites, despite their mild similarity to real lions. 
+
+Firefish - sitting under the surface of any dark pool of water, they try to mimic the reflections of any light that comes close to the surface and eat bugs on the surface. They don't have very good reflexes and require a deception check to be sufficiently unnoticed if anyone looks actively at the reflections
