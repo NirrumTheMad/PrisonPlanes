@@ -19,3 +19,4 @@ Each random plot hook is marked as choice or no choice. Random plot hooks that h
 6. A Wandering Boss Appears! 
 	a. [[NPCs:Wandering Bosses]]
 7. Two ancient dragons of both Random alignment and species are fighting nearby, they are both heavily wounded and both offer treasure to the party for help. They are too embroiled in battle to explain their position. 
+8. A massive out of place 

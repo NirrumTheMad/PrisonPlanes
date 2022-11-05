@@ -6,6 +6,7 @@ Creation-Date: 2020-08-23T22:15:22-02:30
 Created Sunday 23 August 2020
 
 Along the shores of one of the fey oceans, often ducking in and out of it, are the most common places to find the facilities of the court of swords. Seasons pass exceptionally quickly in the Sword lands, though time often seems to stand completely still
+ 
 
 ==== The Temple Spa of the Rigid Baron ====
 	Carved into the steep slope of of a short mountain range  covered in rigid coniferous trees  that flower in bright Lilly-like flowers  when magic is cast nearby is a orange-and-grey temple that from which rises many plumes of steam. The mountains face a bay in the late afternoon fey. The crescent mouthed bay hold grey waters that are around 17 celcius. The wind that blows up the mountain is cool and bracing. The temple is composed of many parts. The main hall, where a statue of the rigid baron overlooks wrestlers, acrobats, and on occasion, some other, rather masochistic practices, such as fey sitting in sconces. Behind the main hall are hot springs, fed by the boiling falls, and cold falls, fed by the freezing spring. Here, any injury can be healed. With the permission of the Rigid Baron, Any being can have their shape remade within the scope of their power.  For fey, this requires favour, for non-fey, this requires hard work maintaining the temple equal in experience to half of the mortal's life so far, Thankfully, where this is the feywild, that doesn't take long.  There are many stone meditation platforms where folk can go to become inspired, to reflect, or to exercise. **The Rigid Baron** is the keeper of the temple spa and its abbot and head trainer, as well as **The archfey of biomechanical structure. **
@@ -15,6 +16,8 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 			Influence: 19 Athletics (constitution) withstand a mighty fistbump with the core of your soul
 			Favour: 2560
 		THE RIGID BARON is a Muscular humanoid of masculine figure, firm hands, and skin that is golden if he is viewed from the back, Blue if he is viewed from the front, ruby red if viewed from the right and bright purple if viewed from the left. He is green if viewed from above and sunrise pink if viewed from below.  His face is the face of an axolotl but with a Large sweeping moustache. He wears only a black and gold kilt and leather sandals. THE RIGID BARON  likes to test the resolve of people who ask for his help by challenging them to a wrestling match. The outcome of the match is irrelevant to the baron though, simply that they showed their resolve by fighting well. The Rigid baron uses their favours to force people to use their strength, physical or mental. The rigid baron has a gargantuan greatsword that he can summon and weild without penalty as a bonus action, but only does so in the most dire of situations
+		
+		[[+SiliaTheStrong]]  
 		
 
 ==== The Hall of Moments ====
@@ -109,11 +112,19 @@ Along the shores of one of the fey oceans, often ducking in and out of it, are t
 		A smug and cocky elf from some plane where they do not know the name Manaharamu. Training with **The Saithek** to get an edge on their targets and disguising as a fey to pass under the radar of travellers. They will likely attack anyone who sees through their illusion, and they are a formidable opponent, but a prepared party can simply undo their machinations. The Saithek wishes to keep them alive but wants to ensure they learn a lesson about keeping their composure. They are dressed in purple silk and use a Jambiya (dagger) coated in drow sleep poison. 
 		
 
+==== Chalktone caverns ====
+	nestled in the underfey. Six armed chalk dude. Archfey of deflection, redirection and angles.
 
-Dance person
 
+==== The Waterfall, Cave, and Hostel ====
+	Erupting from a cliff above a  songgrove, travellers of the feywild may find a long rectangular stone protrusion drooling water onto the land below, and while it leads into (or out of) the underfey, the waterfall passes through two other interesting locations. The water spills out of a passage that runs perpendicular to the  chute and waterfall, from a large spherical chamber hidden in the rock. The Chamber is absolutely filled with webs, belonging to various predators, cyclomorphs, spiders, ettercaps, and other unspeakable silklings. The most benign threads, however, are vibrant and luminous hues. Straight cuts of cyan, crimson, and purple might lead you to one of the stranger sets of archfey. Siblings, born in the same fireheart, **The Mnering, The Haxilate, and the Goonoïg, Archfeys of Tension. **Each is unique, and hard to define without overlap. 
 
-
+		**The Mnering, Archfey of Taut threads**
+			This chitinous lady spins colourful threads that never go slack
+		**The Haxilate, Archfey of Catastrophic Potential**
+			This tall androgyne lives on the edge and takes everyone with them
+		**The** **Goonoïg, Archfey of Centrifugal Pull**
+			This Civet-faced creature fights with a flail, not that you can tell.
 
 ==== Dragonwild Garden ====
 	In the midmorning regions of they feywild, in a muggy dragonleaf forest not far from a coast is the Dragonwild Garden. Here, several Lore and Swords Fey work to procure many rare ingredients from fey and magical plants. They are overseen by **The Rosfunss, Archfey of quick wit, insults, and comebacks. **This is an excellent place to get ingredients for 

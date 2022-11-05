@@ -18,7 +18,7 @@ Recommended items:
 	A magnifying glass
 
 Visible conflict: A lost party must find a way to leave the feywild.
-	A well known-passage out of the feywild, The one at Gunenmu Sillowdar, has recently closed. The other, more dangerous route lies in  Chal-Ad, the old castle of the summer fey
+	A well known-passage out of the feywild, The one at Gunenmu Sillowdar, has recently closed. The other, more dangerous route lies in  Chal-Ad, the old castle of the summer fey.
 
 The Map
 	 Every two days of travel in a straight line without a guide, flip a coin (or roll 1d2). If there has been any deviation, do this sometime during the third day of travel. If the result is the same for three days in a row, they end up in the same region that they started in. These regions are made for the summer, they will change wildly between each season
@@ -27,11 +27,11 @@ The Map
 	d2
 		Heads light
 		Tails Dark
-	2d4 
+	1d4+1d6 
 		1 -Midnight/noon
 			1 Starfly fields/bouldergarden
 			2 Starcrags/TinyTechtonicValley
-			3 Lightflower hills/Bladefen
+			3 Lightflower hills/ **Need something here**
 			4 Structure
 			5 Gamnus Oak Woods/Iridescent woods
 			6  Midnight point / Noon Point 
@@ -41,21 +41,21 @@ The Map
 			3Bellfields/Songgrove
 			4 Structure
 			5 Pale Expanse/Lightning Praerie 
-			6  Girderfall/Shallow Ocean 
+			6 **SOMETHING HERE**/Shallow Ocean 
 		3 - Morning/ Late afternoon (**Dawn and Dusk)**
 			1 Dragonleaf Rainforest/Puddletops
 			2 Storygrassland/ Painted rainforest
-			3 Solid Dune/Drayevarg
+			3 Solid Dune/ Ancient Bedlands 
 			4 Structure
 			5 Myceloria/Dimming Marsh
 			6  Dewsea/Ticking forest
 		4 - Evening/Late Morning
-			1 Stage Road/Mirrorlakes
-			2 Wicklands / Halberd Pine forest
+			1 Stage Road/Greenriver cracks
+			2 Wicklands / Floropolis
 			3 Weeping River/Spruigia Forest
 			4 Structure
 			5 Manglowve/Highmead
-			6 Amphivalley/Glittergrass Field
+			6 Corona Mesa /Glittergrass Field
 	Structures
 		Wronghouse (roll for region)
 		Fairy Ring (roll for region)
@@ -63,14 +63,34 @@ The Map
 		standstone outcropping (roll for Region)
 		Serpent's Cave (roll for region)
 		Courtly Location
-		Feydeep Ocean
+		Feydeep Ocean, the feydeep ocean always borders another feydeep ocean region on at least one edge. make roll table for coast
 		Revelvalley
 		Unspecial biome!
-		
+		Mirrorlakes
+		Everfall - Waterfalls that go through all layers of the feywild kinda
+		Drayevarg
+		Bladefen
+		Girderfall
+		Amphivalley
+			
 	Weather
 		Seafog
 		Rotoscape
 		Foefog
+		clear
+		Forest tide
+		
+		
+	Region Event
+		Benign Encounter
+		Hostile Encounter
+		Merchant
+		Strange Merchant
+		Favour-generating event (does not count toward time moving forward)
+		Weather Event
+		Two events at once, keep rolling until you get two
+		
+		
 	Build-a-fey
 		d6 Court
 			1 glamour - immediate sensation base, no long term
@@ -90,12 +110,31 @@ The Map
 Possible Rewards: One Antimagic amulet like those the trussari wear
 				Mounts FROGS
 				Adventurer's axe
+				Folding boat
 
 
 Example buy-in quests:
 	Finding a fey parent or ancestor: Reward
 	Lost Caravan: Enter with goods
 	Hunting down a hag to save a child: Reward
+
+Things  worth taking:
+	Any Toolkit
+	Books
+	Candles
+	Lanterns
+	Land vehicles
+	Water skins
+	Fishing tackle
+	Camping gear
+	Bread
+	Clothing
+	Iron
+	Silver
+	Gold
+	Things to write on and with
+	Waterskins
+	The Keen mind feat
 
 
 
@@ -109,7 +148,76 @@ Moments:
 	A fairy they've been having conversation with gets suddenly upset, runs to a valourboard, and requests aid. A sprite wielding a sewing needle and an acorn cap accosts the party and tells them to stop talking to that fae
 	
 	
-	
+
+
+
+==== take 3 ====
+	Start at level 3
+	The party finds themselves in the feywild one at a time and meet up in order. 
+		The person with the most items
+		The person in need of the most combat protection (Sorcerer, Wizard, etc;)
+		A remaining person least likely to be a good defense
+		and finally, the person who is most likely to be a good defence. 
+	Unfortunately, the person most likely to be a good defense is in combat when they find them. The others enter on the second round of initiative
+		the person is fighting a slightly beefy dracoon, in that it axiomatically takes four successful attacks of any quality to kill
+	The party begins to take stock of their surroundings.
+	The party begins to travel down what might be called a road if one were mythically generous. 
+	The first thing the party finds themselves in a ticking forest. 
+		Along their path, there is a wooly beast that has just moved into place, ready to drop on them.
+	Travelling further into the forest, they will hear voices, and at a certain point, see a giant standing above the hieght of the trees, only to stoop down shortly after they spot it. As they progress it becomes obvious that they've come across a town [[..\..\..\Feywild\Adventuring_In_The_Feywild\Municipalities\Shildeerintin.txt|Shildeerintin]]
+		while in Shildeerintin they can get answers to questions such as
+			"Where are we" - Shildeerintin!
+			"What world are we in" - The Fey Lands!
+			and vague answers to questions about how favour works, without explaining the effects. A fey does not understand the concept of an incomplete favour, nor does a fey understand the human ability to just //do// things. They freely talk about courtly politics.
+			While none of the fey there know how to get out of the feywild, questions about mechanics and what is their form of magic are the domain of the court of Lore, which is based in The Clockwork Castle. 
+			Some of the whispers fey are deeply excited about the party being in the feywild and ask questions like
+				"Will you be staying long?"
+				"Have you any Idea where you're going?"
+				And they burst out into laughter regardless of the answer. 
+		They are able to bargain freely with favour, equal to their level squared times 10
+		The following sidequests are available, the favour you get from them is not listed:
+			**Valourboard:**
+				Kill a wooly beast outside of the town (rewards 40 favour) (automatically completes paper disappears and magic goes into the person who got the killing blow)
+				Recover a Royal Mimic Aggrocoral alive (rewards 1000 favour)
+				Deliver a garcrystal to Jucagacon Dal Ri (rewards 4410 favour)
+			**Whispermonger**
+				Place a silver sewing needle inside one of the smaller houses without being seen (rewards 1/8th of a  favour and 250 favour)
+				
+		The Terror speaker tells of clear weather, unsheltered from the raw magic of the sun, but given a large favour, will warn that the straight line of their journey is tangled in the plots of others.
+			The Nearest town is Runewood (which does indeed happen to be on the way to Jucagacon Dal Ri)
+		
+		**The Local Cheap Swordguide **is a fey goblin whose voice sounds like a full church choir when they speak, they are referred to as "The Mumenahn". The Mumenahn often stops to whisper to plants, declaring that many of them are dreamhooks or similar mechanisms, through which mortals and materials dream. Any favour is worth his services.
+		
+		If the party elects to wander, roll on the adjacent regions tables and let them wander until something cool happens.
+		If the party follows the threads and heads toward Jucagacon Dal Ri, Continue reading.
+		
+		The party passes through Five regions. The third one, regardless of starting region becomes Underfey halfway through.The players cannot really notice for a while, unless they explicitly look up at the sky and notice the increasingly green tinge (Perception wisdom, DC17). The change is heralded by glass rain, which can be collected as ball bearings in relatively unlimited number. (a bag of holding can hold approximately 94000 such things). The marbles hurt when they fall but deal no damage. As the party is investigating the glass cieling, looking for walls (which are surprisingly close), a roar comes from deeper in the underfey, as well as a chime. Staring at the party, very unimpressed or at least unreadable, is a Belling cat, who takes off dashing if the party gets closer. The band of glass makes way, rather suddenly to doors, at first stuck in the glass, then wood with some bands of glass, then just hallways of wood and doors, into a set of corridorways. A culldersnatch descends behind the party after they make their first turn in the corridoorways and attempts to devour and eat at least one. 
+			**Getting Separated.** If a character or characters get lost in the corridorways, take them aside. In exchange for guiding them out a very small lore fey called "**The Change**" asks for a favour, which they redeem immediately. One item they own that is important to them changes physical form permanently, as do their memories of that item to match its new form, justifying all inconsistencies. A harp might change into a horn, a sword into an (equally statted) axe. Alternately, some physical feature about them changes, they do not get to pick what it is, but things like hair, preference in foods, or eye colour might change. Other people do not have the memory of them or the object altered, and proof of the object before the change remains unaltered.
+		The Corridoorways are not long, and either by luck or by guidance, they emerge unscathed through a bulkhead door  in the side of a gargantuan beech tree, which is budding with pumpkins. They continue through the next two areas as normal before coming across runewood.
+		
+		**Runewood.** Mostly intended to be a stopover site. 
+			Someone attempts to buy the garcrystal for 50 gold
+			A Green Dragon attacks and is taken on by the green knights who dive out of the tallest trees to attack it. The party is rewarded with a free meal if they help
+			Runewood is significantly more clear on rules for dealing with the fey and people within it can give precise answers
+			People in Runewood are able to give them directions to a few of the ways out of the feywild
+				Fairy rings are one of the more common though they have been exceedingly rare this past day
+				Plane shift is the most reliable, but no one in runewood can cast it and most of the archfey can only cast it on themselves
+				There's an old portal in the old court of the summer if you can find it, as it is hidden somewhere only revealed by the midnight.
+				
+
+			
+		
+
+
+
+			
+			
+				
+				
+
+
+
+==== take 2 ====
 Beats: Entering the feywild
 	Accruing debt 
 	The First hub is Shildeerintin
@@ -120,14 +228,14 @@ Beats: Entering the feywild
 	
 	
 
-
+==== take 1 ====
 	A visit from the Gassure, Archfey of Sedation, who offers them a way out
 	Journey to blackmail, to set up other fey to be indebted to the Gassure through their agent The Kelaningo. Any outcome is the "planned" outcome
 		Getting a Gamblebrumbus fruit and getting it into the drink of an archfey called **The Calluwegga**, at which point they turn into a pixie and throw a fit. Players are instructed to not take more than the one they need for the quest or consequences could be dire. 
 			Sidequest that completes after the campaign: Deliver some chalk to an abused child. Taking on this quest decrements your owed favour by 1690, Completing it extends the life of every member in the party by that many days, unless they are in the feywild when it completes, in which case they come back 1690 days later than they would have.  Failing to complete this quest results in fey trying to recoup 1690 favour from you until the debt is payed.
 		Delivering a small child named **Raja Wallshatter, **A gold dragonborn who doesn't seem to emotionally react to much. from Caldrona Canyon into the hands of a  Kholirahi General named **Kobet'a** **Shalyssa, **who is quite kind, though unwilling to discuss politics with those who aren't in a position of political or military power.
 		Placing a small glass ball in the middle of a mirrorlake
-	The gassure revealing their deception and that if the players leave, they'll lose several hundred years off their lifespan unless they pay back the favour they owe, then telling them that their best hope is to find the Creyhundeeth, in The house of Fable, Myth, and Stories, Castle of terror, which lies just on the other side of where they are from runewood
+	The gassure revealing their deception and that if the players leave, they'l 
 	Framed in Runewood by the cult 
 		Undoing the cult's deception and pursuing
 			Their base is in the underfey

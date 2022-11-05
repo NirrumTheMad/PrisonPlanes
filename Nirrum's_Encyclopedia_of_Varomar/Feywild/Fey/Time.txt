@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-03-27T17:23:47-02:30
+
+====== Time ======
+Created Sunday 27 March 2022
+
+Time in the feywild doesn't run as continuously as it does in the waking world. Time is marked by the redemption of favour, and it isn't until all of a day's favour is used up that a day actually passes in the feywild. It does creep forward on its own accord with immense slowness, as even conversations are miniscule exchanges and redemptions, but all in all, a day in the feywild may seem timeless to creatures with internal rhythms set on the movement of the sun. The creatures of the fey //do// have such rhythms, but they are comparatively quicker in heliocentric terms, but conveniently they are relatively identical. Because the flow of Mana into the plane is the same, and the thaumaturgical limits of space remain nearly the same, A fey who casts a 9th level spell will regain that spell at the same time a Mortal will. Clocks Notice no ill effect in the feywild in most cases, as the stresses placed on local systems are minute, owing to the incredible vastness of each feywild planar length. The spatial distortion falls below ambient noise from things like movement, and it would take quite a large clock to notice any difference. 

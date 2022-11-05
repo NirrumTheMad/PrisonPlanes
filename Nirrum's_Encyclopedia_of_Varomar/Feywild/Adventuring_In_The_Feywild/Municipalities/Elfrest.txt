@@ -3,7 +3,7 @@ Wiki-Format: zim 0.6
 Creation-Date: 2021-10-06T19:43:47-02:30
 
 ====== Elfrest ======
-Created Wednesday 06 October 2021
+Created Wednesday 06 October 2021 
 
 Long are the days of elves, bound to live mortal lives by the scorn of their own masters. Elves were once powerful fey, courtless, old, and free spirits. When (and in some places where) they roamed the feywilds, they were loved. Embodiments of free emotion, unconstrained by mortality, favour, gold or glamour. Each day an experience, a friend lost or gained, contrivance as powerful as the fall of peoples, as any loss to such a creature is only contrivance. Once, to be an Elf, was to be free to express, without fear of any sort of danger. Death came with Rebirth. Form was a choice. Deep magics came as freely as thinking. 
 
@@ -15,6 +15,7 @@ Here, where centered between the midnight and noonpoints, so close to the heart 
 ===== Description: =====
 	Elfrest is made of a dozen epically sized (mountainous) stone trees, made of a weft of Metals, Crystals, and Glasses, Pulled along tubules by amber dissolved in ether, pulsing with magic.  Elfrest was founded the moment after the entrapment of elves by Mithlanya, an Elvish Sorcerer of Fey magic who claims to have punched Corellon, though it did little good. Trapped within Elfrest (whose name is always presented in the language of the person being spoken to), are vestigial echoes of the old elven magic, from when mythals were cantrips. The rituals of complement and solitude were once thought of as //songs// to the old elves, of which few, if any, remain. Here, elves cannot run out of spell slots. Elves who live here sleep in homes of their choice and fancy, or indeed, wherever they choose. No sickness or disease can befall an elf here, and indeed, mortality in general is merely a suggestion. An elf who dies within the city simply reconstitutes shortly, either where they died or at a place of their choosing within the city. The condition for living within elfrest is that your goals must align with the undoing of Corellon's curse, though travellers, pilgrims, and traders are welcome to stay for extended periods.
 	
+
 ==== Urban: ====
 	The municpal development of Elfrest //does// have restrictions. One of the great rituals allows the minds of the elves at council to be joined as one briefly, and for the past several thousand years they have decided to keep Elfrest's forest theme. The base of the twelve trees is made largely of parks, Auditoriums, and places of carefully selected and curated light levels. One can walk for hours without seeing another soul but it is far more common to find one elf every few paces, lounging on a chair, in a tree, soaking in a pool of water or underneath a stained glass overhang.  Trading mostly happens near the gates, where a bazaar is set up for foreigners. There is of course, a Xanaran's. Outside of this bazaar on the ground, there are very few significant buildings, though there are occasional latrines and washrooms, often hidden within normal trees, pillars, or around well-disguised turns into hills and rocks, making use of the feywild's special geometry. 
 	
