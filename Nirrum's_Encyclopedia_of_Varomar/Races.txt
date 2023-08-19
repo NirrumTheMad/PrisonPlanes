@@ -2,8 +2,72 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-02-11T12:19:31-03:30
 
-====== Races ======
+====== Ancestry features ======
 Created Tuesday 11 February 2020
+
+Playable ones, to be clear
+
+
+
+
+
+
+
+
+==== Humans ====
+	humans, and close subdivisions
+	dwarf, and close subdivisions
+	halfling, and close subdivisions
+	Orcs
+	
+
+==== Giants ====
+	Fey giant boys
+	Normie Giant boies
+	Spooky giants
+	
+
+==== Dragonkin ====
+	Greater Dragonkin, myriad close subdivisions, and similar beings
+	Diminutive Dragonkin
+	Lesser Dragonkin, and similar beings
+	
+
+==== Fey ====
+	Elf, myriad close subdivisions
+	Gnome, and some close subdivisions
+	Goblin
+	Fairy, and myriad subdivisions
+	
+
+==== Beastial beings ====
+	Feliniscan, other catfolk
+	Lycanthropes and similar beings
+	
+
+
+
+==== Grey Areas ====
+	Eldritch born, children of devils, fey, angels, gods, and other things that lie just out of sight
+	Half-elves, Manarahi, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Pactborn (/u/barkalot)**
 	Tieflings and aasimar are well known among the pactborn, they are the most common by far, but what happens to the descendants of creatures with other pacts? What happens to those who pact with Demons, fey, or otherworldly intelligences hitherto undescribed? They have their own lot of races, some of which are described here. These have been modified from the original to suit the setting and the Trawe have been added
@@ -68,13 +132,13 @@ Half-elf Variant: **Manarahi**
 
 		**Vestigial Darkvision: **You can see Normally in Magical and Nonmagical darkness to a range of 5ft, though you lose the ability to see colour past that. You can see shades of grey for another 5ft beyond that. This sense does not benefit from a telescope or similar device. This sense ceases to function if the area you are looking at is in an antimagic field. If you are in a dense magic zone or during a wild magic surge, this effect extends to 100ft. With shades of grey 20ft beyond that. This benefit lasts until you leave the dense magic zone or at the end of your next turn for a wild magic surge.  This effect does not work when your eyes are closed.
 		
-		After the fall of Mana Ulla, most of the Manarahi followed the path of the monk Aescetics toward Mohara, settling at its base where a very small natural spring provided some water and a decently thick south-flowing leyline carried plenty of magic to them, upwind of Mana Ulla's disasters. These people named themselves the Manaharahi. The Magic Mountain People. This name became only really relevant whent he Kholirahi people claimed that their way was the way of the true Manarahi, long before they gained their roots. The Manaharahi people are not too different from the folks that made it out of the caves all those years ago. Famously, Tarn Ravora was ten at the time, and he //still lives. //Magic is like eating to the Manaharahi, and prestidigitation is perhaps one of the most common things they will ever do in their life, in some cases more than talking. Most people don't know about their Octarine receptors and mark their occasional ability to dodge wayward magic as luck. It was difficult to word this in a way that made sense and encompassed the essence of the abilities. 
+	After the fall of Mana Ulla, most of the Manarahi followed the path of the monk Aescetics toward Mohara, settling at its base where a very small natural spring provided some water and a decently thick south-flowing leyline carried plenty of magic to them, upwind of Mana Ulla's disasters. These people named themselves the Manaharahi. The Magic Mountain People. This name became only really relevant whent he Kholirahi people claimed that their way was the way of the true Manarahi, long before they gained their roots. The Manaharahi people are not too different from the folks that made it out of the caves all those years ago. Famously, Tarn Ravora was ten at the time, and he //still lives. //Magic is like eating to the Manaharahi, and prestidigitation is perhaps one of the most common things they will ever do in their life, in some cases more than talking. Most people don't know about their Octarine receptors and mark their occasional ability to dodge wayward magic as luck. It was difficult to word this in a way that made sense and encompassed the essence of the abilities. 
 			**DM's Note: **Adventurer is a slur in Manar. Taparmishi, Travelling sword, Mercenary. It describes someone who does not know their responsibilities or  who does not love their people enough and chooses to go chasing fairy tales instead. In Manaharamu people are wary of adventurers as chaos tends to come with them. Stories of wealth and treasure are still more than enough to entice many people to leave their home to explore the world, especially a world so laden with forgotten things.		
 
 
 	**Kholirahi**
 		**Ability score increase. **Your wisdom score increases by 2.
-		**Rudmagic. **You know the Thorn-whip and Mage hand cantrips, using your roots for both. Once you reach 3rd level, you can cast the Entangle spell once per day. Once you reach 5th level, you can also cast the Spider climb spell once per day targetting yourself only. Charisma is your spellcasting ability for these spells (as is the case for all innate spellcasting). 
+		**Rudmagic. **You know the Thorn-whip and Mage hand cantrips, using your roots for both. Once you reach 3rd level, you can cast the Entangle spell once per day. Once you reach 5th level, you can also cast the Spider climb spell once per day targetting yourself only. Wisdom is your spellcasting ability for these spells. 
 		**Ineffable. **You feel very little emotion and strong emotions are dulled. You have advantage on saving throws against being frightened, and you are immune to being charmed and spells that would charm you as part of their effects.
 		**Truthseeker. **You have advantage on checks to percieve illusions and on saving throws against illusion spells.
 		**Magical Darkvision. **You can see normally in darkness to a range of 30ft, including magical darkness, to a range of 30ft. This does not gain benefit from a telescope or similar device. If you are in a dense magic zone or during a wild magic surge, this effect extends to 300ft. With shades of grey 20ft beyond that. This benefit lasts until you leave the dense magic zone or at the end of your next turn for a wild magic surge. This darkvision ceases if you are in an antimagic field. This effect does not work when your eyes are closed

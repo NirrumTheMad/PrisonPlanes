@@ -62,15 +62,15 @@ Created Thursday 21 December 2017
 [[+Shadowfell]]
 [[+Cheatsheet]] 
 [[+Far_Realm_Things]] 
-
-
+[[+GameTranslation]] 
+[[+Dwallat]] 
 
 //Nirrum is clearly mad and we should ensure that none be allowed in his chamber, lest he bewitch someone into bringing his works to the presses for him to have them distributed. Triple the blind guard, and place as many wards and abjurations upon his rooms as you can! //
 		-Sillig The Eel on the way to the presses with this very document
 				**I am very clever** 
 					//-Nirrum//
 
-This is a document //made// for 5th edition Dungeons and Dragons or "D&D Next". This is a setting in which you can be anyone from anywhere, there are many interpretations of this world and while many parts of this document may translate poorly, if you're willing you're welcome.
+This is a document made for a system we're not going to talk about anymore. This is a setting in which you can be anyone from anywhere, there are many interpretations of this world and while many parts of this document may translate poorly, if you're willing you're welcome.
 
 Document is in Markdown. 
 

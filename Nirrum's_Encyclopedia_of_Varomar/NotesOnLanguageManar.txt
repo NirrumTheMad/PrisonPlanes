@@ -23,6 +23,8 @@ Created Friday 29 December 2017
 	rahialat  Lappa'ta 
 	
 
+[[+Conlang_tests]] 
+
 
 
 	**Adjective-simile suffix** 
@@ -65,6 +67,7 @@ Dal - Of the, Implying some connection to the following term. The Manahararahi r
 	Dal'ni - No one's, unowned. Irregular in Manar as the negation is for the subject, not the verb,
 	Dalke - a property of an object. Its
 De- From
+Dera - made of (IRREGULAR, see DAL)
 Mish-Change
 Tamish-the changed property of things that have changed, notes of changes, Denoted by the symbol  Δ in Physics
 Haz-Face
@@ -93,6 +96,7 @@ Dwallat - The name of the large mesa on the other side of the desert, although i
 Ra - That, Thing, the state of existing. Originally it was exclusively tangible and spacial objects but grew over time to mean "something" and much like mu, is often a laconic answer to a question.
 	Ra'a - Me, I am
 	Ra'u -You,  you are
+		Rau sho rati - you (group) 
 	Ra'ta - Them (singular) that one is, 
 	Ra'ke - it is, exclusively inanimate or dehumanizing, ke is a rare verb suffix because inanimate objects rarely verb other than exist, as a verb is by nature, an action
 	Ra'i - Us, unrelated but poetically linked to "rahi" which means people. "Rahi Ra'i",  we are our people is a frequent idiom used mostly in political propaganda
@@ -150,6 +154,7 @@ Lyssar - Singing
 M'Phoenix - Lesser Phoenix, Turkey. Unrelated to any member of the phoenix family, imported from Konia within the last two thousand years, simply Mi(small) Phoenix. Lesser sounds too close to Lyssar and turned people off the dish at first, especially when they heard the sounds. This actually lead to a Large Misconception among the Manahararahi that the Konian people were tone-deaf and uncultured savages, despite their significant advancements in warfare, medicine, and raw material refinement up until the war of ants in 5802, as well as their complex music scene, producing such legendary operas as "The Wine of The Mountain" or such ditties as "Thalomendar's Reel" which everyone seems to know
 Mo-Cold, Containing the same literary meaning as it does in English, Also works for standoffish, or particularly dispassionate malevolence
 Liku- Fruit, Lyss and Kuu, Jewel Plant.
+Pinku - Flower
 badoo- Thunder
 Pioowa - Lightning 
 Vorahi- woman, No other configuration of being got a word in ancient manar, though in modern times a newer slang for male has rooted itself inextricably.
@@ -186,12 +191,12 @@ olopi - Sun, Hirokira's nickname
 Kwatsolopi - Moon, from eat + Sun.
 Vi - blood, loanword from Latin, Vir
 Raulyss - a fond greeting
-mishlia - an opinion, should (Mishlia Nneramishu'lo, You should not travel. Mishlia ganki prabrek nnekiven, I think flesh [is] stronger than metal. The absence of this word may proclaim undue uncertainty. You should not go becomes you will not go, and in Manarahi culture, that is a statement that must be backed up) The default interpretation of this word is should, it can be appended with -tab to become "might" or "could" 
+mishlia/mishali - an opinion, should (Mishlia Nneramishu'lo, You should not travel. Mishlia ganki prabrek nnekiven, I think flesh [is] stronger than metal. The absence of this word may proclaim undue uncertainty. You should not go becomes you will not go, and in Manarahi culture, that is a statement that must be backed up) The default interpretation of this word is should, it can be appended with -tab to become "might" or "could" 
 Hiat - Taste
 Hiba - Hearing
 Hikem - touch
 	Hipi -hot
-	Hialab - cold
+	Himo - cold (touch)
 Hiki - Proprioception
 Hiomsha - smell
 Hipinra - sight
@@ -216,11 +221,11 @@ Shora - Physical Meeting
 Pinralisraha - Important Person
 Tab -  in the past
 Talo - in the future
-wi- an inquisitive modifier, attached to a word it usually simply means "why"
+wi- an inquisitive modifier, 
 		Wira - which is  
 		Wilo - When is ___ / will
 		Wiab - When was
-		Wita - What is
+		Wita - What is/ 
 		Wimu - Where is
 		Wiwa - Why is
 		Wihaz - Who is
@@ -250,7 +255,7 @@ Fa - Color
 	Nafa - Transparent
 	famana - Octarine
 Pep - hop, Jump (de pet neshta Pep'ab Ta Lor Fani   ) (The pink rabbit hopped onto the surface(table))
-Pet - Surface. Tarn Ravora Claims to be friends with the child who made this word, saying it was distinct from darkness. "That was bet, this is pet." Ta Pet. The Surface. Tepet. Can be used to described countertops, tables, any surface. This has had profound effects on the development of Manarahi philosophy, as instead of light being the counter to darkness, The surface is where Concrete and ephemeral balance out, Hard doesn't need to compete with soft, but with things that move. This view of wu-wei duality was instrumental to the development of early tepet magic as instead of one thing being matched with its opposite, it was matched with something // on a different conceptual level//. Tarn claims his friend wouldn't have understood, She was more interested in playing on the rocks.
+Pet - Surface. Tarn Ravora Claims to be friends with the child who made this word, saying it was distinct from darkness. "That was bet, this is pet." Ta Pet. The Surface. Tepet. Can be used to described countertops, tables, any surface. This has had profound effects on the development of Manarahi philosophy, as instead of light being the counter to darkness, The surface is where Concrete and ephemeral balance out, Hard doesn't need to compete with soft, but with things that move. This view of wu-wei duality was instrumental to the development of early tepet magic as instead of one thing being matched with its opposite, it was matched with something // on a different conceptual level//. Tarn claims his friend wouldn't have understood, She was more interested in playing on the rocks. For a period of time before the fall of Mana Ulla, many plays and stories were told around "The dark table" as the setting for resolving a conflict in pulp fashion, where a story would be partially told, then shown.
 Newa - movement, the act of moving, with the implication of not being stopped.
 Nesh - move to/, an etymological reconciliation of Newa and alash, both of which refer to movement, one of the problems the language ran into as it grew
 Kwapet - bread/sandwich/any bread-encased food
@@ -306,6 +311,8 @@ Kenwa - Right
 manwa - Left
 jawa - Backwards
 Lonwa - Forwards
+Tanwa - in from lotanwa
+tawa -out
 ranoru - Gift, passing something from someone to another
 har-name
 falioru - Money, specifically, gold coin
@@ -384,4 +391,34 @@ Kwagoog -stomach
 Vishapa - Lung
 Rahialat - Family house, also just family
 Lappa - Build/building
-
+Breklipar -axe
+Tongbreklipar - long axes, glaives, halberds
+Mimi - Baby
+Bami - Child
+sheme - Math, originally just subtraction
+	* Jame - Subtraction
+	* Ooshme - Addition
+	* Parrame -Multiplication
+	* n'parrame - Division
+	* Parooshme - Exponentiation
+	* alashme - Taxes, the reduction of an amount by a factor determined by a context. 
+Meooshma - again, repeat
+Lisheme - game, play. Manarahi culture very carefully set up sort of cultural "rules" for games that children play. The Children ignore these rules of course, but when they get upset and come crying home, the adults can point to cultural rules that they should have followed all along. When children make new games, it's often still including part of the old game in their new game, and the rules become transitive.  
+Migan - bug (general)
+Shamigan - flying bug (general)
+Ver - mouth
+verly - Sweet
+vergan -umami
+Piver - Spicy (general)
+mover - Minty (general cooling effects)
+Verlisham - Bee
+Um - hum
+Lisrau - a greeting, good to see you.
+Kaolat - school
+Tata-first, beginning
+Banwa - Loud, projected sound
+Linwa - dance
+rashta - on/at
+Hazlovo -hat
+Bol - cylinder (round+stone)
+Dubol - Pole, pillar

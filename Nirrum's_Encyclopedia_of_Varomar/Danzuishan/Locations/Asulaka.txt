@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2019-03-25T17:59:23-02:30
 
 ====== Asulaka ======
@@ -18,6 +18,6 @@ Created Monday 25 March 2019
 **The School of the Growing One**
 	A large training and meditation hall filled with practice weapons on the first floor. Tea is served for free on the top floor, and bowls of rice only cost a copper, people here all have the sage background  and are extremely well networked. A thin-haired cat named Mister Tiger prowls the place looking for mice. There is no master of the School of the growing one but A drow who calls herself "Kahz" is often seen as the most respected member of the sages there. She wears a thick blindfold and a massive conical hat that sways in even the slightest breeze
 
-**The Temple of Majere**
+**The Temple of A GOD OF DISCIPLINE**
 	A bridge of 475 feet without rails connects the school of the growing one and the Temple of the god of discipline. The Temple offers guided meditation and advice to its supplicants and worshipers. 
 

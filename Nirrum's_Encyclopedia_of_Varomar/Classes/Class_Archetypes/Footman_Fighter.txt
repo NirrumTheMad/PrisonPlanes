@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-18T00:17:57-03:30
 
 ====== Footman Fighter ======
@@ -15,8 +15,8 @@ Feyish-  Resistance Bludgeoning Damage
 Fiendlike - Resistance Slashing Damage
 Eldritchesque - Ignore resistance to bludgeoning, immunity becomes resistance instead 
 Celest-y - Ignore resistance to piercing, immunity becomes resistance instead
-Somewhat edgy -  Ignore resistance to slashing, immunity becomes resistance instead
-Hard-to-kill - Resistance Piercing Damage
+Grim -  Ignore resistance to slashing, immunity becomes resistance instead
+Unreasonably healthy - Resistance Piercing Damage
 
 **Pact Magic.**
 	Along with your increased combat effectiveness, you have gleaned some spellcasting knowledge. Great wheels turn inside your mind, granting you access to the twisting energies of the cosmos. If only you could figure out how to turn turn them faster.  At 3rd level you  gain access to  **Pact Magic**

@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-26T14:28:30-03:30
 
 ====== Unused bits ======
@@ -20,3 +20,60 @@ Created Wednesday 26 February 2020
 
 
 go invisible on reaction on passed save, leave body behind
+
+
+
+
+
+**Disciple of Magic**
+	When you choose this tradition at 3rd level, you learn how to manipulate Magic with your ki. Choose
+choose two disciplines, learn more at 6.11.17, gain a level to replace
+Casting E Spells. Some e
+disciplines allow you to cast spells. See chapter 10
+of the Player’s Handbook for the general rules of
+spellcasting. To cast one of these spells, you use its
+casting time and other rules, but you don’t need to
+provide material components for it. When you cast a
+spell with a discipline, it is cast at the spell’s lowest
+level unless otherwise specified.
+Once you reach 5th level in this class, you can spend
+additional ki points to increase the level of an elemental
+discipline spell that you cast, provided that the spell has
+an enhanced effect at a higher level, as burning hands
+does. The spell’s level increases by 1 for each additional
+ki point you spend. For example, if you are a 5th-level
+monk and use ROPADOPE FIX THISyou can spend 2 ki points to cast it as a 2nd-level
+spell (the discipline’s base cost of 1 ki point plus 1).
+The maximum number of ki points (its base ki point
+cost plus any additional points) that you can spend on
+the spell is 2, unless a discipline specifies otherwise.
+This maximum increases to 3 at 9th level, 4 at 13th
+level, and 5 at 17th level.
+
+Bitchin disciplines:
+	1st level spells for 1
+	bonus action cantrip
+	
+Ballin Disciplines 
+	Make something automatic
+	2nd level spells for 2 with some effect
+	Mini 3rd level spells
+	PATIENT BADGER LISTENS
+blastin disciplines
+	3rd level spells for 3
+Best disciplines
+	for 5 R/BPS/Other, Movement, bonus action 1d10-3d6
+	5th level spells for 5
+	
+	
+	
+5 ki Revive+heal 4d10
+Reaction melee on ally melee
+
+
+**Torchbearer. Hold onto and double another's mage's spell**
+
+**Ki points to recharge spells**
+**For 2 ki points You may change the target of a spell or magical effect within** 
+* You become blind and deaf to anything that isn't magical in nature for one minute or until you end this effect as a bonus action. Shapeshifters appear in their true forms, things covered by illusions appear as they would without the illusion. Magical items and creatures concealed by magic appear as if illuminated by bright light, even if their nature would not normally allow this. All magic produces distinct sounds, making them perceivable as if visible. This state ignores mundane or magical darkness or effects of silence, as well as sublte metamagic. Creatures with intrinsic magic abilities glow dimly, creatures 
+* s

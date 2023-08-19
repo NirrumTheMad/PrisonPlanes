@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-08-15T11:25:49-02:30
 
-====== The Court of whispers ======
+====== The Court of Plots, Schemes, Plans, and Ambition ======
 Created Saturday 15 August 2020
 
 Tucked in the nightways and moonlit parts of the feywild, behind  Sprawling thin-branched trees is the realm of the court of whispers. The complexes that house the fey here are suited to their myriad plots and schemes and plans.
@@ -84,4 +84,16 @@ Tucked in the nightways and moonlit parts of the feywild, behind  Sprawling thin
 			Length: 1 mile
 			Influence: 10 Intelligence (history), made with advantage. You must tell them something that you truly think only you witnessed
 		The Sha-Malnui is  a continuous shadow that reaches out from Amona Taliyudur. they do not have a form other than shadow. The Sha-Malnui is extremely helpful, and simply gathers otherwise unknown things within their depths. Once a secret is within the sha-malnui, it will leak into the mind of someone who could have known but didn't, or who could have found out, often as a flashback memory, but sometimes as discovering a clue. The Sha-Malnui has no siofra, and often shares their patronage with knowledge domain clerics. They offer their patronage in exchange for secret knowledge, the juicier, the better, for it can be certain that despite being so helpful, the Sha-malnui is one of the most well-informed fey and still a member of the court of whispers
+
+==== Hugue's House ====
+	In the evening realms stands a looming house decorated with all sorts of colourful lights. The description of the house changes from viewing to viewing, Though in all cases, it is unusually tall. The house is almost always teeming with children of thousands of races, only some of them familiar to the eye. The house is filled with fun and games of all sorts that adult adventurers might notice all seem to teach the wrong sorts of lessons, or at least most of them do. Some of the lessons seem to be lessons one might agree with. Odd. This is Hugue's House. Who Hugue is a mystery long lost to time. The house is presided over by **The Gulichen, Archfey of Addiction. **This archfey is always friendly and cordial and takes great care to ensure every child finds a game to play before they leave. The Gulichen has a running contract of favour with **The Sandman** to entertain a child for at least one night of their life. All of the children here are there of their own free will while they are asleep. Leaving Hugue's house causes the child to wake up, and usually means they will never return to the house
+	
+		**The Gulichen (ESTJ) Archfey of Addiction**
+			Height: Unreasonably tall
+			Favour: 6760
+		Perhaps one of the more malevolent of fey. **The Gulichen **is fully aware of his effect on children, and delights in it. Bad habits, bad decisions, bad philosophy, things that will cause that child to lose potential. He is predominantly humanoid, with disproportionately long legs and arms, dressed in bright colours. He often wears a white mask decorated with a smile, but the specific style in which it is decorated changes every time somone looks at it, and is different for each person viewing it.  **The Gulichen has run afoul of Caelmet Greshane recently.**
+		
+		**The Gulichen was caught attempting to surplant Caelmet Greshane, **the poor fuckin soul.
+
+
 

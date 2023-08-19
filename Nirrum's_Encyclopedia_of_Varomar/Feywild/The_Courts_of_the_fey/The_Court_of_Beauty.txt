@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-08-23T21:38:37-02:30
 
-====== The Court of Glamour and Eloquence ======
+====== The Court of Beauty ======
 Created Sunday 23 August 2020
 
 
@@ -96,20 +96,38 @@ Set among the darker regions of the feydark mostly,
 ==== The tower of bones and ivory ====
 Bridging the lands between a Corona mesa, a particularly dim pale expanse, and a range of solid dunes is a massive spike-like spire jutting out of the landscape like a half-collapsed tree that hasn't given up on standing. The angle at which it finds its repose is shallow enough that one can easily walk up the spiny and thorny side. Adventurers who have seen the spire before describe it akin to a cactus or cut rose branch, though neither description does justice to the variety of thorns, from the thirteen wickedly curved dentide hills that conduct rapid changes in the slope, to the millions of knee-high needles that  standout every few feet along the side of the tower. The tip of the tower of bones curls into a vicious and rigid hook, from which hangs the realm of the **Volinbode, Archfey of masks, ** an ornate and round birdcage that bridges horizontally to the tower with a thick chain. The tower of bones also houses the **Mornkino, Archfey of Graveyards and Tombs **of the court of Terror. The two do not get along
 
-There is a knot hole in the base of the tower where it sits out of mostly still sands and rocky edifice, and it is this hole that serves as the entrance. On the outside, gangly thorngrippers patrol looking for the foolished and impaled. On the inside, occasional holes allow surprisingly bright pale light to mottle the shadows and illuminate the wide, cavernous ramp, made enitrely of bones, horns, antlers, and the odd tusk. There are, save for the tusks, no teeth among the clutter of the ascent. The tower itself is the realm of the Morkino, a very elf-like being whose face seems to be composed only of a thick-lipped mouth that stretches from ear to ear, framed by black hair. He lacks eyes or a nose, though this does not seem to impact his ability to speak clearly nor his ability to see, or at least, his ability to turn to face the person he's talking to and to not stumble over his environment. The Morkino wears a leather single-breast jacket and leans heavily on a shovel. He makes a game of trying to get underneath people's armour around their lost loved ones, or their own fears about the grave. He does aim to depress though, and prefers to imply that afterlives are fickle and that often people fall through cracks into the care of worse beings. 
+There is a knot hole in the base of the tower where it sits out of mostly still sands and rocky edifice, and it is this hole that serves as the entrance. On the outside, gangly thorngrippers patrol looking for the foolished and impaled. On the inside, occasional holes allow surprisingly bright pale light to mottle the shadows and illuminate the wide, cavernous ramp, made enitrely of bones, horns, antlers, and the odd tusk. There are, save for the tusks, no teeth among the clutter of the ascent. The tower itself is the realm of the Morkino, a very elf-like being whose face seems to be composed only of a thick-lipped mouth that stretches from ear to ear, framed by black hair. He lacks eyes or a nose, though this does not seem to impact his ability to speak clearly nor his ability to see, or at least, his ability to turn to face the person he's talking to and to not stumble over his environment. The Morkino wears a leather single-breast jacket and leans heavily on a shovel. He makes a game of trying to get underneath people's armour around their lost loved ones, or their own fears about the grave. He doesn't aim to depress though, and prefers to imply that afterlives are fickle and that often people fall through cracks into the care of worse beings. 
 
 Climbing the inside tower is difficult, as it lacks any form of staircase. Several forms of undead crawl around, attacking indiscriminately, often each other. These undead look, behave, and have the abilites of their normal counterparts, but can be destroyed with dispel magic, or a cast of the sleep spell, as they lack necrotic energy. They are also unaffected by abilities that specifically target undead. They also have only limited intelligence and are often tied to a fey puppetteer, hiding out of sight.
 
 Near the top of the tower, the chain bridge is anchored underneath a  wooden platform. The chain swings, high above the ground below, and it lacks rails or guards or even a level path along its humungously thick links of a guage twice as thick as a horse around. While careful footing is needed, one can reasonable expect to get across alive. The chain leads into the birdcage, home of the **Volinbode.** The **Volinbode** is a 4ft tall pillar which hovers along the ground. The pillar is about a foot wide and is covered in masks. As **The Volinbode** speaks though each mask, its voice changes to fit the mask's "character".  
 
 
+==== The shimmers of Reel and Gedde ====
+	Slashed into a blackened fireheart, a wanderer can find a chasm of glitter, shards, and facets. It is hard to look into the shimmers, nor is anyone forthcoming on who or what Reel and Gedde are, but it is unmistakable, and easy enough to get to. As one passes into the chasm, one is surrounded by lights of every colour, such that outlines are hard to track. Lights contributed by fey seeking favour reflect around in impossible ways. Within the shimmers one can find the **The Gaesial**, tending to this garden of light
+
+
+**The Gaesial, Archfey of Sparkles (INFP)**
+	A quartz-skinned elf with horns who sparkles like snow in moonlight
+		Height: 6ft
+		Favour: 1440
+	Streaked with feldspar and gold, bearing a cut across her neck and chest that resembles the chasm she lives in, this archfey is a paragon of beauty, even among the fey of glamour. The Gaesial cares little for those who don't bring colour, jewels, mirrors, glass, or glitter, and even these she treats with only a modicum of respect. To earn her attention, one has to outshine the chasm itself. To earn her respect, one can only hope they can craft an illusion or transmutation that makes them almost blend in to the sparkles around them, without simply being invisible. To earn her favour is another matter. She will trade favour in exchange for one barrel of methanol, a jar of acetone, or a handheld object that emits bright light for more than 30ft for more than a day (do remember how long a day in the feywild can be before you try to keep concentration on something). In exchange for favour, she can grant many spectral spells at will, A barrel full of non biodegradable glitter of mysterious (plastic) material, or the ability to send a pulse of sparkling colour outward from where one stands up to 200ft wide, dancing across every surface. This pulse of colour reveals invisible creatures, and briefly lights up the area it passes over. A creature can do this up to their proficiency modifier times per day. 
+	
 
 
 
 
 
 
-==== The Mosaic City and the Kaleidoscope Castle Brituelle ====
-	In the Early afternoon, in the full light of summer, is the stunning Mosaic city, the center of the Courts of Glamour and Eloquence (by hostile merger). Part of the law of this land is to keep the colour scheme 
+==== The Mosaic City and the Kaleidoscope Castle Brituellë ====
+	In the Early afternoon, in the full light of summer, is the stunning Mosaic city, the center of the Courts of Glamour and Eloquence (by hostile merger). Part of the law of this land is to keep the colour scheme, which is difficult, as the city is built in a a shattered and complex design, converging at the centre in what can only generously be called a snowflake pattern. Six identically shaped regions in highly contrasting but continuous bands of colour shift from vermillion to red to green to crimson to black, through vibrant yellow, on eventually to brown and cyan, along with many spits of colour in between. This would be nigh navigable but with the plane's physics, moving around the city means the pattern changes, and even for one of the fey, it can be hard to get around as bands and buildings rise and sink from an undeterminable horizon. Sitting at the shimmering citadel at the centre, in the halls of Brituellë is the bitter Royal of eloquence, **The Irigold Menneronotheel.**
+	Brituellë itself shifts slowly in the passing of fey time, never seeming quite stationary but moving so impossibly slowly that one cannot hope to notice its own movements. It is composed of six tall, jeweled towers around three chevron mirrors, at the very base of all three, sits the lord of the castle.
+	
+	**The Irigold Menneronotheel, Archfey of Poetry**
+		The eloquent master sits, bitter, and hits those who declare them a quitter
+			Height: 5'4
+			Favour: 5290
+		A face of unmolded alabaster shifts to become the face needed 
+
 
 

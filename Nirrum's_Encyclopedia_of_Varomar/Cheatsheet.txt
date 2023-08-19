@@ -9,12 +9,11 @@ Locations and cultures
 	Snarl- whole prison plane
 	Varomar - Surface of only known major Continent
 	Ctutoletl - Jungle Snake people who really don't like other things
-		Out-of-book yuan-ti
 		Known dislike of the world-spirit
-	Danzuishan - Dragonborn city in the south west of Varomar
+	Danzuishan - Dragon person city in the south west of Varomar
 		Built on a river
 		Likes Personal responsibility, because most citizens have the ability to kill eachother on accident.
-		Ruled by multiple dragons (and a dragonborn Queen)
+		Ruled by multiple dragons (and a dragon person Queen)
 		Dragon Theocracy>Monarchy>Aristocracy>oligarchy>Personal Achievement>Welfare
 		Has a crazy magical maze that supplies much of the plane's wealth and weird magic
 	Dragon coast - What it says on the tin
@@ -23,9 +22,9 @@ Locations and cultures
 		Home to Dragons
 		Previous home to Manaharahi, including Tepet and Mana Ulla
 	Drakenhearth - Swampy jungle peninsula on the south west of varomar, Part of the dragon coast and trinity gulf
-		Populated sparsely by bullywugs
+		Populated sparsely by frog people
 		really backwater
-	Feywild - Home of the fey
+	Fey lands - Home of the fey
 		Absolutely bonkers
 		Don't give them your name, you'll die without it
 		Home to Aulufeydth Orcs, Intelligent and less prone to violence
@@ -36,8 +35,8 @@ Locations and cultures
 		Sparsley populated but touches two major Centres, Danzuishan and Umlil Orill
 	Grass Road
 		Long Steppe and grassland south of the aegis mountains
-		Home to out-of-book Orcs, Gnolls, and Special Halfling people
-		Ramishi halflings are part of the Manarahi people, but also culturally distinct
+		Home to out-of-book Orcs, Gnolls, and Special short people
+		Ramishi short people are part of the Manarahi people, but also culturally distinct
 		Ramishi are friendly
 		Entire road is mostly edible grains, though somewhat sparse water
 	Kholira - Northern Mountain valley containing Kholirahi civilization
@@ -67,14 +66,14 @@ Locations and cultures
 		Freeish Healthcare
 		Manaharahi descend from Manarahi, arguable inheritors of legacy
 		Very accepting of physical diversity, less so of cultural diversity (They will get into a fist fight and lose just to protect someone's right to free expression, so long as that free expression doesn't challenge their culture based on supporting eachother)
-		Home to  University filled with mages, Many level 20s around
+		Home to  University filled with mages, Many maximally powerful characters around
 		Constitutional Monarchy
 		Densley populated, housing very expensive for non-natives
 		Will sell magic items, some for ridiculous markdowns
-		Has Special military division with antimagic fields
+		Has Special military division with antimagic zones
 	Mana Ulla - a mostly abandoned Port city south of Manaharamu on the dragon coast
 		Previous home to both the Kholirahi and Manaharahi, before they were divided 
-		Wild Magic everywhere
+		Untamed Magic everywhere
 		High Octaride (magical ore) concentrations 
 		Crossing of the two largest leylines on the plane
 		Well is Magic in unpredictable ways

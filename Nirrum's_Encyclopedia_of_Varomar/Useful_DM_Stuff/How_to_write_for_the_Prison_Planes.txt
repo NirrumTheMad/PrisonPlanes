@@ -41,6 +41,18 @@ To write for Snarl and Varomar in Particular.
 	Ideas like "Mongrel of every species" and "Gods outnumber mortals" are what gave rise to the race of the Manarahi and the common religious views on the plane. The three dragons that live in Danzuishan are the result of "nothing says no." The Evil Unicorns of Jiannok Sio and the Good drow of Skalmirthon and Cermina
 
 
+Parts of building for snarl require an understanding of the lore. Before someone starts going off talking about borders and treaties, they have to consider things like
+	* How does your plan deal with a dragon-demon hybrid suddenly appearing in the most critical place?
+	* How will your enemies use your weaknesses against you
+	* How will your enemies use your strength against you
+	* How will you use your enemies using your strengths and weaknesses against you to your advantage?
+	* What weaknesses do you have? If you ever answer none, don't write for snarl, your work will be destroyed by players with incredible speed, or likely be unfun to play in
+	* Why did other forms of power allow you to build up when they could  have taken your opportunity for their own while you were weak?
+	* Why is it a good idea to not just give them that power
+	* Why isn't it a good idea to just let them?
+	* What happens to your system //when// it fails?
+
+
 To this end you can look at the ways someone can gain from their surroundings and PCs are delightfully predictable in certain ways.
 	* They will always take a certain style of easy gain, Win-win situations with no effort that bulldoze or  inhibit someone they even slightly dislike
 	* They'll get attached to someone who is nice to them in tiny ways but always sus of people who are nice in big ways, unless they think you're an idiot, which is a fantastic if you're not

@@ -14,7 +14,7 @@ Anyway, here's a list.
 		1 action, S,M (a tiny fragment of cave lichen)  Illusion
 			Range: 40ft
 			Concentration: 1 round
-			One target you can see makes a Charisma saving throw. On a failed save they are blinded until the start of your next turn or until you lose concentration. 
+			One target you can see makes a Charisma saving throw. On a failed save they are blinded until the start of your next turn or until the spell ends. 
 			
 	//Offend (Sorcerer, Druid, Wizard, Artificer)//
 		1 action, V,S,M (an extremely small amount of hydrogen sulfide), Enchantment
@@ -26,7 +26,7 @@ Anyway, here's a list.
 		1 Action, V,S, Evocation
 			Range: 300ft
 			Duration: instantaneous
-			A magical chain extends from your hand. Make a ranged spell attack roll agains a target you can see within range, if the spell hits, the target is pulled 15ft toward you.
+			A magical chain extends from your hand. Make a ranged spell attack roll against a target you can see within range, if the spell hits, the target is pulled 15ft toward you.
 				This spell creates more chains as you reach higher levels: Two chains at 5th level, Three Chains at 11th level, and 4 chains at 17th level. You can direct the chains at the same target or at different ones. Make a separate attack roll for each chain.
 				
 	//Wedge (Artificer, Bard, Sorcerer, Wizard)//
@@ -235,7 +235,7 @@ There are very few spells past 9th level that aren't prohibitively expensive to 
 	Make a bullshit area effect
 //Power word Erase//
 	Power word kill but with none of that 100hp nonsense and no body
-//Anchor plane//
+//Anchor plane //
 	in case of unsteady reality
 Manaphony
 	mass bardic inspiration

@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-06-01T17:43:48-02:30
 
 ====== Plot ======
@@ -50,7 +50,7 @@ Upon meeting the Ramishi, Deloch is greeted in Manar
 **Shora'i'ab, Mishali Lyssrahita'ab, Bata, shet lyssrahita**
   //Pinralisraha Deloch, wa'u sho kao'u. Betganra Manaharamu'ti, sho mishali ta rahi dal kaolat dalu doolat kaobeti'lo. manakemarahi Kholiti'ab tab //
 **Shet-**
- //WAU! Dal Manaharamu Kemahirahiu, Prabraha, dal ra N'ara'ab... wanlo.... Ta Rahi Wirati?//
+ //WAU! Dal Manaharamu Kemahirahiu, Prabraha, dal ra N'ara'ab... wanlo.... Ta Rahi Wira0i?//
 __Deloch Grins__
 Ta**Parmishi'ti **
  CHEVA! //Ta// //Draparhi'ti dal Rau! Parmis-//

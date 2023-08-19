@@ -29,9 +29,8 @@ The Map
 		Tails Dark
 	1d4+1d6 
 		1 -Midnight/noon
-			1 Starfly fields/bouldergarden
+			1 Starfly fields/ Cralley
 			2 Starcrags/TinyTechtonicValley
-			3 Lightflower hills/ **Need something here**
 			4 Structure
 			5 Gamnus Oak Woods/Iridescent woods
 			6  Midnight point / Noon Point 
@@ -72,6 +71,9 @@ The Map
 		Bladefen
 		Girderfall
 		Amphivalley
+		bouldergarden
+		Megastructure
+			Unreasonably large maze
 			
 	Weather
 		Seafog
@@ -93,7 +95,7 @@ The Map
 		
 	Build-a-fey
 		d6 Court
-			1 glamour - immediate sensation base, no long term
+			1 glamour - immediate sensation base, no future orientation
 			2 Swords - single scene based, Focused on short term goal
 			3 Valour - Full composition based. Focused only on long term goal, irreverent of short term
 			4 Lore - Likes items and things they do
@@ -117,6 +119,7 @@ Example buy-in quests:
 	Finding a fey parent or ancestor: Reward
 	Lost Caravan: Enter with goods
 	Hunting down a hag to save a child: Reward
+	
 
 Things  worth taking:
 	Any Toolkit

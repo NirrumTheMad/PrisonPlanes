@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-10-23T16:51:26-02:30
 
 ====== Xanaran's_Bar_&_Inn ======
@@ -42,7 +42,7 @@ Created Tuesday 23 October 2018
 		Whiskey
 			Bourbon
 			Scotch
-			Ramishi Welchiwelch Whiskey (30g a bottle, 4g a drink and he only has two bottles on hand unless the xanarans is near Manaharamu)
+			Ramishi Welchiwelch Whiskey (30g a bottle, 4g a drink and he only has two bottles on hand unless the xanarans is near The Grass Road)
 		Mead
 			Cyser
 			Local Melomel
@@ -63,7 +63,7 @@ Created Tuesday 23 October 2018
 		* He claims his name is Tungdil halfleg, a reference to a mining incident where some very sturdy looking granite was hiding a fault and a substantial amount of conglomerate. He was unharmed by the subsequent cave collapse but was buried up to his knees. Upon his companions checking on him, he claimed to have lost both his legs but he found a promising leg-ore if they'd quit gawking and help him. 
 	* Using revivify on the dead dwarf calls forth Barstomun strongbeard who looks frightened for a moment but then coughs violently. Anyone who is not paying attention to the more recent Barstomun at that exact moment will not notice that he looks like the dead dwarf did. Most people's memories naturally re-write themselve so this makes sense, but the players (and thus their characters) always seem to have a knack for noticing something fishy.
 		* Anyone who //is// paying attention will always find that someone will always enter the bar and walk to some part of the room in such a way that it obscures their view, their hearing, their smell, and most other senses except for physical touch. People who are in contact with the dwarf that is not being revivified may notice slight changes is muscle mass and whatever feature they're touching. They are then also cursed with a desire to be at a Xanaran's. They are fully capable of leaving and re-entering, going on adventures. But every single version of their ideal future includes a nearby or easily accessible trip to Xanaran's Bar and Inn. This can be removed with any spell that removes curses, such as remove curse, greater restoration, or wish, or the paladin's cleansing touch ability or similar.
-* Killing Three Barstomuns will get you banned from all Xanaran's. All Barstomuns become simultaneously hostile and aggresively attempt to force the perpetrator out the bar, Grabbing a Maul and attacking if they do not leave, if any who were uninvolved in the event, Barstomun claims that this person killed his cousin. This happens even if the Barstomuns were killed covertly
+* Killing Three Barstomuns will get you banned from all Xanaran's. All Barstomuns become simultaneously hostile and aggresively attempt to force the perpetrator out the bar, Grabbing a Maul and attacking if they do not leave, if any are present who were uninvolved in the event, Barstomun claims that this person killed his cousin. This happens even if the Barstomuns were killed covertly
 * Killing more than that invokes the wrath of multiple gods of multiple alignments in full.
 * If a player goes to court after killing barstomun, barstomun presents the body of a similar looking dwarf as evidence. To even the finest inspection, this dwarf was the one that was killed by the perpetrator.
 * Barstomun is never surprised that people know his name, he has served a great many people and can't remember all of their faces

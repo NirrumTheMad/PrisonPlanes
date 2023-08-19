@@ -5,6 +5,12 @@ Creation-Date: 2020-04-06T20:49:10-02:30
 ====== Classes ======
 Created Monday 06 April 2020
 
+SUGGESTED POSSIBILITIES FOR AN EXAMPLE GAME OF DND 5E
+
+*fuck right off this is mine*
+
+
+
 Classes as they are seen in the world
 [[+Artificer]] 
 [[+Barbarian]]
