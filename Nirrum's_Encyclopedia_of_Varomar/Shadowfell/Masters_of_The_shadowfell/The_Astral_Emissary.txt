@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-08-19T12:05:06-02:30
+
+====== The Astral Emissary ======
+Created Saturday 19 August 2023
+
+Across all of space and time, across all realms, where the unity of karmic reality is almost fully realised, one will less find than realise the Astral Plane. A place where time and space don't have nearly as much meaning as they do elsewhere, where transcendental energy is proportionate to its effect. This is where gods go to die, and often where they are born. This unlimited plane sometimes collapses in regions to both form and connect to the other projections of reality. The Astral Emissary is a being who is both the portal to and a part of this astral plane. It manifests as a great worm made of water. Within its core, one can see the stars that line what passes for a digestive tract. The Emissary is not picky on what it consumes, and to it, many things are not what they seem to others. It speaks often, but cryptically.
+
+
+==== Temple of the Tower Well ====
+	In a cemetery of endless graves, grown by the spirits of those who had none, near the hollow church of a demigod orphan whose name was lost, there is a fountain that issues water that tastes of copper. While harmless to drink, the water does trace a channel through the cemetery before falling through a grate into a long, deep well. Descending this well, one will find alcoves inset into the wall with aspirants learning to control their astral form under the tutelage of the Astral emissary, provided that it is not hungry. The great worm sometimes ascends the well to feed, to attend to matters in the shadowfell, and to teach. The bottom of the well, nearly a mile deep, opens into a pool of clear water, in which one can sometimes see the inner stars of the star-slug as it swims. Some of the residents of the Tower Well claim there is a secret hidden in the waters, but none wish to enter the water while the worm is in residence, lest they be consumed.
+	
+=== Ritual of the Astral Weapon ===
+	The astral plane offers many benefits to those who can traverse it, but all beings have an impact upon it. To become more yourself than you have ever been is the purpose of the ritual of the astral weapon. In exchange for extreme danger, it offers an immense return in power
+		* Artificer: Know an additional infusion, be able to infuse an additional item, and gain an addition attunement slot
+		* Barbarian: Gain an additional rage, rage lasts for twice as long, Can start a rage on a reaction to being targetted by an attack or making a saving throw
+		* Bard: Gain an additional use of bardic inspiration, double the range of bardic inspiration, and you can inspire as many creatures as you have dice for when you use bardic inspiration
+		* Cleric: Gain an Additional use of Channel Divinity, Double the CR of Destroy undead
+		* Druid: Gain an additional use of Wildshape, Can wildshape into Monstrosities and plants, double the maximum CR of wildshape
+		* Fighter: Gain an additional use of second wind, Gain the effects of an additional fighting style or gain the double the benefit of one fighting style you already have (If applicable)
+		* Monk: Gain additional ki points equal to half your level, double the additional speed from unarmoured movement
+		* Paladin: Gain an additional use of channel Divinity, double the size of your lay on hands pool, and double the distance of divine sense
+		* Ranger: Use full caster spell slot progression, only prepare ranger spells as if you had normal ranger progression
+		* Rogue: Gain an additional expertise
+
