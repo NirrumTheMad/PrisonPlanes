@@ -26,7 +26,7 @@ This setting has some feats that can be taken. Some of them are good, some of th
 	Increase your wisdom by +1 and increase your maximum wisdom by +1
 	 You can perform one of the folliwng feats of awareness on your turn as a bonus action:
 		* Gain +2 to AC until the start of your next turn
-		* If a caster you can sense begins casting a spell, you can use your arcana check to identify that spell (DC 10+ the spell's level) without using your reaction
+		* If a caster you can sense begins casting a spell before the start of your next turn, you can use your arcana check to identify that spell (DC 10+ the spell's level) without using your reaction
 		* Make one wisdom-based skill check with advantage and increase your passive perception by an amount equal to your proficiency modifier until the start of your next turn.
 
 **Display of Growth (needs work)**
@@ -56,7 +56,7 @@ This setting has some feats that can be taken. Some of them are good, some of th
 
 **Immediate Action**
 	Gain a +2 to Initiative rolls
-	As a reaction  you may may make one skill check or saving throw so long as you do not have disadvantage on it.
+	As a reaction when another creature ends their turn you may may make one skill check or saving throw so long as you do not have disadvantage on it.
 	
 **Inner Void**
 	When you roll a wisdom or charisma saving throw or to maintain concentration, add 1d4 to your roll. You may only use this ability a number of times equal to your proficiency bonus, regaining all expended uses at the end of a long rest. You are resistant to damage from spells and effects that are illusions or enchantments

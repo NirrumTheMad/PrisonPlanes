@@ -9,15 +9,21 @@ To ask "what am I" is a question that fuels the shadowfell. It is a selfish, sin
 
 
 ==== Darkwater Rift Temple ====
-	The elemental ogre rather purposefully built the Darkwater Rift Temple, so supplicants could venerate them but also so they could learn more of physics. Indeed, the composite soul is a master physicist (And a legendarily poor sociologist, strangely competent linguist, and hobby tuba player). On a very unreasonably active volcano in one of the shadow seas, situated on a sheer cliff of very crumbly igneous rock gathered around a cobalt pillar that acts as its support against the bones of the world, a bowl-shaped panopticon supports one of the more functional locales in the shadowfell. Supplicants who reach the temple must show their devotions to the valent one each day when they wake, but in return are granted a small personal chamber which are usually single-occupancy rooms, with some exceptions. Food can be caught from the seas, though nutrition is slim. At the base of the tower that occupies the middle of the bowl is the Elemental forum, and it is there that the valent one mingles with the supplicants, aspirants, and colleagues as they try to unlock answers to the question of what makes living beings tick. As far as the shadowfell goes it is rather chummy, easy to make friends, but don't be fooled, sometimes people are needed for experiments, to prove a point, or sometimes rooms get in short supply and things get competetive. 
+	The elemental ogre is best observed from the darkwater rift temple. On a very unreasonably active volcano in one of the shadow seas, situated on a sheer cliff of very crumbly igneous rock gathered around a cobalt pillar that acts as its support against the bones of the world, a bowl-shaped panopticon that is open on one side. The Valent one seeks to understand and to strip apart all things to find new ways to understand themself, very frequently at the cost of others. While the elemental ogre is approachable while working at the centre of the theatre, it is dangerous to do so. The risk to become part of the experiment or to witness any experiment's completion is always there. The Valent one is responsible for many monstrosities and variations on monstrosities, and it is a coin's toss chance if any cell is being used presently to house a researcher of some sort or one of the monstrosities that the valent on is not done with. Storms often wrack the area with cold rain, so unless you have shelter, it is best to wait out the rain in an open cell.
 	
-	
-=== Ritual of mastery of form ===
-	GET SHAPECHANGE
-	
-=== Ritual of mastery of setting ===
-	GET BLINDSIGHT?
 
-=== Ritual of mastery of Energy ===
+
+=== Ritual of frozen eyes ===
+	If a person is willing to gouge out their eyes and lose all colour vision (though not darkvision, if they were capable), they might be able to use some of the frozen rainwater that bounces off the valent one to fashion some new eyes, eyes that, once per day, can force a creature you can see within 30ft of you to make a constitution saving throw against 8+Your Charisma modifier+Your constitution modifier. On a success they are immune to this ability for a week. On a failure, they are Restrained. At the end of their next turn they must attempt the saving throw again. On a success they are freed, on a failure, they are incapacitated. On the next turn, they must attempt again, being freed on a success or paralyzed on a failure. A condition caused by this ability lasts 1 minute or until you end it by looking away for a round (no action required)
+
+=== Ritual of iron fur ===
+	With an infusion of hop beer, a lot of patience, and mud washed off of the valent one, one can cause retractable and microscopic iron fibres to grow from one's skin. Gain a climb speed equal to your own. You only need exposed skin to hang on to any solid surface passively. You are now vulnerable to lightning damage. If you were resistant to lightning damage, you lose that resistance.
+
+=== Ritual of Water Adaption ===
+	By mixing your blood with the water that comes off of the valent one on a dry day, and that with an equal amount of the blood of a freshly killed fish, one is able to lose their ability to survive on land, and gains adaptations for living in water. This is reversible with the same ritual, replacing the fresh fish blood with fresh blood of a terrestrial species. 
+	
+=== Ritual of the comet ===
+	Burning yourself with the flame of the valent one is enough to teach you his secret of flight, and its cost. Make a pyre out of bones and set yourself ablaze to gain an unlimited fly speed of 180ft, but contact with water will forever deal 1d6 damage per round, and you become vulnerable to cold damage. If you were resistant, you instead lose this resistance.
+	
 
 

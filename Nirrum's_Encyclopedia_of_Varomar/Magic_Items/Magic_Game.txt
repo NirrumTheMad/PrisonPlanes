@@ -37,7 +37,7 @@ Giaven - The mud, well defined friction, hard stops
 Huunso - Changing direction, nuun turned to sil, right angles
 Tcheol - the Axle, the pin, a demand to remain still, relative to something else.
 Maan - the floor, wide hit, Impenetrable
-Nydroth - The mist, the water, movo on nuun
+Nydroth - The mist, the water, movo on nuun, fields that respond and fill
 Tcheva - The hook, the barb, the diode. Forward is allowed but backwards is forbidden. 
 
 

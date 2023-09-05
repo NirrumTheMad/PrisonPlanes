@@ -253,7 +253,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 
 **Soul Sword**
 	//Greatsword, Cursed Artifact, Requires attunement//	
-		This abomination is a nearly triangular piece of metal nearly six feet long. the end of its wide edge extends to cover part of the guard. Other than the edge and tip, the rest of this sword is covered in a fleshy mass, veins, and a single eye near the point of balance. To make matters worse, it is sentient, and insinuated that it is the origin of ambition. On Snarl, the Soul Swords and their tales seem to pop up eternally, and at least six nearly identical swords are known to exist, though there are records of one of them having eaten another. The Soul Swords all grant a +3 bonus to attack and damage rolls
+		This abomination is a nearly triangular piece of metal nearly six feet long. the end of its wide edge extends to cover part of the guard. Other than the edge and tip, the rest of this sword is covered in a fleshy mass, veins, and a single eye near the point of balance. To make matters worse, it is sentient, and insinuates that it is the origin of ambition. On Snarl, the Soul Swords and their tales seem to pop up eternally, and at least six nearly identical swords are known to exist, though there are records of one of them having eaten another. The Soul Swords all grant a +3 bonus to attack and damage rolls
 		  **Sapience. **The Soul Swords all have the same Neutral evil personality. They drive their weilder to ambition, personal gain, and not infrequent acts of evil. They have an intelligence of 10, A wisdom of 12, and a charisma of 18. It can see normally in darkness, including magical darkness. Not unlike a moonblade, it communicates in emotions, and occasionally in dreams or visions during trances. It is proficient in Deception and persuasion, with a +3 bonus to those rolls. It makes attempts to persuade its weilder to kill things extremely often, often sneaking in intrusive thoughts about how easy such an act would be, and how powerful the weilder is. You cannot willingly unattune to the soul sword but a remove curse spell works
 		   **Personality. **All the Soul sword wants is to eat the souls of mortals and to attain great power. It's got a very one-track mind. It prefers to corrupt its host but people of sufficient willpower can overpower it and force it to their will. 
 		   **Random Properties. **The Soul sword has the following random properties
@@ -414,9 +414,26 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 	You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit an Abberation or Monstrosity with this weapon, it deals an extra 2d10 Lightning damage, ignoring resistances and immunities. While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
 	
 
+
+
+
 **Marier Construct**
 	//Construct, requires attunement by an artificer//
 		A construct resembling a small beast (chosen upon construction) ahhh fuck I need to write stats for it don't I. fuck. s'a fuckin drudge from will wight's cradle series.
+
+
+
+Fey Pipe that changes the weather around you up to a mile depending on what feywild plant you smoke in it.
+Some kind of fey wand that lets you wild magic surge someone else's magic as a reaction?
+Unrelated, maybe some kind of fey sunhat that amplifies the sleep spell? (bumps it up from 5d8 to either 5d10 or 5d12)
+Consumable fey potion that makes you forget one of your known spells, and gives you a random spell known of equivilant spell level (rolled by DM)
+some kind of fey ring that you can subtle delay a spell to activate in 1d10 rounds?
+cursed feystep bracers? you can use a charge to teleport 30ft in a direction as a bonus action, but WHO it teleports is randomized
+
+
+
+
+
 
 **Rimewine and Chillwine**
 	Wondrous item (consumable) 

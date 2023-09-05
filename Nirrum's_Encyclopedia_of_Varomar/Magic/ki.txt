@@ -6,3 +6,13 @@ Creation-Date: 2023-08-23T12:48:29-02:30
 Created Wednesday 23 August 2023
 
 hey lads, why don't we make more ki options for monk rewards
+
+
+**Mirror of the world- **Prereq 17  reaction 1 ki Your are immune to damage from non-creature objects. This does not include objects wielded by creatures directly.
+**Flying Teacup **- 1 ki Any item you throw returns to you after doing your martial arts dice in damage
+**Back Dance - **//prereq 6 //3ki, Both you and a target opponent within reach have disadvantage on hits against eachother and advantage on opportunity attacks against eachother for one minute
+
+
+
+ 
+

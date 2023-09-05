@@ -17,8 +17,7 @@ So often among the Manarahi, people are born with great focus and great reckless
 **(8+proficiency+spellcasting ability modifier= Spell save DC)**
 
 **Subtle flows**
-	At 6th level, You gain a fly speed of 5ft (hover) and your reach extends by 5ft. At 10th level, both your fly speed and reach extend by an additional 5ft.
-	(Maybe a pull speed at this level instead)
+	At 6th level, You gain a fly speed of half your speed(hover) and your reach extends by 5ft. At 10th level your reach extends by an additional 5ft 
 
 **Inner eye**
 	At 10th level, your senses become attuned to magic. At the end of a long rest, you gain the effect of a detect magic spell that lasts until the start of your next long rest or until you rage.

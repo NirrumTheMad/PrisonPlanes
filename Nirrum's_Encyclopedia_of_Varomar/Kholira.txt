@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-04-30T23:19:00-02:30
 
 ====== Kholira ======
@@ -36,10 +36,10 @@ As a city, Kholira is a city of wonderous architecture. For each new neighborhoo
 == Homes: ==
 A Typical kholirahi home has five rooms. A large living room is always placed near the front door, furnished with cushions and blankets. Obtaining pigment and dye is hard this far north, so the most common colors of cloth and clothing are woad blue, golden brown, white, and purple that is harvested from coastal molluscs, to offset these unenergetic colors, gold, platinum, and copper thread is frequently woven into fabrics in simple patterns. Offset from this, radially, are usually a bedroom for adults and young children fitted with as many beds as needed, as well as a very small kitchen, barely taking up a closet. Wrapped around the kitchen closet it a room which is used for work, storage, or on occasion, housing important other visitors. Finally, in almost every home, not far from the kitchen closet, is a glass-roofed sun room, containing a small garden of nutritous and edible plants that the women of each house are expected to care for and bring to the local dining hall. Very Few homes in Kholira have Power, favouring magic instead. Because of the roots, almost all kholirahi qualify as first level druids after puberty, and many know the rituals to make a light, or snuff one out. Water is brought in through underground pipes, put together by slaves whenever a new expansion is made, this works for their sewage as well. Homes are built around public latrines, which are warm, and magically scent-free. 
 
-== * Dining halls: ==
+== Dining halls: ==
 The Kholirahi eat mostly in large dining halls, as the third god-kings edicts aimed to promote a solid unity among his people.... and to keep better watch on them. People are expected to bring something to the kitchen for their hall-cook to turn into the day's meal early in the morning. The halls are circular, with the cook in the middle, among the scrutiny of peers. Children are placed at smaller tables in the back and mostly left to their own devices, despite the watchful eye of a lector, who beats them with a small crop if they start causing trouble. Adults are not allowed to sit next to the same person twice in a row, so often they will alternate between their spouse and their best friends. Meals are usually one portion of meat (frequently fish), Two portions of different vegetables. They are served with three drinks. One large mug of alcohol, any amount of milk or water, and one mug of a concotion mixed to supply nutrients to the roots that run underneath the skin of every Kholirahi.
 
-== * Temples: ==
+== Temples: ==
 Kholirahi temples are exclusively devoted to their god-king who extracts tithe in the form of magic. In a simple, efficient ritual, once a week, each adult must repeat an incantation and extend their will to a statue of the current Godking. Ghostly roots, as the rudmages use to attack their foes, reach out and touch the statue, imparting roughly the equivalent of a first level spell slot from each person. If one is capable, you are expected and encouraged to give more. There is frequently a line, but it is a fast process, taking only about six seconds to complete if one is practiced.
 
 ==== Ecology: ====

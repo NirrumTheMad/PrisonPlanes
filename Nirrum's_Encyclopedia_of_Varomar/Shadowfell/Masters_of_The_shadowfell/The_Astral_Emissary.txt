@@ -11,6 +11,7 @@ Across all of space and time, across all realms, where the unity of karmic reali
 ==== Temple of the Tower Well ====
 	In a cemetery of endless graves, grown by the spirits of those who had none, near the hollow church of a demigod orphan whose name was lost, there is a fountain that issues water that tastes of copper. While harmless to drink, the water does trace a channel through the cemetery before falling through a grate into a long, deep well. Descending this well, one will find alcoves inset into the wall with aspirants learning to control their astral form under the tutelage of the Astral emissary, provided that it is not hungry. The great worm sometimes ascends the well to feed, to attend to matters in the shadowfell, and to teach. The bottom of the well, nearly a mile deep, opens into a pool of clear water, in which one can sometimes see the inner stars of the star-slug as it swims. Some of the residents of the Tower Well claim there is a secret hidden in the waters, but none wish to enter the water while the worm is in residence, lest they be consumed.
 	
+
 === Ritual of the Astral Weapon ===
 	The astral plane offers many benefits to those who can traverse it, but all beings have an impact upon it. To become more yourself than you have ever been is the purpose of the ritual of the astral weapon. In exchange for extreme danger, it offers an immense return in power
 		* Artificer: Know an additional infusion, be able to infuse an additional item, and gain an addition attunement slot
@@ -23,4 +24,9 @@ Across all of space and time, across all realms, where the unity of karmic reali
 		* Paladin: Gain an additional use of channel Divinity, double the size of your lay on hands pool, and double the distance of divine sense
 		* Ranger: Use full caster spell slot progression, only prepare ranger spells as if you had normal ranger progression
 		* Rogue: Gain an additional expertise
+
+=== Ritual of Untethered Flight ===
+	The astral plane connects all realms without space or time to really bog one down. The Only major dimensions of the astral plane are Identity and the amount of information you'll need to sort through to find what you are looking for. In this way, it is easy to //leave// wherever you are and go somewhere else. On snarl this is particularly difficult to accomplish but with the ritual of untethered flight, you can unlock snarl's hold on you. Afterwards, a simple plane shift from the shadowfell is enough to get back to your universe of origin, at least approximately. A banishment or banishing strike will easily send you on your journey across the cosmos. With 100gp of silver in an ornate bar and a jacinth worth 1000gp and 10gp worth of paper and ink, You can perform a partial astral projection that allows part of your soul to enter a different plane. If you find the plane of your home, you can attune to it. Once you have done so you have to find your way back to your original body, re-enter your body without complications, and then you have to drink of the water from the bottom of the tower well, which is what fully severs your tie to the prison plane.
+	
+
 
