@@ -81,7 +81,7 @@ This setting has some feats that can be taken. Some of them are good, some of th
 	 Gain a +1 to your constitution. You can add your proficiency bonus to all checks made to climb, Arcana checks involving magical effects that are not spells, and perception checks to all senses that are not sight or hearing. If you are already proficient in this check you may add twice your proficiency bonus to the check instead. As a bonus action, you can make an investigation (intelligence) check against the save DC of an illusion if it has one. 
 
 **Ramishi Ambusher**
-	When you make an melee weapon attack as an opportunity attack against an target while hidden, you may also make a melee weapon attack against all other targets within 5ft. If an opponent provokes an opportunity attack from you while you are hidden from them, you may move up to half your movement speed and roll a stealth (dexterity) check to maintain being hidden. 
+	When you make an melee weapon attack as an opportunity attack against an target while hidden, you may also make a melee weapon attack against all other targets within your reach. If an opponent is hit by an opportunity attack from you while you are hidden from them, you may move up to half your movement speed and roll a stealth (dexterity) check to maintain being hidden. 
 
 **Turtle Fencing**
 	Whenever you teleport, the next melee attack you make before the start of your next turn has advantage. If you cast a spell or use an ability that allows you to teleport, you may take one extra willing creature with you, the extra creature gains no other benefits from the spell or ability.

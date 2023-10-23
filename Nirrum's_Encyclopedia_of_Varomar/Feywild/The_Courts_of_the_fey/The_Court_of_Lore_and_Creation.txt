@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-08-14T11:25:42-02:30
 
-====== The Court of Creation, Crafts, Knowledge, Objects and Wealth ======
+====== The Court of Lore and Creation ======
 Created Friday 14 August 2020
 
 
@@ -133,7 +133,7 @@ To a creature born into the Court of Lore, physical forces are what govern the r
 			Height: 5'5 - 10'5 when angered
 			Favour: 1440
 		Making use of the Cogkeep's perpetual movements, The Heesilockloly grinds herbs and uses stressed metals to heat water.  They have their black hair tied in a bun, keeping it out of their large round eyes, which are both marked with red lower lid eyeshadow-like pigment. Their bare chest bears symmetric black markings that suggest flame and occasionally move. They wear yellow pants and have thick but somewhat short legs. Their arms are large and muscular, though proportionate. Their cleaver is large and rectangular. They will prepare tea for guests without requiring favour, and they will give favour for anyone who brings them new plants to brew. In Return for favour, the Heesilockloly will brew any potion, or give a list of the raw ingredients. Protocol must be followed around the heesilockloly. Greet them first, then bow, then sit only when a seat is offered.
-		
+	[[+River_of_Tea]] 
 		
 
 ==== Mount Colossus ====

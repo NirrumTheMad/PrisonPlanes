@@ -30,11 +30,11 @@ You're not like the other rogues, you don't work alone. You are part of a gang o
 **Grandpatron's Standards.**
 	When you choose this Archetype at 3rd level, You gain one of the following options
 		Fey - You gain proficiency in the performance skill and Cobbler's Tools
-		Fiend - You gain proficiency in the Intimidation and Weaver's Tools
-		Great Old One - You gain proficiency in the Investigation and Barber's tools
-		Celestial - You gain proficiency in the Persuasion and Jeweller's Tools
-		Hexblade - You gain proficiency in the Deception and smith's Tools
-		Undying - You gain proficiency in the Medicine and Leatherworker's Tools
+		Fiend - You gain proficiency in the Intimidation skill and Weaver's Tools
+		Great Old One - You gain proficiency in the Investigation skill and Barber's tools
+		Celestial - You gain proficiency in the Persuasion skill and Jeweller's Tools
+		Hexblade - You gain proficiency in the Deception skill and smith's Tools
+		Undying - You gain proficiency in the Medicine skill and Leatherworker's Tools
 	While you or your allies are wearing or wielding an item made with your tool set (or have their hair styled by your tools), they can add your charisma or intelligence modifier to the associated skill. You can only grant this bonus to a number of people equal to your charisma or intelligence modifier.
 
 **Grandpatron's Expertise.**

@@ -11,14 +11,17 @@ Created Monday 28 August 2023
 	
 	While they are not travelling, the sword saint is a smith, using blood iron and bonefire to forge weapons of great power, for it is the Sword saint who is the lifegiver of most hexblades in the shadowfell, manifestations of questions unanswered and quests tossed aside.
 
-
+	**Be it before, middle or after, Outside or inside**
+	**Be it weak or strong, High or low.**
+	**I speak in great circles, cones, and levers**
+	**Fight me and we will understand together.**
 
 ==== The bleeding temple ====
 	The bleeding temple is small, as the haunts of the masters of the shadowfell go. Like most of the others it is on a hill, in this case, a seaside cliff. It contains the hexforge and the smithing tools of the sword saint. Around it is a camp of warriors who came to study, to learn even an inch from the sword saint, and it is not difficult to do so. The sword saint asks questions by attacking as if they were a fighter of a level equal to its DC. For levels higher than 20, the sword saint shows the true might of blades beyond what most mortals can comprehend. Few survive such things. To beat the sword saint in this state answers his question, but questions can also be answered by making an insight(wisdom) check as an action, beating the DC of the question. If you understand the question, then a relevant intelligence check as a bonus action, also beating the question will tell you what the answer is. Taking the attack action afterwards will answer the question in a single movement, hit or miss.  Criticals on any of these checks reduce the level of the encounter by Five per check. Criticals on all three stops the encounter entirely.
 
 
 === Ritual of Hexforging ===
-	When not in use by the sword saint, the hexforge is often left open for people to use. It is unwise to use the beast of knives' supplies as they will sometimes take them out of you when they get back, but if you have your own supply of bones to burn and iron (or other metals such as copper) wrought from blood, then you may attempt to use the hexforge. With a roll of smiths tools(constitution) of 20 or higher you may make a weapon of any shape you please. The weapon can on the properties of another magic item, listed below, based on a successive Arcana check. If you roll higher than a certain result, you may choose a lower one. A creature may come prepared with a scroll prepared by a wizard who made the arcana check for them, but must pass a DC 20 intelligence check to memorise it, as there is no time to be lost.
+	When not in use by the sword saint, the hexforge is often left open for people to use. It is unwise to use the beast of knives' supplies as they will sometimes take them out of you when they get back, but if you have your own supply of bones to burn and iron (or other metals such as copper) wrought from blood, then you may attempt to use the hexforge. With a roll of smiths tools(constitution) of 20 or higher you may make a weapon of any shape you please. The weapon can take on the properties of another magic item, listed below, based on a successive Arcana check. If you roll higher than a certain result, you may choose a lower one. A creature may come prepared with a scroll prepared by a wizard who made the arcana check for them, but must pass a DC 20 intelligence check to memorise it, as there is no time to be lost.
 	
 	Arcana 13+
 	* Bonecounter
@@ -41,9 +44,13 @@ Created Monday 28 August 2023
 	* Hazirawn
 	* Sword of Kas
 	* Blackrazor
-	* Soul Sword
 	* Bloodthorn
+	* Crowncast
+	Arcana 30+
+	* Queen Silver
+	* Soul Sword
 	
+
 	
 	**All items forged in the hexforge are bound to your will, and reflect the will that was imbued in them upon their creation, and without the use of a wish spell or higher magic, this will cannot be changed, even if your mind does. Bear in mind that the shadowfell often brings out the worst in people**
 	

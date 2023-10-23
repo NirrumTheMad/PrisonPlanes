@@ -5,5 +5,24 @@ Creation-Date: 2023-08-30T22:44:43-02:30
 ====== Dwallat ======
 Created Wednesday 30 August 2023
 
+todo: get a Digital elevation map of Ennedi massif
+add homage to the spirits that the people there venerate
+
 ===== Description =====
-	Large sandstone mesa occupies the centre of the table lands in the western kavir-e-namak. The only paths to dwallat are through a labyrinth of difficult crags, hosting their own special blend of hostility. These crags have made it impossible to siege dwallat, and even the dwarves are loathe to attempt to dig through the crumbly sedimentary rock underneath, so uncharacteristic of the rest of the plane. This is the home of Ujira, King of all of snarl's dragons, **5854: Nope, there's a war among the dragons. **
+	Large sandstone mesa occupies the centre of the table lands in the western kavir-e-namak. The only paths to dwallat are through a labyrinth of difficult crags, hosting their own special blend of hostility. These crags have made it impossible to siege dwallat, and even the dwarves are loathe to attempt to dig through the crumbly sedimentary rock underneath, so uncharacteristic of the rest of the plane. This is the home of Ujira, King of all of snarl's dragons, **5854: Nope, there's a war among the dragons. **It is also the home of the Furi, a crime family and syndicate. 
+
+
+
+
+
+
+==== The Furi ====
+	Razalast Merchorasit, a tiefling was the first being to walk the surface of snarl after it was poured from the smelter of the planar smith, Gramot. Razalast was a powerful wizard, though his imprisonment was the result of a duel he lost. Thankfully he lost it while carrying his spellbook. He took the name Razalast Furi, a pun on three languages meaning red, first, and angry. With magical tools entirely inappropriate to what he needed to do, he began making a living, hiding from the steaming rain and trying to procure food from what organic matter he could coax from his tattered robes. Scraping together what minerals he could, he set about looking toward his preservation, and cast a spell upon himself that would hold him in stasis until other sapient beings were in his presence. It was just before before year 0 when another creature, the Witch Harleen of Jade Waters, a methuselah, entered his tower and awoke him from his slumber. Harleen had escaped the prison long ago, and wandered this plane trying to find someone else to even talk to. A druid, Harleen was functionally immortal and had been surviving off of algae and lichen which had slowly overtaken the surface of Varomar and coated the bottom of the sea since it was introduced by Razalast's own attempts to get something to eat. They became enemies at first sight and spent an incredible amount of energy and magic trying to make sure they were definitely alone on this plane again. Time, however, tends to wear down rough edges, leaving only the smoothed and the hardened. After thirty years of being mortal enemies, the two incredibly potent spellcasters had a child. Then they had // a lot// of children. Thirty children in total, born from a Druid and a Wizard without peer who became the beginning of the Furi Name.
+		//Nirrum's note: Holy shit that's a lot of kids. My Scrying shows a still unhappy house, but prodigious use of magic making it managable.//
+	The Furi and all of their descendents are easily spotted by a singular feature. Their default expression always seems to be a smile. The type of smile varies wildly between them, and it looks like it is backed by some ancestral blessing made with incredible potence and magic, but to what end, none cannot say. They dispersed quickly across the plane, mingling with all peoples they could find after the descent of Pelor and the delivery of his gifts. Over time though, prejudices, illiteracy, and superstition drove most of the furi out of being a common sight in communities, especially when their children are (almost) all tieflings too. Their natural charm didn't help them in most of these cases, sometimes getting them into even //more// trouble.
+	Statistically unfortunate, and possibly magical circumstances have driven the vast majority of the Furi's people into the deep desert into the mesas, buttes, and plateaus bordering the badlands, to the largest plateau on the plane, Dwallat, often taking those who would stick alongside them with them.
+	
+
+==== The Furi Crime Family ====
+	Social ostracism en masse has proved to be an excellent economic opportunity for the most powerful of the Furi. Gangs, ranger bands, political factions, bandits, outlaws of all stripes can find a home in dwallat, rent is easy. Help move some things around, look out for anyone who might be tricked into doing the dirty work for you
+	

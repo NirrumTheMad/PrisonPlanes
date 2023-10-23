@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-07T18:04:52-02:30
+
+====== ShaatGuun ======
+Created Saturday 07 October 2023
+
+===== Description =====
+Once the people of the powerful Sunstorm crown, residents of the ushlubarrel town that would briefly become the home of the North-bound Manarahi, and even more briefly become the town of Blackwater, the hobgoblins of Shaat'Guun now look to Manaharamu for protection from larger threats than they can handle
+	**DM's Note: As of 5854, Shaat'Guun is entirely independent, largely xenophobic, and escalating their military might.**
+The people have settled down in a deep sandy inlet at the mouth of the  Kiikh Nur river which flows deep into the Saman heartland. The people of Shaat'Guun are nearly all hobgoblins who make their tools from the iron sand that collects in the depths of the river sediment, as well as the rocks around their home. The bay they live in is a seemingly unendingly abundant home for shrimp and fish, which the hobs catch as their staple foods. 
+
+
+===== Urban =====
+Their homes are made in tiers with tall pine posts creating  towers that resemble pine trees, with their green clay tiles and layered construction. Castles, Pagodas, and high walled streets all create a distinct architecture which is similar in design philosophy to that of danzuishan. 
+
+A typical home in this town contains a whole family, with many rooms set aside for leisure, training, crafting, Rooms are often built with removable walls, to provide very private sleeping areas on the same floor. It is not an uncommon prank to replace a Cousin's door with a wall while they sleep though.
+
+Smaller houses near the fringe often are reserved for either the most wealthy or the poorest, as both are expected to take part in guardian duties. Water comes out of canal-like ditches that are kept meticulously clean by the very poorest members of society, especially those with physical disabilities that prevent them from fighting. 
+
+==== Economy ====
+Shaat'Guun exports either dried or magically chilled shrimp as its chief product. It produces silks and booze made from rice, as well as shallow-draft boats which excel in stability in even the roughest, shallowest waters, though they do so by taking up quite a bit of width.
+
+Their main imports are materials for crafting, specifically brass, dyes, and animals, which are nearly always eaten shortly after purchase.
+
+==== Sociological Notes ====
+	* The Shaat'Guun Hobgoblin diet is mostly meat, and they are not picky when it comes to what kind. It is not uncommon to write a poem about one's favourite meal, and sometimes those meals are the simplest. As a result, there is a shrimp-locust oat roll, fried in fat and served with a lemon sauce that is perhaps the main staple of the city.
+	* The Circle of the Coast uses Shaat Guun as a staging ground,
+		* **Dm's note: as of 5854, what is left of the circle of the coast is entirely operated out of Shaat'Guun, and it is the most common way for an outsider to gain reasonable entry to the town**
+	* The Armour of the Hobgoblins is iron lamellar, and they prefer to use spears and Nodachi to dispatch their foes. They actually learned their laminate construction techniques from the Grao, who use it primarily on their polearms
+
+
+

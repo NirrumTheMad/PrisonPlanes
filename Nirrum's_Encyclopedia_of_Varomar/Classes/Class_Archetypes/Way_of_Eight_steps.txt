@@ -11,7 +11,7 @@ Created Thursday 02 April 2020
 
 
 **Nondichotomy**
-	When you choose this tradition at 3rd level, you unlock magic that eclipses what most mages learn in potency. You may use intelligence instead of wisdom for monk class features like unarmoured defense, and Ki. You gain training in Arcana. 
+	When you choose this tradition at 3rd level, you unlock magic that eclipses what most mages learn in potency. You may use intelligence instead of wisdom for monk class features like unarmoured defense,  and Ki. You gain training in Arcana. 
 
 **Three Seals of Flow**
 	At third level, Your mastery of mana allows you to spend a ki point to enter one of the following states of power at the start of your turn. You may only be in one state of power at a time:

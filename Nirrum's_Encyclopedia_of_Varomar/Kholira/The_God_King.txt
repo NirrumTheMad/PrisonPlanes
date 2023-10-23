@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-06-03T00:05:35-02:30
 
 ====== The_God_King ======
@@ -16,6 +16,23 @@ Moseie is not particularly forgiving of failure, though he is scrutinous in his 
 **Nirrum's Note: **//Honestly, the Bards of the college of lore would have become fast friends with this monster if he didn't keep burning other libraries saying they "weren't needed". You can Imagine why the university is still in Manaharamu. What a lunatic. Not to mention his atrocities to his unwilling consorts. //
 
 **As of 5853, The godking has gained the ability to use the Ancient Red Dragon's Breath Weapon once between long rests**
+
+It is far easier to list the considerations one needs to take into account should one encounter the godking here, rather than listing them all in a Stat block.
+	* Sillowmin's Boon (additional level of exhaustion, expertise in Arcana, Ylla Sillowmin)
+	* Unconcerning aspect (1/day, creatures cannot attempt to actively percieve him until he acts harmfully, stealth vs passive perception only, can't be identified as an individual in crowds of ten+ creatures)(fey, the zon)
+	* full colour vision, ranging into the mircowave and x-ray spectrums involuntarily. (complex origin, fey and shadowfell)
+	* A 100ft radius pulse of  colour that reveals invisible creatures (the gaesial)
+	* Immunity to fire damage, fire breath (contract with The world tree)
+	* Capable of replacing fire damage with lightning, all spells that deal fire ignore resistance (Boon of fire soul)
+	* 12 level magic capability
+	* Advance Chronoception (The Skillogintan)
+	* Eye of the basilisk, Perfect Stillness, Deafening silence
+	* regen 1d6 while conscious 
+	* Free casts of: Earthquake, Flight, cause fear
+	* Great Gathering Ritual
+	* Wildshape double CR, Additional use
+	* Seven of the eight steps
+
 
 //The god king is no stranger to combat, especially not from powerful enemies, he takes a bit of joy from a good challenge. He uses his rudmagic wantonly, and relishes the chance to talk with his opponent and put them to his use. His staff of stars literally channels the power of a star and is volatile. He uses it to cast but mostly so he can look good while casting, the roots under his skin are really all he needs. He is Directly attuned to the living magic of The Great White World Tree Treysa. //
 [[Notes on Cosmology]]

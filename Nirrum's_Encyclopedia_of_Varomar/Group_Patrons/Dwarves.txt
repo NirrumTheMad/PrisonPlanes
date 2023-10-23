@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-15T13:46:16-02:30
+
+====== Dwarves ======
+Created Sunday 15 October 2023
+
+**title 2: type of group**
+description
+**Title 3: Example group**
+	Descripition of group history
+	//**Guildhall**//
+	//**Memberships**//
+	//**Allies**//
+		**affiliated organisations**
+		**specifics**
+	//**Enemies**//
+**Title 2: benefits**
+	accomodations, dues, resources
+**t2 build your group**
+
+**t2 Guild contacts **
+
+**T2 Guild Adventures **
+
+**T2 Other equivalents to the first**

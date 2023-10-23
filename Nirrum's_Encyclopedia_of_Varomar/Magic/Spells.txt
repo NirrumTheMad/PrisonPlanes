@@ -9,6 +9,95 @@ Snarl is a land of magic, extremely potent magic and a lack of interference from
 
 Anyway, here's a list.
 
+
+==== Workshopping ====
+	
+	//**Stranger Aeons Called **//
+		9//th Level Necromancy//
+		**Casting time: **1hr
+		**Range**: Touch
+		**Components**: V,S,M (10lbs of bone dust from sapient creatures, 10lbs of salt, and a gemstone worth 1000gp which the spell consumes, and 500gp of glass alchemical equipment)
+		You Touch a willing living creature. The next time that creature dies, they resurrect in a body of your design, after conditions of your specification are fulfilled. The spell completes once the conditions are fulfilled.After casting this spell, until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
+		**Classes: **Warlock
+		
+	**Demoniac howling** 
+		4th Level Conjuration
+		**Casting Time:** 1 action
+		**Range: **Self (60ft sphere)
+		**Components: **V
+		**Duration: **Instantaneous
+		You replace your throat with someone else's for a moment to hint at the torment they're enduring. Creatures in the area must make a wisdom saving throw or be turned, surprised creatures make the saving throw with disadvantage. A turned creature must spend its turns trying to move as far away from you as it can and it can't willing move to a space within 30ft of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action. A creature may attempt the save again on each of its turns, ending the effects of the spell on itself on a success.
+		**Classes: **Warlock
+
+	**When Shadows fall**
+		6//th level transmutation (ritual)//
+		**Casting time: **1 action
+		**Range: **Touch
+		**Components: **S**,M**
+		**Duration: **Special
+		You slip yourself into a shaded location with dim light or darkness. Using your movement you step into these shadows. Nothing of your presence remains visible or otherwise detectable by nonmagical senses. While Merged with the shadows, you can see clearly from that location using your own senses, You remain aware of the passage of time and cast spells on yourself while in the shadows and you can use your movement to leave the shadows where you entered it, Ending the spell unless you return to that location within a minute. You otherwise can't move. The spell lasts for 24 hours but If the area you step into is no longer in dim light or darkness, you are trapped in that location until it is dark again or until a spell such as dispel magic is cast on your location
+		**Classes: **Warlock
+		
+		
+	**Dream Weevil**
+		//4th level enchatment//
+		**Casting** time: 1 action
+		**Range**: 1 mile
+		**Components**: S,M
+		**Duration**: 24 hours
+		Choose a creature you can see, hear, or smell within range Creatures that don't sleep are unaffected by this spell. You craft a magical bug that slips into that creature's dreams. The bug records the creatures' dreams, which often contain details about salient or impactful things they witnessed through the day, as well as details of their mental state. The bug returns to you after 24 hours and telepathically transmits its information, then disappears. Make an intelligence check with a DC equal to 5+ the creature's wisdom score to determine details about the targets fears or desires over that day.
+		**Classes: **Warlock, Wizard
+		
+	Third Veil Contract
+		summon an extraplanar entity to offer a contract to a creature you know of. The contract must benefit all parties in some way.
+	Rebirth
+		Stick your soul inside an available unborn child
+	Bloodmark
+		Stick a curse on a creature so that you always know the distance and direction to it. Spellcast modifer number of marks at a time
+	Construct Body
+		Make a perfectly functional body, lacking a soul.
+	Deep hunger
+		Eat more than you reasonably could, magically store half of that for later, 
+	Speak among Silence
+		Your voice can be heard clearly by all creatures in range as if you were in a quiet room when you spoke. Ignore the effects of magical silence, physical boundaries etc;
+	Three Thousand Curses
+		All things cost more for the target
+	Sever Six Roots 
+		Reaction become immune to a status effect
+	Partial shaping
+		Pick a spell of 5th level or lower that you have spell slots for etc; from the warlock list, you know it until the next time you take a short rest
+	Dusk Fever/Lightguide
+		creature gains advantage/disadvantage on insight, investigation checks while in shadow/bright light
+	Incense of Unself
+		Self spells become touch spells in range
+	Unmitigated servitude
+		Recieve a mission from an extraplanar entity and payment in advance if you accept it
+	Field of Flames
+		beeeeeg AOE fire
+	Alien Weaponry
+		all your allies can now do psychic and necrotic damage
+	Rapid Tower
+		bones of the earth but only one and underneath yourself
+	Tarot
+		Like foresight but weaker scope and longer span, or maybe a full history read and breakdown of a person. requires four people to complete
+	Bound Undeath
+		Curse your party so they will come back as undead until they finish their mission
+	King's Cup
+		get a cup, trade value of items to fill that cup with one dose of a potion that you have enough resources to purchase. does not need to be in gold.
+	Tempt
+		dunno what it's gonna be but it'll be an enchantment
+
+
+
+
+
+
+
+
+
+
+
+
 ==== Cantrips ====
 	//Cloud vision. (Artificer, Wizard, Sorcerer, Bard, Warlock)//
 		1 action, S,M (a tiny fragment of cave lichen)  Illusion
@@ -62,6 +151,11 @@ Anyway, here's a list.
 			At 5th level, the amount of Temporary hit points is equal to double your spellcasting modifier, at 11th level they are equal to triple your spellcasting modifier, and at 17th level, 4 times your spellcasting modifier.
 
 
+	//Eldritch ritual (Cleric, Warlock)//
+		1 hour
+		Range: Self
+		Duration: 1 week
+		You commit yourself to your Patron, god, and their wishes. This can be performing their ceremonies, rites, or contractual requirements.
 
 
 
@@ -79,6 +173,13 @@ Anyway, here's a list.
 			* You make a colour, medium mark, or symbol appear on an object or surface for a number of hours equal to your spellcast ability modifier.
 			* You create a nonmagical trinket or an illusory image that can fit in both of your hands and that lasts until the end of your next turn.
 	
+	//Conjure Fruit (Paladin, Sorcerer, Warlock, Bard)//
+		1 Action, S, Conjuration
+		Range: touch
+		Duration: instantaneous
+		Conjure one mundane fruit weighing less than 1lb.
+		**At higher levels: **Conjure an additional fruit for each spell slot level above 1st
+
 	//Saif of the Sword Sorcerer//  (Artificer, Bard, Sorcerer, Warlock)
 		1 action, V,S, Conjuration
 		Range: Touch
@@ -157,6 +258,7 @@ Anyway, here's a list.
 		Duration: Instantaneous
 	All objects of a single type (weapons, tools, armour, etc;) that weigh less than 20lb each that you can see within range that are not worn, carried, attuned, or affixed so that they cannot move are all transported a special demiplane. This Demiplane cannot normally be entered by a creature but its contents can be expelled by casting this spell again, at which point the contents appear in an efficiently packed space within 30ft of the caster. 
 
+	**Anti something, magic school specific fields?**
 
 ==== Level 7 Spells ====
 	

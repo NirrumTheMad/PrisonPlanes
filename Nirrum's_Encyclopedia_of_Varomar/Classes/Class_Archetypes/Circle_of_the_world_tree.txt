@@ -5,34 +5,21 @@ Creation-Date: 2023-08-31T10:31:02-02:30
 ====== Circle of the world tree ======
 Created Thursday 31 August 2023
 
-2,6,10,14
-
-2 abilities, circle spells
 
 
-Weapon of all worlds 
-At second level you gain proficiency with martial weapons and can use wisdom as your modifer for attacks made with this weapon. Weapon attacks you make count as magical for the purposes of overcoming resistances and immunities. As a bonus action you can change the damage type that a weapon you are holding does. Some damage types have minor extra effects
-	* Fire - sheds bright light out to 10ft, and dim 10ft beyond. Flammable items not worn or held ignite when struck. Gives off warmth comparable to a small fire
-	* Poison - creatures struck by this weapon must make a saving throw against your spell save DC  or be poisoned until the start of your next turn
-	* Acid - Constructs and objects take extra damage equal to your wisdom modifier from this weapon
-	* Cold - Objects and creatures touched by this weapon experience cold comparable to being touched by ice.
-	* Radiant - This weapon sheds bright light for 30ft and dim light 20 beyond. This light is sunlight.
-	* Necrotic - This weapon stings to touch and causes a rash with extended contact
-	* Lightning - This weapon is capable of picking up certain metal objects as if it is magnetic. It occasionally releases static discharge and bubbles lightly if placed in water.
-	* Thunder - This weapon hums ominously, makes cracking sounds when swung and impacts from this weapon can be heard for up to 200ft away.
-	* Force -  The weapon Ignores gravity and hovers in place for a turn when dropped or until another force is applied. 
-	* Psychic - The weapon becomes difficult to look at and prolonged exposure can cause eye strain, numbness and tingling of the extremities, and illusory sounds and smells.
- This effect lasts for a minute or until the end of your next turn if you let go of or throw the weapon
+**Bark and  Branch**
+	As an action on your turn, you can grow a shield and a staff from your roots. You cannot be disarmed while you wield these, and they disappear when you reabsorb one or both of them as an action. If they are ever cut off, you cannot regrow them until you finish a long rest.
 
-Spread thy roots.
-	You gain the ability to sprout and manipulate roots from and within your body. You learn the thorn whip cantrip and do not require components to cast it
-	In addition, you gain access to the following additional actions
+**Grow thy roots**
+	You gain the ability to sprout and manipulate roots from and within your body.
+	You can expend a use of  of your wild shape to gain tremorsense 60ft for 1 minute rather than assuming a beast form. You may use a bonus action to attach a modest volume sound or a light that casts bright light for five feet to a target that you sense in this range. 
+
 	
 
-Shadow of the world tree
-	Starting at sixth level, you can breath life into the roots you carry and tap into the well of powerful defensive magic they carry. As a bonus action on your turn, you can expend a use of wild shape to coat yourself in thick knots of roots. The form lasts for 10 minutes, until you dismiss it as an action, use this feature again, or die. Once you use this action you cannot use it again until you take a short or long rest.
+**Shadow of the world tree**
+	Starting at sixth level, you can breath life into the roots you carry and tap into the well of powerful defensive magic they carry. As a bonus action on your turn, you can coat yourself in thick knots of roots. The form lasts for 1 minute, until you dismiss it as an action, use this feature again, or die. Once you use this action you cannot use it again until you take a short or long rest.
 	
-	 In this form you gain +2 to your AC. 
+	 In this form you gain a bonus to your AC equal to your wisdom modifier. 
 	While in this form you have the following options as reactions, in which :
 	* if an ally you can see within 10ft of you is targeted by an attack or is forced to make a dexterity or strength saving throw, you may add your bonus to their AC or saving throw until the end of your next turn
 	* if an ally you can see within 20ft of you is hit by an attack, you may reduce the damage they take by 1d6
@@ -40,9 +27,12 @@ Shadow of the world tree
 	
 	If you use one of these reactions, you lose the bonus to your AC granted by this feature until the end of your next turn. 
 	
-Starting at tenth level, your roots begin to take on new features
+**Consumer of all fates**
+	Starting at tenth level, your roots begin to take on new features. As a bonus action on your turn, you may give yourself resistance to one type of damage for a minute or until you end this effect, no action required. Additionally, if you would take damage of a type you are resistant to, you may use your reaction to heal hitpoints equal to the damage you would take instead. You can use this feature a number of times equal to your proficiency bonus between long rests.
 
-14 Generally unlimited feature, synergy, or bomb ability
+
+**Drink of the light**
+	Starting at 14th level, your roots become an extension of your body in powerful ways. Your reach extends to 30ft, the range of your grow thy roots feature reaches 120ft
 
 
 

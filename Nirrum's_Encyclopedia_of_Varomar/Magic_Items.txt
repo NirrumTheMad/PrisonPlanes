@@ -65,13 +65,13 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 	//Staff, very rare, Requires attunement by a Wizard, Warlock, Sorcerer, Druid, or Cleric//
 	When you cast a spell that summons any number of creatures, you summon that number of creatures plus half that number of creatures rounded down instead.
 	
-**Wand of Shenanigannery**
-	Wand Uncommon
-	This wand grants a +1 bonus to Illusion spell attack rolls and saving throws for illusion spells made with it
-	
-**Wand of Questionable Legality**
-	Wand rare
-	This wand grants a +1 bonus to Enchantment spell attack rolls and saving throws for Enchantment spells made with it
+**~~Wand of Shenanigannery~~**
+	~~Wand Uncommon~~
+	~~This wand grants a +1 bonus to Illusion spell attack rolls and saving throws for illusion spells made with it~~
+	 removed for balance for martial classes
+**~~Wand of Questionable Legality~~**
+	~~Wand rare~~
+	~~This wand grants a +1 bonus to Enchantment spell attack rolls and saving throws for Enchantment spells made with it~~
 	
 **Hat of Rakish Audacity**
 	Wondrous Item, Common, requires attunement
@@ -192,7 +192,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 			**Volcano: **You gain immunity to fire damage, and you are capable of walking or swimming in Lava(Or magma) as you choose. If you choose to swim, you treat the lava as though it were water, though it is unable to enter your body.  You are able to breathe otherwise toxic air and suffer no ill effects from airborne particulate. You suffer no ill effects from the heat.
 			**Dew: **You gain immunity to bludgeoning damage,  You can breathe underwater or walk on the water's surface or bottom as you choose. You gain a swim speed equal to twice your walking speed, suffer no ill effects from pressure.
 			**Glacier: **You gain Immunity to cold Damage and suffer no ill effects from the cold. You cannot slip, trip, or fall unless you choose to. You are able to walk up vertical surfaces even if they are slippery, keeping your hands free, if you have them. You can walk on top of snow and ice without sinking. You are capable of seeing through extremely bright light clearly.
-			**Breeze: **You gain immunity to thunder damage and the deafened condition. You gain a fly speed equal to your own speed.  You can clearly hear even very subtle and quiet sounds within a mile and are able to make out what they are.
+			**Breeze: **You gain immunity to thunder damage and the deafened condition. You gain a fly speed equal to your own speed.  You can clearly hear even very subtle and quiet sounds within a mile and are able to make out what they are. You can also be heard by any creature within a mile when you speak, as though you were nearby.
 			**Flow: **You Gain immunity to lightning damage,  You cannot be grappled, restrained, and are immune to any condition that would incapacitate you except unconsciousness. 
 			**Maw: **You gain immunity to acid, piercing, poison, the poisoned condition and any diseases. You do not need to breathe and you can see normally in nonmagical darkness. You can shrink yourself to 1/16 of your normal size (half the size of a normal tiny creature). If you are inside of a creature when this feature ends and cannot expand back to your normal size, you harmlessly ooze out through their organs and skin until you are capable of reforming.
 			**Everafter: **You gain immunity to necrotic damage and you can't be frightened or cursed. Your hit point maximum cannot be reduced below its maximum. You can see the souls and animating forces of creatures nearby and you can cast speak with dead at will. If you die while you are under the effects of this gift, the gift lasts indefinitely, your body is placed under the effects of gentle repose and you are able to exist as a visible but ethereal spirit. You can talk and sense the world around you but you cannot be more than 30ft from your body, nor can you interact with the world around you. During this time you cannot pass through objects and treat the world as if it was solid unless it would separate you from your body, at which point you are teleported to your body. If your body is destroyed, you die.  
@@ -357,23 +357,22 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 	//Wondrous item, Uncommon, Requires attunement by an artificer or a wizard//
 		Casting a spell as a ritual only adds five minutes to the casting time.
 
- Save, Attack/check, Damage
-**Iolite Crystal**
-	Duration +
-
-**8-Cycle Copper Channel Sepraphinite Rutile Quartz Crystal Orb with Octarinate Runes**
-	Range+
 	
 **Nistleburr Wand**
 	Conjuration spells you cast with this wand last for twice the duration
 	
-	
 **Spruigia Staff (**Requires attunement)
-	While you are attuned to this staff, you may expend a spell slot of 1st level or higher. The staff will unerringly tug toward an  nearby area with direct sunlight, following any pathway that is at least 1ft wide. The staff pulls in the direction of the path of shortest travel time. It will only choose submerged paths if other paths are more than twice the distance. The staff avoids areas of extreme heat and cold. Once it next reaches an area of direct sunlight, the staff will begin to bud and sprout leaves and attempt to root if it is laid down on the ground. 
+	While you are attuned to this staff, you may expend a spell slot of 1st level or higher. The staff will unerringly tug toward an  nearby area with direct sunlight, following any pathway that is at least 3ft wide. The staff pulls in the direction of the path of shortest travel time. It will only choose submerged paths if other paths are more than twice the distance. The staff avoids areas of extreme heat and cold. Once it next reaches an area of direct sunlight, the staff will begin to bud and sprout leaves and attempt to root if it is laid down on the ground. 
 	
 **Adder Stone**
+	This stone can be used as an arcane or druidic focus. An Adder stone comes with 1d10 charges, Recharging when dipped in naturally flowing fresh water. Expending one of these charges as an action allows one to cast either remove curse or dispel magic at 9th level. Adder stones cannot be crafted.
 
-	
+**Neverwood Staff**
+	Spells cast with this staff, or abilities used while attuned to this staff that grant temporary hitpoints grant twice as many temporary hitpoints. 
+		
+**Vilified Soulflower Wand**
+	Necromancy spells cast with this wand last for twice the duration
+
 **Quickdraw Scabbard**
 	//Wonderous Item, Common, Requires attunement//
 		Draw a weapon as a reaction on your turn
@@ -414,8 +413,83 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 	You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit an Abberation or Monstrosity with this weapon, it deals an extra 2d10 Lightning damage, ignoring resistances and immunities. While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
 	
 
+**Obelisk of the unburied**
+	//wondrous item//
+	In the shadowfell, Obelisks of the unburied are built by the waiting souls  of people who died without burial rites and who particularly expect them. These Obelisks serve as seeds for the empty graveyards that spread over the plane, attracting like-minded souls who get stuck waiting.  Getting a hold of one of these obelisks is the easiest way to  gather ghosts from the surrounding lands, as all who are left with unfinished business are drawn to their eventual grave, graves they might never have. Such an obelisks will attract a number of ghosts per week(1d10-6). The ghosts have to be dealt with individually, but proper burial rites must be administered to the obelisk for it to lose its magic. The obelisk often gives clues for what culture it belongs to and what rites it expects. If the rites cannot be performed, the obelisk continues to grow. The Usual religion check required is DC 15, though some are more difficult, some are less. 
 
 
+**Crowncast, The  Blue **
+	//Short Sword, Artifact, Requires Attunement by one of Grao descent, or by the sword's consent//
+	One of the greatest hexblades ever drawn from the fires of the hexforge, Crowncast takes the shape of a light blue bladed Kastane saber, with extremely precise ornamentation depicting a snarling tiger wrought of white jade with rubies for eyes. It was made by  a warrior of the Grao for the purposes of fighting sea monsters, and it is difficult to resist the call for self-sacrifice when it decides it is time for you to fight.
+	You gain a +3 bonus to attack and damage rolls. It also has the following additional properties
+	**Sentience. **Crowncast is a sentient Lawful Good object with an intelligence of 10, wisdom of 13, and Charisma of 18. It has blindsight to a range of 100ft. Crowncast has a fly speed of 10ft, but only uses it to get closer to its wielder.
+	**Personality. **Crowncast can speak and is quite verbal. It can read common but does not care to. It has a vicious and single minded personality, when there is danger it will aid its wielder in fighting, but in exchange, that wielder must take on the challenges that no one else can. In Particular the sword bears great hatred for gargantuan creatures unless they are extremely pro-social. Any monstrosity or abberation in particular will have a difficult time slaking its ire. Crowncast speaks irreverently but suavely, and never seems to get into trouble for otherwise crass comments. 
+	**Patron. **Crowncast acts as a warlock patron, and is sometimes visited by agents of his will as they prove their commitment to hunting monsters and protecting the weak. 
+	**Guardian of all. **Once between Long rests, by saying the phrase "I am no worm" you and your equipment grow to become gargantuan for up to 10 minutes or until you end this effect as an action. Weapons deal four times their base damage (a longsword that deals 1d8 will deal 4d8, a greatsword that deals 2d6 will deal 16d6), you can carry sixteen times your normal limit, your reach multiplies by 4. When this effect ends, you gain one level of exhaustion. While in this form, skies attempt to clear around you, winds still. Creatures smaller than you have disadvantage on breaking grapples.  If you cannot fit in a space as you transform, you may get stuck. 
+	**The Northeast Bolt. **Once between long rests, Crowncast can deal an additional 12d6 Lightning damage to a target it strikes.
+	**Warrior of the witnesses. **You gain the following abilities.
+		* Waterbreathing. You can breath under water without difficulty and are immune to immense pressures
+		* Water walking. You gain the ability to walk on water if you choose. You can activate or deactivate this as a free action on your turn as part of your movement.
+		* Flight. You gain a fly speed of 60ft (hover)
+	**Heart of the strong. **Your strength increases by 2 while you are attuned to Crowncast. Your strength maximum is increased to 30 Permanently.
+	**Destruction. **When the last descendant of old Graoton dies, when the children of mirrored lightning no longer bear the mark of what they witnessed, Crowncast will crumble to dust.
+	
+**Goalhennai**
+	//Short Sword, Artifact Requires attunement by the sword's consent//
+	Another of the great hexblades, Goalhennai forged //itself.// Once it was a small fey spirit, but either by curse or a foul twist of fate, its mortal companions met their ends in helplessness. It submitted itself to the dust of cold iron, tempered itself in the saved final tears, tore its own spirit apart and stitched it back together to accomodate the last vestiges of its friends. In the end, it became a very bitter and lonely sword, a jagged strip of metal, pitted, worn, unreasonably sharp, with only a thin strip of faded red cloth to serve as a grip. You gain a +2 bonus to attack and damage rolls with this weapon. It also has the following additional properties. 
+	**Rapid Attunement. **Attuning to Goalhennai is instantaneous
+	**Sentience. **Goalhennai is a Chaotic Neutral object with an intelligence of 8, wisdom of 20, and charisma of 15. It can only percieve through its wielders senses. It has a run speed of 20ft where it sprouts legs in order to be closer to its attuned wielder and can teleport up to 5ft to get through walls. It always knows the direction to its wielder, and can magically discern the fastest physical route to them.
+	**Personality.** Goalhennai is deeply distrusting and extremely protective of its wielder. It is incapable of thinking that it is the cause of their distress. It communicates only in subtle feelings of emotion, projected telepathically toward its wielder. It is fearful and does not like going into dangerous situations, and may cause involuntary twitches in the wielder if something seems familiar. It refuses to be friendly towards the powerful, but will tolerate them so long as its chosen wielder is being cared for reasonably. Goalhennai will abandon its wielder, breaking attunement immediately if it purposefully endangers a vulnerable, innocent, and harmless being by its perception. It is an excellent judge of character in that respect at least. It will then immediately offer to attune to the more vulnerable creature. It trusts its wielder in all other cases, except when they are in danger.
+	**Curse. **Goalhennai is cursed, and cannot be unattuned willingly. The first time the wielder is below half health while attuned to Goalhennai, they permanently take on bestial features. 
+		* **Fangs. **You gain fangs and a bite attack that deal 1d4+strength modifier damage. A target hit with this bite attack is grappled
+		* **Claws. **You gain claws and a claw attack that deals 1d6+strength modifier damage. A target hit with this attack needs to make a DC 18 constitution saving throw or be poisoned.
+		* **Spines. **You gain boney spines that project through your skin. A creature that touches you directly without thick protection takes one point of damage. Creatures that grapple you take 5 damage when they grapple you and at the start of each of their turns until the grapple ends.
+		* **Tail. **You gain a prehensile tail. It is not capable of wielding weapons but is capable of holding objects. You get advantage on checks made to maintain grapples and to maintain your hold on objects you are grasping.
+		* **Scales. **You gain protective scales that grant you a +1 bonus to AC while not wearing armour and resistance to piercing and slashing damage.
+		* **Superior Darkvision. **You gain darkvision to a range of 120ft. If you already had darkvision, it increases by 60ft
+		* **Ability score adjustment. **Your strength score becomes 18, if it is not already higher. Your Dexterity score becomes 18 if it is not already higher.
+		* **Regeneration. **You regain 5 hit points at the start of each of your turns, damaged or broken parts of your body repair themselves after 1 hour.
+		* **Speed. **Your move speed doubles
+		* **Fear. **You have disadvantage against saving throws to avoid being frightened. You are immune to the effects of the spell Calm emotions.
+	**The monster within. **Once between long rests,  you grow in size up to gargantuan for one minute. Your equipment does not change size but Goalhennai does. Your melee weapon attacks deal use four times as many dice (bite deals 4d4+ strength modifier damage). You can carry 16 times your normal carry limit and your reach multiplies by 4. Targets smaller than you have disadvantage to break grapples. If you reach half health in this form, Goalhennai compels you to run, a DC18 wisdom save is required each turn to not be frightened of sources of damage. When this form ends, you gain one level of exhaustion.
+	**I will protect you. **If you die while attuned to Goalhennai, you instead transform into a purple worm assuming its statblock. As you transform You lose most of your memory and higher function while in this form, cannot recognize friend from foe and use all actions movement and abilities to escape. The Transformation completes over the course of a day, at the end of which you lose all prior racial and class features you had previously. This change is permanent and can only be reversed with the use of a wish spell after deattuning from Goalhennai. 
+	**Destruction. **Recovering the fragmented souls of Goalhennai's past charges from around various planes of existence will release parts of the sword's power. After recovering all of them and performing the ceremony spell, the sword falls inert, 
+	
+	
+**Queen Silver**
+	//Plate Armor, Artifact, Requires attunement by a human at the artifact's consent//
+	One of the longest-wrought items of the hexforge, made with great expense, Queen Silver was part of the royal regalia of Konia. This fluted armour is inlayed with no less then seven different shades of reflective metal, mithril and steel not the least of them. You gain a +3 bonus to AC and all saving throws while attuned to this armor, even if you are not wearing it. It also has the following properties:
+	**Sentience.** Queen Silver is a Lawful Neutral object with 14 intelligence, 16 wisdom, and 10 charisma. She has no sight but can hear even small sounds clearly for up to a mile. She can telepathically communicate with any creature within 60ft, and once per day can send a vague telepathic impression for up to a mile to one creature she can hear, usually beckoning them if she believes them worthy or at least opportune to get her closer to a rightful heir.
+	**Personality**. Queen Silver is unwaveringly loyal to the King and Kingdom of Konia, and is one of the entities entitled to weigh in on what merits that position. She is uptight, haughty, bitter, and has many opinions about how things should be done. While she will frequently oppose or question the attuned creature, she will never fight against the decision. She will trust the attuned creature beyond all reasonable sense, but is highly mistrustful of others. She wants her attuned creature to be worthy of the throne that she opens the way for, and will work to prepare that creature for the reality.
+	**Selective Antimagic Field. **Queen silver is capable of projecting an antimagic field within 5ft of her targetting only effects that she deems deletrious. 
+	**Spells. **Queen Silver is capable of casting the following spells without components or needing to maintain concentration. Spells that are not a reaction are cast at the end of the turn of her attuned creature, as she wishes or is commanded
+		**At Will:**// Purify food and drink, Spare the Dying, Prestidigitation//
+		**3/day:**// Shield, Absorb elements, Shield of faith//
+		**1/day: **//Dispel magic, Remove Curse, Dimension door, Cure Wounds//
+	**Patron. **Queen Silver is a hexblade warlock patron who rewards those loyal to Konia. 
+	**Crafted. **Queen silver is weightless to her attuned creature, never gets dirty or marred, and changes shape to fit. 
+	**On your feet. **An attuned creature is never surprised, immune to bludgeoning damage (including fall damage), as well as psychic damage. Queen silver can be donned as a reaction upon rolling initiative so long as the attuned creature is on the same plane of existence. 
+	
+**Bracers of inimitable force**
+	//Wondrous item, Artifact, Requires attunement by a barbarian//
+	One of the items wrought in the hexforge, these bracers amplify one's internal abilities immensely. While attuned to these bracers, when you rage your move speed and jump height and jump distance quadruples. You Regerate 10hp at the start of each of your turns. The extra damage you do with attacks during raging increases by 3. Your rage lasts up to ten minutes. 
+
+**Violet Mirror**
+	//Wondrous item, Artifact, Requires Attunement//
+	Made by fey bargain within the clockwork castle, violet mirror is one of the great treasures of the old Grao. Taking the shape of an articulated plated gauntlet of dark metal, violet mirror is unremarkable until she is attuned to. While you are attuned to Violet mirror, you cannot fail checks made to climb. She has the following additonal properties
+	**Sentience: **Violet Mirror is a sentient object with an intelligence of 4, Wisdom of 20, and charisma of 15. It observes the world through the attuned creature's senses and communicates only in flashes of emotion or in dreams. It is capable of minor prophecy but this is fairly unrelaible.
+	**Personality.** Violet Mirror was once a queen of the grao, who gave up her spirit to keep her people safe. While little of her knowledge and cunning is left at all, her desire to see the grao flourish and her immense mercy is quite present. 
+	**The Southwest Bolt. **Once between long rests, violet mirror can deal an additional 12d6 Lightning damage to a target grappled with it.
+	**Wide Embrace. **As part of the attack action or as a reaction while falling, Violet Mirror is capable of launching a cable made of magical silk ending in a bright blue bauble from its palm. This cable is 60ft long and uses gravity magic to stick to creatures and surfaces. A creature trying to detach from Violet mirror must us an action to make a DC 18 Strength check UNFINISHED
+	
+	
+	
+	
+	
+	
+	
+**Dragon Tetsubo**
+	Maul, Legendary, Requires attunement
 
 **Marier Construct**
 	//Construct, requires attunement by an artificer//
@@ -543,15 +617,15 @@ Dispel Magic
 		When placed over a gap between two objects and the command word spoken, this lock magically adheres to both objects, holding them in place. It requires a DC20 strength check to break the lock and the lock cannot be picked without magical picks
 		
 **Magical picks**
-	Wonderous item, Uncommon
+	Wondrous item, Uncommon
 		These magical lockpicks can be used to pick magical locks as if they were non-magical. They can only pick one keyhole at a time, and if a door is dependent on multiple keys, then multiple sets and people might be needed at once.
 		
 **Headband of Psychic Autonomy**
-	Wonderous item, Very Rare, Requires attunement
+	Wondrous item, Very Rare, Requires attunement
 		While attuned to this headband, you can use a bonus action to spawn and use up to two instances of mage hand. The hands are invisible and can be commanded with fine precision at the same time
 
 **Malathat Robes**
-	Wonderous item, Rare, Requires attunement
+	Wondrous item, Rare, Requires attunement
 		These emerald green robes never get dirty and any holes they obtain through wear or damage mend themselves in an hour.
 		While attuned to these robes you gain the following benefits
 	* You have advantage on any saving throw against an effect that alters the flow of time for you
@@ -562,6 +636,9 @@ Dispel Magic
 	Wonderous item, Warhammer, Beyond legendary
 		A silver-grey brick on an ornate handle built to craft items that even gods are envious of. While holding this hammer, spells you cast are cast as though using a spell slot of two levels higher than the one used. Items you create 
 
+**Damagon Tramali** **8-Cycle Copper Channel Sepraphinite Rutile Quartz Crystal Orb with Octarinate Runes**
+	Wondrous item, Orb, Requires attunement, Beyond legendary
+		Divination spells you cast ignore planar restrictions, distance requirements, and Material components worth less than 500gp. 
 
 
 

@@ -76,4 +76,13 @@ Reaction melee on ally melee
 **Ki points to recharge spells**
 **For 2 ki points You may change the target of a spell or magical effect within** 
 * You become blind and deaf to anything that isn't magical in nature for one minute or until you end this effect as a bonus action. Shapeshifters appear in their true forms, things covered by illusions appear as they would without the illusion. Magical items and creatures concealed by magic appear as if illuminated by bright light, even if their nature would not normally allow this. All magic produces distinct sounds, making them perceivable as if visible. This state ignores mundane or magical darkness or effects of silence, as well as sublte metamagic. Creatures with intrinsic magic abilities glow dimly, creatures 
-* s
+
+**Weapon of all worlds** 
+At second level you gain proficiency with martial weapons and can use wisdom as your modifer for attacks made with this weapon. Weapon attacks you make count as magical for the purposes of overcoming resistances and immunities. As a bonus action you can change the damage type that a weapon or piece of ammunition you are holding does. Some damage types have minor extra effects
+	* Poison - creatures struck by this weapon must make a saving throw against your spell save DC  or be poisoned until the start of your next turn
+	* Acid - Constructs and objects take extra damage equal to your wisdom modifier from this weapon
+	* Radiant - This weapon sheds bright light for 30ft and dim light 20 beyond. This light is sunlight.
+	* Lightning - Weapon becomes magnetic
+	* Thunder - This weapon hums ominously, makes cracking sounds when swung and impacts from this weapon can be heard for up to 200ft away.
+	* Force -  The weapon Ignores gravity and hovers in place until the end of your next turn when dropped or until another force is applied. 
+ This effect lasts for a minute or until the end of your next turn if you let go of or throw the weapon. Other Damage types have minor flavour effects, such as fire giving off warmth and light comparable to a small campfire, or necrotic causing minor rashes on prolonged contact.

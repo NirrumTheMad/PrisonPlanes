@@ -185,10 +185,10 @@ The barge moves at 50ft a round
 			A creature proficient in water vehicles can make an Physical fitness(**swiftness) **roll as an action with a SKILL contest  of 12 on each of their turns to avoid this
 
 
-At the end of the encounter, the barge bumps up a few times against the side of the river before coming around a bend where there is a pond with a few other boats made of folded leaves. The boats are docked at a xanaran's. Mars Ironthroat is behind the counter, as usual but most of the glasses he has are shot glasses for the fairies that seem to be the sole patrons. 
-	//Ah good, adventurers. Do you want anything before you head on? //Says **Mars**
+At the end of the encounter, the barge bumps up a few times against the side of the river before coming around a bend where there is a pond with a few other boats made of folded leaves. The boats are docked at a xanaran's. Barstomun Ironthroat is behind the counter, as usual but most of the glasses he has are shot glasses for the fairies that seem to be the sole patrons. 
+	//Ah good, adventurers. Do you want anything before you head on? //Says **Barstomun**
 	//I'll have a smidge of hot chocolate if you have any! //Says the **Boatelf if present.**
-Mars grants a 25% discount to all non-fairies. He tells them that when they're ready to leave, to move the **Wooden disc in the floor.** Behind this disc seems to be a slide that curves out of sight.
+Barstomun grants a 25% discount to all non-fairies. He tells them that when they're ready to leave, to move the **Wooden disc in the floor.** Behind this disc seems to be a slide that curves out of sight.
 
 Taking the slide brings the players back to the **Hall of concept (2) through the stinger which enlarges to accommodate them.**
 	**Here the avatar of the world spirit awaits. **
@@ -198,7 +198,7 @@ Taking the slide brings the players back to the **Hall of concept (2) through th
 	
 
 		**Separation Beads**
-			//Whip, requires FOCUS//
-			This set of green transluscent prayer beads reaches out to attack those you deem unworthy. The weapon has 6 charges, regaining 1d4+2 daily at dawn. When you go to make an attack, you can spend one charge to extend the reach of this weapon by 10ft for the attack. If you hit, the target makes a strength CHALLENGE TO BE BEATEN versus your attack roll, becoming grappled on a failed CHALLENGE TO BE BEATEN. The target can use its action to attempt to free itself by making a strength CHALLENGE TO BE BEATEN versus the original attack roll. 
+			//Whip, requires attunement//
+			This set of green transluscent prayer beads reaches out to attack those you deem unworthy. The weapon has 6 charges, regaining 1d4+2 daily at dawn. When you go to make an attack, you can spend one charge to extend the reach of this weapon by 10ft for the attack. If you hit, the target makes a strength DC versus your attack roll, becoming grappled on a failed DC. The target can use its action to attempt to free itself by making a strength DC versus the original attack roll. 
 			
 

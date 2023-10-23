@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-08-06T22:03:18-02:30
 
-====== The Court of Journeys ======
+====== The Court of valour ======
 Created Thursday 06 August 2020
 
 
@@ -81,7 +81,7 @@ Created Thursday 06 August 2020
 ==== The Wronghouse with the big toybox ====
 	Thousands of wronghouses dot the feywild, Sometimes in towns, sometimes alone. In one of them, a squat cottage sitting on the very edge of sundown where a thin sliver of light still marks the sky, one may find a massive toybox. Those who enter this wronghouse will not only note the usual bizzare geometry (along with being much, much bigger on the inside than the outside would suggest) but also that they themselves are usually vastly aged down, such that they are infants again. Interestingly, Constructs and other beings who have never been children will find themselves still shrunken, buzzing with energy, and vastly more curious, even if they have never been such. This home is the home of the Delasalia, a great weaver of short fantasies, and a personal favourite of mine.  Characters will find it easy to remember how to play as a child does while within this house, largely because it turns out it is much easier to imagine things like you used to when you're suddenly a meter tall again, but partly because of the magic of the Delasalia. There are a surprising number of children in this wronghouse, many of them having brought toys of their own, and many of them missing from their homes for an extremely long time. The Delasalia does not kidnap children, but she finds it hard to remind them that they need to go home. The Delasalia stocks many toys from many cultures to accompany children as they wander through the wronghouse, climbing through windows into tunnels that deposit them in kitchens. At least one of the kitchens has a troll in it, who seems to be friendly but often threatens to eat the children. Children who are told this frequently scramble to the myriad tiny doors and cupboards, which invariably lead to escapes, such as hallways, small towns of toys underneath gargantuan beds, the tops of shelves, and the spaces underneath stairs. Central to this house's magic is the Big Toybox, which is a rather large crate of toys. Someone digging through the toys will invariably find a toy that jogs any memory of play. Figurines of old friends, stuffed animals that look very similar to pets that folk once had. Such toys are free for taking, but they return to the toy box if they are ever destroyed or if they get rained on, though getting wet in other ways is fine, including rain through a covering.
 
-	**Delasalia, the archfey of small imaginings, (INFP),** Archfey 
+	**The Delasalia, the archfey of small imaginings, (INFP),** Archfey 
 		This playful elflike lady can control what age she appears and plays many roles. 
 			Height: 5'4
 			Influence:  Athletics (Wisdom) 10 to be responsible, even when it means leaving some things behind.

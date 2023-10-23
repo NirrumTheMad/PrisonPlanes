@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-07T16:43:13-02:30
+
+====== Saman Plains ======
+Created Saturday 07 October 2023
+
+The wide area east of Mohara are the Saman Plains, which vary in type from Prairie to heath, to savannah. Occasional pockets of thick forest dot the land, but largely grasses rule over the thick clay soil. Grasses of various sizes line the landscape, interrupted by Occasional rivers lined with grapes. 
+
+[[Man'Anan Gulf:ShaatGuun]]
+
+
+
+===== Ecology =====
+	Part of Pelor's First gift, the lands of the Saman Plain are loaded with grain in plenty. These feed locusts which swarm east every summer, which in turn feed some noteworthy species, each which effects the environment around them in a different way.
+		* **Ribboncaster** **Swift** - This bird has a clever streak. It uses spiderweb pilfered from areas up to a mile around to build its nest in tall grass stalk bundles. The same behaviour make it clever enough to drag the same webs though narrow gaps in the grasses to catch locusts. This leads to them flying in jagged, sharp turns to avoid breaking their net before it sticks to a decent number of bugs. The swift then lands and picks the tasty protein out of its trap and flies back to its nest. Great clouds of these birds can be seen in the early morning when their prey is most active. 
+			* Nirrum's Note: At least two martial arts have been built on observing their flight patterns
+		* **Blanket Spider **- These large relatives of the giant house spider have ludicrously long legs, large abdomens and tiny heads such that it looks like they are only a dark black ball on legs. They can produce enormous amounts of silk and use their long legs to spread it between the grasses for up to three meters. During windstorms, these spiders can, if they're hungry, web their own legs to get dispersed around. Growing to 56cm, they can be quite intimidating and despite being voracious eaters, sometimes eating three times thier bodyweight in a day, they are harmless to most creatures. While they produce a lot of venom, it is specialised for use against grasshoppers
+		* **Bigmouth Burrowing Bat **- One of the largest bat species in snarl  (though eclipsed by some of its distant relatives), With a wingspan nearing 5ft, this bat also has adaptations for making good on the abundant locust swarms. As its name suggests it has a massive mouth with a dislocatable mandible and keratinous spines within its mouth for scooping up many creatures at once. It also has wings that resemble those of a gold dragon, with wings and tail connected around the legs, such that it can scoop  large amounts of bugs from flight toward its mouth should it need to. Its thumbs have evolved to be longer, bony, and sharp near the tip to allow it to cut into the thick clay soil where it makes its burrrows. Be careful, their bite hurts.
+		* **Ballista grayling - **Once a year, during the low season, when the rains are slowing down, Anadromous Ballista graylings flood the rivers that connect to the Man'anan Gulf in order to spawn. Unlike other salmonids, these creatures very frequently survive the trek after gorging themselves on the swarms of locusts that fill the air. Graylings shoot bursts of water with a thin film of mucus at anything that moves within their sight. During this time, the erosion of the river increases drastically, as this spray of water drags a great many insects down the muddy banks into the waiting and hungry school. Ballista graylings continue this at night using bioluminescent sail-like dorsal fins that mimic fireflies which the grasshoppers also feed on. The shinier and more colourful the sail, the easier it is to scare off other suitors from nests laid in the riverbed. Travellers are advised to wear water resistant clothing if they near rivers during this time. The fat graylings are slow and easy meals for people, birds of prey, and the occasional plains owlbear.
+	In the more wooded places, the trees grow with pelor's gifts as well, thick with apples, citrus, and further south Near the thunder coast, Cinnamon and Camphor trees.
+	The land is not without proper dangers. Solitary Axebeaks stalk the grasses for small prey, while avoiding pumas, worgs, hippogriffs, Griffons, and the occasional ogre
+
+
+
+
+
+
+
+
+
+
+
+

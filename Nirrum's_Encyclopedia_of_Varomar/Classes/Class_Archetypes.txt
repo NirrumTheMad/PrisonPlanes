@@ -17,5 +17,7 @@ Created Monday 17 February 2020
 [[+Invocations]]
 +Oath of Temperance
 [[+Circle of the world tree]]
-
-
+[[+Medic]] 
+[[+Campmaster]] 
+[[+Pact_of_the_Throne]]
+[[+battlemind]] 

@@ -138,7 +138,7 @@ Half-elf Variant: **Manarahi**
 
 	**Kholirahi**
 		**Ability score increase. **Your wisdom score increases by 2.
-		**Rudmagic. **You know the Thorn-whip and Mage hand cantrips, using your roots for both. Once you reach 3rd level, you can cast the Entangle spell once per day. Once you reach 5th level, you can also cast the Spider climb spell once per day targetting yourself only. Wisdom is your spellcasting ability for these spells. 
+		**Rudmagic. **You know the Thorn-whip and Mage hand cantrips, using your roots for both. Once you reach 3rd level, you can cast the Entangle spell once per day. Once you reach 5th level, you can also cast the Spider climb spell once per day targetting yourself only, you do not need components to cast these spells. Wisdom is your spellcasting ability for these spells. 
 		**Ineffable. **You feel very little emotion and strong emotions are dulled. You have advantage on saving throws against being frightened, and you are immune to being charmed and spells that would charm you as part of their effects.
 		**Truthseeker. **You have advantage on checks to percieve illusions and on saving throws against illusion spells.
 		**Magical Darkvision. **You can see normally in darkness to a range of 30ft, including magical darkness, to a range of 30ft. This does not gain benefit from a telescope or similar device. If you are in a dense magic zone or during a wild magic surge, this effect extends to 300ft. With shades of grey 20ft beyond that. This benefit lasts until you leave the dense magic zone or at the end of your next turn for a wild magic surge. This darkvision ceases if you are in an antimagic field. This effect does not work when your eyes are closed

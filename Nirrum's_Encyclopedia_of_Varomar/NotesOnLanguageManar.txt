@@ -40,7 +40,7 @@ Hara-mountain, although technically it just means "hill", the mana people have n
 Rahi-People, Racially indistinct, refers to all sapient creatures, Components Ra, indicating a spacially distinct object and its location, and hi, the sound of laughter and in the eyes of the Early Manarahi, the first communicable sign of soul, sapience, and presence, The idea which linked a hundred separate and isolated races into one people.
 	Raha - Person, a later addition to the language
 
-Mu - Town, City, world also a placeholder answer to a question that should be obvious, "here"
+Mu - Town, City, Settlement
 
 **Kholi-** 	Poetry, Sacrifice, or Injustice (and the act of rectifying it), all have etymological roots in the theatre arts of the Manarahi people around y1900, The theming of much of the Manarahi plays was Cosmic Irony, wherein a circumstance is unexpected and in juxtaposition to what was expected. Like Rain on one's wedding day. Rooted in Kao and leeg. In Particular this word gained a lot of power during the schism in y1992, when the Manarahi split after they evacuated (or were forced out of). The word also encompasses feelings of loss, grimness, resolve, and anything around the idea of doing what must be done (Especially if it's a bit dramatic). 
 
@@ -161,7 +161,7 @@ Vorahi- woman, No other configuration of being got a word in ancient manar, thou
 Barahi- Man, Derogatory in origin and rather sexist, the Women of Mana are just as audible, but the name stuck.
 Mibrek- soft earth, dirt 	
 Alabet - Death, Actually from Alawabre/Ice as it was an early symbol of death, and  darkness, which was seen as simply the juxtaposition of the light that holy magic usually carries. It is important to remember that the earliest manarahi were descent from mages and often were mages themselves, and thus, magic took an important part in shaping their early culture, as much as the monsters of the underdark did. 
-Betgan- Monster. Many of the Manarahi could not see in the dark, nor very far, and were often preyed upon by the things that could. Here, devils and demons couldn't  even contact their own and the light of the stars, malevolent or benevolent, could never reach, so warlocks to be gifted sight were out of the question until the Raven Queen's coming. Thus, Light and Dark take much the same roles as they do in many other places
+Betgan- Monster. Many of the earliest Manarahi could not see in the dark, nor very far, and were often preyed upon by the things that could. Here, devils and demons couldn't  even contact their own and the light of the stars, malevolent or benevolent, could never reach, so warlocks to be gifted sight were out of the question until the Raven Queen's coming, save those who already had it. Thus, Light and Dark take much the same roles as they do in many other places
 Cheva - a profanity that traces back to an ancient hex
 Brucheva - an emphatic profanity
 Chevau - an insult
@@ -226,7 +226,7 @@ wi- an inquisitive modifier,
 		Wilo - When is ___ / will
 		Wiab - When was
 		Wita - What is/ 
-		Wimu - Where is
+		Wirath - Where is
 		Wiwa - Why is
 		Wihaz - Who is
 Wanlo - now
@@ -317,6 +317,8 @@ ranoru - Gift, passing something from someone to another
 har-name
 falioru - Money, specifically, gold coin
 arpet - paper
+Savenarpet- book, particularly big ones, tome
+Mearpet- short publication
 Kukema - Harvest
 Parku - Sickle, Manarahi sickles have a sharp chevron-like angle instead of a curve, mostly owing to the ability for the Magic people to keep blades magically sharpened throughout the day, making it easier to pull than hack at their grains.
 Skethpar - Scythe, partially onomotopoeaic
@@ -337,7 +339,7 @@ nevirahi - incorporeal undead, but also vampires
 hirahi - Spirit
 Manahiraha - God
 Hirahilat - Temple, Archaically modified Manahirahilat which is frequently just shortened, When describing a particular god or spirit, this replaces Their designation as god or spirit. Timu Hirahilat, for example, or Torm Hirahilat
-Hilat - Also temple, but also theatre, Laughter or soul-house
+Hilat - Temple, but also theatre, Laughter or soul-house
 Þi - yes, affirmative, an indication to keep going, 
 Þii- emphatic yes
 Kuke - Gather, from Kukema 
@@ -422,3 +424,14 @@ rashta - on/at
 Hazlovo -hat
 Bol - cylinder (round+stone)
 Dubol - Pole, pillar
+Ur - time
+urra- Event
+Lokurra - Incident, something that happens 
+Ath - hold, contain, include
+Nath - exclude
+Rath - place
+Pin - sun-related
+pinur - Date
+Kha - if
+Khur - then
+Pinrara - Image

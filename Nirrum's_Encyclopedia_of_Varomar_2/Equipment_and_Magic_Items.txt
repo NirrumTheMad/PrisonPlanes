@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-21T12:50:00-02:30
+
+====== Equipment and Magic Items ======
+Created Saturday 21 October 2023
+
+
+[[Nirrum's Encyclopedia of Varomar:Additional Mundane items]]
+[[Nirrum's Encyclopedia of Varomar:Magic Items]]
+[[Nirrum's Encyclopedia of Varomar:The Bone Artifacts]]

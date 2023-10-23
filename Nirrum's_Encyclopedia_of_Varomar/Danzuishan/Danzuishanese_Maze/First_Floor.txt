@@ -25,7 +25,7 @@ The square, 14ft tall, 30ftx40ft Room contains an aurochs bull, seemingly able t
 	* If pointed at a creature, that creature gains the ability to breathe underwater for 1 minute.
 * When they are oriented for a total value of 200, the room drains and the Aurochs begins to suffocate. If the previous room is flooded, it flees to there. The rest of the mechanism's operations change then
 	* If all statues point (as best they can) to any one of the four walls, An opening reveals itself on that wall
-		* Opposite the entrance reveals a room with 25 hostile DEMON WORSHIPPER HUSKS WITH AWFUL FACES that move out of the way of the party until everyone is in the room
+		* Opposite the entrance reveals a room with 25 hostile bodak that move out of the way of the party until everyone is in the room
 		* To the left of the entrance there is is a small platform and a 60ft drop with no ladder. This brings the party to Floor 2
 		* To the right is a dark corridor with seemingly no end (It is 3 miles long). The air is always clear in this hallway and smells of old glue or paper. This brings the party to A large octagonal room with a stunning mosaic on the cieling, within is an abandoned village built for something that could have been no more than three feet tall. The construction appears to be out of mangrove wood. A blind Oni sits against one wall.
 			* Within the village there is spice snake jerky and Kimchi, which is extremely spicy but edible, there is enough for 4 human-sized creatures

@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-21T12:55:46-02:30
+
+====== Lore ======
+Created Saturday 21 October 2023
+
+[[Nirrum's Encyclopedia of Varomar:TimelineOfEvents]]
+[[Nirrum's Encyclopedia of Varomar:Plot Notes]]
+[[Nirrum's Encyclopedia of Varomar:NotesOnPhysics]]
+[[Nirrum's Encyclopedia of Varomar:NotesOnLanguageManar]]
+[[Nirrum's Encyclopedia of Varomar:Notes on Cosmology]]
+[[Nirrum's Encyclopedia of Varomar:Letters from The Author]]
+[[Nirrum's Encyclopedia of Varomar:Guide to in-game Economy]]
