@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-26T23:08:22-02:30
+
+====== Pantheons ======
+Created Thursday 26 October 2023
+
+
+==== Religious structures of civilizations around snarl ====
+
+=== The Manarahi ===
+	All major groups of the Manarahi consider the gods to be citizens and people. They are powerful beings but they have both rights and duties that supercede their position. Gods must do work to be allowed to participate in Manarahi society and not be a detriment. The more in line with society's beliefs, the more involved directly in Manarahi civilization they are. Only two gods hold common temples among the Manarahi, and they are Charity and Knowledge. 
+	
+=== Konians ===
+	Konia's gods are venerated as kings above kings, leaders above leaders. It is viewed that it is impossible for a god to not earn their position and thus they have rights to it, but it is wise to only venerate the ones that benefit your lord, for those are the ones that benefit you. 
+	
+=== Danzuishan ===
+	The Gods exceed anything mortals can do to the Danzuishanese people. Ask blessings and boons all you want from them but they only reward their most faithful. Gods also embody what one //should be//.
+	
+=== Skalmirthon ===
+	Gods among the dwarves are ritual pillars that they organise their meditations around. A dwarf should venerate the god that provides what challenges them the most, rather than the ones that already favour them. There is a divide in dwarven cosmogony between a god and their malevolent counterpart, which usually gets a new name. Gods themselves have commented on this shift in perspective as weird but plausible, as a way to differentiate what the god does control and what happens within the god's domain outside of its control.
+	The drow of Skalmirthon and Cermina are emphatically antitheist, and special rites might be observed to prevent them from being drawn into the hells on death, instead powering a great, secret elven project in the feywild
+
+=== Kara'ite ===
+	Gods are a mark or a guiding spirit in Kara'ite, as so very little obfuscates holiness as capitalism. Churches are places for the stupid to lose money and for the occasional gang to make a home. Those who are selected by gods sometimes rise up, on occasion literally, from the depths of the pit to escape kara'ite
+	
+=== Shaat'guun ===
+	The hobgoblins feel alienated by most gods and conquered by others, thus they serve
+
+
+
+==== The Wandering gods ====
+
+	A sun god of agriculture, peace, and food, patron of agrarianism
+		* Among the manarahi, He is viewed in a fatherly way, a household friend, and a god that embodies the value of providing for others
+	A Machine god of Civilization, structure, and infrastructure, wife of the sun god
+		* Among the Manarahi she is viewed as a sere and strict no-nonsense spirit, who none-the-less gets licesnese through quickly and curses people who cut in line
+	An ancient god of writing and invention
+		* A great friend to the Manarahi, seen as someone to aspire to be
+	A god of the forest and wilds
+	A god of death and winter, Queen of shadows
+	
+	

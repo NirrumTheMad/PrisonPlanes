@@ -5,19 +5,27 @@ Creation-Date: 2020-02-17T19:05:23-03:30
 ====== Class Archetypes ======
 Created Monday 17 February 2020
 [[+Dragon_Domain]]
-[[+Pact_Of_The_Shroud]] (incomplete)
+
 [[+Footman_Fighter]] 
 [[+Mobster_Rogue]] 
 [[+Fey Magic Sorcery]]
 [[+College_of_Terror]]
 [[+Path_of_Torrents]]
+[[+Path of the Woodsman]] 
 [[+Way_of_Eight_steps]] 
-[[+Unused_bits]]
-[[+Oath_of_Family]]
 [[+Invocations]]
-+Oath of Temperance
 [[+Circle of the world tree]]
+
+
 [[+Medic]] 
 [[+Campmaster]] 
 [[+Pact_of_the_Throne]]
 [[+battlemind]] 
+[[+Ghost_Hunter]]
+[[+College_of_the_Hunt]] 
+[[+True_Hunter]] 
+[[+Chimneysweep_Rogue]] ? 
+[[+Pact_Of_The_Shroud]] (incomplete)
+[[+Unused_bits]]
+[[+Oath_of_Family]]
+[[+Oath_of_Temperance]] 

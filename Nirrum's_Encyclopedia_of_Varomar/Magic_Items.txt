@@ -505,8 +505,10 @@ some kind of fey ring that you can subtle delay a spell to activate in 1d10 roun
 cursed feystep bracers? you can use a charge to teleport 30ft in a direction as a bonus action, but WHO it teleports is randomized
 
 
-
-
+**Windweaver**
+	Rapier, Artifact, Requires attunement
+		Windweaver can be used as an arcane and druidic focus, as well as a holy symbol of Amarok. Windweaver grants a +2 bonus to attack and damage rolls, spell saving throws, Initiative, and AC. While attuned to windweaver, you gain access to the gust cantrip. You also know the spells investiture of wind, flight, control winds, feather fall, Freedom of the winds*, Gust of wind, whirlwind, and windwall, but require your own spell slots to cast them. These spells only require somatic components if cast with windweaver. While attuned to windweaver, you are immune to being teleported against your will.
+		**Sapience: **Windweaver appears to be sapient, and occasionally acts of its own accord in the form of the help action, granting occasional advantage. This help is rarely consistent, and seems extremely arbitrary. The mind of windweaver is extremely alien, and seems ineffable, even in cases of detect thoughts. It is, strangely, entirely immune to magic cast on it, and can be heard whispering a soft song instead of being affected by its environment. The song does not seem to have a discernable language. 
 
 
 **Rimewine and Chillwine**

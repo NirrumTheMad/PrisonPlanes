@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-28T15:53:36-02:30
+
+====== Path of the Woodsman ======
+Created Saturday 28 October 2023
+
+3 6 10 14
+
+Melee attacks are made on each target in cone 2
+Crits barb
+Antiobject
+
+==== Cleave ====
+	3 While you are raging, you may make your melee attacks against all targets within a 10ft cone in front of you.
+	
+
+==== Knowledge of bark and branch ====
+	3 Gain proficiency with carpenter's tools and Woodworker's tools. 
+	
+
+==== Bastion Breaker ====
+	At sixth level, Your attacks aganst objects deal double damage, and you have advantage on attacks against objects. You have advantage on strength checks to destroy objects.
+	
+==== Eyes that see ====
+	At tenth level you gain the ability to see in darkness, including magical darkness as if it were bright light. 
+	
+==== **Firebreak** ====
+	At 14th level you may make your melee attacks against all targets of your choice within a 15ft cone
+	
+	
+	
+MORE DAMAGE AGAINST ARMOUR
+
+
+

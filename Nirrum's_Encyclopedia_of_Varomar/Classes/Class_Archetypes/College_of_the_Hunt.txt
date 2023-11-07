@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-30T17:32:40-02:30
+
+====== College of the Hunt ======
+Created Monday 30 October 2023
+
+WARHORN BARD
+
+
+3 
+3
+
+6
+14
+
+**Call to Arms**
+	Your allies get a bonus to initiative equal to your charisma modifier
+	
+**Swiftsinging**
+	 A creature that has a Bardic Inspiration die from you can roll that die and gains additional number of feet in movement equal to five times the result until the start of its next turn. 
+	
+	
+	
+
+
+

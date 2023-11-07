@@ -1,0 +1,64 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-28T13:21:50-02:30
+
+====== Nova Konia ======
+Created Saturday 28 October 2023
+
+Eltarmalta, the Golden Elven king founds Konia on the edge of the lake that once contained the old citadel, which can still be seen in a ghostly form on moonlit nights.
+War of ants is 5804
+5853 -reclamation of the citadel
+The complete annihilation of the old citadel
+day of colours is 5854
+
+water: konia lake
+Food: long established farmland, orchards, wildlife
+poop goes in the river
+Fertile land
+Far enough away from manaharamu
+
+Giant rose bush around the remainder of the outer walls on the  south side
+Cursed while being made by the Carabosse for intruding on her magic such that it cannot stop growing
+THE TEMPLE:
+Must have The biggest dome
+The tallest tower
+The widest hallway
+The biggest bell
+The biggest organ
+the deepest catacombs
+Craziest mosaics
+
+ADD TEMPLE HERE
+
+
+===== Description =====
+	Basalt quarried from mines far below old Konia were the source of much of the masonry of Old Konia, and much of that masonry from the fallen walls became the walls of the town that would named Nova Konia. When Konia was destroyed by Kholirahi troops, Eltarmalta, an elf, one of their saviours began to rebuild the city for a second time. He chose to face the lake from the south so people would know the cost of such wars, and decided to partake in an old Konian tradition, that of building walls. The Walls he built with strange elven magic out of the great roses of Konia, swelling their branches and hips and petals until a whole family could feed on a single hip, and houses could be built from the timbres. In doing so, he both ran afoul and incurred a humourous curse from the Carabosse, Archfey of thorns. She fed his magic full to bursting, so that none could control the growth of the thorns. The people fight daily against this incredible abundance so they are not overtaken by thorns that block the sky. 
+	
+	Konia's new throne, on which sits Eltarmalta, who claims regent but is addressed as king. Sits inside of an oak, powered by similar magic. The Golden Oak Throne waits for an heir that the Konians would recognise as their own, and who won't get killed by Eltarmalta as a powerhungry warlord without the hopes of their own people in mind. 
+	
+=== Urban ===
+	Nova Konia's Houses are most frequently black stone supporting pale garrisoned rose timbers, Whitewashed walls, overhung by deep violet shingles, fired and hand crafted individually. The houses are most frequently three stories tall, with family businesses being run out of the bottom floor. Konian infrastructure is not yet set up for convenience, so water must be carried from the lake and river into cauldrons in the house, and waste must be carried out. Families ususally sleep in rooms on the topmost floor, while kitchens and social areas take up the middle floor. Konian furniture is often wood, upholstered and stuffed with down. Konian wood carvers have no end of supply for their experiments, and much of Nova Konia's art scene is based around woodwork. Folk sleep in raised beds to avoid rats and damp, on mattresses stuffed with goose down,  which is in abundance.
+	Cast iron ranges are always lit, and the baked goods flow like water from the kitchens. 
+	While Many Konians are Spiritual and churchgoing, they are wary of any singular religious order taking hold, so Nova Konia has only one temple in which one can find at least an altar to nearly every god. 
+	Only a few wind-powered cooling buildings exist in Konia, and each family has a personal cold-vault there in which they store their perishable foods. The people who control these cold-vaults are usually opportunistic businessmen, and the source of much grief.
+	
+===== Environment =====
+	Konia is known for its temperate weather, which oscillates regularly between rainy downpour, vibrant sunny days, thick fog, and dreary overcast. In the winter, the snow falls in thick flakes, building in huge, light piles on the streets. A constant rain drips from the eaves, as the houses are never cold within. The region was once all farmland and remains largely open field though now feral apple trees from what were once orchards have begun to reclaim the land. Willows line the riverbanks and the  banks of what were once irrigation canals. On its southern wall, Konia is beseiged by giant roses, powered by fey magic, and the rosewoods choke out all other life within them, save what animals feed on the bark, fruit, and leaves of the roses, and of course what feeds on those. Konia was always a region with very little wind, and now with the great wall of roses on its south, there is rarely a day in Konia in which the air is not still. 
+
+
+===== Economy =====
+	Nova Konia now supports a burgeoning woodworking scene unlike any other on the plane or any region nearby. The overabundance of rapidly growing roses gives them plenty of wood to work with, given that if they do not, they will get overtaken and dragged into a thorny darkness. Iron is still available from the mines that once supported old Konia, and it is from this that they build their tools, weapons, and armour. Nova Konia sits in a lul, where they are able to provide for most of their needs with little effort, but expanding their comfort is an uphill battle. 
+	
+	
+===== Military =====
+	Nova Konia's Military has two tiers, the militia and the Silver knights. Currently there are no new generations of Silver knights, and as a result, all of them are old, either survivors of the war of ants or the last receptors of the oath shortly after it, knighted by knights who had the authority to administer the oath and test. 
+
+== Silver knights ==
+	In order to be a silver knight, you must be a fighter of the eleventh level or higher with proficiency in history or intelligence of 12 or higher, as well you must be sworn to fealty to another knight, a lord, and the crown of Konia. You must make a donation of at least 1000gp to the crown, 500 to the lord, and 500 to the other knight. The knight is to be your master for at least a year and must send you on a quest to slay a great threat to Konia. It is //expected// that you are human but not all who gain the rank of silver knight have been human. You cannot be a citizen of another country, and if you are, you must publically (and legally) renounce your citizenship in that country before being considered. Your partner, if you have one must live in Konia. It is also tradition for you to supply your own gear with two exceptions. At the end of your year long test with your master, it is expected that they provide a personally commissioned **Silver Knight Yataghan **and **Silver Knight Longbow, **though it is not mandated. Once you become a silver knight, you outrank all militia that are not governed by other knghts. You inherit a rank below your Master's rank, unless promoted. It is tradition to suggest your master for promotions before you accept them, but refusing a promotion can be seen as insubordination to the crown. 
+
+== Militia ==
+	There is no prerequisite for joining the militias, nor is there really any getting out of it. If you can bear arms you are expected to when called upon, though there is payment for people who attend training and more for those who go campaigning. Refusing the military order of a Silver Knight is illegal without certain conditions, but a knight can be stripped of their rank and their master shamed if they try to enforce an unlawful order
+
+
+
+
