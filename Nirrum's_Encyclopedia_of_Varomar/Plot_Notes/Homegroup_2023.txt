@@ -12,34 +12,175 @@ Explore underutilised factions in the world,
 
 Mode of delivery: 
 	Character creation rule:
-		* Character must be From either Manaharamu, Konia, or The Trinity Gulf in some capacity, 
-			* Must know of and have encountered Kholirahi, Furi, or Cult Agents, in a major capacity in their backstory. 
-		* In Exchange, Characters recieve a singular "insane" advantage, provided it fits within the world.
-		* Characters start at level 9? 
-			* Short Solo runs in the feywild for a boon?
-Beats:
+		* Must know of and have encountered Kholirahi, Furi, or Cult Agents, in a major capacity in their backstory. 
+		* Characters start at level 5 (be prepared for 6 after session 1) and will end after 20
+			* All offical works and select approved homebrews are allowed. Except centaurs
+				* Extreme modification of some of these are also allowed
+			* There is no limit to the amount of munchkin bullshit I am willing to endure, provided it makes sense in the world. If you build the power nine and can summon gods with it? Good. 
+				* No simulacrum, still
+			* Multiclass prereqs do not exist.
+				* talk to me about stat-swapping any facet of a class, race, feature, spell, etc;
+			* Free Starting Feat or other advantage starting
+			* Point buy/standard array
+			* Characters using any of the homebrew options that are specific to snarl get an extra uncommon magic item on creation
+			* come with one ambition; Kill the godking, make a country 
 
-	* The Crossroads
+
+	Campaign bargain
+		* This is not a grindy campaign but it has rewards for those that look for them, rather ridiculous rewards
+		* The more holes you fill, the more your characters will be written into the history of this world.
+		* Levelling will come much faster than previous campaigns
+	Campaign concept
+		* I need a lot of people to die. And I need a lot of badasses to do it.
+
+
+
+Considerations
+	Levels needed:
+		15
+		
+		6 vignette
+		7  Enfuckerator quest
+			The party gets a delivery quest to drop off an unstable arcanohedron, a device of strange mystic capabilities. Thugs will rather incessantly try to steal it, as it is a construction of immense power, capable of being used in 12th level magic in a rather general way. 
+				* Furi thugs obviously want it for cash
+				* The Cult wants it to break another bone artifact
+				* Kholira wants it to allow the godking to ascend as a true deity-class entitty
+				* Starspawn seem attracted to it as the moon is trying  Kill everything on this plane
+			* The Recipient is Nirrum the Mad, or what's left of him
+			* The party is first accosted by moon-touched and Kholirahi
+		8 Feywild/Maze
+			* The party must have reasonable amounts of treasure
+		9  End
+			* Party gets a house somehow 540 sqft, thus 54g in tax per year +7/person
+			* Party is informed that several people have been arrested trying to hunt them down.
+		10  Feywild/Maze
+		11 End
+			* You are met by yourself on your way out of and into your door
+			* You also find yourself getting stabbed in an alleyway, You are surprised that this is from a third person perspective. The third person is you, you are watching yourself get stabbed
+			* The police have put three of the same person to death, imprisoned six others. They've employed someone with truesight to see if you're real, and the person is amazed at how well the illusion you have is holding up and that they can't see through it. They are shocked to be reminded that being actual people is a possibility
+		12 Feywild/Shadowfell/Maze/Bone artifact Halfway
+		13 End
+		14 Feywild/Shadowfell/Maze/Bone artifact Halfway
+		15  End
+		16 Dwallat/Kholira/Moon
+		17Boss
+		18Dwallat/Kholira/Moon
+		19 Boss
+		20Dwallat/Kholira/Moon
+		Boss
+
+Session 0:
+	inciting solidifying incident
+	
+
+Crossroads -> Danzuishan
+			->Vaylen as NPC can direct people into the feywild 
+			-> Zul Probably can help people find cult members
+			-> Danzuishanese maze is an option
+			-> give them nightmares for the moon
+				
+			Pusher Characters:
+				Anoo (skalmirthon) - mix shit up - be a problem
+				Nirrum (in space) - kill Moseie 
+				Nitsur (skalmirthon) - mix shit up 
+				Ridicully probably (skalmirthon) - Destroy the cult
+				Deloch Welch (skalmirthon) - Literally all missions
+				Brandy (Manor) -  fight monsters save people
+				Aldrin (Roaming) - kill the moon. It is an offense to my eyes
+				Valalen (Nova Konia)  - Kill the cult
+				Moon-Eyed Child - hates its parent
+				Korik Fendi - hates the moon
+				Moonbeam Brumia (Danzuishan) - hates the moon
+				Oryx - Destablise the furi
+				Kotsi Kemadumanaab - Destruction of the cult, Enfuckerating of Kholira, perhaps evil
+			
+			Catcher characters:
+				The local thugs- Furi cell operatives
+				Excited but cautious orphan that's actually a changeling - Cult 
+				Moon-horror starspawn
+				SONS OF THE GODKING
+				
+			Trip-up Missions:
+				Complete a favour in the feywild
+				Retrieve an item from the hexforge
+				Local witch needs to have some mystic problem solved somewhere else
+					
+			Furi Targets:
+			Gasageno (UO)
+			Lagarach munsa (skalmirthon)
+			Orsithach furi
+			Teallah Fohin (Skalmirthon)
+			Biero - psionic operative (psi warrior)
+			Moji agthak (Danzuishan)
+			Salla Dzorgon - Psionic operative soul knife rogue
+			Hamen Yano - An orcish alchemist, responsible for the production of Farsight Pollen
+			Bydaran Maran - A halfling alchemist responsible for the invention and distribution of Bad Shaman
+			Ujira, king of the dragons
+			
+			
+		Cult agents
+			Marchee Aguheni - Changeling operative
+			Cae'k'lo'lo - Deep Mystic, lost in the sauce of the magic
+			TULIO THOMAS (and the crew of the featherbitey) - pirate operatives
+			Sciarran Gogozneg- somehow tragic, neeeds the cult for some reason, artificer, Human? Orc? half orc? Dwarf?
+			Queen Meelee  - Goblin mother, has an obscene number of children, even for a goblin. Army provider
+			Queen Persephone Kofruhi Dal Manarahi - On a vengeance tear against Kholira
+			Gordeh the wise - Danzuishanese agent, corrupts schools of echoing immortality folk
+			Combartch T'c't'caeri - Captive of the pirate king, and the one who knows the most about the cult's secrets
+			Dauhlu Aban - Cult operative, Phantom rogue
+			Ancestral barbarians
+			Spirits bards
+			Long death and mercy monks
+			Necromancy, Evocation, Scribe wizards
+			Goolocks
+			Wau!xorauch - The Head of Evocation replacing Ridicully cosades.
+					
+Beats:
+	* The Vignette
+		* ex. Trussari
+			* Complete an antimagic amulet
+		* ex. Silver Knight Acolyte
+			* Recover silver knight regalia from the resting place of a lost knight
+		* Ex. Son of the godking
+			* Kill one of your brothers
+	* The Crossroads to danzuishan?
 		* Individual  fight against bandits
 		* Recovery, Maybe introduce one villain
-		* Subsumed into the feywild
-	* The Feywild
-		* Generate favour somehow
-		* Exit the feywild + level
-	* Furi Campaign 
+		* Journey to Danzuishan or Skalmirthon
+			* The Feywild
+				* Generate favour somehow
+				* Exit the feywild + level
+			* Shadowfell voyages
+			* Raid the underdark for the BONE ARTIFACTS THAT THE CULT POSESS 
+	* Furi
+		* Get accosted by the Furi, possibly even have the Furi succeed 
+		* Starts with theft and attempts at it
+		* Toughs,  beaters
+		* Footmen and Mobsters
+		* Dragons
+		* Kill orsithach furi
+			* Kill the Resurrected Lagarach Munsa
+			* Kill Gino
 		* Infiltration
 		* Execution
 		* Exfiltration
-	* Kholirah Campaign
-		* Scouts and Vanguards
-		* Sons of the godking + several levels
-		* Armies 
+	* Kholirah 
+		* Scouts and Vanguards, Random fights
+		* Sons of the godking, Captains with squad (5 total), Open attacks 
+		* lieutenants with Four squads of 5, Targetted hit squads
+		* Brigadiers, Four lieutenants, Four Squads each, Windwalk in
+		* Generals with four brigadiers etc; Armies with Control weather
 		* Into Kholira
-		* Castle of the godking + level + boon
+		* Castle of the godking mozéié 
+	* Find nirrum's library
+	* Supress the cult
+	* Riches from Dungeons optional
+	* Birth of nations. Optional
+	* Kill the moon or hide it in the maze? semi-optional
+	* Find a new sun
+	* finish the motor
+	* Steal the steam train from the furi
 
-	* Riches from Dungeons
-	* Cult Campaign
-	* Birth of nations. 
 
 
 

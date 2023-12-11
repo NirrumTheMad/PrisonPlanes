@@ -31,17 +31,20 @@ Craziest mosaics
 ADD TEMPLE HERE
 
 
+
 ===== Description =====
 	Basalt quarried from mines far below old Konia were the source of much of the masonry of Old Konia, and much of that masonry from the fallen walls became the walls of the town that would named Nova Konia. When Konia was destroyed by Kholirahi troops, Eltarmalta, an elf, one of their saviours began to rebuild the city for a second time. He chose to face the lake from the south so people would know the cost of such wars, and decided to partake in an old Konian tradition, that of building walls. The Walls he built with strange elven magic out of the great roses of Konia, swelling their branches and hips and petals until a whole family could feed on a single hip, and houses could be built from the timbres. In doing so, he both ran afoul and incurred a humourous curse from the Carabosse, Archfey of thorns. She fed his magic full to bursting, so that none could control the growth of the thorns. The people fight daily against this incredible abundance so they are not overtaken by thorns that block the sky. 
 	
 	Konia's new throne, on which sits Eltarmalta, who claims regent but is addressed as king. Sits inside of an oak, powered by similar magic. The Golden Oak Throne waits for an heir that the Konians would recognise as their own, and who won't get killed by Eltarmalta as a powerhungry warlord without the hopes of their own people in mind. 
 	
+
 === Urban ===
 	Nova Konia's Houses are most frequently black stone supporting pale garrisoned rose timbers, Whitewashed walls, overhung by deep violet shingles, fired and hand crafted individually. The houses are most frequently three stories tall, with family businesses being run out of the bottom floor. Konian infrastructure is not yet set up for convenience, so water must be carried from the lake and river into cauldrons in the house, and waste must be carried out. Families ususally sleep in rooms on the topmost floor, while kitchens and social areas take up the middle floor. Konian furniture is often wood, upholstered and stuffed with down. Konian wood carvers have no end of supply for their experiments, and much of Nova Konia's art scene is based around woodwork. Folk sleep in raised beds to avoid rats and damp, on mattresses stuffed with goose down,  which is in abundance.
 	Cast iron ranges are always lit, and the baked goods flow like water from the kitchens. 
 	While Many Konians are Spiritual and churchgoing, they are wary of any singular religious order taking hold, so Nova Konia has only one temple in which one can find at least an altar to nearly every god. 
 	Only a few wind-powered cooling buildings exist in Konia, and each family has a personal cold-vault there in which they store their perishable foods. The people who control these cold-vaults are usually opportunistic businessmen, and the source of much grief.
 	
+
 ===== Environment =====
 	Konia is known for its temperate weather, which oscillates regularly between rainy downpour, vibrant sunny days, thick fog, and dreary overcast. In the winter, the snow falls in thick flakes, building in huge, light piles on the streets. A constant rain drips from the eaves, as the houses are never cold within. The region was once all farmland and remains largely open field though now feral apple trees from what were once orchards have begun to reclaim the land. Willows line the riverbanks and the  banks of what were once irrigation canals. On its southern wall, Konia is beseiged by giant roses, powered by fey magic, and the rosewoods choke out all other life within them, save what animals feed on the bark, fruit, and leaves of the roses, and of course what feeds on those. Konia was always a region with very little wind, and now with the great wall of roses on its south, there is rarely a day in Konia in which the air is not still. 
 
@@ -50,6 +53,7 @@ ADD TEMPLE HERE
 	Nova Konia now supports a burgeoning woodworking scene unlike any other on the plane or any region nearby. The overabundance of rapidly growing roses gives them plenty of wood to work with, given that if they do not, they will get overtaken and dragged into a thorny darkness. Iron is still available from the mines that once supported old Konia, and it is from this that they build their tools, weapons, and armour. Nova Konia sits in a lul, where they are able to provide for most of their needs with little effort, but expanding their comfort is an uphill battle. 
 	
 	
+
 ===== Military =====
 	Nova Konia's Military has two tiers, the militia and the Silver knights. Currently there are no new generations of Silver knights, and as a result, all of them are old, either survivors of the war of ants or the last receptors of the oath shortly after it, knighted by knights who had the authority to administer the oath and test. 
 

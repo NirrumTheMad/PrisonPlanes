@@ -420,7 +420,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 
 **Crowncast, The  Blue **
 	//Short Sword, Artifact, Requires Attunement by one of Grao descent, or by the sword's consent//
-	One of the greatest hexblades ever drawn from the fires of the hexforge, Crowncast takes the shape of a light blue bladed Kastane saber, with extremely precise ornamentation depicting a snarling tiger wrought of white jade with rubies for eyes. It was made by  a warrior of the Grao for the purposes of fighting sea monsters, and it is difficult to resist the call for self-sacrifice when it decides it is time for you to fight.
+	One of the greatest hexblades ever drawn from the fires of the hexforge, Crowncast takes the shape of a light blue bladed Kastane saber, with extremely precise ornamentation  for the hilt depicting a snarling tiger wrought of white jade with rubies for eyes. It was made by  a warrior of the Grao for the purposes of fighting sea monsters, and it is difficult to resist the call for self-sacrifice when it decides it is time for you to fight.
 	You gain a +3 bonus to attack and damage rolls. It also has the following additional properties
 	**Sentience. **Crowncast is a sentient Lawful Good object with an intelligence of 10, wisdom of 13, and Charisma of 18. It has blindsight to a range of 100ft. Crowncast has a fly speed of 10ft, but only uses it to get closer to its wielder.
 	**Personality. **Crowncast can speak and is quite verbal. It can read common but does not care to. It has a vicious and single minded personality, when there is danger it will aid its wielder in fighting, but in exchange, that wielder must take on the challenges that no one else can. In Particular the sword bears great hatred for gargantuan creatures unless they are extremely pro-social. Any monstrosity or abberation in particular will have a difficult time slaking its ire. Crowncast speaks irreverently but suavely, and never seems to get into trouble for otherwise crass comments. 
@@ -474,18 +474,20 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 	//Wondrous item, Artifact, Requires attunement by a barbarian//
 	One of the items wrought in the hexforge, these bracers amplify one's internal abilities immensely. While attuned to these bracers, when you rage your move speed and jump height and jump distance quadruples. You Regerate 10hp at the start of each of your turns. The extra damage you do with attacks during raging increases by 3. Your rage lasts up to ten minutes. 
 
+
+**Molar Mass Amulet**
+	//Wondrous Item, Artifact, Requires attunement. //
+	This pearly chunk of white appears to be a tooth, 
+
+
 **Violet Mirror**
 	//Wondrous item, Artifact, Requires Attunement//
 	Made by fey bargain within the clockwork castle, violet mirror is one of the great treasures of the old Grao. Taking the shape of an articulated plated gauntlet of dark metal, violet mirror is unremarkable until she is attuned to. While you are attuned to Violet mirror, you cannot fail checks made to climb. She has the following additonal properties
 	**Sentience: **Violet Mirror is a sentient object with an intelligence of 4, Wisdom of 20, and charisma of 15. It observes the world through the attuned creature's senses and communicates only in flashes of emotion or in dreams. It is capable of minor prophecy but this is fairly unrelaible.
 	**Personality.** Violet Mirror was once a queen of the grao, who gave up her spirit to keep her people safe. While little of her knowledge and cunning is left at all, her desire to see the grao flourish and her immense mercy is quite present. 
 	**The Southwest Bolt. **Once between long rests, violet mirror can deal an additional 12d6 Lightning damage to a target grappled with it.
-	**Wide Embrace. **As part of the attack action or as a reaction while falling, Violet Mirror is capable of launching a cable made of magical silk ending in a bright blue bauble from its palm. This cable is 60ft long and uses gravity magic to stick to creatures and surfaces. A creature trying to detach from Violet mirror must us an action to make a DC 18 Strength check UNFINISHED
-	
-	
-	
-	
-	
+	**Wide Embrace. **As part of the attack action or as a reaction while falling, Violet Mirror is capable of launching a cable made of magical silk ending in a bright blue bauble from its palm. This cable is 60ft long and uses gravity magic to stick to creatures and surfaces. A creature trying to detach from Violet mirror must us an action to make a DC 18 Strength check to free themselves.
+
 	
 	
 **Dragon Tetsubo**

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-11-22T18:50:51-03:30
+
+====== Common Lore Archetypes ======
+Created Wednesday 22 November 2023
+
+**Cobbler** **Elves**  known for repairing shoes in exchange for bread or cheese. 
+

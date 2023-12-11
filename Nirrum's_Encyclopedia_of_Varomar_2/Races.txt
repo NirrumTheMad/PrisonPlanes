@@ -6,3 +6,74 @@ Creation-Date: 2023-10-21T12:53:57-02:30
 Created Saturday 21 October 2023
 
 [[Nirrum's Encyclopedia of Varomar:Races]]
+
+In this realm of the Realm behind the stars, the physics of speciation is much better understood than on other planes.  As the universe propogates fields at different energy levels with different strengths, it seems inevitable that eventually, the manipulation of field forces end up approximating what we would usefully know as life. That is to say, pervading the entire universe, there is an "elf" field, and once properly excited, something in that region begins to act in a way usefully indicative of elves. Trading cards, people, rooms, government infrastructure, individual molecules. Elf becomes a //Property //of something, and likewise that thing becomes a property of that instance of elf. This is known as a Phenomenotype, and it is the result of magnitude of energy applied to a complex field. The most well known Phenomenotypes are listed below, but there are hypothetically infinite  varieties, and within those varieties, a substantially gargantuan number of subvarieties. For ease, naming tradition(based in homocentrism), and usefulness, the most common Phenomenotype is listed as "base species." Base species has some strange properties as they very rarely seem to have any level of intrinsic magic.
+
+
+===== Base Species =====
+
+==== Homonid ====
+	Homonids are a group of closely related species that are noted for their bipedal land-dwelling shape and dextrous appendages.
+	
+	humans, and close subdivisions
+		A plains native, exceptionally well adapted to long distance travel and one of the best bases for ranged weaponry. They have proportionately short arms compared to other homonids
+	dwarf, and close subdivisions
+		A caverns native. Similar in shape to humans but shorter, stronger, and with proportionately longer arms, making for better striking in compact spaces. They have relatively long lifespans.
+	halfling, and close subdivisions
+		A hills native. Very small, proportionately similar to dwarves but much quicker and more nimble. Capable of exceptional speed for short periods. Longest lifespan of the homonids.
+	Orcs and close subdivisions
+		An arboreal riparian native. Orcs are stronger than all other homonids on average, usually taller. They are usually proportionately similar to Dwarves and Halflings. They have slightly shorter lifespans than humans.
+		
+Examples of other bases:
+
+==== Reptile ====
+Interestingly nonsapient on average
+	Lizards
+	Snakes
+	Crocodilians
+	Turtles (tortoises inc.)
+
+==== Cetacean ====
+	Baleen Whale, and close subdivisions
+	Dolphin, and close subdivisions
+	Porpoise, and close Subdivision
+	Toothed Whale, and close subdivisions
+
+==== Arthropods ====
+	I'm not even going to populate this, because the idea of the elf-robot-draconic ant colony is already doing a number on me
+
+
+===== Phenomenotype =====
+Phenomenotypes very often mix to produce interesting results
+A phenomenotype does not need a base species. Technically a "base species" is its own phenomenotype, 
+
+
+==== Gigantic ====
+	Giants are a group of phenomenotypes that magically form to have greater magnitude than a base archetype. Giants phenomenotypes often interact with time differently than base types, seeming to have some ability to percieve it more clearly (Precognition, Postcognition), while often missing more immediate and present factors. 
+
+==== Draconic ====
+	Dragons are a group of phenomenotypes that magically form to have some sort of flight, usually a weapon projected from the mouth, and strangely intense ambition and desire for consolidating power. Draconic phenomenotypes often cause strange growth or erosion patterns that impede the progress of things outside of some sort of core. 	
+
+==== Fey ====
+	Fey are a group of phenomenotypes that magically form to use a physics system known as //grammarie, //with a common manifestation of force being known as //favour. see the section on the feywild and the fey section of the physics document for more. // In general a Fey Phenomenotype will seem to grow faster, often have seemingly inconsistent duration, and come with strange mind-related abilities or effects
+
+==== Beastial beings ====
+	Beastfolk are a strange phenomenotype in that they mostly magically mash two base types together until something works. The most interesting races to come out of this are usually a sapient and non-sapient phenomenotype. In general, exposure to this phenomenotype induces self-preservation instincts and features, though other stranger effects like eusociality can appear as well
+
+==== Undead ====
+	Undead are a group of phenomenotypes that magically allow persistence long after the machinery of a being has long faded. They can only reall pop up after something has already died, or in the process of it, and as a result, it is hard to mix this phenomenotype with others to produce viable carriers.
+	
+
+==== Celestial ====
+	Celestial phenomenotypes are invariably the result of deity-class beings, and are unique to those deity class beings. This includes beings of all alignments. What defines each one of these is the will of the deity-class being. Often these beings have alternate physics requirements, and most use some form of magic, but not all. It is not possible to define what these phenomenotypes do to things on exposure as every deity-class entity is ostensibly unique.
+
+==== Monstrous ====
+	Monsters are a group of phenomenotypes that have some intrinsic magic capability, but are drawn to destruction or antisocial measures. A great many of the worst things in all worlds come from this phenomenotype. Monstrous Phenomenotypes generally increase hostility, and are highly entropic, causing rapid energy exchange and loss.
+
+==== Constructed ====
+	Constructs are a group of phenomenotype that was entirely constructed by another entity with intent for each piece. A construct Phenomenotypical event or effect is a rare occurence, but they can show up most frequently in the wake of some deity-class entities, sometimes in the clash between such entities, and sometimes spontaneously generated as the result of other phenomenotype fields and entities therin interacting
+	
+
+==== Others ====
+	There are a great many other phenomenotypes,  all of which create interesting entities that interact with the world in their own way
+	

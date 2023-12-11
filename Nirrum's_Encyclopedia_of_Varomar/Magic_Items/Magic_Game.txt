@@ -9,17 +9,24 @@ Each word has the same amount of power as the others, so earlier words can do mo
 
 The composition of a firebolt is probably
 
-Fire Juna Sil at a power of 1?
+Fire Juna Sil at a power of 1? no not quite
+
+Cost - Magic requires a certain amount of juice to get going
+
+Stability - Some words decrease the stability of a spell. A spell with 0 stability fails, a spell with less than 0 stability backfires
+Zone - Zone is a composite score
+	Area - from point to cosmic
+	Duration - instant to eternal, Regressive is theoretical
+	
+	
 
 
-
-
-The first three words, the origins, the only three things to exist
+The first three words, the origins, the only three things to exist 
 Sil - Projection, to thrust forward
 Hit - Obstruction, the friction of the universe, the medium fights back
 Nuun - Deflection, to allow yourself to be changed
 
-The second words, the forms
+The second words, the forms 
 Kiolo - Direct Conflict, as two waves crashing together, the more powerful will win, but diminished, Sil and Sil
 Asem - Indirect Conflict, the grinding of wheels in opposition, both are reduced by an equal amount but continue, Nuun and Nuun
 Jieh - Lengthening, the cracking of a whip, the building, the budding, the intent to be opposed. The diminished nuun is added to the incoming sil,
@@ -66,4 +73,4 @@ Zen - Un, the recognition of all things and no things, Resolution of paradox, Ce
 
 
 The great words
-Juna - the Vehicle, a balance that allows efficiency
+Juna - the Vehicle, a balance that allows efficiency. 

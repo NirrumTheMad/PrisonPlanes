@@ -14,7 +14,7 @@ Created Tuesday 23 October 2018
 
 
 ==== Menu ====
-	//Food://
+	**Food**
 		Meat pie
 			Lamb
 			Chicken
@@ -28,7 +28,7 @@ Created Tuesday 23 October 2018
 		Vegetarian Potage
 		**"Stew"** - unique from location to location, Local ingredients only if possible
 		Potato Skins with local Cheese and pork scrunchions
-	//Drink://
+	**Drink**:
 		Beer
 			Local Ale - Unique to location if possible
 			Porter

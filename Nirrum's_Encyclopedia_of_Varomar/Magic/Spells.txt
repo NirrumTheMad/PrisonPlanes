@@ -19,7 +19,7 @@ Anyway, here's a list.
 		**Components**: V,S,M (10lbs of bone dust from sapient creatures, 10lbs of salt, and a gemstone worth 1000gp which the spell consumes, and 500gp of glass alchemical equipment)
 		**Duration: **Special
 		You Touch a willing living creature. The next time that creature dies, they resurrect in a body of your design, after conditions of your specification are fulfilled. The spell completes once the conditions are fulfilled. After casting this spell, until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
-		**Classes: **Warlock
+		**Classes: **Warlock, Wizard
 		
 	**Demoniac howling** 
 		4th Level Conjuration
@@ -33,7 +33,7 @@ Anyway, here's a list.
 	**When Shadows fall**
 		6//th level transmutation (ritual)//
 		**Casting time: **1 action
-		**Range: **Touch
+		**Range: Self**
 		**Components: **S**,M A ritual knife**
 		**Duration: **Special
 		You slip yourself into a shaded location with dim light or darkness. Using your movement you step into these shadows. Nothing of your presence remains visible or otherwise detectable by nonmagical senses. While Merged with the shadows, you can see clearly from that location using your own senses, You remain aware of the passage of time and cast spells on yourself while in the shadows and you can use your movement to leave the shadows where you entered it, Ending the spell unless you return to that location within a minute. You otherwise can't move. The spell lasts for 24 hours but If the area you step into is no longer in dim light or darkness, you are trapped in that location until it is dark again or until a spell such as dispel magic is cast on your location
@@ -66,6 +66,8 @@ Anyway, here's a list.
 		Your voice can be heard clearly by all creatures in range as if you were in a quiet room when you spoke. Ignore the effects of magical silence, physical boundaries, Overcoming all loud sounds.
 		**Classes: **Bard, Sorcerer, Warlock
 		
+
+
 	Third Veil Contract
 		summon an extraplanar entity to offer a contract to a creature you know of. The contract must benefit all parties in some way.
 	Rebirth
@@ -74,7 +76,7 @@ Anyway, here's a list.
 		Stick a curse on a creature so that you always know the distance and direction to it. Spellcast modifer number of marks at a time
 	Construct Body
 		Make a perfectly functional body, lacking a soul.
-	Deep hunger
+	Deep hunger (2nd level)
 		Eat more than you reasonably could, magically store half of that for later, 
 		
 	Three Thousand Curses
@@ -102,6 +104,8 @@ Anyway, here's a list.
 		get a cup, trade value of items to fill that cup with one dose of a potion that you have enough resources to purchase. does not need to be in gold.
 	Tempt
 		dunno what it's gonna be but it'll be an enchantment
+	Disrupt
+		Fight a creature of CR equal to half of the spell save DC of the creature that created a magic item, effect, or spell. Dispel it and learn the spell
 
 
 

@@ -9,7 +9,7 @@ Created Thursday 26 October 2023
 [[+Restaurants]]
 +
 
-
+NEED CITIZENSHIP SYMBOL
 
 ===== Description =====
 	Burrowed into the heart of the northwestern Aegis is the great dwarven city of Skalmirthon. The culture of these people echoes in every rock, in each block, in every step that can be taken. The dwarves work for each other, gain for each other, and care for each other, or else. A single dwarf in anger is always a problem, and it is never one those in power can afford. The dwarves in these mountains come with a guarantee. We //will// thrive. Time and time again, they have proven themselves to be the most siegeproof, corruption resistant, and dedicated civilization on the plane, which makes their partnership with the dark elves all the less likely. Stripped from their homes, many of them fell away from the influence of their god, whose presence was prevented from taking hold on this plane. Nearly an entire race of fantatics, now floating without the constant assurance that their god was watching them, now not only without that god, but exposed to the power of other gods who would far rather influence them to chill out. The drow of Skalmirthon are listless but still excellent hunters and warriors and in many ways, old habits die hard. With the blessing (and influence) of new gods, the alien drow are under control but blades are still sharp when sheathed. 
@@ -24,8 +24,49 @@ Created Thursday 26 October 2023
 
 	**1) Throne of the King**
 		This lone tower sits in the centre of the volcano, and it is the formal home of the king of Manaharamu. It is six floors tall and extremely ornate within, with the throne itself being on the second last floor. It sits directly beneath the open crater, though recently work has been done to make the throne airship resistant. 
-		Around the base of the tower
+		Around the base of the tower a 60ft wide gap leads to "the abyss" which is really just a permanent lava lake.
+		
 		For 50 years after the previous king died, there was no one on the throne of Skalmirthon, until an adventurer from Manaharamu was selected by clandestine forces within the city to take the fall for their corruption. Unfortunately for them, King Deloch Welch was a surprisingly capable king. He rather swiftly undid the sources of corruption in the town, using local experts and a rather large amount of alchemical ingredients. 
 		
+	**2) Ramie Circuit**
+		Hugging the edge of the abyss, bathed in what sunlight reaches through the mouth of the volcano high above, is Ramie circuit. It was the only park in the city until the Manarahi diaspora, whence immigrants began building magically lit green spaces on rooves, in between buildings, and occasionally on the walls. Ramie Park remains the most popular park, though it is culturally expected to be fairly quiet there
+		
+	**3) Sidest District**
+		Centered around the Cloth Storehouses, the Sidest district is home to the clothiers, tanners, weavers, and other textile workers of the city. The district smells because of the tanners, but finely made clothing can be found or made for all races.
+		
+	4) **Istrath District**
+		This is one of the better guarded districts in Skalmirthon, and with its fresh population of Manarahi, it is also one of the best managed. It holds the storage of jewels and minerals of Skalmirthon, as well as a sizable population of transmuters, and of course, the jewellers that preceded them. 
+		
+	6) **Eshtan District**
+		Smithies, smelters, and a great number of small artificeries and workshops are here, Very few people live in this part of Skalmirthon, as it is not only very loud when one is trying to sleep, but also because of the dangers of being exposed to fumes when one is not prepared. 
+	
+	**7) The Great East Wideway**
+		The shortest of the large dwarven roads, the east wideway pops out on the last slopes of the aegis toward the Ushlubarel, where drow hunters often stalk easier prey. The journey is still long, but for elves, it is a reasonable trot. As this the most used wideway, it is well furnished with stops along the way, though the outermost drow are often the least accepting of others.
+		
+	**8) Elg'Hasek**
+		The neighbourhood closest to the East Wideway, where the majority of the drow in the city live. As citizens, the drow are allowed to live anywhere they like, but at least, here is where the therapy is the easiest to access, as are the wilds
+	**9) Rêdê District**
+		Where once the great temple of Moradin stood, Now stands the University of Skalmirthon, with the Rebuilt old temple as part of its entrance hall. This university is far more compact that Manaharamu's was, and many pieces of it, including the adamantine stages from the school of Evocation, have been repurposed after their recovery. The new university also has far more verticality, and thus, gargoyles and grotesques with staves of featherfall dot the precipices in constant vigilance for those who fall. Here also is where many of the diasporic Manaharahi have made their home, Building them above and with the help of the svirfneblin
+	10) **The Chaos Mines**
+		A supply of strange ore runs deep into the roots of the volcano, bypassing even the magma sea. It seems to be unique on the plane and it leaks strange magic in abundance. The previous king, Deloch Welch lead a force to clear out a cult that had been using the ore to mutate citizens of skalmirthon, which was his last act as a citizen of Manaharamu before taking the crown. Bursts of mutating energy still leaks out, but usually the problems are reversible without fatalities.
+	**11) The Great South Wideway**
+		Leading from Mjoriskivor, the great south Wideway is the the most profitable wideways, and since the reign of King Deloch welch, the most well maintained. The Journey is very long so it is advisable to take many supplies. 
+	**12) The Trading Hall**
+		Standing in the south, very close to the wideway, the Trading hall is a heavily armoured, heavily locked, heavily guarded storehouse for the trade goods that the university produces. Prices on Magic goods remains much the same as it did during the time of Manaharamu
+	**13) The Great Elevator**
+		A heavily defended entrance on the east side of the volcano, the only real airship dock, now significantly more busy since the fall of Manaharamu
+	**14) Old Nobles District**
+		With the complete gutting of the old Nobility and institution of primogenitor rules for the now constitutional monarchy, this is now the district to find Artificers. The new Trading hall stands as the spiritual successor to the tow
+	**15**) **Common district**
+		This is the residential district where nearly everyone who doesn't need to be handy to a workshop lives. This is where the Xanaran's is, Where you'll find many common shops, and where most inns are. 
+	**16) Military Complex**
+		When the Welch Dynasty was done making sure the city was sane, it then turned its eye to making sure the city was safe. The dwarves hold already the most seige-resistant culture on the plane, and the drow are already some of the best assassins, add to that the mages of the Manarahi, still fresh from the horrors of war, and the mountain kingdom holds a good chance of standing after the breath of anyone alive today. The Military complex houses the barracks and training facilities to manage and train the military, though rarely are the halls full.
+	**17) The Prisons and Police Station**
+		Freshly scrubbed of corruption with a lot of brute force diplomacy
+	**18) The Avuz District**
+		This is where miners, stonemasons, and many craftsdwarves live and work, located close to the mines and the underdark Widewayway in the north.
+	**19)** **Underdark Wideway**
+		This passageway leads to the tunnels that comprise the various layers of the prison, as well as the major mines on the north face. There is a separate passage that sweeps south near the entrance that leads to the underground sea, heading toward Danzuishan
+
 
 
