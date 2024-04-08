@@ -86,3 +86,7 @@ At second level you gain proficiency with martial weapons and can use wisdom as 
 	* Thunder - This weapon hums ominously, makes cracking sounds when swung and impacts from this weapon can be heard for up to 200ft away.
 	* Force -  The weapon Ignores gravity and hovers in place until the end of your next turn when dropped or until another force is applied. 
  This effect lasts for a minute or until the end of your next turn if you let go of or throw the weapon. Other Damage types have minor flavour effects, such as fire giving off warmth and light comparable to a small campfire, or necrotic causing minor rashes on prolonged contact.
+
+
+**Spring Within.**
+	You tap into your eld powers. You no longer need to sleep and can no longer be put to sleep magically. When you rest, you may instead disappear and spend your time in the dreams of another creature for 4 hours, though nothing in the dream can affect you. A creature that remembers its dreams might remember your presence in them. If their sleep is interrupted, you quietly appear in the nearest unoccupied space. If you sleep normally you find your dreams extremely wild, vivid, and filled with fey creatures. If you ever meet any of these fey creatures they can confirm the dream's occurence. You also speak, read, and write sylvan (and also old gaelic, but the difference is subtle). 

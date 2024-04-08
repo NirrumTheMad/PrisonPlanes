@@ -5,6 +5,10 @@ Creation-Date: 2023-08-07T00:30:52-02:30
 ====== Homegroup 2023 ======
 Created Monday 07 August 2023
 
+
+Damien
+
+
 Goal of the story:
 Kill Moseie, Orsithach, Establish at least one new country, Supress the cult, Visit the feywild, set up new villains, partially set up recovery of lost Manaharahi and Konian 
 Make use of homebrew items, make use of homebrew classes, Make use of Homebrew spells, Make use of the Magic Game for Arcana checks
@@ -16,16 +20,16 @@ Mode of delivery:
 		* Characters start at level 5 (be prepared for 6 after session 1) and will end after 20
 			* All offical works and select approved homebrews are allowed. Except centaurs
 				* Extreme modification of some of these are also allowed
-			* There is no limit to the amount of munchkin bullshit I am willing to endure, provided it makes sense in the world. If you build the power nine and can summon gods with it? Good. 
-				* No simulacrum, still
+				* No simulacrum, no long range teleport
 			* Multiclass prereqs do not exist.
 				* talk to me about stat-swapping any facet of a class, race, feature, spell, etc;
 			* Free Starting Feat or other advantage starting
 			* Point buy/standard array
 			* Characters using any of the homebrew options that are specific to snarl get an extra uncommon magic item on creation
 			* come with one ambition; Kill the godking, make a country 
-
-
+			* Roll health twice, take the higher
+		* Make three characters, death is an option, the campaign will end either when all goals are achieved
+	
 	Campaign bargain
 		* This is not a grindy campaign but it has rewards for those that look for them, rather ridiculous rewards
 		* The more holes you fill, the more your characters will be written into the history of this world.
@@ -35,21 +39,31 @@ Mode of delivery:
 
 
 
-Considerations
+Pacing:
 	Levels needed:
 		15
 		
 		6 vignette
 		7  Enfuckerator quest
-			The party gets a delivery quest to drop off an unstable arcanohedron, a device of strange mystic capabilities. Thugs will rather incessantly try to steal it, as it is a construction of immense power, capable of being used in 12th level magic in a rather general way. 
+			
+			The party gets a quest from a tiny and seemingly ancient fey. In exchange for "whatever they want that is within the power of mortals, most forms of immortals, and some of what lies beyond the abilities of either", they are tasked with gaining enough power to end the stories of the godking, The Furi, and the Moon."
+			
+			The fey, known as the Neriadniclu, of the court of Valour, has convened the ritual of the happening, and things are about to begin changing in the world. The party has the choice to partake in that magic. Their part is simple, gather power beyond the power of common mortals, and defeat the three targets. To help them along, the neriadniclu has already rewritten their lives such that they are capable of their quest. The Neriadniclu grants them a compass that can point them toward places of power 
+			
+			and/or
+			The party gets a delivery sidequest to drop off an unstable arcanohedron, a device of strange mystic capabilities. Thugs will rather incessantly try to steal it, as it is a construction of immense power, capable of being used in 12th level magic in a rather general way. 
+			
 				* Furi thugs obviously want it for cash
 				* The Cult wants it to break another bone artifact
 				* Kholira wants it to allow the godking to ascend as a true deity-class entitty
 				* Starspawn seem attracted to it as the moon is trying  Kill everything on this plane
 			* The Recipient is Nirrum the Mad, or what's left of him
 			* The party is first accosted by moon-touched and Kholirahi
+
+			In both cases the party faces an assortment of their enemies, ending with one of the sons of the godking and another level up, being a 1/3rd way through the first quest
+
 		8 Feywild/Maze
-			* The party must have reasonable amounts of treasure
+			* The party must have reasonable amounts of treasure halfway through whatever they're doing
 		9  End
 			* Party gets a house somehow 540 sqft, thus 54g in tax per year +7/person
 			* Party is informed that several people have been arrested trying to hunt them down.
@@ -59,7 +73,9 @@ Considerations
 			* You also find yourself getting stabbed in an alleyway, You are surprised that this is from a third person perspective. The third person is you, you are watching yourself get stabbed
 			* The police have put three of the same person to death, imprisoned six others. They've employed someone with truesight to see if you're real, and the person is amazed at how well the illusion you have is holding up and that they can't see through it. They are shocked to be reminded that being actual people is a possibility
 		12 Feywild/Shadowfell/Maze/Bone artifact Halfway
+		
 		13 End
+			* Attacks are getting serious against you, Minor players as attacks are common every time you leave the house
 		14 Feywild/Shadowfell/Maze/Bone artifact Halfway
 		15  End
 		16 Dwallat/Kholira/Moon
@@ -69,11 +85,9 @@ Considerations
 		20Dwallat/Kholira/Moon
 		Boss
 
-Session 0:
-	inciting solidifying incident
 	
 
-Crossroads -> Danzuishan
+Toolbox
 			->Vaylen as NPC can direct people into the feywild 
 			-> Zul Probably can help people find cult members
 			-> Danzuishanese maze is an option
@@ -110,7 +124,7 @@ Crossroads -> Danzuishan
 			Lagarach munsa (skalmirthon)
 			Orsithach furi
 			Teallah Fohin (Skalmirthon)
-			Biero - psionic operative (psi warrior)
+			Biero - psionic operative (psi warrior)(dwallat)
 			Moji agthak (Danzuishan)
 			Salla Dzorgon - Psionic operative soul knife rogue
 			Hamen Yano - An orcish alchemist, responsible for the production of Farsight Pollen
@@ -140,31 +154,37 @@ Beats:
 		* ex. Trussari
 			* Complete an antimagic amulet
 		* ex. Silver Knight Acolyte
-			* Recover silver knight regalia from the resting place of a lost knight
+			* Recover silver knight or crown regalia from the resting place of a lost knight
 		* Ex. Son of the godking
 			* Kill one of your brothers
+		* Child Of Lost Graoton
+			* Reclaim one of the crown regalia
 	* The Crossroads to danzuishan?
 		* Individual  fight against bandits
 		* Recovery, Maybe introduce one villain
 		* Journey to Danzuishan or Skalmirthon
 			* The Feywild
+				* [[+Feywild]] 
 				* Generate favour somehow
 				* Exit the feywild + level
 			* Shadowfell voyages
 			* Raid the underdark for the BONE ARTIFACTS THAT THE CULT POSESS 
 	* Furi
+		* [[+Dwallat_Adventure]]
 		* Get accosted by the Furi, possibly even have the Furi succeed 
 		* Starts with theft and attempts at it
 		* Toughs,  beaters
 		* Footmen and Mobsters
 		* Dragons
+
 		* Kill orsithach furi
 			* Kill the Resurrected Lagarach Munsa
 			* Kill Gino
 		* Infiltration
 		* Execution
 		* Exfiltration
-	* Kholirah 
+	* Kholira
+		* [[+Kholira]]  
 		* Scouts and Vanguards, Random fights
 		* Sons of the godking, Captains with squad (5 total), Open attacks 
 		* lieutenants with Four squads of 5, Targetted hit squads
@@ -174,6 +194,7 @@ Beats:
 		* Castle of the godking mozéié 
 	* Find nirrum's library
 	* Supress the cult
+		* [[+Underdark]]
 	* Riches from Dungeons optional
 	* Birth of nations. Optional
 	* Kill the moon or hide it in the maze? semi-optional
@@ -181,6 +202,16 @@ Beats:
 	* finish the motor
 	* Steal the steam train from the furi
 
+
+
+
+
+- new powers and magic items that will not be replicable in future runs of the campaign
+- The promise of the death of three tyrants, The tyrants of blood, gold, and the night
+- Choices include who to replace the godking with, where to send the freed people
+- npcs include the dragons of Dwallat, the sons of the godking, the Wandering Trussari 
+-adventure
+- surprises. SONS OF THE GODKING, The neriadniclu opening, Many of the fey
 
 
 

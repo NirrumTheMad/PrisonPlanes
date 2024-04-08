@@ -9,3 +9,4 @@ Created Thursday 08 October 2020
 [[+runes]] 
 [[+ki]] 
 [[+Invocations]]
+[[+Metamagic]]

@@ -1,0 +1,68 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-12-31T00:03:47-03:30
+
+====== Strange Train Ride ======
+Created Sunday 31 December 2023
+
+You're on a train from Danzuishan to Umlil orill, just south of the aegis. The warm jungles of the lower gannaga are swarming with mosquitos and so is the train. As you cross a bridge and enter yet another thick forest, something strange catches your eye. The thin patch of moss that had taken root in the crevice by the door where dirt was seldom disturbed has begun to grow and spread across the train floor at about the rate of a motivated turtle, which is alarmingly fast for moss.
+As you watch the moss you glance out the window in time to see one tree beat another with its branches, which is responded with the second tree rather rapidly growing a spear-like thorn, nearly the size of a man, cracking the other tree in half.
+The train was surely moving straight but now it seems to be curving to the left and also downward at an alarmingly steep level, but you sense no change in gravity. The water in your mug is still level too.
+You hear a loud smack, a passenger across the way exclaims "damn mosquitos can hurt!" before slumping over, entirely unconscious
+
+A sharp whining buzz ceases somewhere near your ear, your luggage nearly falls on your head. Roll initiative
+
+
+The Actors:
+	The Party, perhaps one of whom is secretly an archfey, and perhaps one of whom is not. Perhaps all of them
+	The other Passengers - Usually unconscious, infrequently in states of heightened emotions, occasionaly turned into a tree
+	
+The Setting
+	A train from Danzuishan to Umlil Orill, Overtaken by a Phenomenotypical Influence Flux Event, seemingly of a fey subtype. Plants begin growing strangely, lights fail to make sense, space seems fluid. Occasionally, the aesthetic of cars changes to something entirely implausible. 
+
+	One Part
+		Either the Caboose or the locomotive makes the goal, the only places the brakes can be worked.
+		
+		
+		
+
+==== The Train ====
+	The path: Thankfully straight and hilariously  on rails. The event starts with a single swarm of dimming mosquitos. 
+	
+	Win condition: set off the brakes for the train, there are brake stations in the caboose as well as the locomotive up front. 
+	
+	Treasure: your lives and perhaps some favour
+	
+	Catches: Fey Magic is unpredictable and has made the journey longer and more dangerous than it should be. Indeed, rather than just a PIFE, it appears the train has at least partially entered the feywild in  truth, runnining along the branches of Gamnus Oaks and spruigias, through starfly fields and witchriver groves.
+	
+	Twists: One of the party (or an NPC) is an Archfey who is having a great time. The Selected Archfey Either rolls or chooses from a list of things that happen in each car, to a maximum of 6 events.
+	
+		1 - A swarm of dimming mosquitos descends on a party up to their waist in water as this car is flooded and marshy. Fey swamp sharks bite at ankles
+		2 -a Car becomes Characteristic of a Myceloria, and characters are barred from passage until they are able to clear away the giant mushrooms
+		3- a car becomes a set of corridoorways with a culdersnatch or wrongoblin. The corridoorways are small, and loop back on themselves frequently. One room off of the left side contains the passage to the next car
+		4 - a Fey eel flies alongside a normal train car and attacks through open windows with its pharyngeal jaws, it continues attacking the entire length of the train unless dealt with
+		5 - Gravity is reversed in this car for half of the party and their equipment, twisting to the right as they walk in if they are effected.
+		6 - Six Dracoons have discovered a source of food and are horrified to intuit the party's intent to steal it from their presence. 
+		7 - The car is COMPLETELY Normal except that everyone in the car is a gnome or elf who get upset at the party for opening the door and letting the water/mushrooms/dracoons in or for letting the gravity out (I was saving that) or panicking as the fey eel swoops alongside the train. Of course this train is filled with feywild things, it's part of the feywild
+		8 - One train car has been seemingly erased from reality, and a single leaning stone obelisk in a thin car-sized mossy field sits on the metal framework that held the car. Unfortunately, one can't quite get around the obelisk without falling or flying over it. It's not magical, just wide. On the other side of it,pressed up against it are the leaves of a carnivorous archdrosera, A fast-acting and rather gigantic Sundew plant.
+		9 - A cargo bed has been taken over by a single, angry lightning ram who endeavours to keep it for himself
+		10 - One car hosts the darkbar, a normally infinite restaurant now turned into a slightly longer than normal car. Thorcurin, Archfey of tongues is in residence who gives favour for recipes or cooking philosophies,  and redeems favor for meals. More advanced deals can lead to warlocks and/or children
+		11 - The party has shrunk to 1/16th their normal size, or the car has grown, it is hard to tell. A belling cat hunts them
+		12 - The next car is filled with weirdly moving sandstone. Characters are forced to crawl, spending 3ft of movement for every 1ft they actually travel and if they travel less than 5ft, they begin to get stuck. There are roller scorpions
+		13 - The Next train car is vertical and seems to be falling down a deep pit if players look out the window. Opening the door on the other side ends this effect
+		14 - The next car is filled with screaming children, the normal, unthreatened kind of screaming children, all trying to navigate a very short maze 
+		15 -  ~~Santa claus~~ The Euratsatni is in one car, handing out gifts of food, potions of health, and toys that trigger memories
+		16 - Everyone in this car has been replaced with stone that is slowly growing, except one small pixie who appears to be dancing to silent music on one seat. The Car is inescapable in three turns. 
+		17 - the car has been replaced with a running gargantuan tiger that seems to be made out of ribbon, The sun is eclipsed, and to pass, the party must fight a fomorian
+		18 -  As you enter the car you are struck with sudden silence. A bird flies in through the open window, tweets once after landing, and immediately turns to stone. Several other statues of people dot the train. All of them in states of distress. 
+		19 - Glass rain falls from the ceiling, doing 1 damage a round in this car. A small child cries from under a bench
+		20 - Roll twice and combine the results if you are rolling. Do not pick this one if you are not. Add one extra for each time you roll a 20
+		
+		
+ 
+		
+
+
+
+
+

@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2019-04-01T16:46:30-02:30
 
 ====== An Underdark Adventure ======
@@ -16,7 +16,7 @@ Actors:
 
 **The party - **
 	Branwen - Worshipper of the raven queen, Rogue
-	Four Ythree - The strangest lich
+	Fourt Ythree - The strangest lich
 	Trizane Finrae - Warlock of something
 	Ferd - Fallen aasimar blood hunter
 	Brandy - Tiefling Brewer and blood hunter

@@ -1,0 +1,162 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-12-23T13:06:04-03:30
+
+====== Dwallat Adventure ======
+Created Saturday 23 December 2023
+
+Outside to inside
+
+
+Actors:
+	The party
+		(yet unnamed)
+	The Thugs - here for a payday, here for food, here for something worse to do
+	The furi upper Echelons - Also here for a payday, somehow more ravenous
+	The hidden citizens - Surviving on the entropy of greater powers
+	
+**The Setting:**
+	Mesas and plateaus of sandstone, carved by receding waters. Unfortunate heat, holy shade, and unholy denizens. 
+	
+	Parts
+		The desert itself
+		The canyons
+		Dragon's Roost/War of the dragons --level up 
+		Heart of Dwallat
+		Hall of the Free king
+
+Treasure to be found
+	Desert - nothing save what you kill
+	Canyon - food and water, limited but needed
+	Dragon's roost - The help and friendship of many dragons
+	Heart of dwallat 
+		- Secret gardens of dwallat 
+			- Chromatic Roses
+		- Treasure halls
+			- Low level
+				- armory and artificery
+					-Dagger of denial
+					- Mariner's armour (lots)
+					- Tinkertop Boltblaster 1000
+				- Honeypot treasure hall - trapped heavily
+					Sekolahian Worshiping Statuette
+					Deck of illusions
+					Cursed items
+
+			- Medium level 
+				- General use rewards, General use magic
+					Ring of Spell Storing
+					Stirring dragon-touched foci (many)
+					Bloodaxe
+					
+
+			High level
+				- Personal armoury
+				- Greater treasure hall
+					Luxon beacon
+					Shield of the Hidden Lord
+					Dragonlance
+		Oristhach's personal effects
+		
+		
+		
+==== The desert ====
+
+**The Path**
+	Survival rolls, are needed to cross the vast field of sand. Compasses are useless, and certain types of survival rolls get advantage if performed correctly the first time. Lightning frequently strikes the dunes if clouds roll overhead, regardless of rain. The sun shows its unending ire during the day and the moon forever casts its glare unless the party is well prepared. 
+	
+**Win condition**
+	Make it to dwallat
+	
+**Treasure**
+	Meteoric iron with abberant properties
+	The corpse of a traveller against a rock with a Lohar of the witch lords and a explorer's pack with no rations or water.
+	
+**Catches**
+	The sun in the daytime is harsh - 2 gallons of water per day
+	Dragons occasionally patrol the desert, getting spotted makes life harder.
+	
+**Twists**
+	Maneleece Milat is hostile to the party and either wants the Arcanohedron or revenge.
+	
+**Enemies**
+	Purple Worms
+	Retriever
+	Bigger wight?
+	Mummies
+	
+==== **The Canyons** ====
+	
+	**The path**
+		Labyrinthine and extensive canyons stretch for miles. Tall and imposing red sandstone  creates shade and allows for pools of water, while also hiding cracks, crevices, and caves. Reeds and trees hide along secret ponds that have been filled since the receeding seas left dwallat standing as a monument in the desert.
+	
+	**Win Condition**: Reach the Dragon's Roost one one of the central mesas in the massif
+
+	Treasure
+		A dropped and buried statuette of a godess made of skilfuly worked marble, streaked with gold and jade, 2000gp
+	Catches
+		These places are monitored and unfamiliar.
+		Alignments are difficult to judge in this place
+		
+	**Twists**
+		A full, angry, and impatient moon  has corrupted many things, an abberant wave of creatures descends upon the land (see abberations)
+		
+	**Enemies: **
+		Abberations
+		a dragon
+		Desert giant with a grudge
+		
+		
+==== The Dragon's Stone Eerie ====
+	
+	**The Path **
+		Where one central mesa lies slightly lower than the rest, the road climbs a steady hill past cave and divot, throne and temple, all built to, for, or by the dragons that cover the landscape. The barren highlands are inhospitable, even for the region, but the road is straight and well travelled.
+	
+	**Win Condition: **Enter Dwallat's Heart Alive
+	
+	**Treasure**:
+		The Eye of Teruna, The source stone, Granting just unambiguous immortality
+		The Favour of the Dragon King
+	**Catches**:
+		It is impossible to get in to dwallat without being seen. 
+		The dragons are at war (Ujira The Lavender and Brelamanibenaweg the Umber)the thin road is barely a safe zone for the denizens of dwallat
+	**Twists:**
+		This section can be largely bypassed if the party waits for a caravan
+		Helping end the dragon war means that you are immediately known, and consider a threat by the people inside.
+		Not helping the dragons may mean the opportunity of stealth
+		If any Furi operative escapes earlier in the campaign,  or they are unable to clear the psychic sentries before they are noticed, then the furi attack, and on occasion, some dragons may join in the fight
+	**Enemies**
+		Furi battleminds
+		Occasional dragon
+		
+==== Heart of Dwallat ====
+	
+	**The Path**
+		The main road within the heart of the Dwallat has simple branches. The bedlands in one direction, the cafeteria in another, The gates that guard the Main part of the Furi compound, and a trading hall, all worn stone
+		
+	**Win condition:** Pass all gates, Reach the throne and private quarters of Orsithach furi.
+		Twist: Orsithach is nowhere to be found, scrying magic can't find him, the only clues to his location are the teleportation circle in his "quarters"
+	Treasure:
+		Access to the pan-universal portal, a relic of the creation of the world
+		Access to the trains
+		Access to the Furi artificery and treasure halls
+		Crazy guns from sci-fi universe
+	Catches: 
+		The upper Echelons are all either psychic or magical. 
+		People are constantly, and I do mean constantly, attempting to pickpocket everyone.
+	
+	Twists:
+	 **Orsithach furi lives nowhere near this place.**
+	The higher ups speak in complete gibberish or not at all
+	
+	**Enemies:**
+		The entire Furi upper chain of command
+		
+
+==== Orsithach's Quarters ====
+	
+	**The path: **Only through magical investigation, traps, or cleverness can the party find Orsithach's Private demiplane, once they are able to find somethign within the demiplane that they can track though, there are very few defenses against them.
+	
+	
+
+

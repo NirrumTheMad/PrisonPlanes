@@ -89,10 +89,15 @@ This setting has some feats that can be taken. Some of them are good, some of th
 **Manaharahi Duelist**
 	As a reaction, you may make an Arcana check on a spell that is being cast to identify the spell. You can make this arcana check if you can see or are touching the caster and the spell has somatic or uses its material components (as opposed to a casting focus) or if you can hear them and it has audible components.  The DC of the check is equal to 10+ the level of the spell being cast. If you are able to identify the spell, you may cast a spell that has a casting time of a reaction as part of this reaction. 
 	
-	
 **Kholirahi Wood-Dancer**
 	When you are wielding a club, greatclub, or staff, and an opponent makes an attack and misses you, you may use your reaction to move up to your speed toward that opponent and make a melee weapon attack against them
 	
 **Green Knight Dive**
 	At the end of freefalling 10ft or more, you can use your reaction to make a melee weapon attack against a target within 5ft of you. If you fall on the target and hit with the attack, the target additionally takes half of the fall damage they would have taken if they fell that distance. If the target is smaller than you are, it takes the full damage. You cannot benefit from anything that would slow your fall and still deal this extra damage.
+
+**Phenomenotypical **
+	Gain a +1 to any attribute
+	Gain an additional creature type. You are considered a creature of this type as well as all other types you have for all intents and purposes.
+	
+
 

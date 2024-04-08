@@ -11,62 +11,14 @@ Anyway, here's a list.
 
 
 ==== Workshopping ====
-	
-	//**Stranger Aeons Called **//
-		9//th Level Necromancy//
-		**Casting time: **1hr
-		**Range**: Touch
-		**Components**: V,S,M (10lbs of bone dust from sapient creatures, 10lbs of salt, and a gemstone worth 1000gp which the spell consumes, and 500gp of glass alchemical equipment)
-		**Duration: **Special
-		You Touch a willing living creature. The next time that creature dies, they resurrect in a body of your design, after conditions of your specification are fulfilled. The spell completes once the conditions are fulfilled. After casting this spell, until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
-		**Classes: **Warlock, Wizard
-		
-	**Demoniac howling** 
-		4th Level Conjuration
-		**Casting Time:** 1 action
-		**Range: **Self (60ft sphere)
-		**Components: **V
-		**Duration: **Instantaneous
-		You replace your throat with someone else's for a moment to hint at the torment they're enduring. Creatures in the area must make a wisdom saving throw or be turned, surprised creatures make the saving throw with disadvantage. A turned creature must spend its turns trying to move as far away from you as it can and it can't willing move to a space within 30ft of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action. A creature may attempt the save again on each of its turns, ending the effects of the spell on itself on a success.
-		**Classes: **Warlock
+These spells are incomplete, they need work and formatting
 
-	**When Shadows fall**
-		6//th level transmutation (ritual)//
-		**Casting time: **1 action
-		**Range: Self**
-		**Components: **S**,M A ritual knife**
-		**Duration: **Special
-		You slip yourself into a shaded location with dim light or darkness. Using your movement you step into these shadows. Nothing of your presence remains visible or otherwise detectable by nonmagical senses. While Merged with the shadows, you can see clearly from that location using your own senses, You remain aware of the passage of time and cast spells on yourself while in the shadows and you can use your movement to leave the shadows where you entered it, Ending the spell unless you return to that location within a minute. You otherwise can't move. The spell lasts for 24 hours but If the area you step into is no longer in dim light or darkness, you are trapped in that location until it is dark again or until a spell such as dispel magic is cast on your location
-		**Classes: **Warlock
-		
-		
-	**Dream Weevil**
-		//4th level enchatment//
-		**Casting** time: 1 action
-		**Range**: 1 mile
-		**Components**: S,M a small blue pebble
-		**Duration**: 24 hours
-		Choose a creature you can see, hear, or smell within range Creatures that don't sleep are unaffected by this spell. You craft a magical bug that slips into that creature's dreams. The bug records the creatures' dreams, which often contain details about salient or impactful things they witnessed through the day, as well as details of their mental state. The bug returns to you after 24 hours and telepathically transmits its information, then disappears. Make an intelligence check with a DC equal to 5+ the creature's wisdom score to determine details about the targets fears or desires over that day.
-		**Classes: **Warlock, Wizard
-		
-	**Sever Six Roots** 
-		1st// level abjuration//
-		**Casting Time: **1 reaction
+
+	//Eldritch ritual (Cleric, Warlock)//
+		1 hour
 		Range: Self
-		Components: V,S
-		Duration: Instantaneous
-		Immediately end one of the following status effects on you: Blinded, Deafened, Charmed, Frightened, or Poisoned. You can also end the effects of a single nondamaging spell on you. 
-	
-	**Speak among Silence**
-		//1st level Transmutation//
-		**Casting** **Time: **1 action
-		**Range**: 100ft
-		**Components**: M (a ritual knife)
-		**Duration**: 1 minite
-		Your voice can be heard clearly by all creatures in range as if you were in a quiet room when you spoke. Ignore the effects of magical silence, physical boundaries, Overcoming all loud sounds.
-		**Classes: **Bard, Sorcerer, Warlock
-		
-
+		Duration: 1 week
+		You commit yourself to your Patron, god, and their wishes. This can be performing their ceremonies, rites, or contractual requirements.
 
 	Third Veil Contract
 		summon an extraplanar entity to offer a contract to a creature you know of. The contract must benefit all parties in some way.
@@ -77,11 +29,9 @@ Anyway, here's a list.
 	Construct Body
 		Make a perfectly functional body, lacking a soul.
 	Deep hunger (2nd level)
-		Eat more than you reasonably could, magically store half of that for later, 
-		
+		Eat more than you reasonably could, magically store half of that for later, 	
 	Three Thousand Curses
 		All things cost more for the target
-		
 	Partial shaping
 		Pick a spell of 5th level or lower that you have spell slots for etc; from the warlock list, you know it until the next time you take a short rest
 	Dusk Fever/Lightguide
@@ -106,14 +56,47 @@ Anyway, here's a list.
 		dunno what it's gonna be but it'll be an enchantment
 	Disrupt
 		Fight a creature of CR equal to half of the spell save DC of the creature that created a magic item, effect, or spell. Dispel it and learn the spell
+	**Anti something, magic school specific fields?**
+	//Phobia//
+	//Misty Leap //
+		Casting time: 1 Bonus action
+		60ft
+	//Bumblehex //(Druid, Bard, Sorcerer, Wizard, Warlock)
+	Glimpse the blank dimension 
+these are all 8th
+	Invoke Taliyudur
+		You infuse those who hear you with the magic of the court of whispers. Creatures friendly to you make insight, persuasion, deception, and intimidation checks using your modifiers unless theirs are higher. 
+	Invoke Neskir
+		The Magic of the Court of swords bolsters your allies. Weapon attacks made by creatures friendly to you deal extra damage equal to twice your charisma modifier 
+	Invoke Rei-oh
+		The Court of valour's magic cascades to your allies. When an ally that can hear you moves, they  do not provoke opportunity attacks and they can make opportunity attacks when a target uses its movement to move into their range.
+	Invoke Sillowdar
+		The court of Glamour's magic erupts from you. For the duration of the spell, allies make initiative checks with advantage, may reroll their initiative at the end of each of their turns
+	Invoke Unshinihi
+		The Court of Terror's magic oozes across the terrain. All allied creatures that can hear you add your charisma bonus to any saves they make. The ground around them is difficult terrain
+	Invoke Dalri
+		The skillful magic of the court of lore threads through your allies and back to you. All allied creatures (yourself included) may use their reaction to make a skill check of the type of your choice. Add the totals together and use that for the result of your check
 
 
-
-
-
-
-
-
+Wisclass
+	Wis classes operate by channeling deity-CLASS energy, deity notwithstanding, but a lot of dominoes need to be set up before these guys get to cast where the Charfolk and Intybois can just start popping off
+	
+	**Count**
+		know the number of any singular thing within range. The definition of those things is hinged on your understanding and interpretation while casting.
+	Comprehend Flow
+		divination, develop a model of fluid dynamics within range
+	Illuminate Spirits
+		Like detect thougths but only vague feelings about the health and role a thing plays in its ecosystem. affected creatures glow 10ft
+	Compass magic
+		detect energy level and flows
+	Gather Energy
+		concentrate magical power from a wide area to a single space. Next spell cast within that space is cast as <level of this spell>, can't be cast in the same place for a while 
+	Obscure person
+		Target creature makes a save (can choose to fail) or gain advantage on stealth checks. Can only be noticed with active perception., insight checks made against them with disadvantage fails if creature attacks, casts a spell that targets a creature etc;
+	Imbue power
+		recharge resources equal to <first level you get resource at amount>
+	Detect bounty
+		Opposite of detect poison/disease
 
 
 
@@ -165,17 +148,13 @@ Anyway, here's a list.
 			
 	//Buffer (Artificer, Cleric, Druid, Wizard, Warlock) WORK (maybe first level)//
 			1 reaction when a creature in range that you have seen within the past minute takes damage, V,S, Abjuration
-			Range: 30ft
+			Range: 10ft
 			Duration: instantaneous
 			You know instantly that the creature is being attacked and force magic between that creature and the source of the damage. The creature gains temporary hit point equal to your spellcasting modifier before the attack hits. The temporary hit points fade at the end of the current turn.
 			At 5th level, the amount of Temporary hit points is equal to double your spellcasting modifier, at 11th level they are equal to triple your spellcasting modifier, and at 17th level, 4 times your spellcasting modifier.
 
 
-	//Eldritch ritual (Cleric, Warlock)//
-		1 hour
-		Range: Self
-		Duration: 1 week
-		You commit yourself to your Patron, god, and their wishes. This can be performing their ceremonies, rites, or contractual requirements.
+
 
 
 
@@ -206,8 +185,24 @@ Anyway, here's a list.
 		Duration: 1 hour, concentration
 		Reality works how //you// want it to work dammit, and this whacky thwacky thing should be no different.  You conjure a melee weapon that lasts  for the duration of the spell or until you dismiss it as an action. The melee weapon takes the form of your choice, choosing from the weapons table. The weapon you summon cannot have the heavy or reach property. Attacks with the weapon use your spellcasting modifier instead of strength or dexterity. 
 		
-	//Bumblehex //(Druid, Bard, Sorcerer, Wizard, Warlock)
-
+	**Sever Six Roots** 
+		1st// level abjuration//
+		**Casting Time: **1 reaction
+		Range: Self
+		Components: V,S
+		Duration: Instantaneous
+		Immediately end one of the following status effects on you: Blinded, Deafened, Charmed, Frightened, or Poisoned. You can also end the effects of a single nondamaging spell on you. 
+		**Classes: Warlock**
+	
+	**Speak among Silence**
+		//1st level Transmutation//
+		**Casting** **Time: **1 action
+		**Range**: 100ft
+		**Components**: M (a ritual knife)
+		**Duration**: 1 minite
+		Your voice can be heard clearly by all creatures in range as if you were in a quiet room when you spoke. Ignore the effects of magical silence, physical boundaries, Overcoming all loud sounds.
+		**Classes: **Bard, Sorcerer, Warlock
+		
 
 
 ==== Level 2 spells ====
@@ -232,7 +227,7 @@ Anyway, here's a list.
 			You draw vitality toward yourself and let growth flow back, if you can manage it. Choose one creature you can see or smell within range. You immediately make a saving throw that that creature would have to make on their turn using your own modifiers. While this spell is active, the creature no longer makes saving throws, but you must make saving throws for them against the effect as normal. They still suffer the effects of the spell or ability as normal. If you succeed on the saving throw, it is as if they have succeeded the saving throw, if you fail, it is as if they failed.
 			**Casting at higher levels.** For each slot level beyond second, you are able to roll an additional effect 
 
-	Cloud of blank
+
 
 
 ==== Level 3 Spells ====
@@ -260,14 +255,28 @@ Anyway, here's a list.
 		Duration: Instantaneous
 	You're getting good at this. you instantly Sanitize or Contaminate a spherical zone of 60 feet. In this area, either all diseases that are not already within a host are immediately destroyed and all uncontained fine particulate matter is pushed toward the outside of the area, flowing around obstructions to the farthest point in the spells area. Open sores and exposed decay are instantly cleaned.  or all diseases within 120ft of the point you choose that aren't already within a host are drawn and distributed evenly around the 30ft area. Fine particulate matter within 5ft of the area is drawn in as well, moving gently along the ground until they are within the 30ft area, whence they are distributed evenly on any surface.
 
+==== Level 4 Spells ====
 
-
-	//Phobia//
-
-	//Misty Leap //
-		Casting time: 1 Bonus action
-		60ft
+	**Demoniac howling** 
+		4th Level Conjuration
+		**Casting Time:** 1 action
+		**Range: **Self (60ft sphere)
+		**Components: **V
+		**Duration: **Instantaneous
+		You replace your throat with someone else's for a moment to hint at the torment they're enduring. Creatures in the area must make a wisdom saving throw or be turned, surprised creatures make the saving throw with disadvantage. A turned creature must spend its turns trying to move as far away from you as it can and it can't willing move to a space within 30ft of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action. A creature may attempt the save again on each of its turns, ending the effects of the spell on itself on a success.
+		**Classes: **Warlock
 		
+		
+	**Dream Weevil**
+		//4th level enchatment//
+		**Casting** time: 1 action
+		**Range**: 1 mile
+		**Components**: S,M a small blue pebble
+		**Duration**: 24 hours
+		Choose a creature you can see, hear, or smell within range Creatures that don't sleep are unaffected by this spell. You craft a magical bug that slips into that creature's dreams. The bug records the creatures' dreams, which often contain details about salient or impactful things they witnessed through the day, as well as details of their mental state. The bug returns to you after 24 hours and telepathically transmits its information, then disappears. Make an intelligence check with a DC equal to 5+ the creature's wisdom score to determine details about the targets fears or desires over that day.
+		**Classes: **Warlock, Wizard
+
+
 
 
 ==== Level 6 Spells ====
@@ -277,8 +286,18 @@ Anyway, here's a list.
 		Range: 500ft
 		Duration: Instantaneous
 	All objects of a single type (weapons, tools, armour, etc;) that weigh less than 20lb each that you can see within range that are not worn, carried, attuned, or affixed so that they cannot move are all transported a special demiplane. This Demiplane cannot normally be entered by a creature but its contents can be expelled by casting this spell again, at which point the contents appear in an efficiently packed space within 30ft of the caster. 
+	
+	
+	**When Shadows fall**
+		6//th level transmutation (ritual)//
+		**Casting time: **1 action
+		**Range: Self**
+		**Components: **S**,M A ritual knife**
+		**Duration: **Special
+		You slip yourself into a shaded location with dim light or darkness. Using your movement you step into these shadows. Nothing of your presence remains visible or otherwise detectable by nonmagical senses. While Merged with the shadows, you can see clearly from that location using your own senses, You remain aware of the passage of time and cast spells on yourself while in the shadows and you can use your movement to leave the shadows where you entered it, Ending the spell unless you return to that location within a minute. You otherwise can't move. The spell lasts for 24 hours but If the area you step into is no longer in dim light or darkness, you are trapped in that location until it is dark again or until a spell such as dispel magic is cast on your location
+		**Classes: **Warlock, Wizard
 
-	**Anti something, magic school specific fields?**
+
 
 ==== Level 7 Spells ====
 	
@@ -290,21 +309,8 @@ Anyway, here's a list.
 
 
 ==== 8th level spells ====
-	Invoke Taliyudur
-		You infuse those who hear you with the magic of the court of whispers. Creatures friendly to you make insight, persuasion, deception, and intimidation checks using your modifiers unless theirs are higher. 
-	Invoke Neskir
-		The Magic of the Court of swords bolsters your allies. Weapon attacks made by creatures friendly to you deal extra damage equal to twice your charisma modifier 
-	Invoke Rei-oh
-		The Court of valour's magic cascades to your allies. When an ally that can hear you moves, they  do not provoke opportunity attacks and they can make opportunity attacks when a target uses its movement to move into their range.
-	Invoke Sillowdar
-		The court of Glamour's magic erupts from you. For the duration of the spell, allies make 
-	Invoke Unshinihi
-		The Court of Terror's magic oozes across the terrain. All allied creatures that can hear you add your charisma bonus to any saves they make. The ground around them is difficult terrain
-	Invoke Dalri
-		The skillful magic of the court of lore threads through your allies and back to you. All allied creatures (yourself included) may use their reaction to make a skill check of the type of your choice. Add the totals together and use that for the result of your check
 
-==== Fourth Level spells ====
-Glimpse the blank dimension 
+
 
 ==== 9th Level Spells ====
 	//**Gatewarding**//
@@ -313,7 +319,7 @@ Glimpse the blank dimension
 		Duration: Until dispelled
 		You ward an area with a radius of up to a quarter mile from intrusion. Choose a condition that any creature can fulfill in response to a challenge. As a creature approaches  1 mile of  the centre of the radius, they will become aware of the challenge but not the condition to fulfill it. If the creature fails to meet the challenge, they take force damage from a number of d6s equal to twice your **ability score. **If they meet the condition, they are unaffected by the spell and can continue into the area. The area is warded against planar travel, teleporation, scrying, and is completely invisible to those who have not met the condition
 		
-	//**Conjure Abberration**//
+	//**Conjure Horrible Abberrations**//
 		Casting time: 1 action
 		Range: 60ft
 		Components: VS
@@ -325,7 +331,16 @@ Glimpse the blank dimension
 			* Eight Abberations of CR 1 or Lower
 			* Sixteen Abberations of CR 1/2 or lower
 		A summoned creature disappears when it drops to 0 hit points or when the spell ends
-		The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise begin ripping holes in reality. If sixteen or more holes are ripped in reality before the spell ends, an abberation of CR 10 or higher (chosen by the DM) emerges from the rifts and all summoned creatures become hostile to all life and ending the spell does nothing. The Creatures then remain until killed, during which time they attempt to destroy reality further. 
+		The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, and if unattended otherwise begin ripping holes in reality. If sixteen or more holes are ripped in reality before the spell ends, an abberation of CR 10 or higher (chosen by the DM) emerges from the rifts and all summoned creatures become hostile to all life and ending the spell does nothing. The Creatures then remain until killed, during which time they attempt to destroy reality further. 
+		
+	//**Stranger Aeons Called **//
+		9//th Level Necromancy//
+		**Casting time: **1hr
+		**Range**: Touch
+		**Components**: V,S,M (10lbs of bone dust from sapient creatures, 10lbs of salt, and a gemstone worth 1000gp which the spell consumes, and 500gp of glass alchemical equipment)
+		**Duration: **Special
+		You Touch a willing living creature. The next time that creature dies, they resurrect in a body of your design, after conditions of your specification are fulfilled. The spell completes once the conditions are fulfilled. After casting this spell, until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
+		**Classes: **Warlock, Wizard
 		
 
 ==== 10th level Spells ====

@@ -140,7 +140,7 @@ Miku-grass and other short plants
 Nemiku - Bushes, heath, person-height plants, Archaically also kelp
 Milagu - Kelp, sea plants
 Duku- trees
-Kwatsi - Edible (Kuu, Atsi, plants we eat. It has to be said that the Manarahi have never been intrinsically vegetarian, and while their diet tends to contain far less meat than a 21st century North american's might, they do eat it. Meat was, and even now continues to be a rarer treat among the Manahararahi who might eat a dish with meat once a day at most, with the vast host of Manahararahi eating meat once a week. If there is to be a distinction between vegetable and meat, Kwatsi will refer to vegetable, while Kwatsigan would mean meat), Ra'ke Kwatsi means it is edible, Kwatsi'u Kwatsi means Eat your vegetables.
+Kwatsi - Edible, food (Kuu, Atsi, plants we eat. It has to be said that the Manarahi have never been intrinsically vegetarian, and while their diet tends to contain far less meat than a 21st century North american's might, they do eat it. Meat was, and even now continues to be a rarer treat among the Manahararahi who might eat a dish with meat once a day at most, with the vast host of Manahararahi eating meat once a week. If there is to be a distinction between vegetable and meat, Kwatsi will refer to vegetable, while Kwatsigan would mean meat), Ra'ke Kwatsi means it is edible, Kwatsi'u Kwatsi means Eat your vegetables.
 Kwatsira - Edible thing
 Kwatsigan -Edible, Meat specific
 Kwatsulat - Restaurant
@@ -188,7 +188,7 @@ Olo - round
 oloramishra - Wheel, rolling thing
 Voloramisra - Covered Wagon Vor/olo/ra/mish/ra, Rolling house
 olopi - Sun, Hirokira's nickname
-Kwatsolopi - Moon, from eat + Sun.
+Kwatsolopi - Moon, from eat + Sun, sunfood
 Vi - blood, loanword from Latin, Vir
 Raulyss - a fond greeting
 mishlia/mishali - an opinion, should (Mishlia Nneramishu'lo, You should not travel. Mishlia ganki prabrek nnekiven, I think flesh [is] stronger than metal. The absence of this word may proclaim undue uncertainty. You should not go becomes you will not go, and in Manarahi culture, that is a statement that must be backed up) The default interpretation of this word is should, it can be appended with -tab to become "might" or "could" 
@@ -274,6 +274,7 @@ Rugrugoo - Rooster
 Gaom - Bell, Onomotopoeaic, 
 Omshamu - Sky islands 
 Sha - Number  from Change, thing, mish ra, mishra, Misha, sha
+	Nara - None
 	Ta - One, Singular, The. "The one" is "Ta ta," and is recognized contextually)
 	Me - Two, A couple,  cognate Mi, small, used to describe a small amount of things "Just a couple," Frequently used in context to mean "a few" as an uncertain number
 		Meikao - Two thoughts, Dichotomy, Options
@@ -300,7 +301,10 @@ Sha - Number  from Change, thing, mish ra, mishra, Misha, sha
 	Shoo - Ten Thousand
 	Proshven - Million
 ja - Less
+jake - Not Most, few
 Oosha - More
+Ooshake - Most but not all, Majority
+Ir - all
 -va - eth, to indicate that an object's property is a number, "four**th**, fifti**eth, One Hundredth**"
 Viganki - heart
 maaaa - ehhhh, Anooo, a sound indicating uncertainty or perception of greater context, a placeholder sound
@@ -435,3 +439,5 @@ pinur - Date
 Kha - if
 Khur - then
 Pinrara - Image
+Irpet - all worlds, the universe
+Rathpet - this world, Snarl.
