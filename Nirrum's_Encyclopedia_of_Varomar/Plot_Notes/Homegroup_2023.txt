@@ -6,6 +6,10 @@ Creation-Date: 2023-08-07T00:30:52-02:30
 Created Monday 07 August 2023
 
 
+[[+Formatted_questions]]
+[[+Example]]
+
+
 Damien
 
 
@@ -37,32 +41,27 @@ Mode of delivery:
 	Campaign concept
 		* I need a lot of people to die. And I need a lot of badasses to do it.
 
+Starting equipment
+658 gold (to spend before we begin)
+One healing potion
+
 
 
 Pacing:
 	Levels needed:
 		15
-		
-		6 vignette
-		7  Enfuckerator quest
-			
-			The party gets a quest from a tiny and seemingly ancient fey. In exchange for "whatever they want that is within the power of mortals, most forms of immortals, and some of what lies beyond the abilities of either", they are tasked with gaining enough power to end the stories of the godking, The Furi, and the Moon."
-			
-			The fey, known as the Neriadniclu, of the court of Valour, has convened the ritual of the happening, and things are about to begin changing in the world. The party has the choice to partake in that magic. Their part is simple, gather power beyond the power of common mortals, and defeat the three targets. To help them along, the neriadniclu has already rewritten their lives such that they are capable of their quest. The Neriadniclu grants them a compass that can point them toward places of power 
-			
-			and/or
-			The party gets a delivery sidequest to drop off an unstable arcanohedron, a device of strange mystic capabilities. Thugs will rather incessantly try to steal it, as it is a construction of immense power, capable of being used in 12th level magic in a rather general way. 
-			
-				* Furi thugs obviously want it for cash
-				* The Cult wants it to break another bone artifact
-				* Kholira wants it to allow the godking to ascend as a true deity-class entitty
-				* Starspawn seem attracted to it as the moon is trying  Kill everything on this plane
-			* The Recipient is Nirrum the Mad, or what's left of him
-			* The party is first accosted by moon-touched and Kholirahi
 
-			In both cases the party faces an assortment of their enemies, ending with one of the sons of the godking and another level up, being a 1/3rd way through the first quest
+
+		6 vignette
+		[[+How_You_Came_to_Be]]
+			* The Vignette ends with a carriage, cart, caravan, who agreed to take them back to Danzuishan. It is good that you are finally out of your quest. We are running late, we must join up with another caravan before TOWN
+		
+		7  Enfuckerator quest
+			[[+Investment]]
+
 
 		8 Feywild/Maze
+			+Feywild
 			* The party must have reasonable amounts of treasure halfway through whatever they're doing
 		9  End
 			* Party gets a house somehow 540 sqft, thus 54g in tax per year +7/person
@@ -153,12 +152,20 @@ Beats:
 	* The Vignette
 		* ex. Trussari
 			* Complete an antimagic amulet
+			* They will be the reason manaharamu fell
 		* ex. Silver Knight Acolyte
 			* Recover silver knight or crown regalia from the resting place of a lost knight
+			* The reason konia exploded
 		* Ex. Son of the godking
 			* Kill one of your brothers
 		* Child Of Lost Graoton
 			* Reclaim one of the crown regalia
+		* Deep walker
+			* Escape the Prison with a bone artifact
+		* Servant of Carrion Queen
+			* gain an Activated mark of the raven queen (Dying ain't permanent)
+		* Heir of the Witch Lords
+			* Deliver your mentor's body to the shamanic spirit of endless heat in the magma sea (lohar)
 	* The Crossroads to danzuishan?
 		* Individual  fight against bandits
 		* Recovery, Maybe introduce one villain

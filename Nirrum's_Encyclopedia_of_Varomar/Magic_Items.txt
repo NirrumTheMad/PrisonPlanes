@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2018-01-30T04:24:21-03:30
 
-====== Magic Items ======
+Magic Items
 Created Tuesday 30 January 2018
 
 
@@ -468,7 +468,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 	One of the longest-wrought items of the hexforge, made with great expense, Queen Silver was part of the royal regalia of Konia. This fluted armour is inlayed with no less then seven different shades of reflective metal, mithril and steel not the least of them. You gain a +3 bonus to AC and all saving throws while attuned to this armor, even if you are not wearing it. It also has the following properties:
 	**Sentience.** Queen Silver is a Lawful Neutral object with 14 intelligence, 16 wisdom, and 10 charisma. She has no sight but can hear even small sounds clearly for up to a mile. She can telepathically communicate with any creature within 60ft, and once per day can send a vague telepathic impression for up to a mile to one creature she can hear, usually beckoning them if she believes them worthy or at least opportune to get her closer to a rightful heir.
 	**Personality**. Queen Silver is unwaveringly loyal to the King and Kingdom of Konia, and is one of the entities entitled to weigh in on what merits that position. She is uptight, haughty, bitter, and has many opinions about how things should be done. While she will frequently oppose or question the attuned creature, she will never fight against the decision. She will trust the attuned creature beyond all reasonable sense, but is highly mistrustful of others. She wants her attuned creature to be worthy of the throne that she opens the way for, and will work to prepare that creature for the reality.
-	**Selective Antimagic Field. **Queen silver is capable of projecting an antimagic field within 5ft of her targetting only effects that she deems deletrious. 
+	**Selective Antimagic Field. **Queen silver is capable of projecting an antimagic field within 5ft of her targetting only effects that she deems deletrious. She can only use this ability  twice per day on a reaction. 
 	**Spells. **Queen Silver is capable of casting the following spells without components or needing to maintain concentration. Spells that are not a reaction are cast at the end of the turn of her attuned creature, as she wishes or is commanded
 		**At Will:**// Purify food and drink, Spare the Dying, Prestidigitation//
 		**3/day:**// Shield, Absorb elements, Shield of faith//
@@ -490,7 +490,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 	**Sentience: **Violet Mirror is a sentient object with an intelligence of 4, Wisdom of 20, and charisma of 15. It observes the world through the attuned creature's senses and communicates only in flashes of emotion or in dreams. It is capable of minor prophecy but this is fairly unrelaible.
 	**Personality.** Violet Mirror was once a queen of the grao, who gave up her spirit to keep her people safe. While little of her knowledge and cunning is left at all, her desire to see the grao flourish and her immense mercy is quite present. 
 	**The Southwest Bolt. **Once between long rests, violet mirror can deal an additional 12d6 Lightning damage to a target grappled with it.
-	**Wide Embrace. **As part of the attack action or as a reaction while falling, Violet Mirror is capable of launching a cable made of magical silk ending in a bright blue bauble from its palm. This cable is 60ft long and uses gravity magic to stick to creatures and surfaces. A creature trying to detach from Violet mirror must us an action to make a DC 18 Strength check to free themselves. You may retract the cable as a bonus action, pulling yourself closer to whatever you have attached to. If you are attached to a target two sizes smaller than you are, you may pull it to your grip. If you are one size larger than the target, you may make a DC 10 strength(athletics) check to pull it to an unoccupied space within 5ft of you, DC 15 for  the same size, DC20 for one size larger. For any creature larger than yourself, you can make a DC15 athletics check to pull yourself to the creature. You may also release whatever you have grappled as an action or bonus action on your turn. 
+	**Wide Embrace. **As part of the attack action or as a reaction while falling, Violet Mirror is capable of launching a cable made of magical silk ending in a bright blue bauble from its palm. This cable is 60ft long and uses gravity magic to stick to creatures and surfaces. A creature trying to detach from Violet mirror must use an action to make a DC 18 Strength check to free themselves. You may retract the cable as a bonus action, pulling yourself closer to whatever you have attached to. If you are attached to a target two sizes smaller than you are, you may pull it to your grip. If you are one size larger than the target, you may make a DC 10 strength(athletics) check to pull it to an unoccupied space within 5ft of you, DC 15 for  the same size, DC20 for one size larger. For any creature larger than yourself, you can make a DC15 athletics check to pull yourself to the creature. You may also release whatever you have grappled as an action or bonus action on your turn. 
 
 **Windweaver**
 	Rapier, Artifact, Requires attunement
@@ -508,8 +508,18 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		While attuned to mountain splitter, you can cast absorb elements without consuming spell slots and without components. Damage rolls with this weapon deal 1d12 instead of 2d6. This weapon deals double damage to objects and structures. 
 
 
-
-
+**Call of Endless Life**
+	Wondrous item, Arcane Focus, Greatclub, Bone Artifact, Requires attunement by a Bard, Paladin, or Cleric
+		One of the Femurs has been shaped into the handle of a massive bell.  While Attuned to this bell, you gain powerful control over the living dead.
+		**Sonorous peals. **As an action, you may ring the bell which can be heard for over a mile. All undead within 300ft must make a charisma saving throw against your spell save DC with disadvantage. Undead that fail this save are under your control until they cease to exist or until you unattune to the bell. Any living creature that is unconcious within this range suffers one level of exhaustion
+		**Mournful Ring. **If you hit a creature with the bell as part of an attack, and that creature dies before the end of your next turn, it rises as a ghost under your control. Any creature that makes a death saving throw during this time makes it with disadvantage
+		**Life Knell. **By Ringing the bell in a ritual for an hour, concentrating on the rhythm, you can reconstruct the corpse, spirit, and will of one dead creature that you are familiar with. If that creature is in an afterlife, it is pulled from it and inserted into a healthy, youthful, and living body. You can only use this ability once per month, and recieve five points of exhaustion after using it. 
+		**Hostile Deattunement. **You may attempt to attune to the call of endless life while another creature is attuned to it. Doing so takes twice as long and deattunes the other creature after the first hour
+		
+		 
+		
+		
+		
 
 ==== Tagic Company Items ====
 	The Tagic company is a company from a different prison plane, one that has broken, and the demon, which eats the process of time, has escaped. The Wizards of this plane work constantly to keep this demon under wraps, driving their technology forward extremely quickly. Because of this they have some fantastic magic items, frequently ones they Ship out to Other planes  for exorbitant prices so that they may have the materials to keep up with their impending doom. Among the foremost exporters is the original Techno-magical company, **Tagic. Here are some of their wares, but be warned, their prices are extremely steep, at over ten times those of other magic items. None of these items are craftable in Snarl as the technology required is far beyond what is available.**
@@ -630,7 +640,7 @@ Dispel Magic
 
 ** Goamehteh Hammer **
 	Wonderous item, Warhammer, Beyond legendary
-		A silver-grey brick on an ornate handle built to craft items that even gods are envious of. While holding this hammer, spells you cast are cast as though using a spell slot of two levels higher than the one used. Items you create 
+		A silver-grey brick on an ornate handle built to craft items that even gods are envious of. While holding this hammer, spells you cast are cast as though using a spell slot of two levels higher than the one used. Items you create resist all bludgeoning, piercing, slashing, and force damage. 
 
 **Damagon Tramali** **8-Cycle Copper Channel Sepraphinite Rutile Quartz Crystal Orb with Octarinate Runes**
 	Wondrous item, Orb, Requires attunement, Beyond legendary
@@ -638,7 +648,11 @@ Dispel Magic
 
 **Vajra Khanarilan**
 	Short sword, Artifact, Requires attnement
-		Vajra Khanarilan has 30 charges which recharges on the first of each month at midnight. As an action on your turn you may expend one charge and cast either meteor swarm  with lightning instead of fire damage, Greater restoration, Banish, Remove curse, Dispel Magic, or Counterspell, all at 9th level.
+		Vajra Khanarilan has 30 charges which recharge on the first of each month at midnight. As an action on your turn you may expend one charge and cast either meteor swarm  with lightning instead of fire damage, Greater restoration, Banish, Remove curse, Dispel Magic, or Counterspell, all at 9th level.
+		
+		
+		{{.\pasted_image007.png}}
+		
 
 **Dm's Note: **Part of the direction I intend to take my part of the prison planes after removing hasbroisms involves encompassing liminality and power scaling beyond what 
 
@@ -692,6 +706,8 @@ Ult	*Cantata of Smiling Brutes
 Whirlrock (Nodachi)
 	While weilding this sword, when you hit an enemy you can cast the spell "Stillness" in which the enemy must make a con saving throw versus your attack roll. The effects of the spell last for six seconds in which time the target is as if petrified but immune to all other damage and conditions, making the target indestructible for the duration. You must take a short rest before using this effect again. 
 	
+**Condition: after three levels, Whirlrock stops working, if one manages to diagnose the condition, one recieves a Tagic company item**
+
 Benriramuda +2 (Maximillian the first's greatsword shape)
 	A giant weapon made for an order of Danzuishanese Maze hunters, it bears the engraving of a vined trout on a duelling shield. Interestingly, it appears to be made of Lapis Lazuli, and is flecked with gold. The sword will, on hit, indicate any weaknesses and resistances of any creature it hits by speaking in a quiet but deep male voice. A perception check  is needed to hear it if other sounds are present. It deals double damage to structures but not living constructs. 
 	
@@ -817,7 +833,9 @@ Consumable fey potion that makes you forget one of your known spells, and gives 
 some kind of fey ring that you can subtle delay a spell to activate in 1d10 rounds?
 cursed feystep bracers? you can use a charge to teleport 30ft in a direction as a bonus action, but WHO it teleports is randomized
 
-
+**Message Interception ring**
+	No messaging the King every day
+	
 
 
 **Rimewine and Chillwine**

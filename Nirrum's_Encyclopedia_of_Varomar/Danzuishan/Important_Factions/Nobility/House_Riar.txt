@@ -1,11 +1,14 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2019-04-23T16:17:44-02:30
 
 ====== House Riar ======
 Created Tuesday 23 April 2019
 
 House riar has had hereditary control of the docks in keina and has been able to milk that for Centuries.
+
+House Riar, one of the last families to establish in Danzuishan, and certainly the last to seize a lock. The Riar were never a strong military force until they managed to seize their Lock and then, only by 
+
 
 Allies:
 	Terusada

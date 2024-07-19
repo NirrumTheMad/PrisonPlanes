@@ -76,7 +76,9 @@ these are all 8th
 		The Court of Terror's magic oozes across the terrain. All allied creatures that can hear you add your charisma bonus to any saves they make. The ground around them is difficult terrain
 	Invoke Dalri
 		The skillful magic of the court of lore threads through your allies and back to you. All allied creatures (yourself included) may use their reaction to make a skill check of the type of your choice. Add the totals together and use that for the result of your check
-
+	Disorient
+		You touch an unwilling creature and muddle their ability to understand the present. For the duration, the target has disadvantage on all attack rolls, ability checks, and saving throws. Additionally, other creatures have advantage on  attack rolls against the target. The target has difficulty navigating and for every 10ft of movement must make a saving throw against your spell save DC or wander in a random direction for that stretch. 
+	
 
 Wisclass
 	Wis classes operate by channeling deity-CLASS energy, deity notwithstanding, but a lot of dominoes need to be set up before these guys get to cast where the Charfolk and Intybois can just start popping off
@@ -97,6 +99,8 @@ Wisclass
 		recharge resources equal to <first level you get resource at amount>
 	Detect bounty
 		Opposite of detect poison/disease
+	Wall of Bone
+		Just generates quick cover. Solid, lasts an hour, not much HP, but enough. 
 
 
 

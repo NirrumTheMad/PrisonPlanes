@@ -123,23 +123,24 @@ Holy and sacred place, even for the fey who barely know of such things.
 		//Nirrum's note: When I stood upon the hill, under the influence of Nirrum's Interuniversal Scrying, a spell of my own design. **The Creyhundeeth** gave me a pen, and warned me not to run out of ink. Then, strangely, both to me and not to me, it told me to make backups. //
 	
 	
-	And at the very end of the path, The wintery Cabin, now fully immersed in night is where you will find **The Master of True Ghosts, Principal of Curses,  The Blezzangionan, Archfey of Terror.** The Blezzangionan specializes in things we take into ourselves that cause fear. Not the weak soul-sucking fear of the shadowfell, but the terror that drives us to survive. They say that true ghosts are not the shells of once living beings, but the energy and effort they leave behind, particularly when they leave behind a will to destroy, to avenge, to harrow and frighten. True ghosts do not have hit points because they're a part of the person experiencing them. Thus too is the Blezzangionan the master of curses, spells one must carry around with them
-		Here is an example list of curses and ghosts that the Blezzangionan  might inflict on someone
-		* A song you can't get out of your head, and never truly leaves
-		* A sample of someone's thoughts, so you are always aware of what their perspective on the matter would have been
-		* A sample of your own perspective of yourself if viewed from your past
-		* Flashbacks and reminders of things like guilt or failure
-		* A prophecy 
-		* Geas
-		* Contagion
-		* The insistent memory of a loved one who is dead
-		* Guilt, pure and horrifying
-
+	And at the very end of the path, The wintery Cabin, now fully immersed in night is where you will find **The Far-Away King, The Loon, Archfey of the Uncanny, Lord of the court of Terror.**
+		
+		**The Loon (ISTJ), Archfey (bard 20, Terror), Terror (patron, fey)**
+			A small being who looks either like they have not slept, have been crying for days, or are about to plot a murder. 
+				height: 2ft
+				Favour: 4000
+			The Loon is felt more than seen. The diminutive creature is perpetually accompanied by an *offness* in the world. Where the court of Glamour must stomach him, they will curse at him for the entirety of his presence. Indeed, he is the most adept fey at shifting sensory experience out of all the courtly lords, and most other fey besides, but it is always in such a way that this discomfort is, somehow, //factual. //A chair that looks comfortable in the presence of the Loon comes with the knowledge that it will *be* uncomfortable, and indeed, it is, but never as expected. Anxiety often flares around the Loon, one never knows what to do with their hands, shirts chafe, one keeps needing to go to the bathroom, and no one's face seems to fit right anymore. It is a deeply uncomfortable experience. The Loon accepts novel complaints as favour, provided he has not heard it before. In return for favour, he grants the ability to cast spells like Mirage arcane or Disorient for those that have the requisite spell slots or intend to. He offers also the ability to concentrate on two things at once for one minute, once between long rests, The ability to see through selected solid objects as though they were not there to a distance of 120ft, or the ability to see only creatures that are trying not to be noticed as an action, Though they will realize you have spotted them one round later. A creature detected with the notice ability cannot hide from that creature for the rest of the day
+			
+			Anyone who displeases the loon gets cursed with something to make it up to him, a particular favourite being lock-blindness, the inability to tell if something is locked. Similarly common are his uncanniness aura (to 10ft)
+			
+	**Dm's Note:** No NPC in snarl has ever gotten those abilities, and it is up to players to dig their own graves with them. Do not let a player who is being uncomfortable have the abilities that cause that discomfort
+	
+	
+	
+	
 	
 	The Ruler of the Court of Terror is a fantastically precise individual. I shall have to describe them when other threats are dealt with. 
-	
-
-
+	Update: **I do not think the blezzangionan is the true master of this court. Something else lurks. **
 	The Mizzuraer, Archfey of collection and reaping, Harvest, and picking things before they are ready to die
 
 

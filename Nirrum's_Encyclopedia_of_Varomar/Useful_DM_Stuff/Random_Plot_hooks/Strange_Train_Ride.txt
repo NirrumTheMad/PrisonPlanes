@@ -35,6 +35,9 @@ The Setting
 	
 	Catches: Fey Magic is unpredictable and has made the journey longer and more dangerous than it should be. Indeed, rather than just a PIFE, it appears the train has at least partially entered the feywild in  truth, runnining along the branches of Gamnus Oaks and spruigias, through starfly fields and witchriver groves.
 	
+
+	**REWRITE ROOMS SO THEY CAN ACTUALLY DO SOMETHING, ADD REWARDS**
+
 	Twists: One of the party (or an NPC) is an Archfey who is having a great time. The Selected Archfey Either rolls or chooses from a list of things that happen in each car, to a maximum of 6 events.
 	
 		1 - A swarm of dimming mosquitos descends on a party up to their waist in water as this car is flooded and marshy. Fey swamp sharks bite at ankles
