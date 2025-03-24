@@ -14,14 +14,18 @@ WARHORN BARD
 6
 14
 
-**Call to Arms**
-	Your allies get a bonus to initiative equal to your charisma modifier
+**Call to Arms(3)**
+	Your allies that can percieve you get a bonus to initiative equal to your charisma modifier
 	
-**Swiftsinging**
+**Swiftsinging(3)**
 	 A creature that has a Bardic Inspiration die from you can roll that die and gains additional number of feet in movement equal to five times the result until the start of its next turn. 
 	
+**As one (6)**
+	A creature that has a Bardic Inspiration die can use its reaction to move that inspiration to a new creature. 
+**Hands of Comrades (6)**
+	A creature that has a bardic inspiration die may expend it as a reaction to allow another creature to use their bonus for an ability check
 	
-	
-
+**By Blood, Bound (14)**
+	Creatures within 20ft of you or a creature with one of your bardic inspirations may spend their own hit die instead of expending the use of bardic inspiration. 
 
 

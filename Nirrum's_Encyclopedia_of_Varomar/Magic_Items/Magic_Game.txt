@@ -5,6 +5,8 @@ Creation-Date: 2023-04-19T16:00:59-02:30
 ====== Magic Game ======
 Created Wednesday 19 April 2023
 
+This is an attempt to formalise energy structures
+
 Each word has the same amount of power as the others, so earlier words can do more, but are less versatile. 
 
 The composition of a firebolt is probably
@@ -40,7 +42,7 @@ hiuihiuji - Reverberation, standing waves,
 Gombomki - Enveloping, shells built to break in small ways so they may stay whole
 Hyer - The arms, the rod, effects joined in sequence
 Dahmui - The wheel, usually useless without something else attached, the recurrence, a perpetual manifestation of Nuun
-Giaven - The mud, well defined friction, hard stops 
+Giaven - The mud, well defined friction, hard stops — Often causes cold damage
 Huunso - Changing direction, nuun turned to sil, right angles
 Tcheol - the Axle, the pin, a demand to remain still, relative to something else.
 Maan - the floor, wide hit, Impenetrable
@@ -51,7 +53,8 @@ Tcheva - The hook, the barb, the diode. Forward is allowed but backwards is forb
 
 The engine words
 Heajanen - the rope, the string, the long sequence
-Gylum - the drill, the spiral,
+Gylum - the drill, the spiral, Greater to smaller, slower to faster
+
 
 
 
@@ -74,3 +77,11 @@ Zen - Un, the recognition of all things and no things, Resolution of paradox, Ce
 
 The great words
 Juna - the Vehicle, a balance that allows efficiency. 
+Haia - the rail, wheels in a line, a configuration of forces that propels linearly
+
+
+
+
+Elemental understanding
+	Instead of fire, cold, what have you, the elements should be understood as their interaction with the target
+	Jiggled for fire, disjiggled for cold, selected for acid, Poison is still poison but it's an informational thing, aligned or overcome for lightning, Induced for force, Radiant is weird, Necrotic is weird, 

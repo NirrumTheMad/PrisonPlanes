@@ -21,7 +21,7 @@ These spells are incomplete, they need work and formatting
 		You commit yourself to your Patron, god, and their wishes. This can be performing their ceremonies, rites, or contractual requirements.
 
 	Third Veil Contract
-		summon an extraplanar entity to offer a contract to a creature you know of. The contract must benefit all parties in some way.
+		summon an extraplanar entity to offer a contract to a creature you know of. The contract must benefit all parties in some known and obvious way, cannot be coercive, blackmail, or similar.
 	Rebirth
 		Stick your soul inside an available unborn child
 	Bloodmark
@@ -78,6 +78,8 @@ these are all 8th
 		The skillful magic of the court of lore threads through your allies and back to you. All allied creatures (yourself included) may use their reaction to make a skill check of the type of your choice. Add the totals together and use that for the result of your check
 	Disorient
 		You touch an unwilling creature and muddle their ability to understand the present. For the duration, the target has disadvantage on all attack rolls, ability checks, and saving throws. Additionally, other creatures have advantage on  attack rolls against the target. The target has difficulty navigating and for every 10ft of movement must make a saving throw against your spell save DC or wander in a random direction for that stretch. 
+	React to sin
+		fucked if I know but that's a banger name
 	
 
 Wisclass
@@ -101,6 +103,9 @@ Wisclass
 		Opposite of detect poison/disease
 	Wall of Bone
 		Just generates quick cover. Solid, lasts an hour, not much HP, but enough. 
+	Shape Bone
+		From seawater, dead bone, or significantly high calcium deposit, <fabricate>
+
 
 
 
@@ -187,7 +192,7 @@ Wisclass
 		1 action, V,S, Conjuration
 		Range: Touch
 		Duration: 1 hour, concentration
-		Reality works how //you// want it to work dammit, and this whacky thwacky thing should be no different.  You conjure a melee weapon that lasts  for the duration of the spell or until you dismiss it as an action. The melee weapon takes the form of your choice, choosing from the weapons table. The weapon you summon cannot have the heavy or reach property. Attacks with the weapon use your spellcasting modifier instead of strength or dexterity. 
+		Reality works how //you// want it to work dammit, and this whacky thwacky thing should be no different.  You conjure a melee weapon that lasts  for the duration of the spell or until you dismiss it as an action. The melee weapon takes the form of your choice, choosing from the weapons table. The weapon you summon cannot have the heavy or reach property. Attacks  with the weapon use your spellcasting modifier
 		
 	**Sever Six Roots** 
 		1st// level abjuration//

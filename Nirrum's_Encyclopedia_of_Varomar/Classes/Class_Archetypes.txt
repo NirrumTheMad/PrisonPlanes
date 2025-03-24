@@ -14,7 +14,10 @@ Created Monday 17 February 2020
 [[+Path of the Woodsman]] 
 [[+Way_of_Eight_steps]] 
 [[+Invocations]]
-[[+Circle of the world tree]]
+[[+Circle of the world tree]] VETTED
+
+
+[[+Oath_Of_Courage]]
 
 
 [[+Stars_Patron]]
@@ -29,4 +32,4 @@ Created Monday 17 February 2020
 [[+Pact_Of_The_Shroud]] (incomplete)
 [[+Unused_bits]]
 [[+Oath_of_Family]]
-[[+Oath_of_Temperance]] 
+ 

@@ -9,6 +9,23 @@ Created Monday 07 August 2023
 [[+Formatted_questions]]
 [[+Example]]
 
+[[+tallyboard_of_deeds]]
+
+
+
+==== Campaign spoilers ====
+
+This section is completely filled with
+
+==== Campaign spoilers ====
+
+
+
+If you are still here then you are here to read
+
+
+==== Campaign spoilers ====
+
 
 Damien
 
@@ -32,7 +49,7 @@ Mode of delivery:
 			* Characters using any of the homebrew options that are specific to snarl get an extra uncommon magic item on creation
 			* come with one ambition; Kill the godking, make a country 
 			* Roll health twice, take the higher
-		* Make three characters, death is an option, the campaign will end either when all goals are achieved
+			* Extra skill proficiency for background or class (e.g; Soldier, Druid, Politician, citizen of place)
 	
 	Campaign bargain
 		* This is not a grindy campaign but it has rewards for those that look for them, rather ridiculous rewards
@@ -46,12 +63,15 @@ Starting equipment
 One healing potion
 
 
+POSSIBLE THING:
+Make multiple characters and take them along per mission?
+
 
 Pacing:
 	Levels needed:
 		15
 
-
+		
 		6 vignette
 		[[+How_You_Came_to_Be]]
 			* The Vignette ends with a carriage, cart, caravan, who agreed to take them back to Danzuishan. It is good that you are finally out of your quest. We are running late, we must join up with another caravan before TOWN
@@ -60,22 +80,27 @@ Pacing:
 			[[+Investment]]
 
 
+
 		8 Feywild/Maze
-			+Feywild
+			[[+Feywild]] 
 			* The party must have reasonable amounts of treasure halfway through whatever they're doing
 		9  End
 			* Party gets a house somehow 540 sqft, thus 54g in tax per year +7/person
 			* Party is informed that several people have been arrested trying to hunt them down.
 		10  Feywild/Maze
+			+ Danzuishan 
 		11 End
 			* You are met by yourself on your way out of and into your door
 			* You also find yourself getting stabbed in an alleyway, You are surprised that this is from a third person perspective. The third person is you, you are watching yourself get stabbed
 			* The police have put three of the same person to death, imprisoned six others. They've employed someone with truesight to see if you're real, and the person is amazed at how well the illusion you have is holding up and that they can't see through it. They are shocked to be reminded that being actual people is a possibility
 		12 Feywild/Shadowfell/Maze/Bone artifact Halfway
-		
+			[[+Shadowfell]]
+	
 		13 End
 			* Attacks are getting serious against you, Minor players as attacks are common every time you leave the house
 		14 Feywild/Shadowfell/Maze/Bone artifact Halfway
+			* An emissary of the godking, Ma, The reverent Son, comes to speak. 
+				* [[+Meeting_with_Ma]] 
 		15  End
 		16 Dwallat/Kholira/Moon
 		17Boss
@@ -83,6 +108,8 @@ Pacing:
 		19 Boss
 		20Dwallat/Kholira/Moon
 		Boss
+		
+		
 
 	
 
@@ -199,12 +226,14 @@ Beats:
 		* Generals with four brigadiers etc; Armies with Control weather
 		* Into Kholira
 		* Castle of the godking mozéié 
+			* Comes with the materials for Karsus' Avatar
 	* Find nirrum's library
 	* Supress the cult
 		* [[+Underdark]]
 	* Riches from Dungeons optional
 	* Birth of nations. Optional
 	* Kill the moon or hide it in the maze? semi-optional
+		* [[+Moonfall]]
 	* Find a new sun
 	* finish the motor
 	* Steal the steam train from the furi
@@ -234,5 +263,31 @@ The song:
 		a singlet viol drones of the great staff of the godking
 		the locust rubbing of a bowed quartet of the heist required to raid Dwallat
 		glass armonica accompanied by glockenspiel, the glimmer in the depths
+
+
+	The verse of Theme, of leitmotif:
+		To cling to things is to be shackled by them. Only those who are unburdened are free. 
+			Moseie's Fear of irrelevance
+			Orsithach's bitterness at how much he has had to fight for every scrap and how much effort he put into being allowed live more than a few days at a time
+			The Moon's unrelenting anger at its creators for abandoning it
+		The difference between a powerful person and impotent one is action
+			Someone weak must commit a small action with major consequence for good
+			The inaction of the powerful must cause powerful consequence
+		There is a deep connection for Karma. Things do not arise out of nothing
+			Moseie's past gets leaked across the sons of the godking, as he uses them to do things he couldn't accomplish
+			Orsithach's enemies are plentiful and easy to find, and the legacy of his father's indifference toward him growing up is evident around Dwallat
+			The Gods one meets on the journey are flighty, prone to gross error with no room for communication, are forgetful of suffering
+
+
+	How each thing is executed in each stage:
+		The vignette has each character letting go of something to progress, In exchange for power, one must leave a life where they were loved behind, with no guarantees that one can return.
+		Within the feywild each character is a stranger in a strange land, seeing the births of new things at each step, things that //will be.// The first act starting with what they cannot really affect, the second in which they can a little, the third in which they can reap a harvest of the past. 
+		Within the shadowfell, each character is forced to look inward, to see their life as others see it
+		within the maze, each character is lost within someone else's thoughts. 
+		
+
+	The Mysteries
+
+
 
 

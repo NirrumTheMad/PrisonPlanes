@@ -235,7 +235,7 @@ Wanlo - now
 Ratilo -will 
 	Ratilo Tab - would, unintentional Didn't
 	Ratilo Talo - would, conditional haven't
-Parmishi - Adventurer, mercenary
+taparmishi, parmishi - Adventurer, mercenary
 draparhi - Army
 Sholo - Besides, and yet
 nwamana- Teleport
@@ -269,7 +269,7 @@ Nekivo - Wool
 Vovo- Clothing
 Brekoli - Law, specifically civil and punishable, where it differs from 
 Shagan - bird, flying creature
-Cacrug - Chicken, Onomotopoeaic
+kakrug - Chicken, Onomotopoeaic
 Rugrugoo - Rooster
 Gaom - Bell, Onomotopoeaic, 
 Omshamu - Sky islands 
@@ -372,7 +372,8 @@ Manakemarahi - mage, caster, this was a hard one for the Manarahi to come up wit
 Savenarpet - Encylopedia
 akaki - safe
 Akakirahi - guardian/protector
-Kaorasha- Fey magic unit, thought, the embodiment of the concept that matter uses to affect magic
+Kaorasha- Fey magic unit, thought, the embodiment of the concept that matter uses to affect magic, also used for "magic trickery"
+Kaorashahi - Fey
 Brekli - Trap
 Breklish - Wing, owing to the relative uselessness of wings underground
 Krogan - dog
@@ -421,7 +422,7 @@ Verlisham - Bee
 Um - hum
 Lisrau - a greeting, good to see you.
 Kaolat - school
-Tata-first, beginning
+Tata- beginning, original, but not necessarily first
 Banwa - Loud, projected sound
 Linwa - dance
 rashta - on/at
@@ -441,3 +442,4 @@ Khur - then
 Pinrara - Image
 Irpet - all worlds, the universe
 Rathpet - this world, Snarl.
+Manakihi - Strong, powerful people. Contrast of Taparmishi

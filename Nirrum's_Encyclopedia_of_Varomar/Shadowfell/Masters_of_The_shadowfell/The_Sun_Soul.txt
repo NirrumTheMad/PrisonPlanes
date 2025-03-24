@@ -5,7 +5,7 @@ Creation-Date: 2023-08-20T00:29:57-02:30
 ====== The Sun Soul ======
 Created Saturday 19 August 2023
 
-At the pinnacle of the light, in the roar of the baleful desert one might find a great skeleton, Wreathed in flame, whose skull is but a ghost. Hirokira. Olopi. The Sun soul eclipses most of the horrors of the realm beyond the stars with its blinding inferno. Together with the Warden of Lightning, it keeps the nearby prisons safe. Hirokira devours great powers to fuel itself, but in doing so, it releases great power in excess. The sun sould protects its body while its head gathers food and continues chasing the greatest prize, Allabar, opener of the way. Light floods to this place in the shadowfell, fleeing the dark toward the greatest escape. The Sun Soul sits immobile usually, though occasionally it rises to deal with shadowfell threats, as the shadowfell is always hungry beyond any power that dwells within it.
+At the pinnacle of the light, in the roar of the baleful desert one might find a great skeleton, Wreathed in flame, whose skull is but a ghost. Hirokira. Olopi. The Sun soul eclipses most of the horrors of the realm beyond the stars with its blinding inferno. Together with the Warden of Lightning, it keeps the nearby prisons safe. Hirokira devours great powers to fuel itself, but in doing so, it releases great power in excess. The sun soul protects its body while its head gathers food and continues chasing the greatest prize, Allabar, opener of the way. Light floods to this place in the shadowfell, fleeing the dark toward the greatest escape. The Sun Soul sits immobile usually, though occasionally it rises to deal with shadowfell threats, as the shadowfell is always hungry beyond any power that dwells within it.
 
 	**AAAAAAAAAA**
 	**AAAAAAAAAAA**
@@ -22,6 +22,15 @@ At the pinnacle of the light, in the roar of the baleful desert one might find a
 === The Rainbow Ritual ===
 	The light within comes in many colours, and by replacing the light of your own with the light of the sun, you can  change what that light means. The rainbow ritual allows you to  change what colours you are as well as what colours you can percieve. Most creatures start with red, green, and blue, though an additional infrared (darkvision) or occasional ultraviolet receptor is not uncommon, and octarine is common among the Manarahi or mages. You can replace the receptors for any one of these with any other, though you cannot exceed the ones you started with. If you do, you lose the ability to see the other colour at all. Through careful planning or by replacing your eyes with the eyes of another, compatible creature, you may be able to change how many receptor types you have, but messing with your own vision is a dangerous and delicate task. The rainbow ritual simply requires a period of meditation, which can be done all at once or in parts, but usually takes about a week to perfect the results
 
+=== The Bonefire Ritual ===
+	Hirokira's magic can be spread from skeleton to skeleton, soul to soul. By exposing your own skeleton (not just your teeth) to the inferno, you can set your own soul on fire. While this precludes most afterlives, continuing to devour other souls can provide immortality, at the cost of resurrecting in the shadowfell every time you are destroyed, which takes its own toll. Also, your flesh becomes nearly impossible for peope to touch as the heat of the sun radiates from you. Creatures in contact with you take 2 fire and 2 radiant damage while within contact. Spells that you do that do fire damage can be changed to radiant damage when that spell is cast. Water boils while within contact of your skin. You have advantage on saving throws against diseases and are immune to cold.
+	
+== The Innate Sun Ritual ==
+	In contrast to the bonefire ritual, the innate sun ritual requires you to stand at the very edge of the sunlight, far away from Hirokira. Casting your shadow on a solid surface where you can clearly see the edges is the first step. Secondly, you must Roll every one of your hit die, and take that much damage. Third, another creature, usually another supplicant of the sun soul must defend you from a swarm of **The Wretched** as they attempt to eat you. If they are able to do so then focusing your soul as a lens, you can birth a sun within it, marked by light appearing in the middle of your shadow. You gain the following innate spells, which you can also cast if you have the appropriate spell slots. 
+		At Will: Daylight, Light
+		3/day: Wall of Light, Sickening Radiance, Dawn
+		1/day: Sunburst, Sunbeam
+	Each time you use one of the limited use spells without spending a spell slot, roll one of your hit die and take that much damage. 
 
 
 === The Ascenscion ritual ===

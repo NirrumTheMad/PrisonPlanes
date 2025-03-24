@@ -153,7 +153,7 @@ Half-elf Variant: **Manarahi**
 Elf, Half-elf, Mul, Human, Tiefling, Genasi, Aasimar, and anything capable of being related to Human within a generation or two Variant: 
 **Cosades.**
 	**Age. **The Cosades Family is mostly human, and tend to live up to 80, but it is not uncommon for them to live longer due to other influences and the nature of their home.
-	**Alignment**. Most Cosades are Good aligned. All Cosades family members are driven and impetuous though very frequently become chaotic in accomplishing their goals
+	**Alignment**. Most Cosades are Good aligned.[[Classes:Class Archetypes:Stars Patron]] All Cosades family members are driven and impetuous though very frequently become chaotic in accomplishing their goals
 	**Size**.  Your size is medium.
 	**Speed.** Your basic walking speed is 30.
 	**Languages.** You can speak, read, and write Common and One other of your choice. You can communicate basic concepts with wolves, dogs, and other canines and learn basic concepts from them, though they are under no compulsion to be friendly to you.
@@ -181,11 +181,11 @@ Human Variant
 	**Ability Score Increases: **Your Strength increases by 2 and your Intelligence increases by 1
 	**Impetus: **You are proficient in all land and sea vehicles. You have advantage on  animal handling checks
 	**Grao Polearm Mastery. **You are Proficient with halberds, Glaives, Tridents, spears, Pikes, Lances, and quarterstaffs
-	**Grao Spellcasting. Lightning lure**
+	**Witness of Lightning. **You know the Lightning Lure Cantrip and resist lightning damage. 
 
 Orc Variant
 **Aulufeydth**
-	**Age**: The Aulufeydth tend to live less than 300 years
+	**Age**: The Aulufeydth tend to live less than 100 years
 	**Alignment: **The Aulufeydth tend to be either extremely lawful or extremely chaotic, Within their culture, there is little difference
 	**Size: Y**our size is medium
 	**Speed: **Your base walking speed is 30
@@ -193,7 +193,7 @@ Orc Variant
 	**Ability Score Increases: **Your strength increases by 2 and your intelligence by 1
 	**Blindsight. **You have blindsight out to 30ft
 	**Relentless Endurance. **Once between long rests, if you would hit 0 hp, you are brought to 1hp instead.
-	**Leaping Cles. **The length of your long jump is doubled and the height of your high jump is tripled. Subtract your Jump height from the distance you have fallen for the purposes of calculating fall damage.
+	**Leaping Cles. **The length of your long jump is doubled and the height of your high jump is tripled. Subtract your Jump height from the distance you have fallen for the purposes of calculating fall damage to yourself.
 	**Fey Home. **You do not lose your bearings in the feywild, though you still need to know where you're going.
 	
 

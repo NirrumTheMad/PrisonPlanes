@@ -6,6 +6,7 @@ Creation-Date: 2023-12-23T16:42:11-03:30
 Created Saturday 23 December 2023
 
 [[Useful DM Stuff:Random Plot hooks:A Feywild Adventure]]
+[[+Destinations_Terror]]
 
 Actors:
 	A list of all major (and some minor) players and groups, each followed by their relationship to the situation
@@ -25,6 +26,8 @@ Actors:
 		**The  Creyhundeeth, **Relieved to see the party, to have an opportunity to get in on the happening
 		**The Loon, **Unreadable, Unconcerned, bitter by default, and willing to spread that bitterness. 
 		**The Blezzangionan, **Ecstatic to reveal the cost of the party's origins, and then set them up for further success
+	**NPCs of ill and famed fortune**
+		**Nirrum the Mad, **trapped by the Gassure in the Ambition chiller, beneath Amona Taliyudur, practically breaking the machine with output.
 		
 
 
@@ -62,6 +65,12 @@ Actors:
 	Secondly
 		Cralleys
 			Dappled and intense light, broken by shadows of green leaf and grey stone. High walls of grey crumbling stone
+			The scent of rotting plant matter, some sweet flowers, occasionally the smell of water or disturbed crusty moss
+			Extreme quiet broken almost exclusively by rare birdsong, and occasional birdrap
+			unbearable but dry heat in the sun, the cooking, attacked feeling, the strong desire to not move much until the heat breaks, which it won't
+			The hard stone and dry ground, the immense relief of shade, 
+			The taste of Silver stonefruit, which is comparable to steak and chocolate. 
+			
 		
 		
 		Dimming Marsh
@@ -90,6 +99,8 @@ Here, a description of how this *should* feel, how it is described to the player
 
 ===== The Second Part =====
 
+
+
 ===== The Third Part =====
 
 
@@ -116,9 +127,9 @@ The Setting
 				
 				
 
-==== A Shallow ocean, Wicklands, Lueri unshinihi ====
+==== A Shallow ocean, Wicklands, A Destination ====
 
-	The path: Any direction will lead appropriately
+	**The path:** Any direction will lead appropriately
 	
 	
 		
@@ -127,7 +138,7 @@ The Setting
 	
 	The Flat ocean Edges on wavy wax which covers over the water like a sheet, a thin sheet that breaks for the first few hundred steps until eventually the lightest party members can walk unimpeded on the wax. Heavier and heavily armored characters go last. With each step, the sun seems to go sideways. It doesn't set as one would normally expect, there always seems to be a bright yellow-blue line that fades from day to night until the party is in the wicklands proper. if they walk back at all, the day rotates back to meet them
 	
-	Twists: The Sumigi are extremely opportune but relatively weak
+	**Twists:** The Sumigi are extremely opportune but relatively weak
 	
 	The wicklands are a forest of glowing orange, with thick, almost toxic air in which constitution saving throws need to be made to cough up wax that builds up in the lungs twice during their time. Exhaustion points come from failed saves. The trees are ropey and there are small fires around their bases and at the tips of their branches. Carver gnomes work to scoop up the wax. 
 	
@@ -140,41 +151,27 @@ The Setting
 	
 	Here, the party is assaulted also by basar salter-yin, Fierce infernal Soul Tearer, Friedrich Fentiman, and Mohipinrolo furi-molada, Preparing a ritual to let the godking know when the fireheart erupts.
 	Mohipinrolo has of course made friends all over town and is having a great time. But Fierce, Friedrich, and Basar are miserable and are they are the ones who start the fight. 
-	Mohipinrolo can't let the party go if they fight his brothers, He liked his brothers, even if they were murderous bastards, and he can't finish the ritual without their help, and he can't just stop, his father would kill him. 
+	Mohipinrolo can't let the party go if they fight his brothers, He liked his brothers, even if they were murderous bastards, and he can't finish the ritual without their help, and he can't just stop, his father would kill him.
 	
-	However the party resolves this, they are pulled toward the nearest Castle of the Fey Courts, Lueri unshinihi. For an appropriate amount of favour they learn how to navigate Unshinihi's Grounds,
-		
-		"You seek the power of the Principal of curses. The Master of True ghosts, Perhaps?"
-		"To get to lueri unshinihi, take that path to the edge of sundown, where the sky is still golden and lit. There you will find a manor of simple make, Wood logs stacked high, wide windows that feel small. It is cozy, as that is the province of the court of terror as much as that of glamour. Walk up the honeysuckle path until winter."
-		"Should you leave the path, you will be lost. Though some less malevolent lords will let you return. after the 13th arch, you may find the Mizzuraer, of reaping and collection, or after the 30th arch, you may speak with the logoch, Of fading senses. At the 49th, the Creyhundeeth, of imminent disaster. The Blezzangionan, who you seek is a guest of the Lord of Terror, within the cabin itself.
+		If the party reaches Mohipinrolo first, he'll let them sneak out and will owe them a favour later, list this under CONNECTIONS
 	
-	
-	The journey is short, Lueri unshinihi is not far away from Jalahzo Gon, though it seems bordered by a relatively simple pine forest.
-	
-	
-	Its pathway is paved in blue shale among overgrown green grass. The eyes of Fey eels look out through the grass
-			The Creyhundeeth offers:
-				**A goodberry bush, which needs daily watering and casts the spell goodberry once a day. **It is resistant to frost and snow but does poorly in heat. It prefers partial sunlight and very well drained soil, which must be partially wood fibres. 
-				**An Acorn. **Shortly after leaving this area, a tiny baby fey emerges, proclaims itself Shewilladima, and tells the party to call her The Modwila at all times so she can keep her name, and shows the party immense love. 
-					Shewilladima knows her favour belongs to the party, but she does not have much. she can grant a total of 19,341 favour, after which time, she will perish.
-					Shewilladima is a member of the court of Valour. She is courageous but not suicidal. She has other ambitions, such as becoming big enough to hold a sword or even use a bow.
-					She will sacrifice herself wether the party wants her to or not if they are going to lose something they love when they exit the feywild.
-					She will help the party as best she can but she is CR 0. She will hide if there is danger and try to protect things important to the party if she can. She has a lift strength of 10lb
-					She is easily scared by stories of violence, but is courageous in the face of it. 
-					She can cast two spells: witch bolt once a day and Lightning lure as a cantrip. She has 4hp and a fly speed of 25ft. Her AC is 11
-				**A tiny vampiric Mimic that disguises as a compass and tries to bite non-fey that it gets close to. It cannot get through thick leather and needs blood once every two days. More and it will grow, less and it will die.**
-
-	Within Lueri Unshinihi's comfy front hallway, the party is instructed to take off their boots by a rather cheery looking clown puppet who is nailed to the shelf. Underneath the shelf is the line "do not free the clown, Please." If freed, the clown scuttles upstairs and is never seen again.
-	
-	There is enough room for maybe two or three creatures comfortably and taking off their boots requires an action. 
 
 
 
 	Win Condition: Survive the Journey to Lueri unshinihi and bring back a curse for one chosen target to weaken them
 	
 
-==== Thrumhush Barrens ====
+==== Cralley, A dimming Marsh, A Destination ====
 
+The Path: 
+	Leaving Lueri unshinihi passes them through a Nistleburr junction, which gives them a lurching sensation and drops them unceremoniously in a Cralley, which is a rather short journey thereafter. Scaling the walls quickly shows the folding-space feeling of the feywild, though gravity can bring you right back to the surface you were on. Getting lost provokes a fey to guide you back to where you were, for a favour.
+	The cralley Causes constitution saving throws against baking heat, and a fight against a group of sword fey has the condition that bright light causes disadvantage on attack rolls for everyone in it, the dappled shade is the only place to fight normally. Folk in polished heavy armor, warforged, or metallic dragonborn (and other appropriate folk) also cause disadvantage on attack rolls against them while they are in the light. 
+	A pool of water allows a reprieve, removing exhaustion if the party can put together a poem about shells for the Terror and valour fey who live in the pool. The Former of which is relatively feminine, whose torso appears to be anchored to a pile of bones at the bottom of the pond, the later being a //slightly// better clad, somewhat androgynous-faced and bright-eyed man with pointed ears and Stripes like even-spaced rivers running from his arms to his neck in his skin. The poem needs to be Two verses long, rhyme, and have a fairly consistent meter. The party may compose the poem while to swim in the pool, should they choose. The water is cool, and the valour fey will put magic into keeping it cool, but grumble if it takes more effort than expected. (Clara's character, DC 15 Charisma saving throw, advantage to suppress their boiling)
+	
+	
+	
+	The Cralleys give way to a dimming marsh where ample use of smoke
+	
 
 	Catches: Welcome to the feywild baybee, everything is batshit
 	

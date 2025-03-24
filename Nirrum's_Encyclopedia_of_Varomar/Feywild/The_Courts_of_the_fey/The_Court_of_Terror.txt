@@ -74,6 +74,19 @@ Created Monday 24 August 2020
 
 
 
+==== Field Where you can see Heaven ====
+	Later in the morning, one might fight a wide grassland, with low coarse grass. The edges of the region seem to disappear quickly as you walk, leaving you on what appears to be a lenticular field, despite not being actually curved. Here, the sky is most of your vision, the horizon appears below you, and in the rich light, one might get hypnotised by the enormity of their surroundings. This field is the home of the Gaio Deneyer. The Field  itself  is capable of delivering visions of potential futures
+	
+	
+	The **Gaio Deneyer, Archfey of Wide Skies, Court of terror**
+		
+		
+		ehhh hurl through hell, damage type of choice?
+		
+
+
+
+
 ==== The Skullpit ====
 bugman
 	In the afternoon, deep into the autumn, cut into the centre of a storygrass field is a quater-mile Crevasse, from which a horrendous stench pollutes the surrounding landscape. 
@@ -89,7 +102,7 @@ bugman
 
 **The** **Aucholemery, Archfey of Stillness**
 
-	A Pair of Almond shaped emerald green  eyes speckled with blue and white sit in a dark skinned but slender face with a Smile that always shows sparkling white teeth are all that is even remotely humanoid of the Aucholemery. Scales with deep grooves reminiscent of long burnt wood, black and streaked with white near edges run the length of a large lizard-like body. Long Monitor claws grip the ground and propel that shimmering smile forward, only to stop her without sign of momentum when she is in range to work her magic. She grants favour in exchange for a gallon of holy water, A holy magical item, or other blessed or consecrated goods. She redeems favour with a few abilities
+	A Pair of Almond shaped emerald green  eyes speckled with blue and white sit in a dark skinned but slender face with a Smile that always shows sparkling white teeth are all that is even remotely humanoid of the Aucholemery. Surrounding her face, a fringe of thick blue feathers tipped with white. Scales with deep grooves reminiscent of long burnt wood, black and streaked with white near edges run the length of a large lizard-like body. Long Monitor claws grip the ground and propel that shimmering smile forward, only to stop her without sign of momentum when she is in range to work her magic. She grants favour in exchange for a gallon of holy water, A holy magical item, or other blessed or consecrated goods. She redeems favour with a few abilities
 		**The eye of the basilisk: **As an action you can force a creature to make a constitution saving throw against a DC equal to your level or be petrified for one hour or until you end the effect as an action. The use of this ability recharges after a short rest
 		**Perfect stillness: **As a Bonus action, you can anchor yourself perfectly still in whatever position you are in, similar to an immovable rod. A creature attempting to move you from  this position must make a DC 30 strength check to do so. Any Damage you take in this state is postponed untily you leave it, at which time it all applies simultaneously. The state lasts for 1 hour or until you end it as a bonus action. The use of this ability recharges after a short rest
 		**Deafening Silence: **You can cast the spell silence at will. 
@@ -97,6 +110,7 @@ bugman
 
 Holy and sacred place, even for the fey who barely know of such things. 
 
+[[+Coda]] 
 
 ==== Tellimardun hy Treysa ====
 	In the Morningside regions, a deep forest  of seemingly normal trees beckons travellers with sweet flowers, fruit, and a serene sense of beauty. This is the Forest Home of Dryads, and is ruled by **the Verdant Queen,** who slumbers inside a great white ash tree, around which no creature can feel animosity or, close up, any emotion at all. The Ash Tree is one part of Treysa, the great white world tree of Snarl, though she is only a small part of it, as this tree connects to all other world trees. The Verdant Queen is the custodian of the fey side of such things, and as a result, she is one of the most powerful fey in the multiverse, nearly as powerful as the warden of lightning or the springer. The forest reflects the Verdant Queen's mood and it is very quick to change, Save when she is around her husband, the Shymbalaeo, Lord of the court of Valour.
@@ -133,14 +147,14 @@ Holy and sacred place, even for the fey who barely know of such things.
 			
 			Anyone who displeases the loon gets cursed with something to make it up to him, a particular favourite being lock-blindness, the inability to tell if something is locked. Similarly common are his uncanniness aura (to 10ft)
 			
-	**Dm's Note:** No NPC in snarl has ever gotten those abilities, and it is up to players to dig their own graves with them. Do not let a player who is being uncomfortable have the abilities that cause that discomfort
+	**Dm's Note:** No NPC in snarl has ever gotten those abilities, and it is up to players to dig their own graves with them. Do not let a player who is making others uncomfortable as a person have the abilities that cause that discomfort
 	
 	
 	
 	
 	
-	The Ruler of the Court of Terror is a fantastically precise individual. I shall have to describe them when other threats are dealt with. 
-	Update: **I do not think the blezzangionan is the true master of this court. Something else lurks. **
+	~~The Ruler of the Court of Terror is a fantastically precise individual. I shall have to describe them when other threats are dealt with. ~~
+	~~Update: **I do not think the blezzangionan is the true master of this court. Something else lurks.**~~ 
 	The Mizzuraer, Archfey of collection and reaping, Harvest, and picking things before they are ready to die
 
 
@@ -151,6 +165,42 @@ There is a knot hole in the base of the tower where it sits out of mostly still 
 
 Climbing the inside tower is difficult, as it lacks any form of staircase. Several forms of undead crawl around, attacking indiscriminately, often each other. These undead look, behave, and have the abilites of their normal counterparts, but can be destroyed with dispel magic, or a cast of the sleep spell, as they lack necrotic energy. They are also unaffected by abilities that specifically target undead. They also have only limited intelligence and are often tied to a fey puppetteer, hiding out of sight.
 
-Near the top of the tower, the chain bridge is anchored underneath a  wooden platform. The chain swings, high above the ground below, and it lacks rails or guards or even a level path along its humungously thick links of a guage twice as thick as a horse around. While careful footing is needed, one can reasonable expect to get across alive. The chain leads into the birdcage, home of the **Volinbode.** The **Volinbode** is a 4ft tall pillar which hovers along the ground. The pillar is about a foot wide and is covered in masks. As **The Volinbode** speaks
+Near the top of the tower, the chain bridge is anchored underneath a  wooden platform. The chain swings, high above the ground below, and it lacks rails or guards or even a level path along its humungously thick links of a guage twice as thick as a horse around. While careful footing is needed, one can reasonable expect to get across alive. The chain leads into the birdcage, home of the **Volinbode.** The **Volinbode** is a 4ft tall pillar which hovers along the ground. The pillar is about a foot wide and is covered in masks. As **The Volinbode** speaks MAN FUCKED IF I CAN REMEMBER WHAT I WAS GOING TO WRITE
+
+
+==== Huntlands ====
+	The huntlands is home to a swathe of archfey, **The Deakagrash, of the court of swords, Hearne of the court of Valour, **and **The Lukor of the court of Terror, **to name a few iconic ones.
+	
+	The huntlands is a thick, ancient Verdiglad, Verdigrim, and Dragonleaf region, blending easily together, covering much of the run of a day on their own. Run with game trails but still thick with undergrowth and wildly varying botany, the Huntlands are ultimately just a forest, a rather mundane one as far as the feywild goes.
+	
+	**The Lukor, Archfey of Chase (Fighter, EK 12) Terror (ESTJ)**
+		The master of the chase smiles warmly to those who follow, and fiercely at those who flee
+			Height: Varies, Mostly 5'9
+			Favour: 1440
+	Unique among the Terror Fey, the Lukor is adept at helping others feel like a predator. Many creatures that get lost in the feywild might end up here being hunted for sport by fey who seek to enjoy that sport. Appearing from most angles as a ram-horned tiefling, whose horns, eyes, and teeth are luminous silver, the Lukor sheds a comfortable comraderie to those to the sides and behind him. In front of him is a different matter, as his face takes on dark shadows, and his grin seems to stretch wider, shining in whatever light is present. It is difficult to not know the Lukor is hunting you
+	Dafuq does this guy give
+
+
+==== The Chael ====
+	The Chael is both the name of both a mountainous forest, and the archfey who lives in it, Arguably they are the same thing. Region of the Chael is known for dark, dense  Violet Spruce forest, occasionaly broken up by a witchriver or standstone outcropping. Sound travels less distance than usual here. And creatures as little as 50ft away are almost entirely inaudible to eachother. Spells that produce thunderous noises might only reach half of their normal distance. Light, similarly travels only half of its normal distance and only certain types of magically induced vision (devil's sight, Manarahi magical darkvision) can pierce the darkness. The only exceptions to this rule are lights reflected off of eyes, which travel twice their normal distance, and the calls of birds, which are audible normally. The trees in the chael move frequently, though quietly, into places that were once open trails. There is *always* a trail in the Chael, but there is no guarantee that the one you're on goes anywhere. 
+
+	**The Chael (INTJ), Archfey of The Chael, Terror**
+		A skinny wooden humanoid creature** wearing a crown of quills upon its face, which is the shape of a mole's skull**
+			Height: 6ft
+			Favour: 2560
+		The Chael is a strange creature even among the fey. Defined by, born from, and the source of its massive dark forest, there is question on which part of the chael is the archfey. The speaking part at least will give favour for becoming part of the chael, and will redeem favour in allowing one to become part of the chael. Unsurprisingly, they'll also do it for free. 
+			**Chaeling. **
+				To be a Chaeling is to be one among many. Wherever you are, so is part of the chael. Wherever you walk, there is part of the chael. Wherever you wait, there grows the chael. Should you undertake the Chaeling. You gain the following abilities which you can activate as an action. Each lasts an hour, until you dispel the effect, or reach 0hp. There is no limit to the number of these effects you can have at once
+					**Dim. **The effect of any light source you can sense within 1 mile is reduced to half.
+					**Muffle. **The volume of any source of sound you can sense is reduced by half. You can target an object before it becomes the source of sound provide you can sense it. 
+				You also gain the following innate spells, using either charisma or constitution as your spellcasting ability.
+					At will: Gust, Animal Friendship
+					3/day:  Guardian of Nature, Wrath of Nature
+					1/dtay: Plant Growth, Maze, Awaken,
+				In addition, when you die, you may chose to revive in the chael within 1d10 days, provided the chael is still alive
+
+
+
+
 
 

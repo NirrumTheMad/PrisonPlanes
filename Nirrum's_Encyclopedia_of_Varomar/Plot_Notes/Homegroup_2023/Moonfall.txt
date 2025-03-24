@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-10-16T02:42:17-02:30
+
+====== Moonfall ======
+Created Wednesday 16 October 2024
+
+The moon follows several rules.
+
+	* It is predictable because it runs from the sun which is controlled by druids such as the godking and the whales
+	* It is fueled by divinity which it generates itself, simply by nature of being so large.
+	* It is largely immune to Arcane(wizard) magic (with exceptions) and Physical attacks.
+		* Those exceptions include 
+			* Acid  and Radiant damage
+	* It has weird interactions with the following spells
+		* Bones of the earth -damage
+		* Antipathy/Sympathy - Stun
+		* Aura of Purity - disadvantage
+		* Barkskin - blind
+		* Commune with Nature - 
+
+The defeat of the moon

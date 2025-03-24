@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-10-19T01:00:25-02:30
+
+====== stories ======
+Created Saturday 19 October 2024
+
+[[+Fairy_Tales]]
+[[+Horror]]

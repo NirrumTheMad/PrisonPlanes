@@ -1,0 +1,69 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-03-06T00:29:04-03:30
+
+====== Random Events ======
+Created Thursday 06 March 2025
+
+== READ EACH FULLY BEFORE TELLING THE PLAYERS INVOLVED ==
+
+01 - "Out of Character, You see the wall, grey, black, white, writhing flesh and sickening pulsating, extending to time unending in all directions before you. Something breaks free of its ill surface, an arm, a finger, a tentacle, a tendril, something that can bend. It arches, and pushes, and more of such structures pull free, conjoined as a hand, or a star. All sense inverts, as this thing gingerly hangs on to the wall, only to let go, and fall like a raindrop noiselessly into the inky deep of space. It falls toward an orb of frozen blue, steely grey wastes, and blackened barren charcoal with a single green arc as a halo on its surface. Upon touching the sky, it slips into a crack of purple, tunneling through unseen impossibilities, slipping down the near frictionless path until it finds a window. You take 1d10 damage, Roll initiative, as a grace eater emerges from your eye into your room, it does not seem to have noticed you." 
+
+02 - "you meditate, and are made aware of the thousands of attendees that technically work for you"
+
+03 - "The people and things in front of you change completely, some of them freeze, some things around you age inexplicably, you are coated in a thin layer of sand, a few objects and people seem to be fading into nothingness"
+
+04 - "Someone else's themesong begins to play, roll initiative"
+
+05 - "You get a letter indicating your Insurance policy has been reevaluated and reduced until you can match contribution standards. No number is given" Literally any action will result in a readjustment letter back to appropriate and a coupon for a approximately 25c or one use of a Random company's service in apology. 
+
+06 - "A name you've see on Posters in town, <NUMBER-COLOUR-PLANT> the <VERBING NOUN> of <COMPANY OR ORGANISATION> shatters through the reflection of a nearby window. They are chased by/chasing an entity of <phobialist.com, pick one> Which warps the world so that all who view it, experience it. It does Massive psychic damage but is amazingly weak to Radiant, Lightning, Or Thunder damage, and is defeated instantly upon taking any. Roll initiative. If you succeed in combat, they thank you and reward you by doubling your total sand.
+
+07 - "A small, very skinny child catches your eye. They show you they have <ITEM RELATED TO YOUR CLASS> and can use it, and are excited to find someone like them"
+
+08 - "An uncounted citizen tries to rob you. It's hard to tell if they're serious"
+
+09 - "a Finite Citizen tries to rob you
+
+10 - "An innumerable citizen tries to rob you"
+
+11 - "An infinite Citizen tries to rob you"
+
+12 - "An incalcuable asks for all of your sand. It's hard to tell if this is a robbery or necessary"
+
+13 - "While passing along the streets, you come across a church erected in your honor. Many people inside are higher ranked and/or more powerful than you, and don't seem to mind"
+
+14 - "A meteor shower bombards the wall, stirring a large shadow from it, which passes into the starry side of the sky. No one gets a good night's sleep"
+
+15 - "A god ascends into the world, carrying their heaven with them. Their Heaven is promptly stolen from them by a finite. If you help them, your Max HP increases by 5 permanently, as their mythos now includes you"
+
+16 - "An apocalyptic being of world-shattering potency arrives via meteorite and crashes nearby. ~CR 6. Your AC increases by 2 permanently, as you are now protected by the spirits they had enslaved"
+
+17 - "A fairy, disguised as an office work tries to steal your name. It explodes immediately as it tries to absorb your power. The Ricochet of favour increases a movespeed of your choice by 5, permanently. Alternately, you can extend the reach or area of effect of a spell by 5ft, or increase the creatures it targets by 1"
+
+18 - "You spot an enemy you certainly defeated. They are trying to avoid your notice"
+
+19 - "you spot an enemy you certainly defeated. They Appear to outrank you, and may in fact be more powerful. They have not noticed you"
+
+20 - "You spot an enemy you certainly defeated, they are trying to pick a fight, they do not appear to have gotten stronger at all"
+
+21 - "Your Themesong begins to play, an enemy you have already defeated seems to have grown more powerful in this new world, roll initiative"
+
+22 - "One of your parents spots you"
+
+23 - "One of your descendants spots you, Either the product of natural time or attempts at forbidden magic on even the slightest trace you have left behind."
+
+24 - "The parent or Progenitor of an enemy you have defeated spots you"
+
+25 - "The descendant of an enemy you have defeated spots you"
+
+26 - "Your Homeworld's Moon, Sun, Largest Mountain, Deepest sea, Or Oldest spirit asks for help and a blessing in the form of a weapon or spell they can bestow unto some chosen heroes. The cost of such an item or the ability to cast or enscribe the spell is d100 sand, though you can spend more if you wish, though be wary of leaving too powerful a legacy."
+
+27 - "All of the d1000 hells of a forgotten world have broken loose. You'll have to fumigate where you live, Level d100 sand"
+
+28 - "You are asked to deal with an issue that seems to need your direct attention, though it is within the sewers. A group two ranks below you has Rejigged the sewage system so they could isolate your bathwater, which they are selling to others of their rank as a potion to increase their power. Disgustingly, it does seem to work."
+
+29 - "You are offered a potion that will increase your power, acting as a consumable pearl of power. If you identify this potion, it appears to be the remains of a powerful cleansing ritual of someone two ranks higher than you"
+
+30 - "A very tired looking Elf Wizard in bedraggled robes asks if you've got anything interesting in your pockets he could take a look at. Allowing him to do so locks that item in your inventory, unlocking at the next stolen time event"
+

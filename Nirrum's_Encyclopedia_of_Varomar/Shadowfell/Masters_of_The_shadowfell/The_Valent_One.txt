@@ -22,6 +22,7 @@ To ask "what am I" is a question that fuels the shadowfell. It is a selfish, sin
 === Ritual of Water Adaption ===
 	By mixing your blood with the water that comes off of the valent one on a dry day, and that with an equal amount of the blood of a freshly killed fish, one is able to lose their ability to survive on land, and gains adaptations for living in water. This is reversible with the same ritual, replacing the fresh fish blood with fresh blood of a terrestrial species. 
 	
+
 === Ritual of the comet ===
 	Burning yourself with the flame of the valent one is enough to teach you his secret of flight, and its cost. Make a pyre out of bones and set yourself ablaze to gain an unlimited fly speed of 180ft, but contact with water will forever deal 1d6 damage per round, and you become vulnerable to cold damage. If you were resistant, you instead lose this resistance.
 	

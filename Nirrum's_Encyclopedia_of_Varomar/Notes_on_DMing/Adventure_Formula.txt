@@ -43,7 +43,14 @@ Here, a description of how this *should* feel, how it is described to the player
 	**Twists: **What dangers are there that the party does //not// know about, that recontextualises their journey? Not Just normal enemies, but problems, like sudden storms, or someone hunting them. When does this twist show itself?
 	**Enemies:** What threats are on the trail, perhaps known about, expected, or neither, but reasonable to be part of the path? What is their context on the path?
 	
+
 ===== The Second Part =====
+	**Path:**
+	**Win Condition:**
+	**Treasure:**
+	**Catches: **
+	**Twists:**
+	**Enemies:**
 
 ===== The Third Part =====
 

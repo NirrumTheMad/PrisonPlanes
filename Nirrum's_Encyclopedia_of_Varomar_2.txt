@@ -15,12 +15,14 @@ Created Monday 07 August 2023[[Nirrum's Encyclopedia of Varomar:Notes on DMing]]
 [[+Feats]]
 [[Nirrum's Encyclopedia of Varomar:Classes:Class Archetypes]]
 [[+Races]]
+
 [[+Group_Patrons]]
 [[+Pantheons]] 
 [[+Equipment_and_Magic_Items]]
 [[+Spells_and_Magic]] 
 [[+Lore]]
 [[+Adventures]]
+[[+stories]]
 
 
 [[+Tajik]]

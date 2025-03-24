@@ -2,8 +2,8 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2018-01-30T04:24:21-03:30
 
-Magic Items
-Created Tuesday 30 January 2018
+====== Magic Items ======
+//Created Tuesday 30 January 2018//
 
 
 Mithral note: Thrown for finesse, longer reach for non-finesse
@@ -128,7 +128,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		
 **Mother of Pearl of Power**
 	Wondrous Item, uncommon, Requires attunement. 
-		You can use an action to speak this piece of Shell's command word and regain 5 Ki points. This ability cannot be used again until the next dawn.
+		You can use an action to speak this piece of Shell's command word and regain 5 Ki or Sorcery points. This ability cannot be used again until the next dawn.
 		
 **Dynamic weapon of the Honest Eye**
 	Scimitar (cutlass), Requires attunement, Very Rare
@@ -213,7 +213,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		
 **Selfthrower Crossbow**
 	//Light// or //Hand// //Crossbow, Very rare, Requires attunement//
-		Once a day, as an action  you can press the tickler on this crossbow without loading ammunition after saying the command word. You are then launched up to 80ft in the direction you pointed. If you land on a hard surface, you take 1d6 damage for every 10ft you were launched this way.
+		Once a day, as an action  you can press the tickler on this crossbow without loading ammunition after saying the command word. You are then launched up to 80ft in the direction you pointed. If you land on a hard surface, you take 1d6 damage for every 10ft you were launched this way. If you hit a creature with yourself, both creatures take half of the damage, rounded down. 
 
 **Shame**
 	//Dart, Bone Artifact(humerus), Requires attunement//
@@ -368,7 +368,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 
 **Quickdraw Scabbard**
 	//Wonderous Item, Common, Requires attunement//
-		Draw a weapon as a reaction on your turn
+		Draw a weapon as a reaction 
 		
 **Crazy balls**
 	//Wondrous item, Uncommon//
@@ -425,7 +425,7 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		* Waterbreathing. You can breath under water without difficulty and are immune to immense pressures
 		* Water walking. You gain the ability to walk on water if you choose. You can activate or deactivate this as a free action on your turn as part of your movement.
 		* Flight. You gain a fly speed of 60ft (hover)
-	**Heart of the strong. **Your strength increases by 2 while you are attuned to Crowncast. Your strength maximum is increased to 30 Permanently.
+	**Heart of the strong. **Your strength increases by 2 while you are attuned to Crowncast. Your strength maximum is increased to 30 Permanently, even if you are deattuned, All curses upon you that rob you of your strength end, and you are immune to all poison and disease.
 	**Destruction. **When the last descendant of old Graoton dies, when the children of mirrored lightning no longer bear the mark of what they witnessed, Crowncast will crumble to dust.
 	A POOR RECREATION?
 {{.\pasted_image006.png}}
@@ -443,13 +443,13 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 		* **Spines. **You gain boney spines that project through your skin. A creature that touches you directly without thick protection takes one point of damage. Creatures that grapple you take 5 damage when they grapple you and at the start of each of their turns until the grapple ends.
 		* **Tail. **You gain a prehensile tail. It is not capable of wielding weapons but is capable of holding objects. You get advantage on checks made to maintain grapples and to maintain your hold on objects you are grasping.
 		* **Scales. **You gain protective scales that grant you a +1 bonus to AC while not wearing armour and resistance to piercing and slashing damage.
-		* **Superior Darkvision. **You gain darkvision to a range of 120ft. If you already had darkvision, it increases by 60ft
+		* **Superior Darkvision. **You gain darkvision to a range of 120ft. If you already had darkvision, it increases by 90ft
 		* **Ability score adjustment. **Your strength score becomes 18, if it is not already higher. Your Dexterity score becomes 18 if it is not already higher.
 		* **Regeneration. **You regain 5 hit points at the start of each of your turns, damaged or broken parts of your body repair themselves after 1 hour.
 		* **Speed. **Your move speed doubles
 		* **Fear. **You have disadvantage against saving throws to avoid being frightened. You are immune to the effects of the spell Calm emotions.
 	**The monster within. **Once between long rests,  you grow in size up to gargantuan for one minute. Your equipment does not change size but Goalhennai does. Your melee weapon attacks deal use four times as many dice (bite deals 4d4+ strength modifier damage). You can carry 16 times your normal carry limit and your reach multiplies by 4. Targets smaller than you have disadvantage to break grapples. If you reach half health in this form, Goalhennai compels you to run, a DC18 wisdom save is required each turn to not be frightened of sources of damage. When this form ends, you gain one level of exhaustion.
-	**I will protect you. **If you die while attuned to Goalhennai, you instead transform into a purple worm assuming its statblock. As you transform You lose most of your memory and higher function while in this form, cannot recognize friend from foe and use all actions movement and abilities to escape. The Transformation completes over the course of a day, at the end of which you lose all prior racial and class features you had previously. This change is permanent and can only be reversed with the use of a wish spell after deattuning from Goalhennai. 
+	**I will protect you. **If you die while attuned to Goalhennai, you instead transform into a purple worm (see crowncast) assuming its statblock. As you transform You lose most of your memory and higher function while in this form, cannot recognize friend from foe and use all actions movement and abilities to escape. The Transformation completes over the course of a day, at the end of which you lose all prior racial and class features you had previously. This change is permanent and can only be reversed with the use of a wish spell after deattuning from Goalhennai. 
 	**Destruction. **Recovering the fragmented souls of Goalhennai's past charges from around various planes of existence will release parts of the sword's power. After recovering all of them and performing the ceremony spell, the sword falls inert, 
 	
 	
@@ -501,28 +501,51 @@ All tool sets can be purchased with +1/+2/+3 enchantments
 	Longsword, Bone Artifact, Requires attunement
 		A full hand and wrist, less the bones of the forearm grasps the blade of a broad symmetric sword. 
 		**Bound to Life.** Damage with this weapon cannot kill a creature, regardless of their condition. If you roll a 20 on the attack roll, you cut off one of the creature's heads, limbs, or any body part. The body part continues to function though continuously is in pain. Blood or similar fluids as well as nerve impulses and necessary magic will travel as far as is necessary in order to reach affected parts in order to keep them functional physically moving toward them along the shortest path possible, avoiding obstacles and antimagic fields. A creature can die from hunger, aging, or disease if they are incapable of maintaining their health, but the wounds made by this weapon cannot become infected from exposure. 
-		**Destroying Longhand. **To destroy longhand, it must be starved for 1698 years, approximately. No creature affected by wounds from longhand, no matter how small, must exist for this entire duration, otherwise the amount of time they would have been dead gets added to the remaining time. 
+		**Destroying Longhand. **To destroy longhand, it must be starved for 1698 years, approximately. No creature affected by wounds from longhand, no matter how small, must exist for this entire duration, otherwise the amount of time they have remaining to live gets added to that time, there is no way of knowing this amount. 
 
 **Mountain Splitter**
 	Adamantine Greatsword, Very Rare, Requires attunement
 		While attuned to mountain splitter, you can cast absorb elements without consuming spell slots and without components. Damage rolls with this weapon deal 1d12 instead of 2d6. This weapon deals double damage to objects and structures. 
-
+ {{~\AppData\Local\Bladesong\Saved\Screenshots\Windows\1719814344\Screenshot00002.png}}
 
 **Call of Endless Life**
-	Wondrous item, Arcane Focus, Greatclub, Bone Artifact, Requires attunement by a Bard, Paladin, or Cleric
+	Wondrous item, Arcane Focus, Greatclub, Bone Artifact, Requires attunement by a Bard, Paladin, or Clericgreen
 		One of the Femurs has been shaped into the handle of a massive bell.  While Attuned to this bell, you gain powerful control over the living dead.
 		**Sonorous peals. **As an action, you may ring the bell which can be heard for over a mile. All undead within 300ft must make a charisma saving throw against your spell save DC with disadvantage. Undead that fail this save are under your control until they cease to exist or until you unattune to the bell. Any living creature that is unconcious within this range suffers one level of exhaustion
 		**Mournful Ring. **If you hit a creature with the bell as part of an attack, and that creature dies before the end of your next turn, it rises as a ghost under your control. Any creature that makes a death saving throw during this time makes it with disadvantage
 		**Life Knell. **By Ringing the bell in a ritual for an hour, concentrating on the rhythm, you can reconstruct the corpse, spirit, and will of one dead creature that you are familiar with. If that creature is in an afterlife, it is pulled from it and inserted into a healthy, youthful, and living body. You can only use this ability once per month, and recieve five points of exhaustion after using it. 
 		**Hostile Deattunement. **You may attempt to attune to the call of endless life while another creature is attuned to it. Doing so takes twice as long and deattunes the other creature after the first hour
-		
-		 
+
+**Strings of the Siren**
+	Wondrous Item, Requires attunement by a bard or warlock
+
+**Reeds of the Horned ones**
+	 	Wondrous Item, Requires attunement by a bard, Druid, or Ranger
+
+**Mallet of **
+	DRUMSTICK
 		
 		
 		
 
 ==== Tagic Company Items ====
 	The Tagic company is a company from a different prison plane, one that has broken, and the demon, which eats the process of time, has escaped. The Wizards of this plane work constantly to keep this demon under wraps, driving their technology forward extremely quickly. Because of this they have some fantastic magic items, frequently ones they Ship out to Other planes  for exorbitant prices so that they may have the materials to keep up with their impending doom. Among the foremost exporters is the original Techno-magical company, **Tagic. Here are some of their wares, but be warned, their prices are extremely steep, at over ten times those of other magic items. None of these items are craftable in Snarl as the technology required is far beyond what is available.**
+	
+=== Workshopping ===
+**Stem**
+	Wondrous item
+		Connects you to the internet
+**Earth-blessing boots**
+	wondrous item
+		Parts waters around you 
+**Sand**
+	Money
+
+
+
+
+
+=== ACTUAL ===
 
 **Lithosaad, the Diplomancer's Staff**
 	Staff (rare), requires Attunement`
@@ -638,7 +661,7 @@ Dispel Magic
 	* If you are placed under the effect of time stop, make an Arcana(intelligence) check against the caster's spell save DC, If you succeed, the spell has no effect for you.
 
 
-** Goamehteh Hammer **
+** Goamehteh Hammer **green
 	Wonderous item, Warhammer, Beyond legendary
 		A silver-grey brick on an ornate handle built to craft items that even gods are envious of. While holding this hammer, spells you cast are cast as though using a spell slot of two levels higher than the one used. Items you create resist all bludgeoning, piercing, slashing, and force damage. 
 
@@ -659,6 +682,11 @@ Dispel Magic
 
 
 == Workshopping ==
+
+		
+**Abalone, Mother of All pearls**
+	s'agreatsword that has something to do with necromancy
+
 Trezja
 
 Book of Mist(missed) spells Currently in Drakenhearth with frog
@@ -726,6 +754,10 @@ Yazi, Seeker of Destiny -- In the Posession of Xundrin Ry'lendar
 	Once per day, as an action, you commit your mind to A fighting technique known as "the Rain (or Reign) of Steel" During this time you cannot hide, dash, or talk. Any creature that starts its turn Adjacent takes 1 weapon die damage. This effect ends when you sheath the weapon, lose conciousness, are incapacitated or frightened, or are disarmed.
 	
 	Cha save 12 if it tries to take over.
+
+ambu lance
+	heals instead of damage, no attunement, charges
+	
 
 	
 Yokumo Mantle
@@ -833,8 +865,9 @@ Consumable fey potion that makes you forget one of your known spells, and gives 
 some kind of fey ring that you can subtle delay a spell to activate in 1d10 rounds?
 cursed feystep bracers? you can use a charge to teleport 30ft in a direction as a bonus action, but WHO it teleports is randomized
 
-**Message Interception ring**
-	No messaging the King every day
+**Message Interception rings**
+	Wondrous items
+	A simple pair of rings. Any creature wearing the first ring will not recieve any magical messages or telepathic communication of any kind. The wearer of the second, provided they are within a mile of the first will recieve all messages intended for the first.
 	
 
 
@@ -842,3 +875,4 @@ cursed feystep bracers? you can use a charge to teleport 30ft in a direction as 
 	Wondrous item (consumable) 
 		Whenever this liquid is still for any period of time, the surface of it freezes over with a very thin sheet of ice. Both types of wine are perpetually just below freezing in temperature, and both are alcoholic. Rimewine is stronger and more fortified than chillwine.  Drinking either of these wines give you the ability to see into a place in the feywild, whichever part is closest to your location for one hour. Drinking them while in the feywild allows you to see the prime material plane. The drinks each have a secondary effect depending on which one.
 			Rimewine: you 
+
