@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-13T00:26:24-02:30
+
+====== Sidequests ======
+Created Sunday 13 April 2025
+Requirements Legend:
+GS - Grant stetson, unlocked after completing //the hustle//
+
+
+[[+Hunger_For_Closure]] -No req A shawarma joint tells you someone has been stealing their experimental spice mix, they're willing to pay to get it back. It's not much but it'll get you a discount later
+[[+Edging_Reality]] - Req: GS A bar on the other side of town is built with a window into space, Grant has a personal request to see if their chairs will accomodate.
+[[+Rincewind_Questline]] - A red-robed wizzard asks for help in a lanugage you're surprised he speaks. He needs to get to a hospital.
+[[+Drugs_Drugs_Drugs]] - Time to break into a chemical processing facility!
+[[+Dawn_of_a_New_Order]] - Ordering food has never been so complex!
++

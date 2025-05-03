@@ -138,7 +138,7 @@ The Setting
 	
 	The Flat ocean Edges on wavy wax which covers over the water like a sheet, a thin sheet that breaks for the first few hundred steps until eventually the lightest party members can walk unimpeded on the wax. Heavier and heavily armored characters go last. With each step, the sun seems to go sideways. It doesn't set as one would normally expect, there always seems to be a bright yellow-blue line that fades from day to night until the party is in the wicklands proper. if they walk back at all, the day rotates back to meet them
 	
-	**Twists:** The Sumigi are extremely opportune but relatively weak
+	**Twists:** The Sumigi are extremely opportune but relatively weak, and the party cannot escape the bounds of the shallow ocean until they 
 	
 	The wicklands are a forest of glowing orange, with thick, almost toxic air in which constitution saving throws need to be made to cough up wax that builds up in the lungs twice during their time. Exhaustion points come from failed saves. The trees are ropey and there are small fires around their bases and at the tips of their branches. Carver gnomes work to scoop up the wax. 
 	
@@ -170,7 +170,7 @@ The Path:
 	
 	
 	
-	The Cralleys give way to a dimming marsh where ample use of smoke
+	The Cralleys give way to a dimming marsh where ample use of smoke can ward off the mosquitos but it is a constant hassle without something metal to carry it in
 	
 
 	Catches: Welcome to the feywild baybee, everything is batshit

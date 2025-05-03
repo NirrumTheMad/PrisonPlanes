@@ -17,7 +17,7 @@ Each character must tend to a garden, until it is overcome by pests. Each time t
 Each character partakes in a chase encounter, as a fierce god tries to scrape them from a city with a spindly tree. 
 
 Each character finds themselves unnaturally aged, and must fight a demon without being noticed by people that are trying to take care of them.
-
+	"The demon has returned, it lumbers toward you down the hallway, toward your bed. You are suddenly old, wrinkled, and attended by a few people who look somewhat //like you. //You know they sedate you whenever the demon comes. They can't see it, but you have been fighting all your life and still have tricks left to show them.
 
 "you awake, you're a child again, go about your day"
 

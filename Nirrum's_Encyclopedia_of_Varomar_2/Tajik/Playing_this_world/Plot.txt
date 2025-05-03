@@ -8,6 +8,8 @@ Created Friday 28 February 2025
 BOTH AT THE SAME TIME
 
 [[+Random_Events]] 
+[[+workshopping]] 
+[[+Sidequests]] 
 
 
 ==== Introduction ====
@@ -25,20 +27,19 @@ Somewhere in front of The Wall, behind the Dead Star, is the city of Hemma, wher
 
 //"Your Contribution is?"//
 
-Contributions to your insurance plan are an automatic assessment of your value, measured in sand, that you have provided, directly or indirectly. Most of a paycheque is often thrown directly at the Tajik Insurance Adjusters. Sand isn't necessarily accumulated exclusively through one's job, but some can be transferred to your account for services rendered by whoever you rendered them to. Sometimes, Tajik itself will move sand around, and people will find their plan has been adjusted without their knowledge.
+Contributions to your insurance plan are an automatic assessment of your value, measured in sand, that you have provided, directly or indirectly. Most of a paycheque is often thrown directly at the Tajik Insurance Adjusters. Sand isn't necessarily accumulated exclusively through one's job, but some can be transferred to your account for services rendered by whoever you rendered them to. Sometimes, Tajik itself will move sand around, and people will find their plan has been adjusted without their knowledge. Sand is really measured in its allocation, not its specific collection, and it is up to a person of any given rank to spend the sand they are worth wisely, largely on those who allow them to function in such a way that enables them to reboot their operations completely. Anything left over is yours to keep, so there is great incentive to keep your organisation slim, but also redundant enough to function with hiccups. Submitting a regular sand allocation report is very much like submitting a will.
+
+Wills on the other hand do not exist. The only thing that keeps a great many families at the top of the hierarchy is the passing of clandestine rituals that maintain critical sets of passwords for infrastructure. Passwords are the only key to power that a person can pass on, as ownership can become *very fluid very quickly* if an important member of an organisation is missing when it comes time to restart time. Some of the most protected passwords are to resanding systems. Unobtrusive locations which, upon being resanded, set into motion a rapid change in entropy, cascading through factories and workplaces in ways that quickly and evenly restarts their time. 
 
 You will have already surpassed the uncounted. Those people who cannot defend themselves live as they can, their monster is all of their existence, for however long it lasts. Their use is as sand, only audible in mass, and their effect is similarly minute. Level ~1-3
 	* The only way to escape being uncounted is to be noticed and taken up by a citizen of a higher contribution
 	* Many Uncounted flock to the homes of the highest ranks, where they are often entirely invisible, feasting on crumbs.
 
 Begin as a finite, a low-class numbered citizen. You must seek money for food or steal it. You have very little, you gain very little. Your concerns are the hierarchy of needs. Your monsters are other people who wish to take all they can take from you. Your class is kept sedated by the dribbles of exquisitely impossible power, the shadows of the strong, and the chance to cast shadows of your own. Your use is as flagstones for the strong. Level ~3-5
-	* You must find A THING FOR A GUY HIGHER RANKED THAN YOU - Bijyana Shipping
-	* do this again and get a little fucked over on sand.
-	* Do this again and get a little fucked over on sand
-	* One more time, but he's dead, his the remnants of his corporeal form rather evenly atomised across the back wall of his office when you come back. An infinite is trying to do Damage control. When you bring in the goods, his eyebrows shoot up, He thanks you, and asks what you're owed. Even if the party asks for all of what was owed from previous engagements, he'll say "That explains a lot", and pay them *double their ask*, 
-		* You work for me, more or less the same jobs, but you'll be getting more and your insurance will be adjusted. 
-			* He'll send word to get you guys a **new apartment with a caretaker**
-		* One more critical job where you'll need to make a decision. 
+	* Quest: The Hustle
+			[[+the_hustle]] 
+			
+			
 Graduating from Finite to an Innumerable requires taking risks and making a difference. There are, ironically, a seemingly unending slew of Finites, all competing to become an Innumerable. When an Innumerable makes a decision, it can actually effect things, so one must be careful, but at least food and shelter are easier to obtain and keep. You still do not have much, but your concerns now are keeping what you have. Your monsters are people who wish to take your place, or prevent you from surpassing them, and occasionally beasts that try to sneak in. Your Class is kept in line by the much clearer paths to power you have access to. The powerful might even listen to you. Your use is to make paths for the strong. lvl ~5-7
 	* You are trusted with a sanding quest. You need to find a weapons manufacturer on behalf of **Asurenda Arms.**
 		* you are to dust their entire operations except for any upper Management
@@ -75,6 +76,8 @@ Beyond the Innumerable are the infinites. When you make a decision, it //matters
 After the Infinities are the Incalculable. You can't even see the problems you used to have, both for their insignificance and for their infrequency compared to your new problems. Your monsters are armies, plots, sometimes industries, and most frequently, paperwork. You are automatically assured a quick revival but not necessarily in the order you require. lvl ~11-14
 	* This Arc Begins with the opportunity to take a short vacation, It is in fact Mandatory, as this is one of the easiest ways to dodge some of the more insideous stolen time events. Homeworlds are recommended, you can take as many people as you'd like, with the expectation that you'll return within two weeks local time. Transportation of the form of your choice is set up for you
 		* Any member of the Party that travels to Snarl is met with the opportunity to influence their own campaign
+	* At some point someone makes the comment "wait... you're an incalculable? What company are you even with? Wait are you incalculable on brute force? No Inventory management, no specific immunities? You don't have a password vault portfolio? Your Only asset is your ability to do physical battle?"
+		* This person then goes deathly pale
 
 After the incalculable are the unequestionable. You are strong level 14+
 

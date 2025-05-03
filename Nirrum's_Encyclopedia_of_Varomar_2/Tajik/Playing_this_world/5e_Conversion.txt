@@ -12,7 +12,7 @@ Your Action surge, the equivalent of three,
 Your attack, the equivalent of all attacks you could manage
 Your Damage, each point the equivalent of a die
 Your meager invocations, the seeming whispers of greater powers, themselves the results of things that eclipse most of what those powers were.
-
+You may build your form entirely from scratch, provided you cast detect balance upon it.
 
 Conveniently, this all works out the same, but starting at level 3 is about the lowest you can go.
 
@@ -25,7 +25,7 @@ Skills can now be added to or subtracted from.
 
 Acrobatics Now allows you to hover A number of feet per turn equal to your bonus, still using your movement, falling if you do not end your turn on a surface you could normally move on. A Negative Bonus reduces forced movement by 5x that amount. If the reduced movement amount is Equal to more than half your speed, you cannot be proned while conscious 
 Animal Handling, now just **Handling,** allows you to hypnotise creatures with a CR up to your bonus. A Negative bonus becomes the equivalent bonus to saving throws against Mind-Altering Effects
-Arcana is the only Intelligence knowledge Skill Remaining. You Automatically understand all technologies and Identify all effects equal to (or less than) your Bonus. A negative bonus can add to investigation checks if secrets are present.
+Arcana is the only Intelligence knowledge Skill Remaining. You Automatically understand all technologies and Identify all effects equal to (or less than) your Bonus, at least partly. A negative bonus can add to investigation checks if secrets are present.
 	I have an app on my phone that Idenitifies plants, Locates all significant Astrological phenomena, and tells me if I can eat Borgar. This skill is essentially your prowess at search engines. 
 Athletics works as usual and you use your bonus for all strength checks. Negative athletics adds to stealth checks in crowds
 Deception works as usual. Negative deception reduces propaganda attempts by the same amount
@@ -79,8 +79,9 @@ Stealth functions as normal, and you able to supress your presence inversely pro
 			Summoning the dead
 			Creating automata
 			Blastercasting etc;
+		And many others
 
-When you level as a cleric, you are no longer communing with just your old god, but the chorus of the godhead in which your god's voice can be heard. Hundreds of Thousands of gods with similar ideals, all lending you a fraction of their divinity.
+When you level as a cleric, you are no longer communing with just your old god, but the chorus of the godhead in which your god's voice can be heard. Hundreds of Thousands of gods with similar ideals, all lending you a fraction of their divinity. You very likely outrank your god within a few levels.
 
 
 

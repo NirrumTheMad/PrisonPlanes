@@ -7,10 +7,13 @@ Created Saturday 17 February 2024
 
 The world of Tajik, largely owned by the Tajik Corporation (for which the world is named) is a world at constant and unfathomable war. Hemma is one of the only cities that remains untaken by the future-eater, and it is a bustling metropolis. 
 
++
+
+
 In Hemma and on Tajik, it can be assumed:
 * People don't have time to waste. Wasting time is a critical error in this world, most downtime is used for sleeping or parental leave. 
 * All education is free, largely self-directed, and the most carefree part of someone's life. Researcher positions are coveted.
-* Perfoming the Newest Endless Ritual at locations in the time wastes can help recover cities and their unique research and technologies. 
+* Perfoming the Newest Endless Ritual or Resanding at locations in the time wastes can help recover cities and their unique research and technologies. 
 * Endless Ritual Research is critical or the Future gets eaten
 * The Future-eater is preceded by its armies of Homonculacra which are lumpy creatures seemingly shaped out of clay. They are deeply intelligent but lack a sense of identity or seem capable of idependent thought. 
 * Your Productivity is your worth. Prices on all goods from everyone are non-negotiable and set by the head of the Tajik Corporation, which intends to outlive this eldritch assault.
@@ -24,7 +27,7 @@ In Hemma and on Tajik, it can be assumed:
 * Gods who have attempted to take control have been handed disciplinary notice and sometimes exiled to the time wastes.
 * Time does not pass for things trapped in the time wastes. Other creatures bring some measure of capacity for a future with them, so things in the waste are interactable without becoming frozen, but the future eater can usually tell if anything is happening within its perpetual meal. 
 * The Maw is always at least big enough to consume the last shred of time on the plane
-* Being Rich means you can purchase more lifelines and tools, as it means you are one of the most effective at keeping things going.
+* Being Rich means you can purchase more lifelines and tools, as it means you are one of the most effective at keeping things going. Usually this is by holding on to passwords
 
 Some interesting things
 	* The entity, Magnum Raja (MaRa) gets larger the more future it *can* eat, and can control a wider area.
@@ -33,7 +36,7 @@ Some interesting things
 	* The Most valuable resource in this setting is sand, and dust collection is a very profitable and highly coveted job
 		* Sand wars are forbidden from being noticed on pain of liquidation of involved companies
 		* More efficient air cannons are also extremely valuable. 
-		* Sand Spread over timeless areas can slowly return the passage of time to them as the entorpy of the sand slowly creeps in to the surroundings, though Air Tyrants and Grim Sweepers have gotten extremely efficient at dealing with high atmosphere dispersal
+		* Sand Spread over timeless areas can slowly return the passage of time to them as the entropy of the sand slowly creeps in to the surroundings, though Air Tyrants and Grim Sweepers have gotten extremely efficient at dealing with high atmosphere dispersal
 		* Water makes for an excellent emergency retiming Aid, but is in limited supply as lakes and ponds are usually carefully guarded by both sides
 			* But not always
 		* The Capacity to restore time is very similar to the total kinetic energy of any given action. Bunker Buster Bombs are a crowd favourite, but extremely costly unless the right towns are freed up. However, Time is best reintroduced to a body slowly or all at once, lest it be out of sync. 
@@ -49,6 +52,7 @@ Some interesting things
 
 [[+Corporate_Landscape]]
 
+[[+Worldbuilding_Notes]] 
 
 [[+Technology]]
 
