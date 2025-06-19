@@ -1,0 +1,423 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Notes_on_DMing</title>
+	<meta name='Generator' content='Zim 0.74.2'>
+	<style type='text/css'>
+		a          { text-decoration: none      }
+		a:hover    { text-decoration: underline }
+		a:active   { text-decoration: underline }
+		strike     { color: grey                }
+		u          { text-decoration: none;
+					 background-color: yellow   }
+		tt         { color: #2e3436;            }
+		pre        { color: #2e3436;
+					 margin-left: 20px          }
+		h1         { text-decoration: underline;
+					 color: #4e9a06; margin-bottom: 0 }
+		h2         { color: #4e9a06; margin-bottom: 0 }
+		h3         { color: #4e9a06; margin-bottom: 0 }
+		h4         { color: #4e9a06; margin-bottom: 0 }
+		h5         { color: #4e9a06; margin-bottom: 0 }
+		p          { margin-top: 0              }
+		span.zim-tag {
+			color: #ce5c00;
+		}
+		div.zim-object {
+			border-style:solid;
+			border-width:1px;
+		}
+		.checked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8sMEGsKGkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAEBUlEQVRIx62V22tdRRTGf7Nn73P2ybntnNOe3NqkPTGgLTVUUZF6QatSLOKTPgqCIqLgQ0H/A1sQQbBYCBb1QfAxiC8tSO1FqHkwJVKtjdTGNraUmObsc9nXmfGh7cGYpM1D5nHWzPetteZb3wg2eB2YqYm4zSadsMtoboiNBH/3TE0awx6j+MRoxoTg/IYRvP19TQrJS0bzhdHGSyKFkLTtjSKwMjyiEz43ynhtP6bdjBCWyFobAf7eT7VhNF/q1FRbjYjmUohlCVPwnB+6FUxMTJipqSmUUhhjEGKd3bMT4ks/Y6oLBK2Yth8hHYtCJXOix7Nf7xLMzc0xOzvLzp078TyPNE3viW3QJPXzhNWbxFFKHCmMhoLn/FHodd48vGfhapdAacXQlkFK5dL6wIUm6fuTZPuvqDQhaMUYYyiVyuQr6rXDexYuAdi3tSv1ZJNs/R/CaszzT+1na88uXFnCEnJVgivBNN8uTJKmHQI/ptOOcXNZzMz9mOqFs90OHpipWcYwlo5P4ebnuOkrvr5wgrH+h3im7y36MzuwRXYZeKha/OhP0EkadFoxQSdGSotedR/+XwMc2XvKdNUFOFqZx6LKZWIiwjgkikNmLp/hm8sH+K1zjFTHXfBYdTi+eJArzXM0GxFxoBDCopLvo/fqEwi1XPkWkGqjFo2TgB1jOYZUKZTS/D1/ncmLh7jon0IbRWoiTi59ymzzJEEQE3cStNZsGxqlfPE57MBbOR8fP3hDGalOO9fq2DlBvmZw8xa2IxACGn6TydlD/O6f5OzSV/zif0cYhLQaEXGkKBbz7Ov/AOlXV1cxgBJRI3fuSTrpTawt18kWIZN1CFuaONI0w0WOXfsI43YIggh/KUSlhqxrMz74AkOZcWBm9QkH+Gw8NDLuITi+m0yzhluSyJzBLcpblUhFxywSRAEtPwQjsKVN30CNh0uvYuOubSHLtN3J0TO1j0pmBNuFbFWRK0gyPRZpktL2I5JQkclKakNlnh54g6ocvevUr/Ai2a7wineEkcJupA3S1Wg0nVZM2E6wbEF5U5G9Q++wI7sfR7h3N8HVNstykBfzH+KJEZwiWD0aIwxCgJ0R1Mu7GXOeJSuK93bZtQIle4D9pUNU5DC5jEsu55AvZakM5NicGyEj8uuz8bUCQgj67QfY671P3vEoeC69gy695U1U7NG7XV0pUwBjDJa1/JJlWWxzHuflzQe5FJ/GsgUVuZ2t8lEkTvfc0aNHb72flBhjVicQQqCUuvM3/M+WDVguWBrMVdDXEGZlBVEUrVCU9d9s5+fnaTQa2PZyPxEIhJaI1EEoZwX4ncynp6fXrmB4eJjR0VFarRbNZnP9P9rt9gohqNVq1Ov1ZbF/AZGev3hLJ2/zAAAAAElFTkSuQmCC)}
+		.xchecked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8bDYnDxEwAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAEK0lEQVRIx9WVS2hTWRjHf/eR3CY1nbxMH2YiZRQS6qO13YlMVxY3SnVcuNIBFezGpSADLoQqLu1sHJCqdCFSXFpw4YOCSH3BtFqttTNamabX3DS5bfO6uffMoglja3RGcDMHzuac7/z/53++//cd+L8P6VuCPQYZ8ADNgBd4J31DcDcQs+GnHByRocEDv0kfBSjAOlYCs11Q+gpwDegS8LMJ+3QIK0ATzEhV8Odnz5bzw8P4dJ25aJQ/WlvJ1df/K7hSLtOcTNI+Pk69rpMTgqIQhCDvh1/VSpw79+gRrRMTmLZNezLJJsPg+a5dmOEwQlFqg1sWG16/Jv7sGWXDwBACFQjC9HcwIMONKkGp4PGAJGEDS0IQmZlhnWnye3c3eiyGo6qr3WHbrJ+dJf7gAXI6zSIr72T7/fgzmT4FHnTBsgrQBfYvTU0km5vxz86iADnAm0rRPTWFt7cXZccOJJcLAGHb2K9ekT93jmwmwwdAAFpjI6Ntbfxw5879ag7l6o1sr5eHHR3IsRgeQK/M4sQE+YEB7JcvEY6zAj45SWFgAPPxYwzHoQxIkQjTPT0kIxE+Noj8sexFn4/xnh58iQTeSpHkHAdrbIzi0BCOrmNPTpK/eJHM3bt8sCyKQCiR4NWePWSiUZw1+ZLXJm4pFKLhzBlCsRh2RUXacVgeGaF47RrL58+zcP8+RrmMkCQinZ1EL1zAjERqmkH+tLYl1G3bCJw4QUjT0IA0MJfLMX/5MqmHD0nZNiUgtGULG/r7ccXjINWuWbnmqsuFu7sb/4EDNLlcBIEioNs2KUAFGmMxmk6dQm1tRZI+3xBqEkiShBQOox05Ql1nJ26gvuIUAWiKQnj/ftStW5Fk+YuF+NldsbBA4cYN9KdPmaso8Fc62ZJtk7l1C2t0FGdxESHE1xE4hkHh6lX0oSHSpRIewC/LrPf7CSgKNpCamkI/fZr8pUuIZBIcpyaBunahPp1mub+fDyMjGKUSChCsq6Nh717q9u2jbnSU0uAgRrFIwTThyhUCqRS+hgZKLS1fJvDm87SNjZGcnsYUAjcQ8vsJ9/Xh7u1FDgRQN20iks3iDA+zZFmYhQLqzZtsj8WY3L0baY2Sf55ICCKpFHUzM2SEQAJCHg+hY8fQDh5EDgRWDoRC1J88SePRo2geD0XAcBy8b98Sv3ePYDZbbf2rFQjLIphMsmDbaEBQVQkePox26BCSz7e6i4bDrDt+nGYhmBscpFAskheC4Js3bPR4qHphFYEnlcI7P4/jdqNpGu8TCe4oCsXr1z//F2ga3+/cSfTJE0qmSVYIsKzaOZDcbjKyzFIiwfvt21kMBLA07YsetzWNd+3tLLW0sH5igvT8PH9Go/z44kX+E4LGjg7GDYOcy4XlOEgLC//5P/5LCFzxOPLmzWyIx+m6fduu7v0NVGqyTSycKksAAAAASUVORK5CYII=)}
+		.unchecked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8qAt8h3m8AAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAA60lEQVRIx+2VsQqDMBRF70sCLg5OLoKgjk7+lJ/hh+STXBwcnRz8ArMEkrxOFktbaC3tULzTg5e8k5vADXDq70VbobXmvu/hvQczg4heHrJfXxQFuq67blZbMc8zpmlCXddIkgTOuZcBUko45zCOI6y1Nz2xFSEEZFmGOI7fGg4A3nsQEZqmuXOu9jallACAtm3fvmutNaIoAjM/dkBECCF89KCbk4eAb+kEnIAT8EsAM0OIz3hSyrssUvss8t5fg+uIrLXPs0gIgWVZYIyBUurQyYdheO4gz3NUVQVjDNZ1PfSjpWmKsixvehfB9GBZ3NndrgAAAABJRU5ErkJggg==)}
+		.migrated-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB+AKHREFA8vJSnkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAC1klEQVRIx+2VT0hUURTGf/e958w4Tc3TYowMw1GyEgwr1MqsFmbZIrIWQZsWJUjbdoHQpl3Qps0swnCRECQFYkR/TC1iKkqmfzAKTo2Vf8hoRsfR995tkRMT87RRWkUHHhy495zvnvvu933wP/75EKkkEAjIYDCIaZpIKRFCZN0kfX9xcTGtra2/irVUEolECIfDlJeXo+s6hmFkDaCqKoZhEAqFSCaTv60pqcSyLAoLC/F4PEtqDmCaJkIIKisrMybX0sdUVRWA5ubmPzdNjjI1cpXkZC/O1fV03PXgdDqRUtpPIITAsqxsDz0Z/3CZQv8uqo4N4C8/Tp2/DdM0MiZQlvk41OTkI/LW1SGtCVb5drD3eCc71wcA+VcAHA5vDd8+3UGakxiJV7i9pdQevU5T1R35pJ3MV5QW1pf+0kWBheJ2SWua8EQXZXsu4fVVYEz1sEKvof5EuxjoPvzpcRvrdp9C2gGMx6cpOHBmbImMesds7BZubwMVDTfXDnQ3vQfK7AC8wLfExMX5whyQc3q2OEnjGm5vE76SQxsfBLr77a7CNf+n0r/l6sSMtsBSnurckiIILCobAtVZhpF4gZF4jubaymj4Ch/fd380LE7bAnjc0NPxk2yqpmEuwGxF0ag+0k5uTpzZeBeaazvj0We8fXojainsb2xh2BZgbe0gSIllzSIUh63wfQ6dZ/O2fbjcKlOj58jJ3cVENESw5yErc9nf2MLQ4jwQAkV1Lqiq37/cZ9WaahJjF9AcmxiPDhLs7ePe23oOnmUwg2hSShQle96tKDjA2HAniusgo9FxnvY9Jxw7RWzGYy92QghM00x5g53qp9sHmtB58/o2umOI2NwGolMnMYUHIb7aAyiKwsjICLqu2/qBEIKUUAohMaSHSLyBSMoPTINQ6CX5+fn2AEVFRZSUlBCPx4nFYhl3L4RESjF/GEgX3pSj+Xw+/H7/b3U/AEOZFnp7O5+5AAAAAElFTkSuQmCC)}
+		ul {list-style-image: none}
+		/* ul rule needed to reset style for sub-bullets */
+	</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class='header'>
+	[ <a href='./Notes_on_Cosmology/The_Raven_Queen.html'>Prev</a> ]
+
+	[ <span class='insen'>Index</span> ]
+
+	[ <a href='./Notes_on_DMing/Adventure_Formula.html'>Next</a> ]
+</div>
+
+<hr />
+
+<!-- Wiki content -->
+
+<div class='pages'>
+	<div class='heading'>
+	<h1>Notes_on_DMing <a name='Nirrum's Encyclopedia of Varomar:Notes on DMing'></a></h1>
+	</div>
+
+	<div class='content'>
+	<p>
+Created Tuesday 17 July 2018<br>
+<b>Damien is the changeling that unlocked the first artifact</b>
+</p>
+
+<br>
+
+<p>
+<img src="file:///C:/Users/Wizard/Downloads/tumblr_o6x4gkrvQG1r9qoglo1_500.png"> harmon story cycle
+</p>
+
+<br>
+
+<p>
+<a href="./Notes_on_DMing/Sights_Rights_Fights_Lights.html" title="+Sights_Rights_Fights_Lights" class="page">+Sights_Rights_Fights_Lights</a><br>
+<a href="./Notes_on_DMing/Wealth_by_Level.html" title="+Wealth_by_Level" class="page">+Wealth_by_Level</a> <br>
+<a href="./Notes_on_DMing/reverse_engineering.html" title="+reverse_engineering" class="page">+reverse_engineering</a><br>
+<a href="./Notes_on_DMing/Murder_Mystery.html" title="+Murder_Mystery" class="page">+Murder_Mystery</a> <br>
+<a href="./Notes_on_DMing/stealth_When_it_Matters.html" title="+stealth_When_it_Matters" class="page">+stealth_When_it_Matters</a> <br>
+<a href="./Notes_on_DMing/sounds.html" title="+sounds" class="page">+sounds</a> <br>
+<a href="./Notes_on_DMing/game_design.html" title="+game design" class="page">+game design</a> <br>
+<a href="./Notes_on_DMing/List_places_to_have.html" title="+List_places_to_have" class="page">+List_places_to_have</a><br>
+<a href="./Notes_on_DMing/Power_dynamics.html" title="+Power_dynamics" class="page">+Power_dynamics</a><br>
+<a href="./Notes_on_DMing/Magic_Item_Cost.html" title="+Magic_Item_Cost" class="page">+Magic_Item_Cost</a><br>
+<a href="./Notes_on_DMing/Memory_Lapse.html" title="+Memory_Lapse" class="page">+Memory_Lapse</a><br>
+<a href="./Notes_on_DMing/Kobold_Fight_club.html" title="+Kobold_Fight_club" class="page">+Kobold_Fight_club</a><br>
+<a href="./Notes_on_DMing/Eldritch_Blasts.html" title="+Eldritch_Blasts" class="page">+Eldritch_Blasts</a><br>
+<a href="./Notes_on_DMing/Adventure_Formula.html" title="+Adventure_Formula" class="page">+Adventure_Formula</a>
+</p>
+
+<br>
+<br>
+
+<p>
+I doubt many players actively think about what they want from a game of Dungeons &amp; Dragons. However, after giving it some thought, I believe there are a few fundamental things all DnD players dream about whether they know it or not:
+</p>
+
+<h3>Something cool for their characters to get<a id="something-cool-for-their-characters-to-get" class="h_anchor"></a></h3>
+
+<p>
+Players love to acquire loot, whether they steal it, have it gifted to them by an important NPC, or take it from the body of a slain foe. The more unique and difficult an item is to acquire, the more they'll value it. Magic items are especially desirable. The cooler the better.
+</p>
+
+<h3>Some deed on which to build their characters’ legends<a id="some-deed-on-which-to-build-their-characters-legends" class="h_anchor"></a></h3>
+
+<p>
+Players want to gain fame and notoriety in your world. They want to achieve things nobody else has achieved, things that will go down in history. They want to accomplish deeds which are unique, one-time events. They want to kill Smaug, and be remembered for it. They want to rescue the princess, and be remembered for it. They want to become legends.
+</p>
+
+<h3>To make dramatic choices that change the game world<a id="to-make-dramatic-choices-that-change-the-game-world" class="h_anchor"></a></h3>
+
+<p>
+Players want their choices to matter. They want to know that because they chose to spare the evil wizard's miserable life, the world turned out much differently for it. They want to see the village they saved grow and flourish. They want the ties they helped form between two kingdoms to lead to an alliance against the oncoming horde of orcs. They want to affect the world around them.
+</p>
+
+<h3>To meet NPCs who come to value and depend upon them, or who come to fear and respect them<a id="to-meet-npcs-who-come-to-value-and-depend-upon-them-or-who-come-to-fear-and-respect-them" class="h_anchor"></a></h3>
+
+<p>
+Players want to build relationships with NPCs. They want to earn the trust of the haughty elven professor at the arcane university. They want the shrewd desert merchant to hire only them to guard his precious caravan. They want the arrogant leader of the Thieves Guild to learn not to mess with them. They want to be feared, loved, respected, accepted, valued, and considered by the people who live in your game world.
+</p>
+
+<h3>To have unique and vivid imaginative experiences through adventure<a id="to-have-unique-and-vivid-imaginative-experiences-through-adventure" class="h_anchor"></a></h3>
+
+<p>
+Players want to be awed by the fantastic. They want to have their minds filled with images of grandiose architecture, strange creatures, and unusual landscapes. They want to be thrust into situations that couldn't happen in the real world, probably involving dragons, magic spells, and otherworldly civilizations. They want to have novel experiences they can't find anywhere else.
+</p>
+
+<h3>To be surprised<a id="to-be-surprised" class="h_anchor"></a></h3>
+
+<p>
+Players want to be surprised. They want to say "I didn't see that coming." They want to cry out "Whaaaat?!?!" and "Ohh shiiit!" They want to wonder what they're going to find around the next corner. They want the king to transform into the werewolf they've been hunting. They want the pink potion to do something unexpected when they quaff it. They want the statue to start speaking to them when they walk past it. They want their guesses to be wrong.
+</p>
+
+<h3>To go through a transformation<a id="to-go-through-a-transformation" class="h_anchor"></a></h3>
+
+<p>
+Players want their characters to change. They want to start off the game as one thing, and by the end have changed into another. They want to increase their power, going from level 1 to level 20, from poor beggar to rich baron. They want to change their personalities, starting off as mistrustful and private, and coming to depend on the party and think of it as family. They want to rise from bad apple to charitable protector, or fall from righteous do-gooder to selfish bastard. They want to claw their way from peasantry to knighthood, becoming noble leaders. They want to undergo an alchemical ritual which will permanently turn their eyes yellow, making them frightening to NPCs but giving them the ability to see any residue of magic. They want to forge who their characters are through transformation.
+</p>
+
+<h3>To learn secrets<a id="to-learn-secrets" class="h_anchor"></a></h3>
+
+<p>
+Players want to be in on secrets. They want to feel they know something other NPCs do not or cannot know. They want to know the royal advisor's true identity. They want to know the secret way into the forbidden city. They want to know wizards are actually real. Knowing secrets makes them feel powerful, part of something special. They want to hold the truth in their hands.
+</p>
+
+<p>
+Items, Deeds, Choices, Relationships, Experiences, Surprises, Transformations, Secrets. These are the abstract things I think players want within the game world of D&amp;D, and fulfilling all of these conscious or subconscious desires has lead to more satisfying games in my experience. Many times they are long term achievements that come with continued play in a single campaign, but they should be possible to attain on a lesser scale in any good adventure. They're subtle things, but deep things, things that can make your game more memorable.
+</p>
+
+<h5>May this inspire you and give you food for thought. Stay safe, wanderers.<a id="may-this-inspire-you-and-give-you-food-for-thought-stay-safe-wanderers" class="h_anchor"></a></h5>
+
+<p>
+<div style='padding-left: 60pt'>
+-/u/wizardshaw
+</div>
+</p>
+
+<br>
+
+<p>
+<b>These are notes from the bosskeys And Gamer's toolkit series on youtube and related thoughts</b><br>
+<div style='padding-left: 30pt'>
+Choice obfuscates limit. One key and many locked doors is a good example, though it doesn't work so well in D&amp;D because of spells such as Knock, Teleport, and even Detect thoughts. 
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+Ask if your dungeon has branching paths.<br>
+If it does, does the player have a choice on which branch they can take?<br>
+Does it do the backtracking for them?<br>
+Crossing over a central location multiple times simulates vastness and increases familiarity. 
+</div>
+<div style='padding-left: 60pt'>
+recrossing a room when described verbally should show some change or pose a new challenge. This makes it functionally a different room if laid out critically, despite being technically the same.
+</div>
+<div style='padding-left: 30pt'>
+Recontextualizing a dungeon is rewarding and a good way to re-use space. This is easier where there are limitations on what can be done. Spells are, yet again, a problem here. But an item that lets you re-shape the dungeon. Unlock new areas or gain a new ability that allows you to change how those areas are seen is useful. In particular the boots of spider climb are useful<br>
+Backtracking is especially good if the player chooses to do it.<br>
+Backtracking can be a slog if it doesn't come with recontextualization<br>
+closing off the world behind the players might force them to re-examine the space they're in and explore more<br>
+Accordion structure is frequently used in the game design philosophy of the most successful games. Open world-necessary location-Open world- necessary location, etc;<br>
+loopbacks, a form of backtracking, are excellent to have in accordion structures to link open-world areas or hubs<br>
+Accordion structuring the tension is also good. Empower the player with moments where they can use their abilities uniquely to solve problems. Disempower them by coming up with things they don't have the abilities for as puzzles
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+The core mechanics of D&amp;D are Jump, move, MAGIC SOVLES THE PROBLEM, Attack and interact.  everything else is human<br>
+Build a catch. Two goals at least that are in direct conflict with each other<br>
+Make it clear that things are taking damage or not, your players need to know how the world they're interacting with is reacting to them. <br>
+Know how you want your players to tackle the problems in your campaign before you start and modify it as you progress. Stylish, Stelathy, risky, Mechanically, Murderhoboesque. If players can reach those goals through ways that don't match that intention, they will do so, especially if it's easier. Encourage and incentivize a player to see the game in a different light<br>
+Repetetive enemies is only a bad thing if the situations aren't a slog<br>
+If you have repetetive enemies about 7 total variations is the ideal number<br>
+Each enemy should have learnable behaviours, combined with the terrain they create a <b>catch</b><br>
+Pacing is two things, the first of which is the rate at which you introduce new and original ideas,<br>
+the second is how well you mix up the Fundamentals of your story
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+Four step design kishotenketsu
+</div>
+<div style='padding-left: 60pt'>
+Introduction<br>
+Developement<br>
+Twist<br>
+Conclusion
+</div>
+</p>
+
+<br>
+<br>
+<br>
+
+<h3>Notes from "Uncle Matt"<a id="notes-from-uncle-matt" class="h_anchor"></a></h3>
+
+<p>
+<div style='padding-left: 30pt'>
+your task is to provide the opportunity for meaningful informed decisions on the part of the players.<br>
+games involve elements of skill --<i>this is a philosophical point</i><br>
+The players wish to improve their skill in the game<br>
+The two resolution mechanisms are "Decisions and Dice" and the "decisions" part is more important<br>
+Giving the occasional tidbit of very clear information has the effect of realigning the player's expectations with your own, Letters area  good way, a party of previous adventurers that died to an upcoming trap, prisoners, 
+</div>
+</p>
+
+<br>
+
+<h3>Tabletops and Taverns<a id="tabletops-and-taverns" class="h_anchor"></a></h3>
+
+<p>
+<div style='padding-left: 30pt'>
+System, Party level, Encounter level<br>
+Landmark goals introduced in an early scene is a good adventure seed.<br>
+Campaign or adventure stars are the things to really build on, -<i>I disagree partially with this</i><br>
+keep old notes to reuse unused material<br>
+Nothing is set in stone<br>
+three clues per plot section<br>
+put the clues in different forms.<br>
+put clues in Research
+</div>
+</p>
+
+<br>
+<br>
+
+<h3>Personal Thoughts<a id="personal-thoughts" class="h_anchor"></a></h3>
+
+<p>
+A basic narrative organization might be a repetition of the cycle "Do, Interact, Explore" from the player's perspective. Whenever they go somewhere or do something, they want something to happen. When something happens (to, Because of, around them), they want to be able to respond. Then they are likely to want to explore, to ask questions, and it is here that many DMs, myself included have tripped up. They can ask those questions all they want but it doesn't mean they will get an answer <b>but, </b> <i>The players will not engage with the world as readily if the world does not have a tendency to engage with them. Always have at least a partial answer to their question For them. </i><b>In preparation for the players, you cannot predict do. That is a fool's errand. But interact and explore are your domain. Have things to do and answers to the questions those things pose.</b>
+</p>
+
+<br>
+
+<p>
+<b>The Tibeaux Effect</b><br>
+<div style='padding-left: 30pt'>
+"Really? It wasn't so hard to cross the <i>Dragon Coast </i>after we plundered the <i>citadel of the undead in Konia </i>which lead to us <i>running from an elven king </i>across ganglegrove where we were consumed by a<i> ship eater </i>that we barely escaped from before meeting one of the<i> creators of the plane who </i><b>gave us this dryad</b><i>  (my cook, I might add) here </i>to help our quest to recover the bones. Though I will admit, even with the dryad, the quest has been a little bumpy. We've had to <i>defeat a sandstone god </i>on the way and BOY that was tough, but the<i> eye of a deceased lovecraftian horror </i>was a fitting reward and let's be honest, the <i>ancient blue,black, and green dragons</i> that harassed us along the coast were <b>nothing compared to the slaad invasion we stopped in drakenhearth before coming here. </b>What? The <i>Unicorn we used in the assassination of Memory Jaquy? </i> I must have missed how we picked it up in Jianok Sio, the <i>land of giants</i> before the Ganglegrove part as part of a quest from a <i>Storm giant.</i>
+</div>
+<div style='padding-left: 60pt'>
+-<i>Fleet King</i> Lazarus Honore Dorian Tibeaux-<i>Avisen Bruchev and a whole bunch of other fun factors mixed in with that</i>
+</div>
+The Tibeaux effect is simple. <b>Put adventurers through enough and they're going to have something to talk about.</b> Things that are of cosmic scale that they fell nose-first into because they were at the right place at the right time and capable enough to survive it. Or Rather, If an adventuring campaign goes on long enough <b>Their stories are going to be a bit over the top. </b> While Good for spreading D&amp;D, it has issues when your party is able to convince people that they're telling the truth, especially if this sort of thing is easily demonstrable. In the Above case, Ghuivere DurFisher, a master spy at Grand Tortuga, was left helpless with a feeling of insignificance. Eof Kveter was incredulous, Luciaria avisen impressed, Slovenka smug and smiling, and Shami Murtuck eager to make a deal. With the exception of that last one, those things don't tend to happen. Be aware of this effect when you run campaign sections that are high in roleplay.
+</p>
+
+<br>
+
+<p>
+The best encounters I've ever run are of two vastly different camps but with a running theme. In both cases, they engage all players, one in roleplay, the other in combat. <br>
+<ul style='padding-left: 30pt'>
+<li>The first example is my personal favourite: <b>One wild Boar </b>crosses the party's path. If you use a battlemat, place your players on it without saying anything then place the boar, "<i>A wild boar crosses your path, do you do anything?" </i>
+<ul>
+<li>Someone in the party <b>desires the boar. </b></li>
+<li>Some people do not care for the boar.</li>
+<li>Some people want the party to stay together</li>
+<li>Someone's gonna run after the boar and every player is going to have to make a decision then and there. <b>What does my character do?</b></li>
+<li>It's always worked for me, but It might not work for you. This is an excellent encounter to run early in a game when you have new players who are uncertain or people who are uncomfortable with each other. </li>
+<li><b>This will set up some characters to gel easily and provide a level of context for their in-character relationships</b></li>
+</ul>
+</li>
+<li>The second example is a bit harder.  <b>One bone devil, Six Skeletons with both lances and bows, one mad wizard. </b>The setup goes like this. The Wizard is being controlled by the bone devil and is trying to resurrect his love. The Six Skeletons constantly get revived by the wizard  passively on his turn because of an item he is holding. The wizard only runs away from the party, dashing constantly. The room is large, 70*100, with multiple entrances, Rafters, and four large inanimate statues. The bone devil sits at the back of the room and attacks intelligently, Focusing down key creatures and high-damage dealers. This was run in my campaign by a group of 5 level 5 players, but I recommend a level or two more. Very few parties play like mine does
+<ul>
+<li>The party has to deal intelligently with this combat and it is not hard to contribute.</li>
+<li>Attacking any creature in the room is a good idea</li>
+<li>The wizard doesn't even need to be defeated, he literally is just a passive mob, and all you have to do is get the item out of his hands to stop the skeletons from getting back up. That said, Killing works too</li>
+<li>While the bone devil is up, the wizard will keep trying to get the item back</li>
+<li>Killing the Devil frees the wizard and stops the fight</li>
+<li><b>Players of all skills are able to contribute in this fight and plenty of utility spells and abilities have use here, anyone that does anything  will tend to be contributing unless they are particularly obtuse. The devil does not want to talk unless you're here to give it souls. Hope you write a good contract for that one.</b></li>
+</ul></li>
+</ul>
+</p>
+
+<br>
+<br>
+<br>
+
+<h4>Music<a id="music" class="h_anchor"></a></h4>
+
+<p>
+<div style='padding-left: 30pt'>
+When designing a soundtrack, for Dungeons and Dragons, Tone is impossible to predict, so it might better to pick a couple of themes that describe the atmosphere more than the intended tone. Malevolent and dramatic villains might end up being caught in a humorous situation, while tavern scenes can become intense action sequences.
+</div>
+</p>
+
+<br>
+
+<h4>Personally used game terms<a id="personally-used-game-terms" class="h_anchor"></a></h4>
+
+<p>
+<ul style='padding-left: 30pt'>
+<li>Turtle-drop: Bringing an enemy high up with the intent to let the ground do more damage than the player can, frequently expending far less resources to do the same amount of damage</li>
+<li>Chicken-Bone: Getting an enemy to aggravate the environment so that something that is usually a punishment on the player is now a mechanic they can use, such as turtledropping, bee hives, landmines, or attacking chickens.</li>
+</ul>
+</p>
+
+<h5>As a DM, You don't tell the story, you tell the news. This is The single most important sentence that I can tell you.<a id="as-a-dm-you-dont-tell-the-story-you-tell-the-news-this-is-the-single-most-important-sentence-that-i-can-tell-you" class="h_anchor"></a></h5>
+
+<p>
+<div style='padding-left: 30pt'>
+You do not have the ability to predict the player's movements but you know how the world is going to react (or not) to what they do.
+</div>
+</p>
+
+<p>
+When Making a <b>Villain </b>don't make their goal coincide with the players' at any real level. The reason Grand tortuga was so easy for the players in my game was because they had a goal which was echoed in those who sided with them except for those who betrayed them. 
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h3>Chris duke<a id="chris-duke" class="h_anchor"></a></h3>
+
+<p>
+Analyze lists and formats of things, and put them into groups of similar things and figure out why they win. To put that into dnd. Steal that from other people that I like. Steal what's good from good sources<br>
+If everything is special, nothing is.
+</p>
+
+<br>
+
+<h3>Barry Oliver<a id="barry-oliver" class="h_anchor"></a></h3>
+
+<p>
+- My DM style has always been a "Yes, and..." style, with a splash of improv. I encourage creative solutions (most of the time I haven't thought/considered the solution at all myself), and will humor any creativity with an appropriate<br>
+DC skill check (sometimes with disadvantage), or a choice tradeoff ("You can do this, but it will permenantly destroy your crowbar"). <br>
+- The main core value I put above all in any tabletop is Fun; at the end of the day, it is a game, and games are meant to be fun. <br>
+- My players in the past love an occasional goofy quirky item/npc, but don't overdo it (Example: alcoholic dwarven paladin, through some bizarre dice rolls, discovered a natural spring of ale, blessed by gods to be sanitary and preserve well).<br>
+- Your players are also taking time out of their schedule to organize a session where you can all have fun; thank them for that, and further on that give credit where credit is due when they do something totally amazing (creative solutions, great RP moments, tough choices).<br>
+- If your game is a long running campaign (6 months+), some of the toughest moments I've seen some players have trouble with hasn't been a BBEG or combat, but with tough RP moments. Take notes of the character ideals, choices, story, and bring some of that back as a hard RP<br>
+ encounter through: sacrificing something they value, losing something they cherish (on this point, it offers potential for sidequests to retrieve a cherished physical object), betrayal, a beloved NPC passing away, etc. These tough RP moments can sometimes alter the direction<br>
+ of the campaign!<br>
+- Give characters equal time to shine, and encourage players to not step on the toes when someone has their moment.
+</p>
+
+<br>
+
+<h3>Zipperon<a id="zipperon" class="h_anchor"></a></h3>
+
+<p>
+Maximum engagement<br>
+"Dramatize transitions by creating exigency then prompt activity and compress the resolution"<br>
+Dramatize transitions<br>
+<div style='padding-left: 30pt'>
+have a phrase or two to narrate the transition between turns<br>
+"as you do _thing_ you see"<br>
+describe the transition from player to player
+</div>
+Create exigency<br>
+<div style='padding-left: 30pt'>
+Describe the threat to the immediate player<br>
+"There's a fire at your back" "There's an orc in front of you swinging"
+</div>
+"What <i>are</i> you doing" not "What do you do"<br>
+<div style='padding-left: 30pt'>
+keep things present
+</div>
+Compress resolution<br>
+<div style='padding-left: 30pt'>
+Suggests average damage for DM<br>
+*say* the DC for the save<br>
+"What's the bonus to your dex save? Roll a _ or higher"<br>
+Minions 1 hit, 2 hit<br>
+Roll dice together, skip slow players
+</div>
+</p>
+
+<br>
+
+<p>
+<div style='padding-left: 30pt'>
+<a href="https://discord.com/channels/@me/549725155245555713" title="https://discord.com/channels/@me/549725155245555713" class="https">https://discord.com/channels/@me/549725155245555713</a>
+</div>
+</p>
+
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+		<b>Backlinks:</b>
+
+		<a href='..\Nirrum's_Encyclopedia_of_Varomar.html'>Nirrum's Encyclopedia of Varomar</a>
+
+		
+		
+
+		<a href='..\Nirrum's_Encyclopedia_of_Varomar_2.html'>Nirrum's Encyclopedia of Varomar 2</a>
+
+		<br /><br />
+
+	</div>
+
+	
+
+</div>
+
+</body>
+</html>

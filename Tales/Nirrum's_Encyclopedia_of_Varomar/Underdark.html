@@ -1,0 +1,289 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Underdark</title>
+	<meta name='Generator' content='Zim 0.74.2'>
+	<style type='text/css'>
+		a          { text-decoration: none      }
+		a:hover    { text-decoration: underline }
+		a:active   { text-decoration: underline }
+		strike     { color: grey                }
+		u          { text-decoration: none;
+					 background-color: yellow   }
+		tt         { color: #2e3436;            }
+		pre        { color: #2e3436;
+					 margin-left: 20px          }
+		h1         { text-decoration: underline;
+					 color: #4e9a06; margin-bottom: 0 }
+		h2         { color: #4e9a06; margin-bottom: 0 }
+		h3         { color: #4e9a06; margin-bottom: 0 }
+		h4         { color: #4e9a06; margin-bottom: 0 }
+		h5         { color: #4e9a06; margin-bottom: 0 }
+		p          { margin-top: 0              }
+		span.zim-tag {
+			color: #ce5c00;
+		}
+		div.zim-object {
+			border-style:solid;
+			border-width:1px;
+		}
+		.checked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8sMEGsKGkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAEBUlEQVRIx62V22tdRRTGf7Nn73P2ybntnNOe3NqkPTGgLTVUUZF6QatSLOKTPgqCIqLgQ0H/A1sQQbBYCBb1QfAxiC8tSO1FqHkwJVKtjdTGNraUmObsc9nXmfGh7cGYpM1D5nHWzPetteZb3wg2eB2YqYm4zSadsMtoboiNBH/3TE0awx6j+MRoxoTg/IYRvP19TQrJS0bzhdHGSyKFkLTtjSKwMjyiEz43ynhtP6bdjBCWyFobAf7eT7VhNF/q1FRbjYjmUohlCVPwnB+6FUxMTJipqSmUUhhjEGKd3bMT4ks/Y6oLBK2Yth8hHYtCJXOix7Nf7xLMzc0xOzvLzp078TyPNE3viW3QJPXzhNWbxFFKHCmMhoLn/FHodd48vGfhapdAacXQlkFK5dL6wIUm6fuTZPuvqDQhaMUYYyiVyuQr6rXDexYuAdi3tSv1ZJNs/R/CaszzT+1na88uXFnCEnJVgivBNN8uTJKmHQI/ptOOcXNZzMz9mOqFs90OHpipWcYwlo5P4ebnuOkrvr5wgrH+h3im7y36MzuwRXYZeKha/OhP0EkadFoxQSdGSotedR/+XwMc2XvKdNUFOFqZx6LKZWIiwjgkikNmLp/hm8sH+K1zjFTHXfBYdTi+eJArzXM0GxFxoBDCopLvo/fqEwi1XPkWkGqjFo2TgB1jOYZUKZTS/D1/ncmLh7jon0IbRWoiTi59ymzzJEEQE3cStNZsGxqlfPE57MBbOR8fP3hDGalOO9fq2DlBvmZw8xa2IxACGn6TydlD/O6f5OzSV/zif0cYhLQaEXGkKBbz7Ov/AOlXV1cxgBJRI3fuSTrpTawt18kWIZN1CFuaONI0w0WOXfsI43YIggh/KUSlhqxrMz74AkOZcWBm9QkH+Gw8NDLuITi+m0yzhluSyJzBLcpblUhFxywSRAEtPwQjsKVN30CNh0uvYuOubSHLtN3J0TO1j0pmBNuFbFWRK0gyPRZpktL2I5JQkclKakNlnh54g6ocvevUr/Ai2a7wineEkcJupA3S1Wg0nVZM2E6wbEF5U5G9Q++wI7sfR7h3N8HVNstykBfzH+KJEZwiWD0aIwxCgJ0R1Mu7GXOeJSuK93bZtQIle4D9pUNU5DC5jEsu55AvZakM5NicGyEj8uuz8bUCQgj67QfY671P3vEoeC69gy695U1U7NG7XV0pUwBjDJa1/JJlWWxzHuflzQe5FJ/GsgUVuZ2t8lEkTvfc0aNHb72flBhjVicQQqCUuvM3/M+WDVguWBrMVdDXEGZlBVEUrVCU9d9s5+fnaTQa2PZyPxEIhJaI1EEoZwX4ncynp6fXrmB4eJjR0VFarRbNZnP9P9rt9gohqNVq1Ov1ZbF/AZGev3hLJ2/zAAAAAElFTkSuQmCC)}
+		.xchecked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8bDYnDxEwAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAEK0lEQVRIx9WVS2hTWRjHf/eR3CY1nbxMH2YiZRQS6qO13YlMVxY3SnVcuNIBFezGpSADLoQqLu1sHJCqdCFSXFpw4YOCSH3BtFqttTNamabX3DS5bfO6uffMoglja3RGcDMHzuac7/z/53++//cd+L8P6VuCPQYZ8ADNgBd4J31DcDcQs+GnHByRocEDv0kfBSjAOlYCs11Q+gpwDegS8LMJ+3QIK0ATzEhV8Odnz5bzw8P4dJ25aJQ/WlvJ1df/K7hSLtOcTNI+Pk69rpMTgqIQhCDvh1/VSpw79+gRrRMTmLZNezLJJsPg+a5dmOEwQlFqg1sWG16/Jv7sGWXDwBACFQjC9HcwIMONKkGp4PGAJGEDS0IQmZlhnWnye3c3eiyGo6qr3WHbrJ+dJf7gAXI6zSIr72T7/fgzmT4FHnTBsgrQBfYvTU0km5vxz86iADnAm0rRPTWFt7cXZccOJJcLAGHb2K9ekT93jmwmwwdAAFpjI6Ntbfxw5879ag7l6o1sr5eHHR3IsRgeQK/M4sQE+YEB7JcvEY6zAj45SWFgAPPxYwzHoQxIkQjTPT0kIxE+Noj8sexFn4/xnh58iQTeSpHkHAdrbIzi0BCOrmNPTpK/eJHM3bt8sCyKQCiR4NWePWSiUZw1+ZLXJm4pFKLhzBlCsRh2RUXacVgeGaF47RrL58+zcP8+RrmMkCQinZ1EL1zAjERqmkH+tLYl1G3bCJw4QUjT0IA0MJfLMX/5MqmHD0nZNiUgtGULG/r7ccXjINWuWbnmqsuFu7sb/4EDNLlcBIEioNs2KUAFGmMxmk6dQm1tRZI+3xBqEkiShBQOox05Ql1nJ26gvuIUAWiKQnj/ftStW5Fk+YuF+NldsbBA4cYN9KdPmaso8Fc62ZJtk7l1C2t0FGdxESHE1xE4hkHh6lX0oSHSpRIewC/LrPf7CSgKNpCamkI/fZr8pUuIZBIcpyaBunahPp1mub+fDyMjGKUSChCsq6Nh717q9u2jbnSU0uAgRrFIwTThyhUCqRS+hgZKLS1fJvDm87SNjZGcnsYUAjcQ8vsJ9/Xh7u1FDgRQN20iks3iDA+zZFmYhQLqzZtsj8WY3L0baY2Sf55ICCKpFHUzM2SEQAJCHg+hY8fQDh5EDgRWDoRC1J88SePRo2geD0XAcBy8b98Sv3ePYDZbbf2rFQjLIphMsmDbaEBQVQkePox26BCSz7e6i4bDrDt+nGYhmBscpFAskheC4Js3bPR4qHphFYEnlcI7P4/jdqNpGu8TCe4oCsXr1z//F2ga3+/cSfTJE0qmSVYIsKzaOZDcbjKyzFIiwfvt21kMBLA07YsetzWNd+3tLLW0sH5igvT8PH9Go/z44kX+E4LGjg7GDYOcy4XlOEgLC//5P/5LCFzxOPLmzWyIx+m6fduu7v0NVGqyTSycKksAAAAASUVORK5CYII=)}
+		.unchecked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8qAt8h3m8AAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAA60lEQVRIx+2VsQqDMBRF70sCLg5OLoKgjk7+lJ/hh+STXBwcnRz8ArMEkrxOFktbaC3tULzTg5e8k5vADXDq70VbobXmvu/hvQczg4heHrJfXxQFuq67blZbMc8zpmlCXddIkgTOuZcBUko45zCOI6y1Nz2xFSEEZFmGOI7fGg4A3nsQEZqmuXOu9jallACAtm3fvmutNaIoAjM/dkBECCF89KCbk4eAb+kEnIAT8EsAM0OIz3hSyrssUvss8t5fg+uIrLXPs0gIgWVZYIyBUurQyYdheO4gz3NUVQVjDNZ1PfSjpWmKsixvehfB9GBZ3NndrgAAAABJRU5ErkJggg==)}
+		.migrated-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB+AKHREFA8vJSnkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAC1klEQVRIx+2VT0hUURTGf/e958w4Tc3TYowMw1GyEgwr1MqsFmbZIrIWQZsWJUjbdoHQpl3Qps0swnCRECQFYkR/TC1iKkqmfzAKTo2Vf8hoRsfR995tkRMT87RRWkUHHhy495zvnvvu933wP/75EKkkEAjIYDCIaZpIKRFCZN0kfX9xcTGtra2/irVUEolECIfDlJeXo+s6hmFkDaCqKoZhEAqFSCaTv60pqcSyLAoLC/F4PEtqDmCaJkIIKisrMybX0sdUVRWA5ubmPzdNjjI1cpXkZC/O1fV03PXgdDqRUtpPIITAsqxsDz0Z/3CZQv8uqo4N4C8/Tp2/DdM0MiZQlvk41OTkI/LW1SGtCVb5drD3eCc71wcA+VcAHA5vDd8+3UGakxiJV7i9pdQevU5T1R35pJ3MV5QW1pf+0kWBheJ2SWua8EQXZXsu4fVVYEz1sEKvof5EuxjoPvzpcRvrdp9C2gGMx6cpOHBmbImMesds7BZubwMVDTfXDnQ3vQfK7AC8wLfExMX5whyQc3q2OEnjGm5vE76SQxsfBLr77a7CNf+n0r/l6sSMtsBSnurckiIILCobAtVZhpF4gZF4jubaymj4Ch/fd380LE7bAnjc0NPxk2yqpmEuwGxF0ag+0k5uTpzZeBeaazvj0We8fXojainsb2xh2BZgbe0gSIllzSIUh63wfQ6dZ/O2fbjcKlOj58jJ3cVENESw5yErc9nf2MLQ4jwQAkV1Lqiq37/cZ9WaahJjF9AcmxiPDhLs7ePe23oOnmUwg2hSShQle96tKDjA2HAniusgo9FxnvY9Jxw7RWzGYy92QghM00x5g53qp9sHmtB58/o2umOI2NwGolMnMYUHIb7aAyiKwsjICLqu2/qBEIKUUAohMaSHSLyBSMoPTINQ6CX5+fn2AEVFRZSUlBCPx4nFYhl3L4RESjF/GEgX3pSj+Xw+/H7/b3U/AEOZFnp7O5+5AAAAAElFTkSuQmCC)}
+		ul {list-style-image: none}
+		/* ul rule needed to reset style for sub-bullets */
+	</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class='header'>
+	[ <a href='./Umlil_Orill/Locations/The_Mines.html'>Prev</a> ]
+
+	[ <span class='insen'>Index</span> ]
+
+	[ <a href='./Underdark/An_Underdark_Adventure.html'>Next</a> ]
+</div>
+
+<hr />
+
+<!-- Wiki content -->
+
+<div class='pages'>
+	<div class='heading'>
+	<h1>Underdark <a name='Nirrum's Encyclopedia of Varomar:Underdark'></a></h1>
+	</div>
+
+	<div class='content'>
+	<p>
+Created Saturday 07 July 2018
+</p>
+
+<p>
+The Underdark<br>
+<div style='padding-left: 30pt'>
+<a href="./Underdark/An_Underdark_Adventure.html" title="+An_Underdark_Adventure" class="page">+An_Underdark_Adventure</a> <br>
+<a href="./Underdark/Underdark_Ecology.html" title="+Underdark_Ecology" class="page">+Underdark_Ecology</a>
+</div>
+</p>
+
+<p>
+ The Underdark within Varomar is as complex as the land above, but far harsher. The Entrances and Exits are frequent but often hidden. <br>
+<div style='padding-left: 30pt'>
+ The Continental Underdark contains Four  Major Civilizations,
+</div>
+<div style='padding-left: 60pt'>
+<a href="./Underdark/Cher-Mina_Undercity.html" title="+Cher-Mina_Undercity" class="page">+Cher-Mina_Undercity</a> <br>
+<a href="./Underdark/Brekmu.html" title="+Brekmu" class="page">+Brekmu</a> <br>
+<a href="./Underdark/Rajata.html" title="+Rajata" class="page">+Rajata</a> <br>
+<a href="./Underdark/Broville.html" title="+Broville" class="page">+Broville</a> 
+</div>
+<div style='padding-left: 30pt'>
+ Each is unique and takes on the task of living underground in unique ways, none are quite as large as the city-states above and indeed, Cher-mina is part of the Konian Protectorate.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+The Pelagic underdark contains 27 major civilizations, not to be confused with the Underground Sea. I'm not going to fill these out but heed my warning, everything returns to crab
+</div>
+</p>
+
+<br>
+
+<p>
+The song of the underdark begins with the theme of unkowable threats
+</p>
+
+<br>
+<br>
+
+<p>
+The underdark can best be understood with regions.
+</p>
+
+<p>
+Intraegis underdark, underneath the ushlubarel<br>
+<div style='padding-left: 30pt'>
+Some of the oldest tunnels, some pre-cataclysm.<br>
+<a href="./Underdark/Intra_aegis_upper_tunnels.html" title="+Intra_aegis_upper_tunnels" class="page">+Intra_aegis_upper_tunnels</a>
+</div>
+</p>
+
+<p>
+The Cracks, rimming the aegis<br>
+<div style='padding-left: 30pt'>
+Uncomfortable and dangerous tunnels with many vertical cracks. Occasional lava<br>
+<a href="./Underdark/The_Cracks.html" title="+The_Cracks" class="page">+The_Cracks</a>
+</div>
+</p>
+
+<p>
+Interaegian, Underneath the mountains<br>
+<div style='padding-left: 30pt'>
+Frequent lava, occasional eroded tunnels, many artificial bores<br>
+<a href="./Underdark/Inter_aegis_tunnels.html" title="+Inter_aegis_tunnels" class="page">+Inter_aegis_tunnels</a> 
+</div>
+</p>
+
+<p>
+The Underground sea<br>
+<div style='padding-left: 30pt'>
+Vast chamber that was built as part of the prison, one of the lowest parts of the underdark<br>
+<a href="./Underdark/Underground_Sea.html" title="+Underground_Sea" class="page">+Underground_Sea</a> 
+</div>
+</p>
+
+<p>
+The Inferno, east of the aegis, <br>
+<div style='padding-left: 30pt'>
+A constructed lybrinth series  leading to a late addition to the prison<br>
+<a href="./Underdark/The_Inferno.html" title="+The_Inferno" class="page">+The_Inferno</a>
+</div>
+</p>
+
+<p>
+Dar Maku, Antiaegian tunnels (Gannaga River Basin, grass road) <br>
+<div style='padding-left: 30pt'>
+Oldest strata, tunnels head directly to the underground sea or the prison.<br>
+<a href="./Underdark/Dar_Maku.html" title="+Dar_Maku" class="page">+Dar_Maku</a>  
+</div>
+</p>
+
+<p>
+the southern tunnels (Under the desert and and southern saman,  ganglgegrove<br>
+<div style='padding-left: 30pt'>
+Occasional lava, occasional flooding, high pressure regions contiained by airlocks. Many artificial tunnels per worms.<br>
+<a href="./Underdark/Southern_Tunnels.html" title="+Southern_Tunnels" class="page">+Southern_Tunnels</a> 
+</div>
+</p>
+
+<p>
+The Prison<br>
+<div style='padding-left: 30pt'>
+Regular deep tunnels, interrupted only by  rare wormbore and the cracks<br>
+<a href="./Underdark/The_Prison.html" title="+The_Prison" class="page">+The_Prison</a> 
+</div>
+</p>
+
+<p>
+Cham, and the pits, north eastern, yetsin area<br>
+<div style='padding-left: 30pt'>
+The Driest and most chaotic series of tunnels
+</div>
+The Southern Pelagic Underdark, <br>
+<div style='padding-left: 30pt'>
+Nearly completely flooded, save isolated chambers, high pressure crushes in most places. Rare disconnected dry tunnels
+</div>
+The Rimwise (north) Pelagic Underdark<br>
+<div style='padding-left: 30pt'>
+Mostly Wormbore, occasionally downward to deeper chambers, occasionally to remote, uncharted islands
+</div>
+</p>
+
+<br>
+
+<p>
+ Most Notable of the Underdark's Sapient Denizens are:<br>
+<div style='padding-left: 30pt'>
+Drow<br>
+Svirfneblin<br>
+Stone Giants<br>
+Flumphs<br>
+Quaggoth<br>
+Duegar And Dwarves
+</div>
+</p>
+
+<p>
+ with<br>
+<div style='padding-left: 30pt'>
+Formorians<br>
+Aboleths<br>
+Behir<br>
+Chuul<br>
+Myconids
+</div>
+ as other, less sociable creatures
+</p>
+
+<br>
+
+<p>
+As with most planes, after the frost zone the temperature slowly increases, Each of the civilizations will have their climate listed as part of each, and Dungeons will, as part of their module, describe their own climates 
+</p>
+
+<br>
+<br>
+
+<p>
+Cher-Mina Undercity<br>
+<div style='padding-left: 30pt'>
+A set of Tunnels into which hovels, shops, are simply carved. The undercity is complex and the largest Drow population on the plane. It passes through the frost layer and into an area which is approximately 13 degrees C at all times, the path to the surface is short and easy to find 
+</div>
+</p>
+
+<p>
+ Environment	<br>
+<div style='padding-left: 30pt'>
+The illumination levels are dim and the power is channelled from windmills above. Fresh water comes in from the nearby Gallery Canal through pipes in the riverbed. <br>
+Primary sources of food are Fish from the port and Drow Mushrooms. Some of the drow population takes particular pleasure in eating giant cowish spiders. The Drow have recently managed to get a hold of Rothe, a subterranean cattle
+</div>
+</p>
+
+<p>
+ Culture:<br>
+<div style='padding-left: 30pt'>
+There is a rift in the undercity, the native drow and many of those who end up on the plane celebrate their liberation from the spider queen lolth. Some of them still worship the Demon Goddess, and have much animosity to the rest of the people. They are all mildly intolerant of outsiders but most are civil enough
+</div>
+</p>
+
+<p>
+ Notable NPCs
+</p>
+
+<p>
+ Raido Lomak (Raido Rilynda'ar) (ENFJ)<br>
+<div style='padding-left: 30pt'>
+A Titan of a drow, standing at Six foot. She is a half Goliath Drow, Daughter of Hagal Orcbreaker Lomak and Xunrin Rilynda'ar. Hagal is from a tribe of Goliath on the north west face of the eastern aegis mountains, while Xundrin is from Menzobaranzan in Faerun. Raido was raised among her mother's people but when her mother died at age fourteen, she sought out her father. Time Dialation between the two planes brought her to Xundrin's last moments. She took everything she could from her father's shack and Freed the dragon trapped in his sword who accompanies her as a spirit. She then returned to Varomar, and became the Matriarch of Cher-Mina. She is bombastic, in your face, and smug in her heritage, she does not believe in luck. 
+</div>
+</p>
+
+<p>
+ Yazi, The Seeker of Destiny<br>
+<div style='padding-left: 30pt'>
+Raido's Guardian spirit, a long golden dragon who sits on the ethereal plane when not called forth. Yazi Despises the idea of luck and will attack clerics of Avandra on Sight.
+</div>
+</p>
+
+<br>
+
+<p>
+ Seldrith Barani (Mushroom importer)<br>
+<div style='padding-left: 30pt'>
+Celebrated motherfucker
+</div>
+</p>
+
+
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+		<b>Backlinks:</b>
+
+		<a href='..\Nirrum's_Encyclopedia_of_Varomar.html'>Nirrum's Encyclopedia of Varomar</a>
+
+		<br /><br />
+
+	</div>
+
+	
+
+</div>
+
+</body>
+</html>

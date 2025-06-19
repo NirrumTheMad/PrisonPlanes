@@ -5,6 +5,8 @@ Creation-Date: 2025-03-06T00:29:04-03:30
 ====== Random Events ======
 Created Thursday 06 March 2025
 
+[[+Special_Event]]
+
 == READ EACH FULLY BEFORE TELLING THE PLAYERS INVOLVED ==
 
 01 - "Out of Character, You see the wall, grey, black, white, writhing flesh and sickening pulsating, extending to time unending in all directions before you. Something breaks free of its ill surface, an arm, a finger, a tentacle, a tendril, something that can bend. It arches, and pushes, and more of such structures pull free, conjoined as a hand, or a star. All sense inverts, as this thing gingerly hangs on to the wall, only to let go, and fall like a raindrop noiselessly into the inky deep of space. It falls toward an orb of frozen blue, steely grey wastes, and blackened barren charcoal with a single green arc as a halo on its surface. Upon touching the sky, it slips into a crack of purple, tunneling through unseen impossibilities, slipping down the near frictionless path until it finds a window. You take 1d10 slashing damage, Roll initiative, as a grace eater emerges from your eye into your room, it does not seem to have noticed you, personally." 
@@ -65,7 +67,7 @@ Created Thursday 06 March 2025
 
 29 - "You are offered a potion that will increase your power, acting as a consumable pearl of power. If you identify this potion, it appears to be the remains of a powerful cleansing ritual of someone two ranks higher than you"
 
-30 - "A very tired looking Elf Wizard in bedraggled robes asks if you've got anything interesting in your pockets he could take a look at. Allowing him to do so locks that item in your inventory, unlocking at the next stolen time event"
+30 - "A very tired looking Elf Wizard in bedraggled robes asks if you've got anything interesting in your pockets he could take a look at. Allowing him to do so locks that item in your inventory, unlocking at the next stolen time event to free you from it after a couple of minutes" **SPECIAL INTERACTION 30**
 
 31 - "Meteors streak across the sky, bringing the aurora with them. The Internet Connection is down for the next day. Worms of Arcanomagnetic fire descend from the disturbed sun. On one hand, they're great sources of entropy, on the other hand, they arcomagnetic fire worms, probably worth some sand if you can find one and take it alive"
 
@@ -91,7 +93,7 @@ Created Thursday 06 March 2025
 
 42 - "A thunderstorm approaches, the sheet of rain visible from far away. It will be hard to see and hear anything for a while"
 
-43 - "A breif light shines through the wall. A Great Claw of MaRa Swipes at it, Everyone's bank account increases by 5% to a minimum of 500s"
+43 - "A breif light shines through the wall. A Great Claw of MaRa Swipes at it, Everyone's bank account increases by 5% with a minimum of +500s"
 
 44 - "Alarms blare throughout the city. //Incoming Nova Flare, Seek Deep Shelter. Incoming Nova Flare, Seek Deep Shelter. // If you are unable to find shelter, A woman with unreasonably large sunglasses and short black hair throws you one at a time through a storm drain, with instructions to "go down hill". If the party is capable of casting any spells like tiny hut or wall of force, they are able to withstand the barrage. Characters who are able to do necrotic damage can drain power from the flare, and resistance to fire and radiant damage work as  intended. The flare does 10d8 fire/radiant damage."
 
@@ -145,11 +147,44 @@ Created Thursday 06 March 2025
 68 - Roll again, the event happens to the nearest unaffiliated creature
 
 69 - "Your next action hits a crack in reality. You are plunged into a different world where your power, blood, and flesh is being torn away from you by spirits, sprites, bugs, and things so small they barely matter. If you can hold them, you are able to eat them, restoring part of yourself. You are forced to live millions of lifetimes in which you hone your ability to extend yourself and your power, developing abilities that exceed the measure of gods in your quest to keep yourself together. You find yourself able to summon servants to pitch battles as they bring parts of you back. Often they are interrupted by other forces, different bugs who are eager to carry away your hard-won essence. You fight, your back to the wall at the end of the universe, sometimes fighting the hoard in front of you, sometimes fighting the wall. You come very close to losing several times. The hoard changes forms endlessly. Eventually you win, claw the world apart, and return to where you are. Gain the benefits of a long rest and the "Restore balance" feature from the clockwork soul sorcerer subclass and the spell find familiar, which you can cast without components the familiar is a chueen which is loyal to you exclusively."
+	**SPECIAL INTERACTION 69**
 
-70 - You Find your own grave as the remnants of a small temple. Within your memorial hall is an upgrade for your resting place. You appear to have died before you were born and were born after you died.
+70 - "You Find your own grave as the remnants of a small temple. Within your memorial hall is an upgrade for your resting place. You appear to have died before you were born and were born after you died."
 
-71 - 
+71 - "Drop an insurance rank, many small inconveniences now begin to occur in your life"
+
+72 - "Rise an insurance rank because of tangential connections"
+
+73 - "A satellite escape pod crashes in front of you, barely missing you. Inside is an executive from your company, they are barely conscious"
+
+74  - "You are evicted from your house, you have two days to move your stuff"
+
+75 - "You recieve a message. You've been caught in a complex series of scams and left holding the bag so to speak. After stealing your identity, several million sand worth of loans, securities, and high risk trades were made in your name. The police raid was able to automatically return all of your assets, which only includes all of the things purchased in your name. You're now the owner of an expansion in the north end of the city, containing approximately 300 new buildings provided you can front A million sand in Interest by the end of the next month, after which, You'll be the owner of quite a bit of real estate, Failure to do so will result in those assets being seized."
+
+76 - "In an attempt to steal your car and get away, someone crashes into the nearest object, nearly missing you, your vehicle will need repairs before it can be used again"
+
+77 - "Dave says he'll get your job done for you if you can act as security for his next Gala. You are assailed by a lot of angry uncountables who ask you why would side with this monster"
+
+78 -  
 
 97 - "An oni begins slaughtering nearby"
 
 99 - "A gonjuga manifests nearby"
+
+100 - Gain a level in a random class and subclass if necessary
+
+101 - "You personally gain insight into a special hidden rule about the campaign which you cannot share with the others directly. Our actions have consequences, death is not the end, and our actions have consequences after death. You've unlocked memories of your past lives only to realise they're ongoing. Dying in this campaign adds to the strength of one of the penultimate challenges you'll have to face."
+
+102 - "You personally gain insight into a special hidden rule about the campaign which you cannot share with the others directly. The DM has an Infamy counter.  Putting energy into a path that does not promote peace increases the strength of one of the penultimate challenges you'll have to face"
+ 
+103 - "You personally gain insight into a special hidden rule about the campaign which you cannot share with the others directly. The DM has a Conspiracy Counter. All acts of deception, divisive or injurious speech in this campaign will weaken your strengths during one of the penultimate challenges you'll have to face" 
+
+104 - "You personally gain insight into a special hidden rule about the campaign which you cannot share with the others directly. The DM has an Uprising Counter  All creatures that you kill or injure that are not servants of Magnum Raja during this campaign will add to the strength of one of the penultimate challenges you'll have to face"
+
+105 - "You personally gain insight into a special hidden rule about the campaign which you cannot share with the others directly. The DM has a Violence Equilibrium scale. Any weapons, drugs, slaves, or other methods of ensuring suffering you have procured for others will reduce your strength or add to the strength of your opposition during one of the penultimate challenges you'll have to face"
+
+106 - "You personally gain insight into a special hidden rule about the campaign which you cannot share with the others directly. The DM has a Charity Counter. Actions of Charity, Restraint, and avoiding certain trap quests will add to your strength during one of the penultimate challenges you'll have to face"
+
+107 - "You personally gain insight into a special hidden rule about the campaign which you cannot share with the others directly. There are Hidden quests accesible through negative perception. Correcting flaws in each of the five additional planes during your quest will increase your strength during one of the penultimate challenges you'll have to face"
+
+108 - "You personally gain insight into a special hidden rule about the campaign.  Magnum Raja is a being that reacts to the creatures it is trying to control. As it computes this input, it is possible to change the interpretation of what is being understood, and then, the interpreter. You unlock insight into the construction of the Great Succession Ritual, the end of the Tyranny of Magnum Raja. It will result in the absolute destruction of your life, but convert Magnum Raja's Will and purpose to your own. This unlocks the secret ending of the campaign"

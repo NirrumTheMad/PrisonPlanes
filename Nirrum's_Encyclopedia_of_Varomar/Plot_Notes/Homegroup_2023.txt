@@ -63,6 +63,23 @@ Starting equipment
 One healing potion
 
 
+Take 4:
+	One character is //The King. //
+		This character will *somehow* inherit a country
+	One character becomes //The Mage//
+		This character will somehow inherit great intrinsic power
+	One character is //The Messenger//
+		This character will inherit great friends
+
+
+
+
+
+
+
+
+
+
 POSSIBLE THING:
 Make multiple characters and take them along per mission?
 

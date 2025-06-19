@@ -2,6 +2,8 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2024-09-05T00:05:24-02:30
 
-====== Eighth Floor - Pathways ======
+====== Eighth Floor - Novel ======
 Created Thursday 05 September 2024
 
+
+	The first room of this floor is a well-adorned library, replete with comfortable chairs and stools. A continuous warm flame dances in a fireplace, and bright limelight bounces off of lamps on the wall, seemingly without any pipe to feed them. A modest number of books line the walls of the tavern-sized room, with some creating secluded spaces around chairs and tables. There is no organisation structure in the room Large windows look out onto different scenes,

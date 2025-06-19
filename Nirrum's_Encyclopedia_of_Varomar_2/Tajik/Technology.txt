@@ -21,6 +21,18 @@ In their perpetual desire to fight back the Demon of the End of Time, Magnum Raj
 	The internet is ubiquitous beyond all sense, such that the knowledge of these people is almost always available. Interconnectivity is omnipresent, save in rare cases. 
 	[[+Internet_Locations]]
 	
+
 ==== Electrical Grid ====
 	Electricity is also ubiquitous, and it is costly
 	[[+Elech]] 
+
+==== Magic ====
+	[[+Magical_Items]]
+	
+==== Artifacts ====
+	[[+Artifacts]] 
+	
+==== Legacies ====
+	 Divinity is commonplace among citizens. Many rise out of the dregs of uncounted by attaining it. But larger powers and larger immortalities are yet to be gained.
+	[[+Legacies]] 
+	

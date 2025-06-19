@@ -4,7 +4,7 @@ Creation-Date: 2025-04-06T02:14:41-02:30
 
 ====== workshopping ======
 Created Sunday 06 April 2025
-
+[[+A_History]] 
 Mattress/bedding upgrades allow you to recover more hit die per day
 Food upgrades for certain resources?
 
@@ -15,10 +15,51 @@ YOU CAN ONLY LEVEL UP IF YOU GET AN UPGRADED
 	* Clothing - covering, armor, fashion
 	* Implement - sword, staff, claws. 
 Players can trigger one random event a night at will, One random event will happen per night guaranteed.
+Inspiration points can also be spent to trigger them
 
 All permanent deaths become part of the final boss. 
-Alternately, the parts of the part that escape each death are part of the final boss
+Alternately, the parts of the party that escape each death are part of the final boss
 
+All creatures the party Kills (other than the forces of MaRa) add to the strength of the final boss
+
+The internet is controlled by whatever company owns the buildings in the area. Any Internet service provider that has ever tried to crop up has been //rapidly torn to shreds. //
+
+==== Gameplay Loop ====
+
+Challenge: Get money, Power, Level up
+
+Seek, Experience, Dopamine
+Challenge, Actions, reward
+
+Moment to Moment
+	Seek, Experience, Dopamine
+	Challenge, Actions, reward
+
+Minute to Minute
+	Seek, Experience, Dopamine
+	Challenge, Actions, reward
+Hour to Hour
+	Seek, Experience, Dopamine
+	Challenge, Actions, reward
+Day to Day
+	Seek, Experience, Dopamine
+	Challenge, Actions, reward
+
+Moment to Moment
+	Combat/Context Puzzle, CC+Navigation, Resources/clues/progress
+Minute to Minute
+	Exploration, Experience, Tools
+Hour to Hour
+	Conflict choice/Focus on obtaining things, Find shops/allies, Advancement toward levelling
+Day to Day
+	Job/Quest, CC+Acting, Strength
+
+
+Certain NPCs have backup houses
+
+Random events that get DM fiated into a reroll get chambered for that individual, such that if they ever need a normal reroll, that event happens if applicable. 
+
+for random events that get rolled twice
 "Test 1d18 skill, Pick above or below"
 	* Acrobatics
 		* Mouths appear in the floor beneath you

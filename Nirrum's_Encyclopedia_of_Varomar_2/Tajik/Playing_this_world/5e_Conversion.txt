@@ -16,6 +16,10 @@ You may build your form entirely from scratch, provided you cast detect balance 
 
 Conveniently, this all works out the same, but starting at level 3 is about the lowest you can go.
 
+[[+Chat_GPT_Trial_Classes]]
+[[+GPT_take_2]]
+
+
 
 ==== Skills ====
 Proficiency or Deficiency

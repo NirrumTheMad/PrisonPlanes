@@ -1,0 +1,588 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Skalmirthon</title>
+	<meta name='Generator' content='Zim 0.74.2'>
+	<style type='text/css'>
+		a          { text-decoration: none      }
+		a:hover    { text-decoration: underline }
+		a:active   { text-decoration: underline }
+		strike     { color: grey                }
+		u          { text-decoration: none;
+					 background-color: yellow   }
+		tt         { color: #2e3436;            }
+		pre        { color: #2e3436;
+					 margin-left: 20px          }
+		h1         { text-decoration: underline;
+					 color: #4e9a06; margin-bottom: 0 }
+		h2         { color: #4e9a06; margin-bottom: 0 }
+		h3         { color: #4e9a06; margin-bottom: 0 }
+		h4         { color: #4e9a06; margin-bottom: 0 }
+		h5         { color: #4e9a06; margin-bottom: 0 }
+		p          { margin-top: 0              }
+		span.zim-tag {
+			color: #ce5c00;
+		}
+		div.zim-object {
+			border-style:solid;
+			border-width:1px;
+		}
+		.checked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8sMEGsKGkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAEBUlEQVRIx62V22tdRRTGf7Nn73P2ybntnNOe3NqkPTGgLTVUUZF6QatSLOKTPgqCIqLgQ0H/A1sQQbBYCBb1QfAxiC8tSO1FqHkwJVKtjdTGNraUmObsc9nXmfGh7cGYpM1D5nHWzPetteZb3wg2eB2YqYm4zSadsMtoboiNBH/3TE0awx6j+MRoxoTg/IYRvP19TQrJS0bzhdHGSyKFkLTtjSKwMjyiEz43ynhtP6bdjBCWyFobAf7eT7VhNF/q1FRbjYjmUohlCVPwnB+6FUxMTJipqSmUUhhjEGKd3bMT4ks/Y6oLBK2Yth8hHYtCJXOix7Nf7xLMzc0xOzvLzp078TyPNE3viW3QJPXzhNWbxFFKHCmMhoLn/FHodd48vGfhapdAacXQlkFK5dL6wIUm6fuTZPuvqDQhaMUYYyiVyuQr6rXDexYuAdi3tSv1ZJNs/R/CaszzT+1na88uXFnCEnJVgivBNN8uTJKmHQI/ptOOcXNZzMz9mOqFs90OHpipWcYwlo5P4ebnuOkrvr5wgrH+h3im7y36MzuwRXYZeKha/OhP0EkadFoxQSdGSotedR/+XwMc2XvKdNUFOFqZx6LKZWIiwjgkikNmLp/hm8sH+K1zjFTHXfBYdTi+eJArzXM0GxFxoBDCopLvo/fqEwi1XPkWkGqjFo2TgB1jOYZUKZTS/D1/ncmLh7jon0IbRWoiTi59ymzzJEEQE3cStNZsGxqlfPE57MBbOR8fP3hDGalOO9fq2DlBvmZw8xa2IxACGn6TydlD/O6f5OzSV/zif0cYhLQaEXGkKBbz7Ov/AOlXV1cxgBJRI3fuSTrpTawt18kWIZN1CFuaONI0w0WOXfsI43YIggh/KUSlhqxrMz74AkOZcWBm9QkH+Gw8NDLuITi+m0yzhluSyJzBLcpblUhFxywSRAEtPwQjsKVN30CNh0uvYuOubSHLtN3J0TO1j0pmBNuFbFWRK0gyPRZpktL2I5JQkclKakNlnh54g6ocvevUr/Ai2a7wineEkcJupA3S1Wg0nVZM2E6wbEF5U5G9Q++wI7sfR7h3N8HVNstykBfzH+KJEZwiWD0aIwxCgJ0R1Mu7GXOeJSuK93bZtQIle4D9pUNU5DC5jEsu55AvZakM5NicGyEj8uuz8bUCQgj67QfY671P3vEoeC69gy695U1U7NG7XV0pUwBjDJa1/JJlWWxzHuflzQe5FJ/GsgUVuZ2t8lEkTvfc0aNHb72flBhjVicQQqCUuvM3/M+WDVguWBrMVdDXEGZlBVEUrVCU9d9s5+fnaTQa2PZyPxEIhJaI1EEoZwX4ncynp6fXrmB4eJjR0VFarRbNZnP9P9rt9gohqNVq1Ov1ZbF/AZGev3hLJ2/zAAAAAElFTkSuQmCC)}
+		.xchecked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8bDYnDxEwAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAEK0lEQVRIx9WVS2hTWRjHf/eR3CY1nbxMH2YiZRQS6qO13YlMVxY3SnVcuNIBFezGpSADLoQqLu1sHJCqdCFSXFpw4YOCSH3BtFqttTNamabX3DS5bfO6uffMoglja3RGcDMHzuac7/z/53++//cd+L8P6VuCPQYZ8ADNgBd4J31DcDcQs+GnHByRocEDv0kfBSjAOlYCs11Q+gpwDegS8LMJ+3QIK0ATzEhV8Odnz5bzw8P4dJ25aJQ/WlvJ1df/K7hSLtOcTNI+Pk69rpMTgqIQhCDvh1/VSpw79+gRrRMTmLZNezLJJsPg+a5dmOEwQlFqg1sWG16/Jv7sGWXDwBACFQjC9HcwIMONKkGp4PGAJGEDS0IQmZlhnWnye3c3eiyGo6qr3WHbrJ+dJf7gAXI6zSIr72T7/fgzmT4FHnTBsgrQBfYvTU0km5vxz86iADnAm0rRPTWFt7cXZccOJJcLAGHb2K9ekT93jmwmwwdAAFpjI6Ntbfxw5879ag7l6o1sr5eHHR3IsRgeQK/M4sQE+YEB7JcvEY6zAj45SWFgAPPxYwzHoQxIkQjTPT0kIxE+Noj8sexFn4/xnh58iQTeSpHkHAdrbIzi0BCOrmNPTpK/eJHM3bt8sCyKQCiR4NWePWSiUZw1+ZLXJm4pFKLhzBlCsRh2RUXacVgeGaF47RrL58+zcP8+RrmMkCQinZ1EL1zAjERqmkH+tLYl1G3bCJw4QUjT0IA0MJfLMX/5MqmHD0nZNiUgtGULG/r7ccXjINWuWbnmqsuFu7sb/4EDNLlcBIEioNs2KUAFGmMxmk6dQm1tRZI+3xBqEkiShBQOox05Ql1nJ26gvuIUAWiKQnj/ftStW5Fk+YuF+NldsbBA4cYN9KdPmaso8Fc62ZJtk7l1C2t0FGdxESHE1xE4hkHh6lX0oSHSpRIewC/LrPf7CSgKNpCamkI/fZr8pUuIZBIcpyaBunahPp1mub+fDyMjGKUSChCsq6Nh717q9u2jbnSU0uAgRrFIwTThyhUCqRS+hgZKLS1fJvDm87SNjZGcnsYUAjcQ8vsJ9/Xh7u1FDgRQN20iks3iDA+zZFmYhQLqzZtsj8WY3L0baY2Sf55ICCKpFHUzM2SEQAJCHg+hY8fQDh5EDgRWDoRC1J88SePRo2geD0XAcBy8b98Sv3ePYDZbbf2rFQjLIphMsmDbaEBQVQkePox26BCSz7e6i4bDrDt+nGYhmBscpFAskheC4Js3bPR4qHphFYEnlcI7P4/jdqNpGu8TCe4oCsXr1z//F2ga3+/cSfTJE0qmSVYIsKzaOZDcbjKyzFIiwfvt21kMBLA07YsetzWNd+3tLLW0sH5igvT8PH9Go/z44kX+E4LGjg7GDYOcy4XlOEgLC//5P/5LCFzxOPLmzWyIx+m6fduu7v0NVGqyTSycKksAAAAASUVORK5CYII=)}
+		.unchecked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8qAt8h3m8AAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAA60lEQVRIx+2VsQqDMBRF70sCLg5OLoKgjk7+lJ/hh+STXBwcnRz8ArMEkrxOFktbaC3tULzTg5e8k5vADXDq70VbobXmvu/hvQczg4heHrJfXxQFuq67blZbMc8zpmlCXddIkgTOuZcBUko45zCOI6y1Nz2xFSEEZFmGOI7fGg4A3nsQEZqmuXOu9jallACAtm3fvmutNaIoAjM/dkBECCF89KCbk4eAb+kEnIAT8EsAM0OIz3hSyrssUvss8t5fg+uIrLXPs0gIgWVZYIyBUurQyYdheO4gz3NUVQVjDNZ1PfSjpWmKsixvehfB9GBZ3NndrgAAAABJRU5ErkJggg==)}
+		.migrated-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB+AKHREFA8vJSnkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAC1klEQVRIx+2VT0hUURTGf/e958w4Tc3TYowMw1GyEgwr1MqsFmbZIrIWQZsWJUjbdoHQpl3Qps0swnCRECQFYkR/TC1iKkqmfzAKTo2Vf8hoRsfR995tkRMT87RRWkUHHhy495zvnvvu933wP/75EKkkEAjIYDCIaZpIKRFCZN0kfX9xcTGtra2/irVUEolECIfDlJeXo+s6hmFkDaCqKoZhEAqFSCaTv60pqcSyLAoLC/F4PEtqDmCaJkIIKisrMybX0sdUVRWA5ubmPzdNjjI1cpXkZC/O1fV03PXgdDqRUtpPIITAsqxsDz0Z/3CZQv8uqo4N4C8/Tp2/DdM0MiZQlvk41OTkI/LW1SGtCVb5drD3eCc71wcA+VcAHA5vDd8+3UGakxiJV7i9pdQevU5T1R35pJ3MV5QW1pf+0kWBheJ2SWua8EQXZXsu4fVVYEz1sEKvof5EuxjoPvzpcRvrdp9C2gGMx6cpOHBmbImMesds7BZubwMVDTfXDnQ3vQfK7AC8wLfExMX5whyQc3q2OEnjGm5vE76SQxsfBLr77a7CNf+n0r/l6sSMtsBSnurckiIILCobAtVZhpF4gZF4jubaymj4Ch/fd380LE7bAnjc0NPxk2yqpmEuwGxF0ag+0k5uTpzZeBeaazvj0We8fXojainsb2xh2BZgbe0gSIllzSIUh63wfQ6dZ/O2fbjcKlOj58jJ3cVENESw5yErc9nf2MLQ4jwQAkV1Lqiq37/cZ9WaahJjF9AcmxiPDhLs7ePe23oOnmUwg2hSShQle96tKDjA2HAniusgo9FxnvY9Jxw7RWzGYy92QghM00x5g53qp9sHmtB58/o2umOI2NwGolMnMYUHIb7aAyiKwsjICLqu2/qBEIKUUAohMaSHSLyBSMoPTINQ6CX5+fn2AEVFRZSUlBCPx4nFYhl3L4RESjF/GEgX3pSj+Xw+/H7/b3U/AEOZFnp7O5+5AAAAAElFTkSuQmCC)}
+		ul {list-style-image: none}
+		/* ul rule needed to reset style for sub-bullets */
+	</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class='header'>
+	[ <a href='./Shadowfell/Masters_of_The_shadowfell/The_Valent_One.html'>Prev</a> ]
+
+	[ <span class='insen'>Index</span> ]
+
+	[ <a href='./Skalmirthon/FightPits.html'>Next</a> ]
+</div>
+
+<hr />
+
+<!-- Wiki content -->
+
+<div class='pages'>
+	<div class='heading'>
+	<h1>Skalmirthon <a name='Nirrum's Encyclopedia of Varomar:Skalmirthon'></a></h1>
+	</div>
+
+	<div class='content'>
+	<p>
+Created Friday 29 December 2017
+</p>
+
+<p>
+<a href="./Skalmirthon/FightPits.html" title="+FightPits" class="page">+FightPits</a><br>
+<a href="./Skalmirthon/Locations_by_District.html" title="+Locations_by_District" class="page">+Locations_by_District</a><br>
+<a href="./Skalmirthon/Mjoriskivor.html" title="+Mjoriskivor" class="page">+Mjoriskivor</a> <br>
+<a href="./Skalmirthon/University_of_Skalmirthon.html" title="+University_of_Skalmirthon" class="page">+University_of_Skalmirthon</a>
+</p>
+
+<br>
+<br>
+
+<p>
+<b>In 5854, the displaced Manahararahi that make their way into Skalmirthon find one of their own on the throne. The Manahararahi wish for preferential treatment, but find that Deloch is not too keen on destroying his kingdom. The dwarves, who are very focused in their jobs do not like the change that having all these new people brings. Despite the friction between the generally extroverted, Magic-focused Manahararahi and the craft-focused, generally introverted Skal Dwarves, both cultures prefer working for the benefit of their community and neighbours. Within a year, the city is built double-high, the Skalmirthon University of Magic is almost completed, and Skalmirthon's Economy skyrockets. Food security becomes a major focus, and water becomes rationed. Neither culture minds as the dwarves bathe (and sweat) less than others (unless working the forge), and the Manahararahi are used to living in a desert. The drow population sees a burst of wealth from the increased value of their hunting and foraging by their rangers. The Svirfneblin begin to get outcompeted for magic by the new people, their stonecrafting isn't enough to sustain them economically, They struggle for a while to make ends meet until the first generation of Svirfneblin Mages graduate from the school.</b>
+</p>
+
+<p>
+Description<br>
+  The Dwarven-Drow-Sverfneblin underground city of really really great mining. Although Technically the city isn't underground as it sits in the Caldera of the great Skal Volcano, it never receives any weather other than "sunny" as the peak sits higher than any cloud can reach, short of rare cirrus wisps off the top. The city is powered by Deep thermal power, water is tapped from the springs inside the mountain walls, Food is often imported in exchange for the variety of crafts, mechanisms, machinery and raw materials extracted from the nearby mines, which tap into the volcano's rich ores.
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+The city is host to great night life, and sports a variety of exotic drug trade, and a great many illegal activities to boot. Also fight pits. Plumbing mostly runs into a pit of Lava about three miles out, Vented in another crater well enough removed from the town that in the event of eruption, the town would be safe. Recently the town has gained a new King after the previous republic failed, He has left a Regent in charge in his stead.
+</div>
+</p>
+
+<p>
+ History:<br>
+<div style='padding-left: 30pt'>
+Skalmirthon is the oldest of the current cities on varomar. The Skal Volcano was Claimed by the Lelumadil dwarves in the year 504 and settled as a Mountainhome and public city in y256. It has been ruled by various forms of Monarchy but after the last democracy fell, it has set up a Temporary monarchy, supported by a shadow government of powerful individuals. The current king seems immune to their plots, much to their dismay.
+</div>
+</p>
+
+<br>
+<br>
+
+<h3>Civilization type<a id="civilization-type" class="h_anchor"></a></h3>
+
+<p>
+<div style='padding-left: 30pt'>
+Urban: Dense stone city
+</div>
+</p>
+
+<p>
+ Environmental effects if Relevant<br>
+<div style='padding-left: 60pt'>
+None, City has been thermally regulated to 8 degrees since y512, on occasion, chunks of snow manage to fall down but it is rare and they are usually not very damaging
+</div>
+</p>
+
+<p>
+ Sources of food/water<br>
+<div style='padding-left: 60pt'>
+ Snowmelt from the northside of the mountain is fed down aqueducts all around the city, dropping into houses from above, providing pressured water.
+</div>
+ Important factions/NPCS<br>
+<div style='padding-left: 30pt'>
+ King Deloch Welch
+</div>
+<div style='padding-left: 60pt'>
+Tiefling (ENTP)(Artificer 11)<br>
+Age: 25<br>
+Weight: 153<br>
+Hieght: 5'8<br>
+A Jolly and smiling tiefling who is proud of his intelligence and <b>resolute</b> in his worship of oghma, the god of knowledge. He wears a white set of robes with a blue shirt, under which he wears a leather plastion. At his hip he has a sword which, if consulted, acts as though casting the augury spell, writing in runes vague messages of the future. It is worthless as a weapon and should not be swung, as it very well might break. He also holds a staff and a rather heavy clay crossbow, and has a bandolier of potions, all of which are magical. He loves adventurers and is cheery but hides a very dark and ambitious side. He became king when he killed corrupt merchants with an alchemically-enhanced ballista, Destroyed a chaos cult with their own magic, and undid the thieves guild and gambling dens by becoming their master.  He is chaotic good, and extremely inventive, also making him incredibly hard to kill. If this sounds protagonisty, it's because Deloch was the Author's old PC and was <b>powergamed as a tankbuilder support/super healer.</b> 
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+Damien
+</div>
+<div style='padding-left: 60pt'>
+Tiefling<u>(</u><a href="./Skalmirthon/plot/Damien.txt" title="*" class="file">*</a><u>)</u>ENTJ<br>
+Age: 22<br>
+Weight: 180<br>
+Hieght: 5'9<br>
+A softly smirking but hard-eyed tiefling with a thick crest. Damien appears on the second day of the Party's stay in Skalmirthon, leading a small, ragged group of refugees from blackwater through the underdark. He wears dusty green rags that betray the number of battles he's been in.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+Regent Datan Athelvathez
+</div>
+<div style='padding-left: 60pt'>
+Human (ENFJ) (knight)<br>
+Age: 37 <br>
+Weight 240<br>
+Height: 6'1<br>
+A Confused Dwarf-raised human, who was, until a week ago, a gate guard. He got a promotion to regent As soon as the current king came into power. He was the only one that thought to actually check the fake papers Deloch was using to move ballista parts on top of the elevator, and personally went on a manhunt to find the Eccentric tiefling after being trounced by the adventuring party the king had been travelling with. In less than a week, the three major sources of Corruption in town had been brought under control or eliminated, the people saved, and a new resource was discovered under the Temple of Moradin, flooring Datan with its efficiency. He gracefully accepted the position. He wears Plate armor felted with red and gold, and a large purple and red puffy hat His eyes are brown and his beard and hair are both blond and kept short. He wields a Halberd and speaks elven, draconic, dwarvish, common, goblin, gnomish, halfling, and undercommon
+</div>
+</p>
+
+<p>
+Landmarks and Districts
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+1) Throne of the Old King
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+2) The Abyss
+</div>
+<div style='padding-left: 60pt'>
+It ends in a lake of fire.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+3) Ramie Circut
+</div>
+<div style='padding-left: 60pt'>
+ The only park in the city.
+</div>
+<div style='padding-left: 30pt'>
+4) Sidest District
+</div>
+<div style='padding-left: 60pt'>
+Clothiers and similar
+</div>
+<div style='padding-left: 30pt'>
+5) Istrath District
+</div>
+<div style='padding-left: 60pt'>
+Jewelers and Similar
+</div>
+<div style='padding-left: 30pt'>
+6)Eshtan District
+</div>
+<div style='padding-left: 60pt'>
+Smiths and similar live here
+</div>
+<div style='padding-left: 30pt'>
+7) Zuntir district
+</div>
+<div style='padding-left: 60pt'>
+The loud shops, especially smithies, as well as the great depository
+</div>
+<div style='padding-left: 30pt'>
+8) Great East highway
+</div>
+<div style='padding-left: 60pt'>
+Largely unused
+</div>
+<div style='padding-left: 30pt'>
+9) Elg'Hasek District
+</div>
+<div style='padding-left: 60pt'>
+A mostly drow quarter for rangers who head out the great east highway
+</div>
+<div style='padding-left: 30pt'>
+10) 	Rêdê District
+</div>
+<div style='padding-left: 60pt'>
+"advice" district. The city's largest portion of Svirfneblin live mixed in with dwarves here, many temples are here, the largest of which being the freshly ruined Temple of Moradin
+</div>
+<div style='padding-left: 30pt'>
+11) The Temple of Moradin
+</div>
+<div style='padding-left: 60pt'>
+Most of its worshippers were turned into beasts, forced to work in the mines below by a chaos cult that wished to harvest the ore underneath. Currently Dwarves are excavating the ore by order of the King, who cleared out the cult
+</div>
+<div style='padding-left: 30pt'>
+12) Great south Highway
+</div>
+<div style='padding-left: 60pt'>
+Recently Re-opened, Heads to Mjoriskivor along a three day journey.
+</div>
+<div style='padding-left: 30pt'>
+13) Great Elevator
+</div>
+<div style='padding-left: 60pt'>
+Serves as  an entrance from the coastal protectorates, and access to the top of the mountain as well as for Airships.
+</div>
+<div style='padding-left: 30pt'>
+14) Trader's Quarters
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+15) The Old Noble's District
+</div>
+<div style='padding-left: 60pt'>
+Now home to Artificers
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+16) The Common District
+</div>
+<div style='padding-left: 60pt'>
+ All other things
+</div>
+<div style='padding-left: 30pt'>
+17) The Ruined Trade Center
+</div>
+<div style='padding-left: 60pt'>
+Recently decorrupted with several ballista bolts full of stone-eater
+</div>
+<div style='padding-left: 30pt'>
+18) Avuz District
+</div>
+<div style='padding-left: 60pt'>
+Mostly Miners and other venturers down into the underark, this takes up the largest part of the city and is also home to the largest portion of drow
+</div>
+<div style='padding-left: 30pt'>
+19) The Great Underdark Highway
+</div>
+<div style='padding-left: 60pt'>
+The passage to the mines, the pipes, and the undedark. Much of the Cities works are also accessible from here.
+</div>
+</p>
+
+<p>
+ Businesses<br>
+<div style='padding-left: 30pt'>
+20 The Quirky Quart.
+</div>
+<div style='padding-left: 60pt'>
+Owned by a Garishly dressed gnome named Gus Muldaney. He is a dick and charges quite a bit more than he should, even if his rooms are great. He charges twice normal fare, gives a 50% discount for gnomes (so normal fare), and charges double for dwarves or anyone who speaks dwarvish. The house dish is braised pork shortrib with pickled beet and Iced tea. The rooms are high quality. A bready lager is Gus's specialty beer. 
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+21 Vaerhaun's Black Cask
+</div>
+<div style='padding-left: 60pt'>
+Previously one of the main hideouts for the criminal underworld. Currently there <i>isn't </i>a criminal underworld because they technically follow the king. This will go back to normal shortly once they realize that Bad Shaman is still banned. The rooms are comfortable, the food is sketchy, and the prices suspiciously low, but they are the only place in town that serves Oyster mushroom wine. It is run by a Long haired, scantily clad drow male named Alirandath Ry'lendar with red eyes and <i>*rippling*</i> abs. He is Neutral evil, and always willing to make a quick buck. There is a 1/20 chance that the previous occupant's belongings are scattered over the room when you get there, suspiciously devoid of gold but otherwise present
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+22 Xanaran's Bar and inn
+</div>
+<div style='padding-left: 60pt'>
+Why are you even surprised? It is, of course, run by Barstomun strongbeard, featuring the normal affair of meat-and-side dishes, stews and soups, and usually some form of fruit pie for dessert. The Beer is good beer, the wine is good wine, but the selection is small. The rooms are small, a bed or two with a chest and two wall-mounted oil lamps.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+23 Magna's Red Brick 
+</div>
+<div style='padding-left: 60pt'>
+A pub that is really more of a house. It only has two rooms, but it has low prices and exceptionally good food. It is run by an aged Svirfneblin named Maria candlesharp, who really just misses her grandchildren. She always keeps a stock of Konian dark ale. 
+</div>
+<div style='padding-left: 30pt'>
+24 Gazza Thraka's Jazz Bar
+</div>
+<div style='padding-left: 60pt'>
+Gazza thraka is a mighty orc with long black hair in a ponytail. He stands straight and serves a specialty gauntlet of drinks, Anyone who succeeds in drinking them all gets 50 gold pieces and a free night's stay, though each person can only succeed once. 
+</div>
+<div style='padding-left: 90pt'>
+<b>The Mindflayer,</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+a shot so potent that you have to make a DC 13+n Cha save to not do something incredibly stupid, Where N is the number of shots you've done so far. It is ostensibly tradition to yell something heroic before you drink, but mostly this just warns people about how drunk you are about to be. It's honestly just Dry-hopped moonshine with some added tannin. It tastes slightly better than whiteboard markers. The hops and Tannin are what make it hit harder than pure moonshine
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>The Chimera</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+1/3 Scotch Whiskey, 1/3 French chardonnay, 1/3 rum. You don't know what a french or a scotch is but you're almost certain it's not something you want to run into. Fairly low key
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>Shot Mimic</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+It's literally a mimic, Make a con save and hope it dies in your stomach. Gets you pretty hammered.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>The Welch</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+Literally only possible through alchemy. 1/3 Bourbon, 1/3 Citric acid, 1/3 gold-infused phlebotinine, a chemical which can only exist through magical influence. Limit of one per person, per life. Named after the Infamous Mr. Welch, not to be confused with the new king. Its effects are generally considered benevolent, and the next harmful spell cast on the drinker will be immediately and fully countered, but the phlebotinine coats one's throat and will react violently if such a drink is ever ingested again.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>The owlbear</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+Half fermented cola, half potato vodka.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>Cloud Giant</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+THC dissolves in Alcohol and in most planes, that's not only not illegal, but is encouraged. The Cloud Giant is a High ABV mead that's been infused with cannabis by aging on shatter for over two years, then being backsweetened with more honey and stored cold. Slightly Carbonated
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>Necromeister</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+Half Autumn-Spiced Kilju, Half fennel spirits (jaegermeister)
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>Pseudodragon</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+Mead that was brewed with the juice of one lime, three dried chili peppers (whole), A teaspoon of freshly ground cardamom in secondary, and three pounds of honey per gallon. About 18% but damn, it hints at what the Ancient Red Flagon is going to do to you
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>The Ancient Red Flagon</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+Juiced and Fermented Jolokia peppers, with Added raw Phlebotinine, Tannin, and a literal chunk of feldspar added in secondary, aged in oak for ten years, then served to the foolhardy or the outrageously stupid. It is tradition to drink a shot of Malt Vinegar beforehand to cleanse your palette. It is poured from the small oak cask into a mug made of Cassia wood (Cinnamon), and bound by silver and with a fey inscription (Which reads "And thus, the world stands inverted, the bottom is now the top" in sylvan) written in gold. You are allowed to smell it before the Barkeep drops a tiny piece of dry ice in there, letting it cool and get foggy before you drink it. The Mug you drink from has been worn by the number of lips that have used it. The others were shots but this? This is a a drink. A Full, Fucking, Flagon. Your eyes water at the idea that this exists. Your eyes water at the knowledge that you paid for this. Your eyes water mostly because of the incredible vapors that seem to steam up from underneath the dry fog. Your eyes water because the phlebotinine reacts with the feldspar and the air to make you slightly precogniscient, some corner of your mind knows what happens next
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>The Legend of Io</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+This drink is alcoholic in that alcohol is certainly involved. Made by a bored artificer who once conquered the Ancient red flagon, This is a Bizzare concotion that looks unassuming. It is a murky brown fluid, but wizards, and anyone who can see octarine for any other reason, will notice it seems to be constantly swirling with bubbles that go down, releasing spurts of magic through the bottom of the glass. Drinking this bitter but full bodied brew immediately Draws you into the ethereal plane, Shunts you exactly two meters forward,Teleports you into the feywild, and then teleports you back to where you started, but with an illusory duplicate that mirrors your actions perfectly but with a scowl on its face nearby that lasts for one hour. It has the side effect of making everyone else in the room drunk. Its ingredients are secret but it smells surprisingly like an early spring day, with the added effect of chilling your nostrils. Some people say it feels pleasant. They tend to be lying. The hangover Is inevitable and bypasses poison resistance. Lesser restoration or mind-shielding effects can get rid of it, but not prevent it's initial onslaught. Many people comment on its impeccable mouthfeel and strange aftertaste that makes them feel as if they just ate a sandwich. It has been tested at 14% ABV on average, although sometimes the vinometer disappears and never comes back.<br>
+If someone beats this drink they are usually offered a free Dwarven Mug of refilling
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+Other drinks on the menu outside of the gauntlet are:
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>Elven Stout</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+Barely alcoholic light beer. No hops, oats, rye, wheat. Dwarven made.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>Dwarven wine</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+Literally fermented from canary grass seed, nearly undrinkable. Elven Made.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>Halfling Whiskey</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+Actually an honest whiskey. Distilled from sweet corn, with a subtle undertone of bitter chocolate. Halfling made, but mostly just copying Ramishi whiskey, which you can't get in this city
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>Orcish "Oroturgosha"</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+Made from fermenting the sap from maple trees, mixed with clover flowers and Hazelnuts. It's actually tasty so you think they're not telling you one of the ingredients
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>Drow "baby wine"</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+A wizard told you it's definitely not made using babies, but she wouldn't tell you what it was made with. Probably for the best honestly. It smells suspiciously familiar. 20% abv.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>Zombie apocalypse</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+A shot of beer. For Only a copper. It's actually only called a shot of beer, but you can order a literal thousand of them. The barkeep only pours up the shots as you drink them so he usually pulls ahead on that deal.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>Ghost Grog</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+This one's Not on the menu, but you hear a guy order it, see him quaff it, and he sounds very satisfied. If you order one, you're given an empty mug. Wizards, as well as people who can see octarine and/or into the ethereal plane can tell you that there should be something there, but it doesn't seem to do anything. About an hour later you feel an awful sense of foreboding, which passes in about ten minutes leaving you with the sneaking suspicion that you lost something important.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 90pt'>
+<b>Poltergeist</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 120pt'>
+Also not on the menu, like before only there's actually nothing in the mug. It's a prank.
+</div>
+</p>
+
+<p>
+25 Great Elevator Stables
+</p>
+
+<p>
+26 gambling dens
+</p>
+
+<p>
+27 arena
+</p>
+
+<p>
+28 Temple of Pelor<br>
+small, 3 attendants one lv3 cleric
+</p>
+
+<p>
+<b>education</b><br>
+For dwarves it's 11 years of freedom and play, but during that time they're encouraged to read books, Learning to read is what you need to do to style on your peers, so it's a sort of race for young dwarves to learn to read. During that same time they're also encouraged to look at the trades around them, and frequently they'll choose one, rather at random in many cases. Dwarven stories are carefully constructed to make heroes out of tradesfolk. Because of the size of skalmirthon, most people end up following their parent's trade or if not their parent, the trades of the workshops nearest them. The toys of young dwarf children are shaped like their future workstations. Outside of that, Dwarves don't receive a formal education. They tend to learn at their own pace and work to promote the wealth of the dwarves as whole. The craftier ones tend to focus on being the traders for the city, gaining a more comfortable life for themselves in the process.
+</p>
+
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+		<b>Backlinks:</b>
+
+		<a href='..\Nirrum's_Encyclopedia_of_Varomar.html'>Nirrum's Encyclopedia of Varomar</a>
+
+		<br /><br />
+
+	</div>
+
+	
+
+</div>
+
+</body>
+</html>
