@@ -1,0 +1,37 @@
+# Crazy Nights 
+Created Thursday 15 May 2025
+
+
+
+
+	* GUYS WHO EXIST TO QUASH UPWARD MOVEMENT
+
+
+
+
+
+
+	* You are trusted with a sanding quest. You need to find a weapons manufacturer on behalf of **Asurenda Arms.**
+		* you are to dust their entire operations except for any upper Management
+		* Defend the area from any Chueen, close any rifts before they get unmanageable
+		* Keep the factory safe
+		* After a few hours of recieving confirmation of successful sanding, Asurenda Arms will secure the location and you'll get your payment as well as a bonus
+			* PUT CHARACTER WEAPON BONUSES HERE
+	* You are put on a task force with other uncountables to deal with a problem plaguing several farms and Starticulture facilities
+		* Forbidden creatures are corrupting food en masse
+		* Kill the forbidden creatures ( Several Gollar, one Bratuus)
+		* Bonus comes in the form of a vehicle with the option for a driver and repair mechanic
+	* Your Boss, the Infinite, notes the exemplary performance of your work, and invites you to be his detail as he attends a function with other infinites as part of the Ergun Logistics Conglomerate State Address 
+		* You Fight a steady stream of assassins on the way
+		* You are allowed to eat alongside the infinite, though some infinites give you withering stares, on Occasion, the parade that heralds an incalculable crowds the hall, which is so large, it begins to form its own weather, which is incidentally, threatening rain. 
+		* You meet many contacts of your own here, including
+			* An insurance adjuster of your rank
+				* He's aware of what you guys have been doing
+			* A grocery chain manager who is pretty pleased about being able to provide some of the food for this event
+			* A very confused weaver who has no idea what he's doing in such a place of honor with so many people around
+				* He occasionally seems to turn to an attendant of his own to teach them something, and frequently appears to wear different clothing which he is constantly inspecting.
+			* A Dragon who works in Meme Economies that try to trick the uncounted into certain sectors where manpower is lacking
+				* "You'd think telling people that mine 17 is a shithole would push them away from it, but the uncountable need to feel powerful somehow, so they just throw themselves at challenges. Works like a charm every time"
+		* At a certain point, A forbidden creature, a massive eldritch abomination crawls out from underneath a table and begins attacking
+			* your choice of how you react is up to you, but anything you do will draw the attention of some of the less violent Infinites, and a few incalculables
+				* This results in your insurance policy being adjusted, and a major shift in tone in the campaign

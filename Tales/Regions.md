@@ -1,0 +1,63 @@
+# Regions 
+Created Saturday 21 October 2023
+
+### **Material Surface regions** 
+[[Ushlubarel_River_Basin]]
+[[Aegis_Mountains]]
+[[Monteblanca]]
+[[Gannaga_River_Basin]]
+[[The_Desert]]
+[[The_Badlands]]
+[[Trinity_Gulf]]
+[[Drakenhearth]]
+[[Dragon_Coast]]
+[[Saman_Plains]]
+[[ManAnan_Gulf]] 
+[[Ganglegrove]]
+[[Mohara]] 
+[[Great_Grass_Road]]
+[[Jianok_Sio]]
+[[Ualakomara_Mountains]]
+[[Monteblanca]]
+[[Sea_Of_Endless_Rain]]
+[[Carpers_Sea]]
+[[Rainbow_Mountain]]
+[[Province_Of_Roses]]
+
+NORTH EAST COAST
+NORTH WEST COAST 
+NORTH PENINSULA
+EASTERN AEGIS SHELF~
+WELTON BASIN~
+KARA'ITE SEA~ --- ADD WHALES. SUPER WHALE DRUIDS FIGHTING A WAR WE DON'T UNDERSTAND
+
+SOUTH OCEAN
+NORTH OCEAN
+FLYING ISLANDS
+GRAO ISLANDS
+
+
+### Material subsurface Regions 
+[[Brekmu]]
+[[Cermina]]
+[[Broville]]
+[[The_Underground_sea]]
+[[The_Dwarven_mines]]
+[[The_Prison]]
+[[The_deep_prison]]
+[[the_magma]]
+
+### Near Exorealms 
+[[Feywild]]
+[[Shadowfell]]
+[[Astral_plane]]
+[[Far_Realm]]
+[[Ethereal_Plane]]
+
+### Far Exorealms 
+[[Elemental_Space]]
+[[The_Heavens]]
+[[The_Hells]]
+[[The_Abyss]]
+[[Limbo]]
+

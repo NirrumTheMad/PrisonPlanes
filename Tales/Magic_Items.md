@@ -1,0 +1,874 @@
+# Magic Items 
+//Created Tuesday 30 January 2018//
+
+
+Mithral note: Thrown for finesse, longer reach for non-finesse
+
+
+
+**Coat of the Elder**
+	This long blue coat is perpetually comfortable and magically mends damage over time. It has two outside pockets and one hidden inside pocket which can be found on a DC10 investigation check. Each pocket functions as a bag of holding. Upon finding the coat, there is a great assortment of things already inside the pockets, such that they are almost entirely full.
+	
+**The sunstorm crown**
+	Wondrous Item, Requires attunement
+A medium crown that seems to be made of gold, set in untarnishable copper. It consists of a Band of Copper and gold around a soft leather buff.  From the front and back of the crown protrude 8 peaks, the three front most ones being the tallest. The Central peak contains three small Bright orange gems that seem to glow in any light. The marquise-cut Garnet Spessatines are arranged such that their peaks are arranged in a ray, 30 degrees apart from eachother, the central one pointing up and the other two expertly set so their points orient toward the other two peaks on the crown. The other two peaks are curved, fang-shapes inlayed with  labradorite in small and thin versions of the same shape. The band is set with tungsten studs. The crown seems to be indestructible and will always feel comfortable on the head of a medium-sized creature. The nature of its magic seems to suggest paranoia, or maybe just concern.
+
+	Proficiency in Insight
+	can't be charmed or frightened
+	Resistance to Nonmagical BPS
+	
+	Wis +2
+	Fire shield without components recharge on 6 or on dawn
+	
+	Weight increases by 40lb
+	Nonmagical flames extinguished within 20ft
+
+	If you attune to the artifact there's a 10% chance you get hunted by an empyrean
+
+All tool sets can be purchased with +1/+2/+3 enchantments
+
+
+**Devoid of all context**
+	//wand, rare, requires attunement by a warlock or sorcerer//
+
+	
+**Gungnir**
+	//Spear, rare//
+	
+	Once per day, recharging daily at midnight, when this spear is thrown and misses, the weilder can choose to hit instead
+	
+**Dappled Staff **
+	//staff, Legendary, requires attunement (unique)//
+	This spalted wood staff has a +2 bonus to attack and damage rolls made with it, and grants +2 on spell attacks and spell save DCs  for spells cast with it. It has ten charges and recharges 1d8+2 charges daily at Dusk. 
+	**Weapon**: While holding the staff, you can expend one charge to turn it into a greatsword or a longsword for 1 minute, until you end the effect as a bonus action or until you are disarmed. 
+	**Bedazzle**: While attuned to the staff, so long as the staff is within two miles of you, you can spend three charges to make it glow with extremely bright and colorful light. This light can be seen from up to a mile away in daylight or ten miles at night. Creatures who look directly at the staff on their turn must succeed on a wisdom save that matches your spell save or be blinded. The creature can reroll their save at the end of each of their turns, ending the effect on a success. This effect lasts for one minute or until you end it as a bonus action
+	**Spells: ** you can expend charges to cast any of the following spells as an action, using your spell save DC and modifier appropriately.
+		1 charge: Faerie fire, Longstrider, Purify food and Drink
+		2 charges: Locate object, Nystul's Magic Aura
+		3 charges: Haste
+		4 Charges: Freedom of Movement
+		5 Charges: Scrying
+		7 Charges: Prismatic spray
+
+
+
+**Separation Beads**
+	//Whip, rare, Requires Attunement//
+	This set of green transluscent prayer beads reaches out to attack those you deem unworthy. The weapon has 6 charges, regaining 1d4+2 daily at dawn. When you go to make an attack, you can spend one charge to extend the reach of this weapon by 10ft for the attack. If you hit, the target makes a strength save versus your attack roll, becoming grappled on a save. The target can use its action to attempt to free itself by making a strength save versus the original attack roll.
+
+**Staff of Mass Summons**
+	//Staff, very rare, Requires attunement by a Wizard, Warlock, Sorcerer, Druid, or Cleric//
+	When you cast a spell that summons any number of creatures, you summon that number of creatures plus half that number of creatures rounded down instead.
+	
+	
+**Hat of Rakish Audacity**
+	Wondrous Item, Common, requires attunement
+		This stylish red wide brimmed hat is stuck with a white feather. You have advantage on convincing non-hostile creatures that can understand you that you mean no harm, likely preventing them from becoming hostile.
+
+**Gloves of Infinite blades**
+	Uncommon, Requires attunement
+		On your turn you can use the gloves to spawn up to four daggers, which disappear at the start of your next turn.
+		
+**"Revilo's Stormslicer":**
+	+2 Mithral Rapier
+	Once per long rest, you can make a special melee attack using the razor sharp winds themselves. On successful hit, every creature  within a 15' cone must make a DC 18 DEX save. On a failed save, the creature takes 4d8 magical slashing damage.
+![[.]]![[]]
+		
+**Weapon of the Flower of Battle**
+	A dagger, Longsword, Spear, Halberd, Glaive, or lance  (rare), Requires attunement
+		This weapon grants a +2 bonus to attack and damage rolls. You do not need a free hand to grapple or disarm while Using this weapon. When another creature makes a melee weapon attack against you, you may use your reaction to make an melee weapon attack roll against it. If your Attack roll is higher than the other creature's then their attack misses. If your attack roll hits their AC, then you grapple that creature. 
+![[]]
+
+
+**Sword of the Grand Master**
+	Greatsword or longsword, Very rare, requires attunement
+		This weapon grants a +2 bonus to attack and damage rolls. When another creature makes a melee weapon attack against you, you may use your reaction to make an melee weapon attack roll against it. If your Attack roll is higher than the other creature's then their attack misses. If your attack roll hits their AC, then your attack hits as normal. 
+		
+![[.]]![[]]
+
+**Sword of the Noble Guardian**
+	Greatsword, Shortsword, Or Dagger very rare, requires attunement
+		This weapon grants a +2 bonus to attack and damage rolls. When another creature enters your weapon's reach for the first time on a turn, you may make a melee weapon attack against that target. 
+		
+**Rapier of True Stepping**
+	Rapier, very rare, Requires attunement
+		This weapon grants a +2 bonus to attack and damage rolls. When a creature misses you with an attack, the creature cannot make any more attacks against you until the end of your next turn.
+
+**Occam's Greatclub**
+	Greatclub, rare
+		This weapon grants a +1 bonus to attack and damage rolls, and deals double damage to objects and abberations
+		
+
+**Goatrider Lochaber**
+	Halberd or Glaive, Rare
+		This weapon grants a +1 bonus to attack and damage rolls. When you damage a target with a melee attack using this weapon, you can use a bonus action to roll a Strength (athletics) check contested by the target's Strength (athletics) or Dexterity (acrobatics) (their choice), If you succeed, you can pull the target 5 feet toward you. 
+
+
+		
+**Cold Winter**
+	Rapier (Jian) Very Rare, Requires attunement
+		This pale straight sword carries with it some of the power of the winter winds. While attuned to this sword, you are resistant to cold and do not suffer negative effects from temperatures as low as -40. You ignore difficult terrain caused by ice and snow. As a bonus action on their turn the wielder can activate the sword's Aura of Cold. The Aura Lasts for one minute or until the effect is ended as an action and cannot be activated again until you complete a long rest. While the Aura is active the ground within 10ft of the wielder becomes difficult terrain as it gets coated in ice and frost. If another creature drops to 0hp while within the aura, it suffers one level of exhaustion.
+		
+**Bitter Winter**
+	Longsword (Shuang shou Jian), Legendary, Requires attunement
+		This pale and narrow straight sword carries with it some of the power of the winter winds. While attuned to this sword, you are immune to cold damage and do not suffer negative effects from temperatures below freezing. You ignore difficult terrain caused by ice and snow. As a bonus action on their turn the wielder can activate the sword's Aura of Bitter Cold. The Aura Lasts for one minute or until the effect is ended as an action and cannot be activated again until you complete a long rest. While the Aura is active the ground within 30ft of the wielder becomes difficult terrain as it gets coated in ice and frost. Water freezes and fires cannot be started without magic, though fires already within the aura continue. If another creature drops to 0hp while within the aura, it suffers one level of exhaustion. In addition, while the aura is active, your melee attacks with the sword do 1d8 additional cold damage. This sword has the finesse property.
+
+
+**Colloidal silver**
+	Not actually magic, just silver particles suspended in oil. Functions like a poison, but allows a weapon to be silvered instead of poisoned, losing this effect on the first successful hit.
+
+
+**Wooden Scarab**
+	Club, Rare, Requires attunement
+		While attuned to this curved stick, you add your proficiency bonus death saving throws. Taking damage while at 0hp can only cause you to fail one death saving throw at a time. 
+		
+**Mother of Pearl of Power**
+	Wondrous Item, uncommon, Requires attunement. 
+		You can use an action to speak this piece of Shell's command word and regain 5 Ki or Sorcery points. This ability cannot be used again until the next dawn.
+		
+**Dynamic weapon of the Honest Eye**
+	Scimitar (cutlass), Requires attunement, Very Rare
+		This sword grants a +2 to attack and damage rolls. Undead are vulnerable to damage dealt with this weapon, and you have advantage on saving throws against illusion spells while you are attuned to it. As a bonus action, you can change this moonstone-pommelled weapon into a greatsword (Flamberge) or a glaive(War-scythe). You can swap between any of the forms as a  bonus action.
+
+**Maki Kawiki, the many that break (okabutowari (warhammer)) +2 Unique**
+		It appears as a sword, but on inspection it is blunt and was never made to be sharpened. It looks like a curved claw with a sharp point and a hook near the hand, all made of a dark iron. The blade appears to be constantly wet and smells metallic, and it owes this to the constant drip of blood that seems to seep out of wrapping of the grip. The grip is a perfectly shaped Ito wrap of Red silk over what appears to be grey fur and a gold charm depicting A grinning Oni. It is always warm.
+		Requires Attunement. 1hr for the magic to seep into your blood.
+		You gain a +2 Bonus to Attack and damage rolls made with this weapon. It also has the following additional properties
+		
+		Doom-Driven: 
+		 While carrying Maki Kawiki you gain a +2 bonus to initiative rolls. Enemies Cannot deal extra damage on Critical hits against you. You cannot be surprised. You have advantage on Dex Saving throws. On a critical hit, Maki Kawiki Charms the target for a minute or until the target takes further damage.
+		 Once a day, as reaction, if you fail an attack roll, you can choose to succeed instead, treating the hit as if it were critical. Once attuned, you always know the direction and distance to Maki Kawiki, as well as the fastest route to it. 
+		
+		Sentience:
+		 Maki Kawiki is a sentient Neutral Evil Weapon with 17 intelligence, 10 Wisdom, and 15 charisma. It only communicates through flashes of emotion. It has normal senses out to 30ft. Unfortunately, Maki Kawiki fills the wielder's head with dreams of grandeur, causing them to require 10hrs to complete a long rest. 
+		 
+		Personality:
+		 Maki Kawiki is an often distracted weapon, frequently not paying attention to what's happening. This is because it is lost in its visions of the future. It is certain that its weilder will play some part in great event foretold in the whispers of Lava Flows and in the thrumming of shadows. It will seek to guide these actions as best it can. Its goals are unknown to you. 
+		 
+		 
+		 For the DM: Maki Kawiki Seeks to open gates to other realms, any abyss and any Set of hells. It will push its weilder into summoning circles with the hope of aiding them. It Consistently tried to break the fabric of the world wherever it can. 
+		 
+**Riot**
+	//Club, Very Rare, Requires attunement//
+	This top weighted club vents the wielder's determination as force. When you hit with this weapon up to two creatures or objects within five feet of you must make a strength saving throw against the attack roll or get pushed a number of feet equal to 2x your level on a failed saving throw. If the creature is smaller than you, the number of feet is 5x your level and if they are larger, they are only pushed a number of feet equal to your level.
+	
+**Lakewaker**
+	//Dagger, Uncommon.//
+		This thick, triangular dagger is inlaid with what looks like yellow-green glass. When the tip is dipped in a body of water, a pulse of bright yellowish-green light spreads out up to 120ft from the tip. Creatures in the water glow for one second then fade, starting with the largest creatures then highlighting creatures that are a size smaller than that, and so on untill all creatures are revealed. Creatures cannot benefit from invisibility this way. This light penetrates magical darkness but does not dispel it.  
+
+**Complicator Greatclub**
+	//Greatclub, Very Rare, Requires attunement//
+		This flared clear plastic greatclub is enchated with bizzare runes. This weapon has three charges and regains expended charges daily at 9am (Or a different time chosen at the item's creation). When you hit a creature with this weapon, you may expend a charge and cause the creature to be cursed until the end of your next turn. While Cursed this way, If the creature forces another creature to make a saving throw, it must also make the same saving throw or suffer the same effects, treating the target of its ability as the source. As a bonus action on your turn, you can extend this curse until the end of your next turn. A creature may use an action on its turn to end the curse on it by brushing away a magic symbol that orbits it.
+
+**Tactical shovel**
+	//Handaxe, Rare, Requires attunement//
+		This Sharpened, articulated, and posable shovel moves and compacts earth and clay around you. While attuned to this item, you gain a burrow speed equal to half your speed, leaving a tunnel behind should you choose. You cannot burrow through solid rock. 
+		
+**Snaptether Javelin**
+	//Javelin, Rare, Requires attunement//
+		When you throw this javelin more than 10ft, as an action on your next turn, you can teleport to it if there is enough space within 5ft of it to do so. At the end of your next turn, this javelin teleports to your hand. If the Javelin cannot return to your hand, it falls in front of you instead and attempts to teleport to your hand every turn thereafter until you grasp it next.
+		
+**Hammer of Ash and Iron**
+	//Light hammer, Legendary, requires attunement by a cleric//
+		This simply cross-peen smith's hammer was once used by a God to deliver punishment to repentant sinners. When you hit a creature with this hammer on your turn, you may expend a spell slot and roll a number of d6s equal to the slot's level and add that to the damage. The creature cannot die from this damage but can still be knocked unconscious. At the start of your next turn, if that creature is still alive, it gains an amount of hitpoints equal to twice the amount of damage you dealt to it, plus your cleric level. 
+		
+		
+**Clapper Mace**
+	//Mace, uncommon//
+		This round mace has a round metal loop in the bottom of the grip. When you hit with an attack with this mace, the impact is audible for 300ft. If the object you hit is metal, it is audible for a mile unless the object is particularly poor at conducting sound. If the object is size large or larger and specifically made for amplifying sound, it can be heard for up to 10 miles. For most objects, the sound is not loud enough to harm or deafen a creature.
+		
+**Stubborn Staff**
+	Quarters//taff, Common//
+		This staff stands on end at all times if it is touching the ground. It takes 30lb of weight on both ends to force it down. Checks made to balance on the staff  while it is standing up are made with advantage. This property weakens if the staff is being held or carried, and stops if it isn't touching the ground. 
+		
+**Lohar of the Witch Lords**
+	//Sickle, Legendary, Requires attunement by a druid//
+		This small sickle folds together neatly and can be stored in a pocket. It is extremely well made. Only 13 of these have ever been crafted as they represent the position of the greatest druids.  The Lohar has 13 charges and regains 1d4-1 expended charges daily at dawn. While Attuned to the Lohar, you gain great power over the world that you represent.  You gain the following benefits:
+		* You can speak with all beasts that have a language if you can't already and can communicate simple ideas to beasts without a language. 
+		* You can read, write, and speak any two languages of your choice. You can spend 1 minute chanting to change one of the languages to another one. You can also gain telepathy with a range of 30ft but can only use it to communicate with creatures that also have telepathy
+		* You can use your action to expend a charge and choose one of the following Pristine Gifts for an hour or until you end the effect as a bonus action. 
+			**Sun: **You gain immunity to radiant damage and do not suffer the effects of exhaustion. While you benefit this way, You are immune to sleep, poison, disease, petrification, being cursed, possessed, turned, frightened, or charmed. You are capable of seeing through extremely bright light clearly.
+			**Volcano: **You gain immunity to fire damage, and you are capable of walking or swimming in Lava(Or magma) as you choose. If you choose to swim, you treat the lava as though it were water, though it is unable to enter your body.  You are able to breathe otherwise toxic air and suffer no ill effects from airborne particulate. You suffer no ill effects from the heat.
+			**Dew: **You gain immunity to bludgeoning damage,  You can breathe underwater or walk on the water's surface or bottom as you choose. You gain a swim speed equal to twice your walking speed, suffer no ill effects from pressure.
+			**Glacier: **You gain Immunity to cold Damage and suffer no ill effects from the cold. You cannot slip, trip, or fall unless you choose to. You are able to walk up vertical surfaces even if they are slippery, keeping your hands free, if you have them. You can walk on top of snow and ice without sinking. You are capable of seeing through extremely bright light clearly.
+			**Breeze: **You gain immunity to thunder damage and the deafened condition. You gain a fly speed equal to your own speed.  You can clearly hear even very subtle and quiet sounds within a mile and are able to make out what they are. You can also be heard by any creature within a mile when you speak, as though you were nearby.
+			**Flow: **You Gain immunity to lightning damage,  You cannot be grappled, restrained, and are immune to any condition that would incapacitate you except unconsciousness. 
+			**Maw: **You gain immunity to acid, piercing, poison, the poisoned condition and any diseases. You do not need to breathe and you can see normally in nonmagical darkness. You can shrink yourself to 1/16 of your normal size (half the size of a normal tiny creature). If you are inside of a creature when this feature ends and cannot expand back to your normal size, you harmlessly ooze out through their organs and skin until you are capable of reforming.
+			**Everafter: **You gain immunity to necrotic damage and you can't be frightened or cursed. Your hit point maximum cannot be reduced below its maximum. You can see the souls and animating forces of creatures nearby and you can cast speak with dead at will. If you die while you are under the effects of this gift, the gift lasts indefinitely, your body is placed under the effects of gentle repose and you are able to exist as a visible but ethereal spirit. You can talk and sense the world around you but you cannot be more than 30ft from your body, nor can you interact with the world around you. During this time you cannot pass through objects and treat the world as if it was solid unless it would separate you from your body, at which point you are teleported to your body. If your body is destroyed, you die.  
+			
+		You can only have one Pristine gift active at a time and the effects extend to  up to one willing creature of your choice and any equipment you are wearing or carrying. If you choose a willing creature they must remain in contact with you for the entire duration or immediately lose the effects. 
+
+**Guard spear**
+	//Spear, Uncommon, Requires attunement//
+		While wielding this spear, you gain a +1 bonus to AC, you cannot be surprised, and as a reaction, you can make your voice 3x louder.
+
+
+**Better Fists**
+	//Wondrous item, rare, requires attunement//
+		Strange gnomish magics have created this magical idea, which is, despite not having a physical form, visible to anyone who looks at it as the words "Better fists" expressed in the form that is easiest for that person to understand unless a creature is attuned to it. It weighs nothing but can be carried and laid on things, taking up no space, giving off no light, but interacting with the world as if it was solid. While attuned to this item, your unarmed strikes do Psychic Damage. As a Bonus action on your turn, you can change this damage to force damage. While attuned to this item, you can see through your own body as if it is invisbile should you choose. 
+		
+**Selfthrower Crossbow**
+	//Light// or //Hand// //Crossbow, Very rare, Requires attunement//
+		Once a day, as an action  you can press the tickler on this crossbow without loading ammunition after saying the command word. You are then launched up to 80ft in the direction you pointed. If you land on a hard surface, you take 1d6 damage for every 10ft you were launched this way. If you hit a creature with yourself, both creatures take half of the damage, rounded down. 
+
+**Shame**
+	//Dart, Bone Artifact(humerus), Requires attunement//
+		  This heavy, 18 inch dart is burdened with the superstitions of the earliest people of the plane. Horrors visited upon lost and confused people in the dark drove them to perform abominable actions. Trapped within this dart is the regrets of the people who performed those actions married with the pain those actions caused. The people of the underdark left this item far down in the depths so they could move on from what they had done, and that is probably for the best.
+		   Shame always feels heavier in the hand than it actually is. It is steeped in all of the emotions that drive the shadowfell. Deadening, quiet emotions that drain the life from the person experiencing it. It is a thick Copper spike, mottled with green and turquoise rust. Its barrel is a simple round piece of gold and its shaft is made of bone. The flights are massive white feathers which glisten in sunlight or whenever someone nearby is praying. The dart seems immutable and that is because of the three types of magic that pour from it. The feathers are the feathers of an angel, struck down when it tried to slaughter the people who hid in the underdark, an angel who held onto the idea of blind righteousness. The bone is, unsurprisingly, one of the ones used in the sealing ritual to bind Teruna to the plane. It is not perfectly straight but that does not seem to change the dart's arc. The third magic is the magic woven by the dart's sordid history. Time and Time again, coincidence after coincidence, the same dart was used to betray one person in order to save others. Like the angel, every person believed they were doing the right thing, the thing they needed to do to save more people. Nearly every time, the person betrayed would have forgiven them. Nearly every time, the bond between the person who was killed and who did the killing was strong. Very few who had to perform such an act were ever able to recover. The strong, mournful and lacrimose magic that settled on this dart grew ever stronger, perfectly arranged, small layers every time over thousands of years. Shame is *just* a magical dart, forged with magefire and wielded by those with strong arms, it has no preference or protections for its use, though the magic upon it makes it very tiring to weild. Any creature that attempts to attune shame must make a DC16 Constitution saving throw or suffer the effects a random condition for one day, during which time they are unable to look at the dart, Only the effects of the spells Greater Restoration, Wish, or Calm Emotions can allieviate this effect, as the creature is simply reliving their worst memory, twisted by the magic to be much more painful than it probably was, causing the creature to manifest myriad symptoms, even tapping into magic to do so. 
+		   **Random Properties. **Shame has the following random properties:
+			3 Minor detrimental properties
+			1 Major Detrimental property
+			1 Minor Beneficial Property
+			2 Major beneficial properties
+		   **Ossify. **Shame's magic reaches out, trying desperately to find love and kindness in the creatures it strikes, but that magic carries a heavy burden. A creature struck by Shame must make a DC 14 Constitution saving throw or be petrified as they are encased in and become **bone**. While they are petrified they are fully aware of the world around them to the limits of what their senses would tell them. but are incapable of dying or interacting with the world in any way. Their soul cannot leave their body, they cannot utilize any form of magic (nor can their minds be read), they cannot make any sound or movement. While this creature is petrified this way, their emotions leak back to the creature that struck them, though it is not obvious that the emotions are from another creature. 
+		   **Angelic Weapon. **Attacks made with Shame deal an additional 4d8 radiant damage. 
+		   **Unavoidable consequence.** When making an an attack with shame, Roll an additional D20 and take the highest result rolled. As a bonus action you can recall Shame, teleporting it to your hand. If you are separated from shame for more than a day, it reappears nearby you at the end of your next long rest. 
+		   **Regret.** A creature that has attuned to this dart and killed or petrified at least one creature with it cannot achieve an afterlife until the dart is destroyed or that creature released from petrification. It remains bound as an incorporeal and deeply mournful spirit, unable to do anything but feel emotional pain from what it has done. This creature may manifest as a ghost-like image  but is unhelpful and nearly impossible to communicate with.
+		   **Destroying Shame. **It doesn't take much to destroy shame ostensibly, though it is difficult. A creatue that is attuned to Shame may attempt to reconcile all of the guilt that binds the magic together. A single DC 10 Wisdom saving throw, a single DC16 Constitution save, and a Single  DC 23 Charisma save is enough to weave the attuned creature's spirit with the will of the creatures previously attuned to Shame and accept the grief, and let go of the past. However, the unwinding magic destroys the person entirely, body, mind, and soul irretrievably, erasing them from existance. A creature cannot benefit from magic to make these saving throws, and any such magic on the creature is dispelled in the process.
+		
+**Firebow**
+	Shortbow, Rare, Requires attunement.
+		As a bonus action, you speak this bow's command word and ignite it. Attacks made with the bow now do an additional 1d4 fire damage. The bow and any ammunition fired from it emit bright light for 10ft and dim light for an additional 10ft for 1 minute. This effect ends if you end it as an action, or after ten minutes. The bow regains this ability daily at midnight.
+		
+**Gurglethong**
+	Sling, uncommon
+		Dipping this sling in water causes a bullet made of ice to form in the pouch. This bullet remains the temperature of the water it came from and becomes liquid again after one minute. 
+		
+**Sweet Potater**
+	//Battleaxe, Very rare, Requires attunement//
+		You gain a +2 bonus to attack and damage rolls made with this weapon. When you hit a creature with this weapon, you may curse the target for the next minute. During that time, you can use a bonus action to pull the creature up to 30ft toward you.
+
+**Mountain Sweeper**
+	//Flail, rare, Requires attunement//
+	When you hit a melee attack with this flail, the opponent must make a strength save against your attack roll or be knocked prone
+
+**Annam's Tongue**
+	//Glaive, Legendary, Requires Attunement//
+		This Woldo's blade appears to be coming out of the mouth of a dragon whose head is cast in some red but not rusted metal. The shaft is black and the blade shows damascened patterns that look like fire. It Requires 20 strength to weild without disadvantage. When attuned to this glaive, your size increases by one category (and this Glaive changes with you, dealing 2d10 instead of 1d10 if you become large), your strength increases by 2 and your maximum increases by 2, this Effect ends if you unattune the item. You have advantage on attacks against dragons and advantage on charisma checks when speaking with giants. 
+
+**Tabar of Prowess**
+	//Greataxe, Very rare, Requires attunement by a barbarian//
+		You cannot be surprised. Once a day when you roll initiative, you can use your reaction to enter a rage. This weapon can do either bludgeoning or slashing damage and it grants you a +2 bonus to attack and damage rolls. If you are unable to attack a hostile creature or haven't taken damage since your last turn while raging, you can let the Tabar deal 1 psychic damage to you at the end of your turn to maintain your rage, This Damage bypasses resistance and immunities
+
+**Soul Sword**
+	//Greatsword, Cursed Artifact, Requires attunement//	
+		This abomination is a nearly triangular piece of metal nearly six feet long. the end of its wide edge extends to cover part of the guard. Other than the edge and tip, the rest of this sword is covered in a fleshy mass, veins, and a single eye near the point of balance. To make matters worse, it is sentient, and insinuates that it is the origin of ambition. On Snarl, the Soul Swords and their tales seem to pop up eternally, and at least six nearly identical swords are known to exist, though there are records of one of them having eaten another. The Soul Swords all grant a +3 bonus to attack and damage rolls
+		  **Sapience. **The Soul Swords all have the same Neutral evil personality. They drive their weilder to ambition, personal gain, and not infrequent acts of evil. They have an intelligence of 10, A wisdom of 12, and a charisma of 18. It can see normally in darkness, including magical darkness. Not unlike a moonblade, it communicates in emotions, and occasionally in dreams or visions during trances. It is proficient in Deception and persuasion, with a +3 bonus to those rolls. It makes attempts to persuade its weilder to kill things extremely often, often sneaking in intrusive thoughts about how easy such an act would be, and how powerful the weilder is. You cannot willingly unattune to the soul sword but a remove curse spell works
+		   **Personality. **All the Soul sword wants is to eat the souls of mortals and to attain great power. It's got a very one-track mind. It prefers to corrupt its host but people of sufficient willpower can overpower it and force it to their will. 
+		   **Random Properties. **The Soul sword has the following random properties
+			* One Minor Beneficial property
+			* One Major Beneficial Property
+			* Two Major Detrimental Properties
+		   **The curse. **All damage dealt from attacks with this weapon is doubled. You are vulnerable to all Damage. When you deal damage to a creature, you heal a number of hit points equal to one of its hit die. When You kill a creature with an intelligence score that is higher than 8, its soul is trapped in the sword. If you die while attuned to the Soul Sword, your soul is trapped in the sword. You rise 1d10 days later as an undead NPC in service of the sword. You No longer age nor suffer the effects of old age. You also suffer no effects from exhaustion and have advantage on constitution saving throws. 
+		   **Will to power. **Once you are attuned to the sword, its presence is always on your mind, but the sword has a mind of its own. If the sword is ever taken from you, you remain attuned and cursed by the soul sword. You will also always be reminded of what terrible things that sword can do when it is not in your posession, where it is //ostensibly// safe and better cared for.
+		   **Shapeshifting. **The Soul sword is capable of changing its shape into any melee weapon, changing to the best fit for the weilder upon attunement. 
+		   **Malpresence. **While attuned to the sword, if the sword has consumed over 100 souls while in your posession. You transform into a monster. Your highest stat increases by 4 and your maximum for that stat increases by 4 permanently. Your second highest stat increases by 2 and your maximum for that stat increases by 2 as well. Your alignment becomes some flavour of evil, justify that however you want, as you are filled with strong emotions that drive you to kill and devour those who oppose you. Creatures you kill resurrect as undead versions of themselves in 1d10 days and follow you in service of the soul sword. You cannot be disarmed, nor can you ever willingly relinquish control of the sword. While attuned to the sword you gain your choice of either:
+			* A Fly speed of 30ft or 30ft added to your flying speed
+			* Regeneration of 10hp at the start of your turn while you are conscious
+			* A +3 bonus to AC
+			* The appearance of a mouth somewhere on your body  that grants you an bite attack that you can use as a bonus action
+			* Advantage on perception checks made to see, and the ability to see normally in darkness, including magical darkness.  
+		You can only make this choice once and cannot retake it. A wish spell is the only thing that can return your alignment and physical form to normal and unattune you from the sword. But there are rumours of other ways.
+		   **Destroying a Soul Sword.  **The only way to destroy the soul sword is to break it apart with an artifact of similar power. The shards of the sword in this state are still capable of absorbing souls and cursing living and undead creatures with a will to find the other shards. A greater restoration spell cast on the sword or on its shards frees the souls bound within it, and a wish or imprisonment spell can lock the sword away until dispelled. 
+
+**Guard's Halberd**
+	//Halberd, Uncommon//
+		When you hit a creature whose size is no more than one size larger than yours with an attack made using a reaction, that creature cannot use its movement, action, bonus action or reaction to enter your reach until after the start of your next turn. 
+		
+**Lance of Angels**
+	//Lance, Very Rare, Requires Attunement//
+	
+	This lance does not require one to be mounted to be used one handed and grants  a +1 to attack and damage rolls made with it.
+
+**A Good sword**
+	//Longsword, Legendary//
+		This Straight-bladed, simple Katana-like sword grants a +4 to attack and damage rolls and is indestructible without the aid of gods. 
+		
+**Ringer of the deep**
+	//Maul, Very Rare, Requires attunement//
+		This maul has three charges, which it regains daily at dusk. When you hit with an attack using Ringer of the Deep, you may expend a charge to push your target 30ft. A creature resistant to force damage only moves 15ft, and a creature that is immune to force damage is not moved at all
+
+**Exploder**
+	//Morningstar, uncommon//
+		The Exploder does double damage to objects and plants. When an object or a plant is reduced to 0hp by an attack with the Exploder, the object  explodes. Each creature within 10ft of the object must make a dc14 dexterity saving throw taking piercing damage based on the object's size. 
+		* Tiny: 1 
+		* Small: 1d6
+		* Medium: 2d6
+		* Large: 4d6
+		* Huge: 8d6
+		* Gargantuan: 16d6
+
+**Necrospike**
+	//Pike, Very rare, Requires attunement by a wizard//
+		This ludicrous contraption is the result of someone getting tired of digging through graves. This pike can pass through loose earth and solid stone unimpeded and does double damage to wood. The Necrospike has three charges, regaining all spent charges daily at dawn. As an action, you can expend one charge to cast animate dead on one corpse or pile of bones that the tip of the necrospike is in contact with. If the tip of the necrospike is in contact with a suitable corpse or pile of bones, the handle warms considerably. 
+		
+
+**Cullercut**
+	S//hortsword, Legendary, Requires attunement by a ranger//
+		When you Hit a creature with this weapon, each enemy within 5ft of the creature takes an equal amount of damage.
+		
+**Goatrider Jumonjiyari**
+	//Trident, Rare//
+		This weapon grants a +1 bonus to attack and damage rolls. When you damage a creature with a melee attack using this weapon, you can use a bonus action to roll a Dexterity (athletics) check contested by the target's Strength (athletics) or Dexterity (acrobatics) (their choice), If you succeed, the target cannot move closer to you until the end of your next turn. The target can use an action to repeat the contest. If the target would make an attack as a reaction, they can choose to repeat the contest instead. If the target is your size or smaller and if you are mounted, you can move the target as your mount moves. While moving the target this way, your mount moves at half speed.
+		
+**Greatrune Pick**
+	//War pick, Rare//
+		This pick can be used in conjunction with a Pair of artisan's tools to make Great Runes. (I'll come up with the rune system later)
+
+**Forcehammer**
+	//Warhammer, legendary, requires attunement//
+		While attuned to this hammer, you are too powerful for most elemental forces. All Attacks with the forcehammer do an additional 3 force damage. You are able to cast absorb elements at will, as well, you gain the following abilities while attuned to the forcehammer:
+		* As an action you can cause a rift to open in a large body of water, oil, lava, or similar liquid up to a mile deep, two miles long, and 20ft wide. This rift lasts for 4 hours or until you close it as an action. If this rift reaches the bottom of the body of liquid, the ground underneath is dried, cooled, and safe to walk on.
+		* You can also use your action to put out nonmagical fire up to a mile wide. If a fire is magical, as part of the action you can make make a Charisma check with your proficiency bonus against the caster's spell save DC. If you win the roll, the fire goes out. 
+		* You can use an action to stop the wind within a 1 mile radius of your for 1 hour or until you end this effect as an action
+		* You can use an action to quiet all sounds within 1 mile of you. The sounds are not inaudible  but are instead a third of what they were
+		* You can use an action to slow an earthquake, Volcanic eruption, or similar tectonic event. Within a mile, the effects of an earthquake are converted to an extremely high pitched hum and Volcanic flows become effusive with very little debris or pyroclastic flow.
+		Each time you use one of these abilities, you must make a DC 17 Constitution saving throw or gain one level of exhaustion.
+		
+**Plunderer's Whip**
+	//Whip, Uncommon, requires attunement by a Rogue or monk.//
+		You are proficient with this whip while attuned to it. The whip is slightly prehensile and can be used to make sleight of hand and grapple checks at range. The whip excels at Wrapping around things such as tree limbs, flagpoles, and railings. It is capable of supporting the weight up up to three medium creatures before letting go of something it has wrapped around and strength checks made to hold on to the whip are made with advantage
+		
+**Overblow**
+	//Blowgun, very rare, requires attunement//
+		Attacks with this weapon can be made on any target within line of sight without disadvantage. 
+
+**Simple Magic Crossbow**   
+	//Hand, Light, or Heavy Crossbow, Requires attunement by an Artificer(Uncommon +1,, Rare +2,, Very Rare +3)//
+		This weapon grants a bonus equal to its attack and damage rolls. The Bonus is equal to the Rarity. When you make an attack roll with this weapon, Targets within 5 feet of the target take damage equal to your intelligence modifier plus the item's bonus.
+		
+
+**Even Spreader Net**
+	//Net, uncommon//
+		Attacks with this net are not made with disadvantage for being within 5ft of a creature, nor for being at long range. The thrown range of this net increases by 10ft for both short and long range. You have advantage to attack creatures underwater with this net.
+		
+**Dimensional Slide Abacus**
+	//Wondrous item, Uncommon, Requires attunement by an artificer or a wizard//
+		Casting a spell as a ritual only adds five minutes to the casting time.
+
+	
+**Nistleburr Wand**
+	Conjuration spells you cast with this wand last for twice the duration
+	
+**Spruigia Staff (**Requires attunement)
+	While you are attuned to this staff, you may expend a spell slot of 1st level or higher. The staff will unerringly tug toward an  nearby area with direct sunlight, following any pathway that is at least 3ft wide. The staff pulls in the direction of the path of shortest travel time. It will only choose submerged paths if other paths are more than twice the distance. The staff avoids areas of extreme heat and cold. Once it next reaches an area of direct sunlight, the staff will begin to bud and sprout leaves and attempt to root if it is laid down on the ground. 
+	
+**Adder Stone**
+	This stone can be used as an arcane or druidic focus. An Adder stone comes with 1d10 charges, Recharging when dipped in naturally flowing fresh water. Expending one of these charges as an action allows one to cast either remove curse or dispel magic at 9th level. Adder stones cannot be crafted.
+
+**Neverwood Staff**
+	Spells cast with this staff, or abilities used while attuned to this staff that grant temporary hitpoints grant twice as many temporary hitpoints. 
+		
+**Vilified Soulflower Wand**
+	Necromancy spells cast with this wand last for twice the duration
+
+**Quickdraw Scabbard**
+	//Wonderous Item, Common, Requires attunement//
+		Draw a weapon as a reaction 
+		
+**Crazy balls**
+	//Wondrous item, Uncommon//
+		The first creature to fail their dex save against these ball bearings gets cursed. The crazy balls continue to jump forward and attempt to block their movement in any direction for one minute, a creature must re-make their saving throw for every 5ft they move
+
+**Studley Component Chest**
+	//Wondrous Item, Very Rare,//
+	This masterfully crafted and well layed out wooden box contains only the finest of components and Magical sources of some. With self-refilling vials and magically constructed facsimiles of specific items, This component chest provides you with effective (but otherwise of minimal worth) replacements for costly material components. You can use your component chest to cast spells with Material components that have a specific cost of 100gp or less. If the component has a specified value and is consumed by the spell, the component pouch can reconstruct the facsimile for it over the course of three days, during that time, you cannot use the chest to recast the spell (unless you have a backup of that component)
+
+
+**Defiler Falx,**
+	Greatsword, rare
+		You can use a bonus action to rub the spine of this wickedly curved blade, causing it to sweat poison. The poison lasts last until you use a bonus action to rub the spine again or until you drop or sheathe the sword. While it sweats poison, the falx deals 1d10 extra Damage to any creature it hits. The Creature must make a DC10 saving throw or be poisoned for 1 minute. 
+
+**Aulufeydth Lamellar**
+	//Scale Armour, uncommon (requires attunement)//
+		You only take half damage from falling, 
+		
+**Green Knight Spear**
+	//Spear, Pike, Lance, or Trident, rare (requires attunement)//
+		This item grants a +1 bonus to attack and damage rolls. If you deal damage to a creature with this weapon, you curse them until the start of your next turn. In this time, they teleport while within reach of your weapon, you use your reaction to teleport with them, placing yourself within the reach of your weapon from them
+
+
+**Magic Sheep**
+	(requires attunement by a shepherd)
+
+**Bloodthorn**
+	//Longsword, Legendary(Requires attunement)//
+		This oversized butcher knife grants a +2 to attack and damage rolls made with it. While attuned to Bloodthorn, You are unable to die. 
+![[]]
+		
+**Hand of the Clockwork Castle **
+	//Any Sword, Requires attunement by a Paladin or Warlock//
+	You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit an Abberation or Monstrosity with this weapon, it deals an extra 2d10 Lightning damage, ignoring resistances and immunities. While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures you consider yourself allied with  in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet. If you have 17 or more levels in the warlock class, you gain immunity to damage from  abberations and resistance to damage from monstrosities. 
+	
+![[]]
+	
+
+**Obelisk of the unburied**
+	//wondrous item//
+	In the shadowfell, Obelisks of the unburied are built by the waiting souls  of people who died without burial rites and who particularly expect them. These Obelisks serve as seeds for the empty graveyards that spread over the plane, attracting like-minded souls who get stuck waiting.  Getting a hold of one of these obelisks is the easiest way to  gather ghosts from the surrounding lands, as all who are left with unfinished business are drawn to their eventual grave, graves they might never have. Such an obelisks will attract a number of ghosts per week(1d10-6). The ghosts have to be dealt with individually, but proper burial rites must be administered to the obelisk for it to lose its magic. The obelisk often gives clues for what culture it belongs to and what rites it expects. If the rites cannot be performed, the obelisk continues to grow. The Usual religion check required is DC 15, though some are more difficult, some are less. 
+
+
+**Crowncast, The  Blue Blade**
+	//Short Sword, Artifact, Requires Attunement by one of Grao descent, or by the sword's consent//
+	One of the greatest hexblades ever drawn from the fires of the hexforge, Crowncast takes the shape of a light blue bladed Kastane saber, with extremely precise ornamentation  for the hilt depicting a snarling tiger wrought of white jade with rubies for eyes. It was made by  a warrior of the Grao for the purposes of fighting sea monsters, and it is difficult to resist the call for self-sacrifice when it decides it is time for you to fight.
+	You gain a +3 bonus to attack and damage rolls. It also has the following additional properties
+	**Sentience. **Crowncast is a sentient Lawful Good object with an intelligence of 10, wisdom of 13, and Charisma of 18. It has blindsight to a range of 100ft. Crowncast has a fly speed of 10ft, but only uses it to get closer to its wielder.
+	**Personality. **Crowncast can speak and is quite verbal. It can read common but does not care to. It has a vicious and single minded personality, when there is danger it will aid its wielder in fighting, but in exchange, that wielder must take on the challenges that no one else can. In Particular the sword bears great hatred for gargantuan creatures unless they are extremely pro-social. Any monstrosity or abberation in particular will have a difficult time slaking its ire. Crowncast speaks irreverently but suavely, and never seems to get into trouble for otherwise crass comments. 
+	**Patron. **Crowncast acts as a warlock patron, and is sometimes visited by agents of his will as they prove their commitment to hunting monsters and protecting the weak. 
+	**Guardian of all. **Once between Long rests, by saying the phrase "I am no worm" you and your equipment grow to become gargantuan for up to 10 minutes or until you end this effect as an action. Weapons deal four times their base damage (a longsword that deals 1d8 will deal 4d8, a greatsword that deals 2d6 will deal 16d6), you can carry sixteen times your normal limit, your reach multiplies by 4. When this effect ends, you gain one level of exhaustion. While in this form, skies attempt to clear around you, winds still. Creatures smaller than you have disadvantage on breaking your grapples.  If you cannot fit in a space as you transform, you may get stuck. 
+	**The Northeast Bolt. **Once between long rests, Crowncast can deal an additional 12d6 Lightning damage to a target it strikes.
+	**Warrior of the witnesses. **You gain the following abilities.
+		* Waterbreathing. You can breath under water without difficulty and are immune to immense pressures
+		* Water walking. You gain the ability to walk on water if you choose. You can activate or deactivate this as a free action on your turn as part of your movement.
+		* Flight. You gain a fly speed of 60ft (hover)
+	**Heart of the strong. **Your strength increases by 2 while you are attuned to Crowncast. Your strength maximum is increased to 30 Permanently, even if you are deattuned, All curses upon you that rob you of your strength end, and you are immune to all poison and disease.
+	**Destruction. **When the last descendant of old Graoton dies, when the children of mirrored lightning no longer bear the mark of what they witnessed, Crowncast will crumble to dust.
+	A POOR RECREATION?
+![[.]]![[]]
+
+
+**Goalhennai**
+	//Short Sword, Artifact Requires attunement by the sword's consent//
+	Another of the great hexblades, Goalhennai forged //itself.// Once it was a small fey spirit, but either by curse or a foul twist of fate, its mortal companions met their ends in helplessness. It submitted itself to the dust of cold iron, tempered itself in the saved final tears, tore its own spirit apart and stitched it back together to accomodate the last vestiges of its friends. In the end, it became a very bitter and lonely sword, a jagged strip of metal, pitted, worn, unreasonably sharp, with only a thin strip of faded red cloth to serve as a grip. You gain a +2 bonus to attack and damage rolls with this weapon. It also has the following additional properties. 
+	**Rapid Attunement. **Attuning to Goalhennai is instantaneous
+	**Sentience. **Goalhennai is a Chaotic Neutral object with an intelligence of 8, wisdom of 20, and charisma of 15. It can only percieve through its wielders senses. It has a run speed of 20ft where it sprouts legs in order to be closer to its attuned wielder and can teleport up to 5ft to get through walls. It always knows the direction to its wielder, and can magically discern the fastest physical route to them.
+	**Personality.** Goalhennai is deeply distrusting and extremely protective of its wielder. It is incapable of thinking that it is the cause of their distress. It communicates only in subtle feelings of emotion, projected telepathically toward its wielder. It is fearful and does not like going into dangerous situations, and may cause involuntary twitches in the wielder if something seems familiar. It refuses to be friendly towards the powerful, but will tolerate them so long as its chosen wielder is being cared for reasonably. Goalhennai will abandon its wielder, breaking attunement immediately if it purposefully endangers a vulnerable, innocent, and harmless being by its perception. It is an excellentn judge of character in that respect at least. It will then immediately offer to attune to the more vulnerable creature. It trusts its wielder in all other cases, except when they are in danger.
+	**Curse. **Goalhennai is cursed, and cannot be unattuned willingly. The first time the wielder is below half health while attuned to Goalhennai, they permanently take on bestial features. 
+		* **Fangs. **You gain fangs and a bite attack that deal 1d4+strength modifier damage. A target hit with this bite attack is grappled
+		* **Claws. **You gain claws and a claw attack that deals 1d6+strength modifier damage. A target hit with this attack needs to make a DC 18 constitution saving throw or be poisoned.
+		* **Spines. **You gain boney spines that project through your skin. A creature that touches you directly without thick protection takes one point of damage. Creatures that grapple you take 5 damage when they grapple you and at the start of each of their turns until the grapple ends.
+		* **Tail. **You gain a prehensile tail. It is not capable of wielding weapons but is capable of holding objects. You get advantage on checks made to maintain grapples and to maintain your hold on objects you are grasping.
+		* **Scales. **You gain protective scales that grant you a +1 bonus to AC while not wearing armour and resistance to piercing and slashing damage.
+		* **Superior Darkvision. **You gain darkvision to a range of 120ft. If you already had darkvision, it increases by 90ft
+		* **Ability score adjustment. **Your strength score becomes 18, if it is not already higher. Your Dexterity score becomes 18 if it is not already higher.
+		* **Regeneration. **You regain 5 hit points at the start of each of your turns, damaged or broken parts of your body repair themselves after 1 hour.
+		* **Speed. **Your move speed doubles
+		* **Fear. **You have disadvantage against saving throws to avoid being frightened. You are immune to the effects of the spell Calm emotions.
+	**The monster within. **Once between long rests,  you grow in size up to gargantuan for one minute. Your equipment does not change size but Goalhennai does. Your melee weapon attacks deal use four times as many dice (bite deals 4d4+ strength modifier damage). You can carry 16 times your normal carry limit and your reach multiplies by 4. Targets smaller than you have disadvantage to break grapples. If you reach half health in this form, Goalhennai compels you to run, a DC18 wisdom save is required each turn to not be frightened of sources of damage. When this form ends, you gain one level of exhaustion.
+	**I will protect you. **If you die while attuned to Goalhennai, you instead transform into a purple worm (see crowncast) assuming its statblock. As you transform You lose most of your memory and higher function while in this form, cannot recognize friend from foe and use all actions movement and abilities to escape. The Transformation completes over the course of a day, at the end of which you lose all prior racial and class features you had previously. This change is permanent and can only be reversed with the use of a wish spell after deattuning from Goalhennai. 
+	**Destruction. **Recovering the fragmented souls of Goalhennai's past charges from around various planes of existence will release parts of the sword's power. After recovering all of them and performing the ceremony spell, the sword falls inert, 
+	
+	
+**Silver knight longbow**
+	//Longbow, very rare, requires attunement by Fighter or ranger//
+		This item grants a +2 bonus to attack and damage rolls. This weapon has 7 charges, and regains 1d4 charges daily at dusk. When you make an attack roll with this weapon, you may expend a charge and forgo adding the item's bonus to the attack roll to cast dispel magic on the target. If you are required to make a roll against the target, your roll is equal to your attack roll
+		
+**Silver Knight Yataghan**
+	S//cimitar, Very Rare, Requires attunement//
+		This weapon grants you a +2 bonus to Attack and Damage rolls, All saving throws, Initiative, and AC
+
+
+
+**Queen Silver**
+	//Plate Armor, Artifact, Requires attunement by a human at the artifact's consent//
+	One of the longest-wrought items of the hexforge, made with great expense, Queen Silver was part of the royal regalia of Konia. This fluted armour is inlayed with no less then seven different shades of reflective metal, mithril and steel not the least of them. You gain a +3 bonus to AC and all saving throws while attuned to this armor, even if you are not wearing it. It also has the following properties:
+	**Sentience.** Queen Silver is a Lawful Neutral object with 14 intelligence, 16 wisdom, and 10 charisma. She has no sight but can hear even small sounds clearly for up to a mile. She can telepathically communicate with any creature within 60ft, and once per day can send a vague telepathic impression for up to a mile to one creature she can hear, usually beckoning them if she believes them worthy or at least opportune to get her closer to a rightful heir.
+	**Personality**. Queen Silver is unwaveringly loyal to the King and Kingdom of Konia, and is one of the entities entitled to weigh in on what merits that position. She is uptight, haughty, bitter, and has many opinions about how things should be done. While she will frequently oppose or question the attuned creature, she will never fight against the decision. She will trust the attuned creature beyond all reasonable sense, but is highly mistrustful of others. She wants her attuned creature to be worthy of the throne that she opens the way for, and will work to prepare that creature for the reality.
+	**Selective Antimagic Field. **Queen silver is capable of projecting an antimagic field within 5ft of her targetting only effects that she deems deletrious. She can only use this ability  twice per day on a reaction. 
+	**Spells. **Queen Silver is capable of casting the following spells without components or needing to maintain concentration. Spells that are not a reaction are cast at the end of the turn of her attuned creature, as she wishes or is commanded
+		**At Will:**// Purify food and drink, Spare the Dying, Prestidigitation//
+		**3/day:**// Shield, Absorb elements, Shield of faith//
+		**1/day: **//Dispel magic, Remove Curse, Dimension door, Cure Wounds//
+	**Patron. **Queen Silver is a hexblade warlock patron who rewards those loyal to Konia. 
+	**Crafted. **Queen silver is weightless to her attuned creature, never gets dirty or marred, and changes shape to fit. 
+	**On your feet. **An attuned creature is never surprised, immune to bludgeoning damage (including fall damage), as well as psychic damage. Queen silver can be donned as a reaction upon rolling initiative so long as the attuned creature is on the same plane of existence. 
+	
+**Bracers of inimitable force**
+	//Wondrous item, Artifact, Requires attunement by a barbarian//
+	One of the items wrought in the hexforge, these bracers amplify one's internal abilities immensely. While attuned to these bracers, when you rage your move speed and jump height and jump distance quadruples. You Regerate 10hp at the start of each of your turns. The extra damage you do with attacks during raging increases by 3. Your rage lasts up to ten minutes. 
+
+
+
+
+**Violet Mirror**
+	//Wondrous item, Artifact, Requires Attunement//
+	Made by fey bargain within the clockwork castle, violet mirror is one of the great treasures of the old Grao. Taking the shape of an articulated plated gauntlet of dark metal, violet mirror is unremarkable until she is attuned to. While you are attuned to Violet mirror, you cannot fail checks made to climb. She has the following additonal properties
+	**Sentience: **Violet Mirror is a sentient object with an intelligence of 4, Wisdom of 20, and charisma of 15. It observes the world through the attuned creature's senses and communicates only in flashes of emotion or in dreams. It is capable of minor prophecy but this is fairly unrelaible.
+	**Personality.** Violet Mirror was once a queen of the grao, who gave up her spirit to keep her people safe. While little of her knowledge and cunning is left at all, her desire to see the grao flourish and her immense mercy is quite present. 
+	**The Southwest Bolt. **Once between long rests, violet mirror can deal an additional 12d6 Lightning damage to a target grappled with it.
+	**Wide Embrace. **As part of the attack action or as a reaction while falling, Violet Mirror is capable of launching a cable made of magical silk ending in a bright blue bauble from its palm. This cable is 60ft long and uses gravity magic to stick to creatures and surfaces. A creature trying to detach from Violet mirror must use an action to make a DC 18 Strength check to free themselves. You may retract the cable as a bonus action, pulling yourself closer to whatever you have attached to. If you are attached to a target two sizes smaller than you are, you may pull it to your grip. If you are one size larger than the target, you may make a DC 10 strength(athletics) check to pull it to an unoccupied space within 5ft of you, DC 15 for  the same size, DC20 for one size larger. For any creature larger than yourself, you can make a DC15 athletics check to pull yourself to the creature. You may also release whatever you have grappled as an action or bonus action on your turn. 
+
+**Windweaver**
+	Rapier, Artifact, Requires attunement
+		Windweaver can be used as an arcane and druidic focus, as well as a holy symbol of Amarok. Windweaver grants a +2 bonus to attack and damage rolls, spell saving throws, Initiative, and AC. While attuned to windweaver, you gain access to the gust cantrip. You also know the spells investiture of wind, flight, control winds, feather fall, Freedom of the winds*, Gust of wind, whirlwind, and windwall, but require your own spell slots to cast them. These spells only require somatic components if cast with windweaver. While attuned to windweaver, you are immune to being teleported against your will.
+		**Sapience: **Windweaver appears to be sapient, and occasionally acts of its own accord in the form of the help action, granting occasional advantage. This help is rarely consistent, and seems extremely arbitrary. The mind of windweaver is extremely alien, and seems ineffable, even in cases of detect thoughts. It is, strangely, entirely immune to magic cast on it, and can be heard whispering a soft song instead of being affected by its environment. The song does not seem to have a discernable language. 
+
+**Longhand**
+	Longsword, Bone Artifact, Requires attunement
+		A full hand and wrist, less the bones of the forearm grasps the blade of a broad symmetric sword. 
+		**Bound to Life.** Damage with this weapon cannot kill a creature, regardless of their condition. If you roll a 20 on the attack roll, you cut off one of the creature's heads, limbs, or any body part. The body part continues to function though continuously is in pain. Blood or similar fluids as well as nerve impulses and necessary magic will travel as far as is necessary in order to reach affected parts in order to keep them functional physically moving toward them along the shortest path possible, avoiding obstacles and antimagic fields. A creature can die from hunger, aging, or disease if they are incapable of maintaining their health, but the wounds made by this weapon cannot become infected from exposure. 
+		**Destroying Longhand. **To destroy longhand, it must be starved for 1698 years, approximately. No creature affected by wounds from longhand, no matter how small, must exist for this entire duration, otherwise the amount of time they have remaining to live gets added to that time, there is no way of knowing this amount. 
+
+**Mountain Splitter**
+	Adamantine Greatsword, Very Rare, Requires attunement
+		While attuned to mountain splitter, you can cast absorb elements without consuming spell slots and without components. Damage rolls with this weapon deal 1d12 instead of 2d6. This weapon deals double damage to objects and structures. 
+![[]]
+
+**Call of Endless Life**
+	Wondrous item, Arcane Focus, Greatclub, Bone Artifact, Requires attunement by a Bard, Paladin, or Clericgreen
+		One of the Femurs has been shaped into the handle of a massive bell.  While Attuned to this bell, you gain powerful control over the living dead.
+		**Sonorous peals. **As an action, you may ring the bell which can be heard for over a mile. All undead within 300ft must make a charisma saving throw against your spell save DC with disadvantage. Undead that fail this save are under your control until they cease to exist or until you unattune to the bell. Any living creature that is unconcious within this range suffers one level of exhaustion
+		**Mournful Ring. **If you hit a creature with the bell as part of an attack, and that creature dies before the end of your next turn, it rises as a ghost under your control. Any creature that makes a death saving throw during this time makes it with disadvantage
+		**Life Knell. **By Ringing the bell in a ritual for an hour, concentrating on the rhythm, you can reconstruct the corpse, spirit, and will of one dead creature that you are familiar with. If that creature is in an afterlife, it is pulled from it and inserted into a healthy, youthful, and living body. You can only use this ability once per month, and recieve five points of exhaustion after using it. 
+		**Hostile Deattunement. **You may attempt to attune to the call of endless life while another creature is attuned to it. Doing so takes twice as long and deattunes the other creature after the first hour
+
+**Strings of the Siren**
+	Wondrous Item, Requires attunement by a bard or warlock
+
+**Reeds of the Horned ones**
+	 	Wondrous Item, Requires attunement by a bard, Druid, or Ranger
+
+**Mallet of **
+	DRUMSTICK
+		
+		
+		
+
+### Tagic Company Items 
+	The Tagic company is a company from a different prison plane, one that has broken, and the demon, which eats the process of time, has escaped. The Wizards of this plane work constantly to keep this demon under wraps, driving their technology forward extremely quickly. Because of this they have some fantastic magic items, frequently ones they Ship out to Other planes  for exorbitant prices so that they may have the materials to keep up with their impending doom. Among the foremost exporters is the original Techno-magical company, **Tagic. Here are some of their wares, but be warned, their prices are extremely steep, at over ten times those of other magic items. None of these items are craftable in Snarl as the technology required is far beyond what is available.**
+	
+#### Workshopping 
+**Stem**
+	Wondrous item
+		Connects you to the internet
+**Earth-blessing boots**
+	wondrous item
+		Parts waters around you 
+**Sand**
+	Money
+
+
+
+
+
+#### ACTUAL 
+
+**Lithosaad, the Diplomancer's Staff**
+	Staff (rare), requires Attunement`
+Counterspell
+Dispel Magic
+	4th Level:
+		Dimension Door
+		Hold Monster
+		Flight
+	5th Level:
+		Animtate Objects
+		Legend Lore
+		Contact Other Plane
+		Teleportation Circle
+	6th Level:
+		SaadPortal 
+		Contingency
+	
+
+**Lithosaad Mk.2 Executive** (The Refined Diplomancer's staff)
+	A straight (and indestructible or your money back!) carbon fibre staff with Two short orange stripes sandwiching a white one, and it's name "Lithosaad Mk.2, Executive Model" Written in thick rounded white letters in Elvish, followed by tiny script "Tagic Corporation Ltd;". It shimmers in the light, but that's just because it's carbon fibre. 
+	Requires attunement: 3hr filling out the Transfer of ownership forms, and listening to other offers telepathically if the last owner is not still alive on any plane of existence. If the owner is alive, the staff is transfered to their ownership after a breif moment of communication with the extraplanar company that makes lithosaad.
+	The sleek Lithosaad MK.2e is a +2 staff for the most discerning of Sorcerers and Archmages. It comes prepacked with the following Additional spells That any creature with sufficient spell slot levels can cast but requires no Material components
+	Cantrip: 
+		Minor Purify Food and Water: Purify enough food of poison and disease for a medium creature's meal. It takes ten minutes to recharge after casting but only one action to cast
+		Hide/Reveal: Bonus action: Store the staff in an extraplanar space of its own or call the staff forth from wherever it is through said space.
+		Quiet Prestidigitation: Tapping gently on L2e allows you to perform a nearly unnoticable version of Prestidigitation. 
+	1st Level:
+		Charm Person
+		Unseen Servant
+		Protection from Evil and good
+	3rd Level
+		Sending
+		Speak with Dead
+		Tongues
+		Counterspell
+		Dispel Magic
+	4th Level:
+		Dimension Door
+		Hold Monster
+		Flight
+	5th Level:
+		Animtate Objects
+		Legend Lore
+		Contact Other Plane
+		Teleportation Circle
+	6th Level:
+		SaadPortal 
+		Contingency
+	7th:
+		SaadPortal Pro+
+		Teleport
+		Mordekainen's Magnificent Mansion
+	
+	**Saad Portal: 1 action, concentration 10min: creates a spherical portal within a five foot diameter and an extremely tiny flat portal facing one direction both within a 120 foot range in any place that you can see . Anything entering the First portal gets ejected from the second at the speed it entered, including spells, water, air. **
+	
+**	Saad Portal Pro+ makes 5 such entry  portals on a reaction, The portals cannot aim at eachother in any cyclical way or the spell will terminate and you will be issued a citation for breach of contract. These portals disappear at the end of your next turn. **
+
+
+
+**Trommogart, Blaster Caster's Companion**
+	Wand, Rare, Requires Attunement by a Wizard or Sorcerer
+		This thick green wand is made of Intricately designed plastic around a core of Adamantine. It has a basket-hilt and is tipped with an elf's head shaped from amber. The Elf's head always turns to face the casters' target zone. This wand grants a +1 To spell attack rolls and spell save DCs of spells cast with it. The wand grants the creature attuned to it a +1 to AC and Dexterity saving throws. The wand comes with Three Charges, which recharge daily at Midnight. While holding the wand, you use an action to expend a charge to cast  dispel magic, or slow. Alternatively you can spend one charge to cast shield as a reaction 
+
+**Trommogart, Destructive Mage's Tool**
+	Wand, Very Rare, Requires Attunement by a Wizard or Sorcerer
+		This thick green wand is made of Intricately designed plastic around a core of Adamantine. It has a basket-hilt and is tipped with an elf's head shaped from Opal. The Elf's head always turns to face the casters' target zone. This wand grants a +2 To spell attack rolls and spell save DCs of spells cast with it. The wand grants the creature attuned to it a +2 to AC and Dexterity saving throws. The wand comes with Six Charges, which recharge daily at Midnight. While holding the wand, you can expend a charge to cast shield, dispel magic, or slow. For Three charges, you can cast Far Step or Wall of force
+
+**Trommogart, Area Annihilator's Focus **
+	Wand, Legendary, Requires Attunement by a Wizard or Sorcerer
+		This thick green wand is made of Intricately designed plastic around a core of Adamantine. It has a basket-hilt and is tipped with a Balor's head shaped from Obsidian. The Balor's head always turns to face the casters' target zone. This wand grants a +3 To spell attack rolls and spell save DCs of spells cast with it. The wand grants the creature attuned to it a +3 to AC and Dexterity saving throws. The wand comes with Nine Charges, which recharge daily at Midnight. While holding the wand, you can expend a charge as an action to cast shield, dispel magic, or slow. For Three charges, you can cast Far Step or Wall of force. For Four Charges, you can cast Reverse Gravity or Symbol. All spells cast with Trommogart AAF have their range increased to 300ft if they are not already larger. 
+
+**Danganaragi, Eater Shields**
+	Shield, Rare, Requires Attunement
+		This shield has a Large fanged mouth horizontally across it and grants a +1 bonus to AC and Dexterity Saving Throws and any creature that makes an unarmed melee  attack against the wielder and misses takes 2d6 piercing damage
+
+**Gastor Onaar, Infantry lance**
+	Lance, Rare, Requires Attunement
+		This glowing blue lance grants a +1 bonus to attack and damage rolls and can be wielded in one hand without disadvantage
+
+**Gastor Praesencor, Questor's Lance**
+	Lance, Very Rare, Requires Attunement
+		This Glowing orange lance grants a +2 bonus to attack and damage rolls and can be wielded in one hand without disadvantage, Damage dealt  by this lance ignores resistance to piercing damage
+		
+**Gastor Omarae, Legate's Lance**
+	Lance, Legendary, Requires Attunement
+		This Glowing purple lance grants a +3 bonus to attack and damage rolls and can be wielded in one hand without disadvantage, Damage dealt  by this lance ignores resistance to Piercing damage.  When you roll a 20 on an Attack roll with this weapon against a creature that has at least one heart or heart-like organ, their heart is pierced. The Creature dies if it can't survive without its heart. A creature is immune to this effect if it is immune to piercing damage or if it has legendary actions. Such a creature instead takes 6d8 damage from the hit
+
+**Margali Truush**
+	Wondrous Item, Very Rare, Requires Attunement
+		This set of  metallic, rune-covered arms fits over a creature's natural limbs. You gain the following benefits while Attuned to the item
+	* Your Unarmed Damage increases by 1d6
+	* You make attempts to grapple with advantage
+	* You do double damage to constructs and inanimate objects
+
+**Auto-lock**
+	Wonderous item, Uncommon
+		When placed over a gap between two objects and the command word spoken, this lock magically adheres to both objects, holding them in place. It requires a DC20 strength check to break the lock and the lock cannot be picked without magical picks
+		
+**Magical picks**
+	Wondrous item, Uncommon
+		These magical lockpicks can be used to pick magical locks as if they were non-magical. They can only pick one keyhole at a time, and if a door is dependent on multiple keys, then multiple sets and people might be needed at once.
+		
+**Headband of Psychic Autonomy**
+	Wondrous item, Very Rare, Requires attunement
+		While attuned to this headband, you can use a bonus action to spawn and use up to two instances of mage hand. The hands are invisible and can be commanded with fine precision at the same time
+
+**Malathat Robes**
+	Wondrous item, Rare, Requires attunement
+		These emerald green robes never get dirty and any holes they obtain through wear or damage mend themselves in an hour.
+		While attuned to these robes you gain the following benefits
+	* You have advantage on any saving throw against an effect that alters the flow of time for you
+	* If you are placed under the effect of time stop, make an Arcana(intelligence) check against the caster's spell save DC, If you succeed, the spell has no effect for you.
+
+
+** Goamehteh Hammer **green
+	Wonderous item, Warhammer, Beyond legendary
+		A silver-grey brick on an ornate handle built to craft items that even gods are envious of. While holding this hammer, spells you cast are cast as though using a spell slot of two levels higher than the one used. Items you create resist all bludgeoning, piercing, slashing, and force damage. 
+
+**Damagon Tramali** **8-Cycle Copper Channel Sepraphinite Rutile Quartz Crystal Orb with Octarinate Runes**
+	Wondrous item, Orb, Requires attunement, Beyond legendary
+		Divination spells you cast ignore planar restrictions, distance requirements, and Material components worth less than 500gp. 
+
+**Vajra Khanarilan**
+	Short sword, Artifact, Requires attnement
+		Vajra Khanarilan has 30 charges which recharge on the first of each month at midnight. As an action on your turn you may expend one charge and cast either meteor swarm  with lightning instead of fire damage, Greater restoration, Banish, Remove curse, Dispel Magic, or Counterspell, all at 9th level.
+		
+		
+![[]]
+		
+
+**Dm's Note: **Part of the direction I intend to take my part of the prison planes after removing hasbroisms involves encompassing liminality and power scaling beyond what 
+
+
+
+##### Workshopping 
+
+		
+**Abalone, Mother of All pearls**
+	s'agreatsword that has something to do with necromancy
+
+Trezja
+
+Book of Mist(missed) spells Currently in Drakenhearth with frog
+	This book, Randomly, will replace a syllable or letter in a spell so it means something different. The spell casts appropriately
+	
+	
+
+Selune's Arbalest (heavy crossbow) On Thunder Island
+	Of Dwarvish make, in honor of the god Selune,
+	It continuously whispers, it might take some deciphering to work out what it is saying, as it doesn't seem to repeat itself.
+	Bonus Action: Sheds Bright light in 10ft radius and dim for add 10ft this can be applied to ammunition shot from it, granting advantage to people trying to hit the target with ranged attacks. BA: to extinguish
+	The wielder of the Arbalest is also granted Advantage against Lyncanthropes, and Gains Darkvision 60ft as well. 
+
+Elder Coat (clothing)
+	The wearer of this coat feels at a comfortable temperature, always. The wearer also has proficiency on Arcana, Perception, Investigation and Medicine checks  and constitution saves. Reaching into the pockets of the coat can procure a random non-magical item 5lb or less in weight three times a day, they disappear after 24hrs if not in use unless put back in the wrong pocket. Only three such items can exist at a time. Items put in the pockets are always accessible.  spells such as thaumaturgy, Prestidigitation, and elemental attunement can be cast or upheld as a free action once per Round.
+	
+	
+Windweaver (rapier)
+	Anyone proficient with wands is also proficient with Windweaver. 
+	Windweaver Allows its wielder to cast Gust and Control Winds At will , Storm sphere and Investiture of Wind Once per day (elemental evil) without expending spell slots
+	Spell saves caused by spells cast with windweaver increase in difficulty by 1, and any damage caused by windweaver or spells cast with it is also increased by 1 (this includes for the purposes of determining HP for Sleep and similar spells). 
+	Rapier 1d8 piercing, finesse 
+	
+	
+Nolaehaneun Ssangsoodo In Ganglegrove --Large tree near western edge
+	Made for the shou sage Ha Jae Kyung, whose history is shrouded in mystery. Its own story is steeped in sadness it is cursed, those slain by it can only express their greif through sound when it is swung. The more it is used for things they believe in, the more at peace the spirits become. The pommel comes off to reveal the wisdom of Ha Jae Kyung, written in the form of a paper talisman, whose strokes match a sword technique that plays a haunting tune. All performance, insight, and animal handling checks are made with advantage so long as the sword is worn, even if it is not being held. The ribbon wrap constantly changes colours to various vibrant shades, and the pattern in the steel of the blade morphs to reflect the emotions of the spirits within.
+	
+	Nolaehaneun MUSIC: you can only have one technique at a time, using a technique makes you automatically fail stealth checks against creatures who can hear. Allies that would benefit can only do so if they can hear you. N is your bard level. 
+
+	Aria of Crows
+		Adopting this technique increases the movement speed of your allies by 5ft per 5 bard levels.
+	Symphony for a Devil
+		 Adopting this technique Grants Allies +1 to AC and Regeneration N (1hp per round at the start of their turn)
+	Autonomous Fugue
+		Adopting this technique adds N to all damage rolls you and your allies make. 
+	Waltz of thorns
+		Adopting this technique deals N damage to Creatures who hit your allies
+	Red Jewel Overture
+		Adopting this technique grants the advantage to your allies on handle animal and persuasion checks to pacify or request aid. 
+Ult	*Opus of Nightmares
+		Adopting this technique grants you and your allies advantage on intimidate checks. As an Action, an ally can make an intimidate check. 
+Ult	*Cantata of Smiling Brutes
+		Adopting this technique grants you and your allies advantage on Persuasion checks, as an action, an ally can cast the friends cantrip, at the end of the spell's duration, an additional persuasion check can be made to avoid the negative effects opposed by a charisma save
+
+Whirlrock (Nodachi)
+	While weilding this sword, when you hit an enemy you can cast the spell "Stillness" in which the enemy must make a con saving throw versus your attack roll. The effects of the spell last for six seconds in which time the target is as if petrified but immune to all other damage and conditions, making the target indestructible for the duration. You must take a short rest before using this effect again. 
+	
+**Condition: after three levels, Whirlrock stops working, if one manages to diagnose the condition, one recieves a Tagic company item**
+
+Benriramuda +2 (Maximillian the first's greatsword shape)
+	A giant weapon made for an order of Danzuishanese Maze hunters, it bears the engraving of a vined trout on a duelling shield. Interestingly, it appears to be made of Lapis Lazuli, and is flecked with gold. The sword will, on hit, indicate any weaknesses and resistances of any creature it hits by speaking in a quiet but deep male voice. A perception check  is needed to hear it if other sounds are present. It deals double damage to structures but not living constructs. 
+	
+	
+Ring of Regeneration
+	While wearing this ring, you regain 1d6 hit points every 10 minutes, provided that you have at least 1 hit point. If	you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6 + 1 days if you have at least 1 hit point the whole time.
+	
+Yazi, Seeker of Destiny -- In the Posession of Xundrin Ry'lendar
+	Jian, 1d8 slashing, Light, Finesse, Legendary
+	Hearing and Darkvision to 120ft
+	Seeks to destroy the servants of Avandra
+	It can speak, read, and understand several languages, Telepathic to wielder
+	16 int, 14 wis, 11 cha,
+
+	The weilder has advantage on dexterity saves, saves against fear effects and doesn't grant advantage for being adjacent to multiple opponents
+	Once per day, as an action, you commit your mind to A fighting technique known as "the Rain (or Reign) of Steel" During this time you cannot hide, dash, or talk. Any creature that starts its turn Adjacent takes 1 weapon die damage. This effect ends when you sheath the weapon, lose conciousness, are incapacitated or frightened, or are disarmed.
+	
+	Cha save 12 if it tries to take over.
+
+ambu lance
+	heals instead of damage, no attunement, charges
+	
+
+	
+Yokumo Mantle
+
+	Requires attunement, 1 day spent underneath the mantle to adjust to its world-bending properties.
+	This fine cape of blue canvas is embroidered with silver threading depicting a triskelion in the form of three waves. It is enchanted with a partial bag of holding ritual. While the outside of the cloak looks normal, the inside is actually several feet deep. The cloak can be used as a shelter for up to three people. It grants +2 to AC while being worn (or wielded) and once every 8 hours, as a reaction, you can force an attack made with a melee weapon or a single-target spell to miss, or an area of effect to be reduced by 5 feet before where you stand.
+
+Weight of the world 
+		A set of two Dice
+	The weight of the world are magical dice made of moss agate and display their magical properties when rolled. One die selects a stat, The other chooses a value. For ten minutes, everyone within 10ft of the die has that stat reduced or increased by that value. The roller hears a voice in their head when they hear it "Up or down" It takes a full 24hrs to recharge
+
+Lithosaad (The Refined Diplomancer's staff)
+	A straight (and indestructible or your money back!) carbon fibre staff with Two short orange stripes sandwiching a white one, and it's name "Lithosaad Mk.2, Executive Model" Written in thick rounded white letters in Elvish, followed by tiny script "Tagic Corporation Ltd;". It shimmers in the light, but that's just because it's carbon fibre. 
+	Requires attunement: 3hr filling out the Transfer of ownership forms, and listening to other offers telepathically if the last owner is not still alive on any plane of existence. If the owner is alive, the staff is transfered to their ownership after a breif moment of communication with the extraplanar company that makes lithosaad.
+	The sleek Lithosaad MK.2e is a +2 staff for the most discerning of Sorcerers and Archmages. It comes prepacked with the following Additional spells That any creature with sufficient spell slot levels can cast but requires no Material components
+	Cantrip: 
+		Minor Purify Food and Water: Purify enough food of poison and disease for a medium creature's meal. It takes ten minutes to recharge after casting but only one action to cast
+		Hide/Reveal: Bonus action: Store the staff in an extraplanar space of its own or call the staff forth from wherever it is through said space.
+		Quiet Prestidigitation: Tapping gently on L2e allows you to perform a nearly unnoticable version of Prestidigitation. 
+	1st Level:
+		Charm Person
+		Unseen Servant
+		Protection from Evil and good
+	3rd Level
+		Sending
+		Speak with Dead
+		Tongues
+		Counterspell
+		Dispel Magic
+	4th Level:
+		Dimension Door
+		Hold Monster
+		Flight
+	5th Level:
+		Animtate Objects
+		Legend Lore
+		Contact Other Plane
+		Teleportation Circle
+	6th Level:
+		SaadPortal 
+		Contingency
+	7th:
+		SaadPortal Pro+
+		Teleport
+		Mordekainen's Magnificent Mansion
+	
+	Saad Portal: 1 action, con 10min: creates a spherical portal with a five foot diameter and an extremely tiny flat portal facing one direction both within a 120 foot range in any place that you can see . Anything entering the First portal gets ejected from the second at the speed it entered, including spells, water, air. Such a portal lasts until the end of your next turn. 
+	
+	Saad Portal Pro+ makes such 5 portals on a reaction, The portals cannot aim at eachother in any cyclical way or the spell will terminate and you will be issued a citation for breach of contract.
+
+
+	
+Maki Kawiki, the many that breaks (okabutowari (warhammer)) +2
+
+
+	It appears as a sword, but on inspection it is blunt and was never made to be sharpened. It looks like a curved claw with a sharp point and a hook near the hand, all made of a dark iron. The blade appears to be constantly wet and smells metallic, and it owes this to the constant drip of blood that seems to seep out of wrapping of the grip. The grip is a perfectly shaped Ito wrap of Red silk over what appears to be grey fur and a gold charm depicting A grinning Oni. It is always warm.
+	
+	Requires Attunement. 1hr for the magic to seep into your blood.
+	You gain a +2 Bonus to Attack and damage rolls made with this weapon. It also has the following additional properties
+	
+	Doom-Driven: 
+	 While carrying Maki Kawiki you gain a +2 bonus to initiative rolls. Enemies Cannot deal extra damage on Critical hits against you. You cannot be surprised. You have advantage on Dex Saving throws. On a critical hit, Maki Kawiki Charms the target for a minute or until the target takes further damage.
+	 Once a day, as reaction, if you fail an attack roll, you can choose to succeed instead, treating the hit as if it were critical. Once attuned, you always know the direction and distance to Maki Kawiki, as well as the fastest route to it. 
+	
+	Sentience:
+	 Maki Kawiki is a sentient Neutral Evil Weapon with 17 intelligence, 10 Wisdom, and 15 charisma. It only communicates through flashes of emotion. It has normal senses out to 30ft. Unfortunately, Maki Kawiki fills the wielder's head with dreams of grandeur, causing them to require 10hrs to complete a long rest. 
+	 
+	Personality:
+	 Maki Kawiki is an often distracted weapon, frequently not paying attention to what's happening. This is because it is lost in its visions of the future. It is certain that its weilder will play some part in great event foretold in the whispers of Lava Flows and in the thrumming of shadows. It will seek to guide these actions as best it can. Its goals are unknown to you. 
+	 
+	 
+	 For the DM: Maki Kawiki Seeks to open gates to the far realm, any abyss and any Set of hells. It will push its weilder into summoning circles with the hope of aiding them. It Consistently tried to break the fabric of the world wherever it can. 
+	 
+**Anti-Devil Broom**
+	Don't know how to stat this yet but invoke the name of the most convenient holy figure and you'll be able to beat the devil themself with this broom. 
+	 
+Yokumo Mantle (previously, mantle of the broken winds)
+
+Requires attunement, 1 day spent underneath the mantle to adjust to its world-bending properties.
+
+This fine cape of blue canvas is embroidered with silver threading depicting a triskelion in the form of three waves. It is enchanted with a partial bag of holding ritual. While the outside of the cloak looks normal, the inside is actually several feet deep. The cloak can be used as a shelter for up to three people. It grants +2 to AC while being worn (or wielded) and once every 8 hours, as a reaction, you can force an attack made with a melee weapon or a single-target spell to miss, or an area of effect to be reduced by 5 feet before where you stand."
+
+
+**Coursing-heaven lockpicks**
+	//Wondrous item (Thief's tools,  Very Rare, requires attunemtn (half time)//
+		This construct is built to overcome the most tenacious of locks.  placing your hand on it causes it to unfold into a myriad of arms and other constructs.
+
+
+**Dragon Tetsubo**
+	Maul, Legendary, Requires attunement
+
+**Marier Construct**
+	//Construct, requires attunement by an artificer//
+		A construct resembling a small beast (chosen upon construction) ahhh fuck I need to write stats for it don't I. fuck. s'a fuckin drudge from will wight's cradle series.
+
+**Molar Mass Amulet**
+	//Wondrous Item, Artifact, Requires attunement. //
+	This pearly chunk of white appears to be a tooth, 
+
+
+Fey Pipe that changes the weather around you up to a mile depending on what feywild plant you smoke in it.
+Some kind of fey wand that lets you wild magic surge someone else's magic as a reaction?
+Unrelated, maybe some kind of fey sunhat that amplifies the sleep spell? (bumps it up from 5d8 to either 5d10 or 5d12)
+Consumable fey potion that makes you forget one of your known spells, and gives you a random spell known of equivilant spell level (rolled by DM)
+some kind of fey ring that you can subtle delay a spell to activate in 1d10 rounds?
+cursed feystep bracers? you can use a charge to teleport 30ft in a direction as a bonus action, but WHO it teleports is randomized
+
+**Message Interception rings**
+	Wondrous items
+	A simple pair of rings. Any creature wearing the first ring will not recieve any magical messages or telepathic communication of any kind. The wearer of the second, provided they are within a mile of the first will recieve all messages intended for the first.
+	
+
+
+**Rimewine and Chillwine**
+	Wondrous item (consumable) 
+		Whenever this liquid is still for any period of time, the surface of it freezes over with a very thin sheet of ice. Both types of wine are perpetually just below freezing in temperature, and both are alcoholic. Rimewine is stronger and more fortified than chillwine.  Drinking either of these wines give you the ability to see into a place in the feywild, whichever part is closest to your location for one hour. Drinking them while in the feywild allows you to see the prime material plane. The drinks each have a secondary effect depending on which one.
+			Rimewine: you 
+

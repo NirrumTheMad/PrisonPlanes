@@ -1,0 +1,31 @@
+# The Wailing Dead 
+Created Saturday 19 April 2025
+
+In this realm beyond heavens, death is a much more subjective state. Many creatures are vessels for souls, the will of their lineage, or part of a greater being. When the corruption of whatever corporeal vessel fails, these endemic magic entities often leak out. But this is a strange world, and without heavens to go to, or too many heavens to go to, or the death of their afterlife or severance from their greater self, these beings are often fragmented. Left listless and wandering, these often conglomerate onto other  forms of afterlife-esque entity, sometimes consuming them, sometimes sticking on as if they were glue. Sometimes they interfere and cause clashes of Necrotic Energies. The Wailing dead, as these phenomena are called are usually not more than a pest, and common charms and defenses are available at stores, often slightly less effort than making them yourself from scratch. This is not always the case, and sometimes, more interesting things come from them
+
+
+
+### Ghost King 
+	Ghost kings are spirits that embody some aspect of conquest. Always trying to fill a hole they will never be able to fill. Some of them get quite good at taking, usually from other similar spirits. Some creatures are entirely immune to their effects, others are extremely affected.
+	
+
+### Lost Heavens 
+	Any Afterlife whose Deity has made it to this plane often comes with them. Highly prized sources of power and magic, they are also a frequently stolen good. Without their Deity, though, these afterlives are often bound to misbehave. The power of these heavens vary wildly, and they're notoriously hard to get rid of if they get out of containment.
+	
+
+### Kaal Raja 
+	Not unlike a Lich, Kaal Raja are beings that feed on others to sustain their life. It is a dangerous state of being as they almost never survive Stolen time events. Unfortunately, there's always someone trying to become a Kaal Raja, often to the detriment of many people around them. Kaal Raja have godlike abilities, and suffuse the universe around them, giving them immense control. 
+	
+
+### Great Broken Spirit 
+	Sometimes heroes die, and sometimes they are too big to fit into a heaven they were made for. This is a tragic event, as the heaven rarely survives. The spirit enters, shatters the bounds of the realm, and often absorbs the entirety of their heaven. They often go mad with the grief of those who can no longer live forever, the death of their god, the destruction of their ancestry and the removal of their line from things that were promised to them. 
+
+### Island Dweller 
+	Some people experience intermediary states after death, and often, these intermediary states involve a solitary mindscape filled with the aggregate of a Person's actions. If that person happens to be a particularly powerful psychic, mage, or personality, sometimes others can fall in. Experiencing an Island Dweller means experiencing the wrath and peace of several would-be deity class entities.
+
+### Content Aggregate 
+	When a web-scraping AI is able to perfectly emulate someone, they might try to rebuild their body and if that body should be host to a soul (as not all are), then you can end up with superpositions of minds fighting over one soul, which has often already succeeded in leaving the equation. The resulting undead construct Keeps trying to find its soul, taking bits from other people that approximately match. Content Aggregates tend to be a bit of a bogeyman on Tajik, because they're quite capable of using technology, often better than their original pattern was. 
+
+### Battle Ghost 
+	When great wars leave great soldiers as hollow husks, it is only a matter of time until their spirit forces its way back into the world, often dragging others with them. The thing that can most easily dispel a battle ghost is the sound that unified them. A shared memory is enough to align their cacophany, frighten them, and if their spirit seeks escape, finding no body to contain it, they become free. Battle ghosts Conjure //samsaric illusions, //trapping other creatures indefinitely in the battle they can never win or escape from. The only quiet and peaceful moment an abductee can find in that illusion is just before whatever caused the sound happens. A battle cry, an explosion, a scream. That is also when the illusion is easiest to break.
+

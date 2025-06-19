@@ -1,0 +1,23 @@
+# Run with the hunted 
+Created Friday 16 May 2025
+
+
+		Bijayana comes in to do an inspection and cuts everyone's pay because of Grant's actions, which they ordered. 
+		
+		The next job is to deliver a Truck full of ProfessionalTien to a Grocery nearby. The Drive goes uneventfully until you get to the loading bay, where a cult has killed all the workers and is performing a ritual to Empower their dark lord. They refuse to unload the truck, and you'll lose your time bonus if you don't get the truck unloaded in time.
+			* Kill the cultists to get them out of the way
+			* Help the cultists
+			* Try to navigate around the cultists 
+			* Use the forklift
+			* Bonus objective: Sample the ProfessionalTien which counts as a meal toward the next level
+
+		Next job is to 
+		
+		
+
+
+
+			* Grant says that he's a bit sick of what he's had to put up with from Bijayana shipping and intends to strike out on his own. You're invited to come with but the jobs are just going to get weirder
+				* "I am an infinite, I am allowed to make my own decisions, and on top of that, I have worked with this company since I was uncounted. I know what their deficits are, and who has engineered them"
+				* "Bijayana is a subsidiary of Ergun Logistics, but the Squeeze is on them from Jumbo Goods to get competitive, because they're functionally just middlemen between the people who make shipping equipment and people who need things shipped. Ergun makes a pittance from them, Tagarm and Asurenda hate them, Even the quickstops don't get a discount."
+				* "listen, you guys can set off on your own //or// we can steal a truck, get the attention of their 

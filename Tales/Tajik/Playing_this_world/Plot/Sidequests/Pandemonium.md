@@ -1,0 +1,15 @@
+# Pandemonium 
+Created Wednesday 18 June 2025
+
+
+
+Several hells worth of demons, all uncounted are willing to pay a *staggering* amount of sand to free a devil that once lead them from Klesha Social, where she is being used to generate Ads.
+	The demons intend to Distract the office, but they need you to break in, ideally through a skylight in the roof. Normally the roof is patrolled by a sniper drone and a Priest of snakes and lightning (who uses it as an illegal shrine but whatever). If you accept the mission, they provide you a //hovercycle, which is yours to keep if you can break it out of the office.//
+	
+	Go in, Press the coffee break button, probably fight the general manager, escape. 
+	
+	
+At the end of the quest, the Freed Devil becomes the general manager and employs the demons, who are in their glee.
+
+
+
