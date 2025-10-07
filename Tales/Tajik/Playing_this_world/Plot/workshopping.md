@@ -3,6 +3,17 @@ Created Sunday 06 April 2025
 [[A_History]] 
 Mattress/bedding upgrades allow you to recover more hit die per day
 Food upgrades for certain resources?
+[[vehicles]]
+[[Weird Forces of Power on Tajik]]
+[[Resanding technology]]
+[[List of Tajik Names]]
+Resanding others without a permit is Sand Fraud and comes with fines, the fines are higher the more net worth they have.
+
+k6bd bionicle cyberpunk
+
+Ammo Tracking uses Magazine dice size, Magazine reserve is tracked normal 
+on a 1, go down a dice size. d12-d10-d8-d6-d4-d2-D one last shot
+
 
 YOU CAN ONLY LEVEL UP IF YOU GET AN UPGRADED 
 	* bed - resting place
@@ -53,7 +64,17 @@ Day to Day
 
 Certain NPCs have backup houses
 
+Character creation
+1- hit die min 1
+2 - Proficiencies
+	- Skills min 3
+	- Save min 2
+
+
+
+
 Random events that get DM fiated into a reroll get chambered for that individual, such that if they ever need a normal reroll, that event happens if applicable. 
+
 
 for random events that get rolled twice
 "Test 1d18 skill, Pick above or below"
@@ -69,3 +90,9 @@ for random events that get rolled twice
 	* Athletics
 		* Something falls on you
 		* A drone scans the crowd, asking for you. It is a Nombari bot
+
+
+
+
+Don't forget the pipeworks, the city service tunnels, THE UNDERCITY
+

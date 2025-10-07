@@ -1,0 +1,609 @@
+
+
+
+Homegroup 2023
+
+
+
+
+
+
+
+
+
+# Homegroup 2023 [](null)
+
+
+
+
+Created Monday 07 August 2023
+Well that didn't go as planned - 2025
+
+
+
+[+Formatted_questions](./Homegroup_2023/Formatted_questions.html)
+[+Example](./Homegroup_2023/Example.html)
+
+
+
+[+tallyboard_of_deeds](./Homegroup_2023/tallyboard_of_deeds.html)
+
+
+
+
+
+### Campaign spoilers[](null)
+
+
+
+
+This section is completely filled with
+
+
+### Campaign spoilers[](null)
+
+
+
+
+
+
+If you are still here then you are here to read
+
+
+
+
+### Campaign spoilers[](null)
+
+
+
+
+
+Damien
+
+
+
+
+
+Goal of the story:
+Kill Moseie, Orsithach, Establish at least one new country, Supress the cult, Visit the feywild, set up new villains, partially set up recovery of lost Manaharahi and Konian 
+Make use of homebrew items, make use of homebrew classes, Make use of Homebrew spells, Make use of the Magic Game for Arcana checks
+Explore underutilised factions in the world,
+
+
+
+Mode of delivery: 
+
+Character creation rule:
+
+<ul style='padding-left: 60pt'>
+* Must know of and have encountered Kholirahi, Furi, or Cult Agents, in a major capacity in their backstory. 
+* Characters start at level 5 (be prepared for 6 after session 1) and will end after 20
+
+* All offical works and select approved homebrews are allowed. Except centaurs
+<ul>
+* Extreme modification of some of these are also allowed
+* No simulacrum, no long range teleport
+
+
+Multiclass prereqs do not exist.
+
+* talk to me about stat-swapping any facet of a class, race, feature, spell, etc;
+
+
+Free Starting Feat or other advantage starting
+Point buy/standard array
+Characters using any of the homebrew options that are specific to snarl get an extra uncommon magic item on creation
+come with one ambition; Kill the godking, make a country 
+Roll health twice, take the higher
+Extra skill proficiency for background or class (e.g; Soldier, Druid, Politician, citizen of place)
+
+
+
+
+
+
+Campaign bargain
+
+<ul style='padding-left: 60pt'>
+* This is not a grindy campaign but it has rewards for those that look for them, rather ridiculous rewards
+* The more holes you fill, the more your characters will be written into the history of this world.
+* Levelling will come much faster than previous campaigns
+
+
+Campaign concept
+
+<ul style='padding-left: 60pt'>
+* I need a lot of people to die. And I need a lot of badasses to do it.
+
+
+
+
+Starting equipment
+658 gold (to spend before we begin)
+One healing potion
+
+
+
+
+
+Take 4:
+
+One character is _The King. _
+
+
+This character will *somehow* inherit a country
+
+
+One character becomes _The Mage_
+
+
+This character will somehow inherit great intrinsic power
+
+
+One character is _The Messenger_
+
+
+This character will inherit great friends
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POSSIBLE THING:
+Make multiple characters and take them along per mission?
+
+
+
+
+
+Pacing:
+
+Levels needed:
+
+
+15
+
+
+
+
+
+
+
+6 vignette
+[+How_You_Came_to_Be](./Homegroup_2023/How_You_Came_to_Be.html)
+
+<ul style='padding-left: 90pt'>
+* The Vignette ends with a carriage, cart, caravan, who agreed to take them back to Danzuishan. It is good that you are finally out of your quest. We are running late, we must join up with another caravan before TOWN
+
+
+
+
+
+7  Enfuckerator quest
+
+
+[+Investment](./Homegroup_2023/Investment.html)
+
+
+
+
+
+
+
+
+8 Feywild/Maze
+
+
+[+Feywild](./Homegroup_2023/Feywild.html) 
+[+Maze](./Homegroup_2023/Maze.html) 
+
+<ul style='padding-left: 90pt'>
+* The party must have reasonable amounts of treasure halfway through whatever they're doing
+
+
+9  End
+
+<ul style='padding-left: 90pt'>
+* Party gets a house somehow 540 sqft, thus 54g in tax per year +7/person
+* Party is informed that several people have been arrested trying to hunt them down.
+
+
+10  Feywild/Maze
+
+
++ Danzuishan 
+
+
+11 End
+
+<ul style='padding-left: 90pt'>
+* You are met by yourself on your way out of and into your door
+* You also find yourself getting stabbed in an alleyway, You are surprised that this is from a third person perspective. The third person is you, you are watching yourself get stabbed
+* The police have put three of the same person to death, imprisoned six others. They've employed someone with truesight to see if you're real, and the person is amazed at how well the illusion you have is holding up and that they can't see through it. They are shocked to be reminded that being actual people is a possibility
+
+
+12 Feywild/Shadowfell/Maze/Bone artifact Halfway
+
+
+[+Shadowfell](./Homegroup_2023/Shadowfell.html)
+
+
+
+
+
+13 End
+
+<ul style='padding-left: 90pt'>
+* Attacks are getting serious against you, Minor players as attacks are common every time you leave the house
+
+
+14 Feywild/Shadowfell/Maze/Bone artifact Halfway
+
+<ul style='padding-left: 90pt'>
+* An emissary of the godking, Ma, The reverent Son, comes to speak. 
+
+* <a href="./Homegroup_2023/Meeting_with_Ma.html" title="+Meeting_with_Ma" class="page">+Meeting_with_Ma</a> 
+
+
+
+15  End
+16 Dwallat/Kholira/Moon
+17Boss
+18Dwallat/Kholira/Moon
+19 Boss
+20Dwallat/Kholira/Moon
+[+The_Defeat_Of_The_Moon](./Homegroup_2023/the_Defeat_Of_The_Moon.html)
+Boss
+
+
+
+
+
+
+
+
+
+Toolbox
+
+-&gt;Vaylen as NPC can direct people into the feywild 
+-&gt; Zul Probably can help people find cult members
+-&gt; Danzuishanese maze is an option
+-&gt; give them nightmares for the moon
+
+
+
+
+
+Pusher Characters:
+
+
+Anoo (skalmirthon) - mix shit up - be a problem
+Nirrum (in space) - kill Moseie 
+Nitsur (skalmirthon) - mix shit up 
+Ridicully probably (skalmirthon) - Destroy the cult
+Deloch Welch (skalmirthon) - Literally all missions
+Brandy (Manor) -  fight monsters save people
+Aldrin (Roaming) - kill the moon. It is an offense to my eyes
+Valalen (Nova Konia)  - Kill the cult
+Moon-Eyed Child - hates its parent
+Korik Fendi - hates the moon
+Moonbeam Brumia (Danzuishan) - hates the moon
+Oryx - Destablise the furi
+Kotsi Kemadumanaab - Destruction of the cult, Enfuckerating of Kholira, perhaps evil
+
+
+
+
+
+Catcher characters:
+
+
+The local thugs- Furi cell operatives
+Excited but cautious orphan that's actually a changeling - Cult 
+Moon-horror starspawn
+SONS OF THE GODKING
+
+
+
+
+
+Trip-up Missions:
+
+
+Complete a favour in the feywild
+Retrieve an item from the hexforge
+Local witch needs to have some mystic problem solved somewhere else
+
+
+
+
+
+Furi Targets:
+Gasageno (UO)
+Lagarach munsa (skalmirthon)
+Orsithach furi
+Teallah Fohin (Skalmirthon)
+Biero - psionic operative (psi warrior)(dwallat)
+Moji agthak (Danzuishan)
+Salla Dzorgon - Psionic operative soul knife rogue
+Hamen Yano - An orcish alchemist, responsible for the production of Farsight Pollen
+Bydaran Maran - A halfling alchemist responsible for the invention and distribution of Bad Shaman
+Ujira, king of the dragons
+
+
+
+
+
+
+
+Cult agents
+
+
+Marchee Aguheni - Changeling operative
+Cae'k'lo'lo - Deep Mystic, lost in the sauce of the magic
+TULIO THOMAS (and the crew of the featherbitey) - pirate operatives
+Sciarran Gogozneg- somehow tragic, neeeds the cult for some reason, artificer, Human? Orc? half orc? Dwarf?
+Queen Meelee  - Goblin mother, has an obscene number of children, even for a goblin. Army provider
+Queen Persephone Kofruhi Dal Manarahi - On a vengeance tear against Kholira
+Gordeh the wise - Danzuishanese agent, corrupts schools of echoing immortality folk
+Combartch T'c't'caeri - Captive of the pirate king, and the one who knows the most about the cult's secrets
+Dauhlu Aban - Cult operative, Phantom rogue
+Ancestral barbarians
+Spirits bards
+Long death and mercy monks
+Necromancy, Evocation, Scribe wizards
+Goolocks
+Wau!xorauch - The Head of Evocation replacing Ridicully cosades.
+
+
+
+
+Beats:
+<ul style='padding-left: 30pt'>
+* The Vignette
+
+* ex. Trussari
+<ul>
+* Complete an antimagic amulet
+* They will be the reason manaharamu fell
+
+
+ex. Silver Knight Acolyte
+
+* Recover silver knight or crown regalia from the resting place of a lost knight
+* The reason konia exploded
+
+
+Ex. Son of the godking
+
+* Kill one of your brothers
+
+
+Child Of Lost Graoton
+
+* Reclaim one of the crown regalia
+
+
+Deep walker
+
+* Escape the Prison with a bone artifact
+
+
+Servant of Carrion Queen
+
+* gain an Activated mark of the raven queen (Dying ain't permanent)
+
+
+Heir of the Witch Lords
+
+* Deliver your mentor's body to the shamanic spirit of endless heat in the magma sea (lohar)
+
+
+
+The Crossroads to danzuishan?
+
+* Individual  fight against bandits
+* Recovery, Maybe introduce one villain
+* Journey to Danzuishan or Skalmirthon
+<ul>
+* The Feywild
+<ul>
+* <a href="./Homegroup_2023/Feywild.html" title="+Feywild" class="page">+Feywild</a> 
+* Generate favour somehow
+* Exit the feywild + level
+
+
+Shadowfell voyages
+Raid the underdark for the BONE ARTIFACTS THAT THE CULT POSESS 
+
+
+
+Furi
+
+* <a href="./Homegroup_2023/Dwallat_Adventure.html" title="+Dwallat_Adventure" class="page">+Dwallat_Adventure</a>
+* Get accosted by the Furi, possibly even have the Furi succeed 
+* Starts with theft and attempts at it
+* Toughs,  beaters
+* Footmen and Mobsters
+* Dragons
+
+
+
+
+
+<ul style='padding-left: 60pt'>
+* Kill orsithach furi
+
+* Kill the Resurrected Lagarach Munsa
+* Kill Gino
+
+
+Infiltration
+Execution
+Exfiltration
+
+<ul style='padding-left: 30pt'>
+* Kholira
+
+* <a href="./Homegroup_2023/Kholira.html" title="+Kholira" class="page">+Kholira</a>  
+* Scouts and Vanguards, Random fights
+* Sons of the godking, Captains with squad (5 total), Open attacks 
+* lieutenants with Four squads of 5, Targetted hit squads
+* Brigadiers, Four lieutenants, Four Squads each, Windwalk in
+* Generals with four brigadiers etc; Armies with Control weather
+* Into Kholira
+* Castle of the godking mozéié 
+<ul>
+* Comes with the materials for Karsus' Avatar
+
+
+
+Find nirrum's library
+Supress the cult
+
+* <a href="./Homegroup_2023/Underdark.html" title="+Underdark" class="page">+Underdark</a>
+
+
+Riches from Dungeons optional
+Birth of nations. Optional
+Kill the moon or hide it in the maze? semi-optional
+
+* <a href="./Homegroup_2023/Moonfall.html" title="+Moonfall" class="page">+Moonfall</a>
+
+
+Find a new sun
+finish the motor
+Steal the steam train from the furi
+
+
+
+
+
+
+
+
+
+- new powers and magic items that will not be replicable in future runs of the campaign
+- The promise of the death of three tyrants, The tyrants of blood, gold, and the night
+- Choices include who to replace the godking with, where to send the freed people
+- npcs include the dragons of Dwallat, the sons of the godking, the Wandering Trussari 
+-adventure
+- surprises. SONS OF THE GODKING, The neriadniclu opening, Many of the fey
+
+
+
+
+
+
+The song:
+
+Perhaps the opening, Piano and harps, a journey to blackwater at some point
+
+
+
+
+
+Lone cello of sublime power, the snare of of boots, Resonant carnyx call of conflict.
+Lap steel guitar of threat, power not yet tapped. 
+These people are not powerless. Discongruity lie within how I percieve want.
+Dear sister has given me the answer: the voice, screaming chanting, singing, crying: Find their flaws
+
+
+
+
+
+the verse of Greed sings the choir
+
+
+a singlet viol drones of the great staff of the godking
+the locust rubbing of a bowed quartet of the heist required to raid Dwallat
+glass armonica accompanied by glockenspiel, the glimmer in the depths
+
+
+
+
+
+
+
+The verse of Theme, of leitmotif:
+
+
+To cling to things is to be shackled by them. Only those who are unburdened are free. 
+
+
+Moseie's Fear of irrelevance
+Orsithach's bitterness at how much he has had to fight for every scrap and how much effort he put into being allowed live more than a few days at a time
+The Moon's unrelenting anger at its creators for abandoning it
+
+
+The difference between a powerful person and impotent one is action
+
+
+Someone weak must commit a small action with major consequence for good
+The inaction of the powerful must cause powerful consequence
+
+
+There is a deep connection for Karma. Things do not arise out of nothing
+
+
+Moseie's past gets leaked across the sons of the godking, as he uses them to do things he couldn't accomplish
+Orsithach's enemies are plentiful and easy to find, and the legacy of his father's indifference toward him growing up is evident around Dwallat
+The Gods one meets on the journey are flighty, prone to gross error with no room for communication, are forgetful of suffering
+
+
+
+
+
+
+
+How each thing is executed in each stage:
+
+
+The vignette has each character letting go of something to progress, In exchange for power, one must leave a life where they were loved behind, with no guarantees that one can return.
+Within the feywild each character is a stranger in a strange land, seeing the births of new things at each step, things that _will be._ The first act starting with what they cannot really affect, the second in which they can a little, the third in which they can reap a harvest of the past. 
+Within the shadowfell, each character is forced to look inward, to see their life as others see it
+within the maze, each character is lost within someone else's thoughts. 
+
+
+
+
+
+
+
+The Mysteries
+
+
+
+
+
+
+
+
+
+
+
+
+
+Backlinks:
+
+[Nirrum's Encyclopedia of Varomar:Plot Notes](..\Plot_Notes.html)
+
+
+
+
+
+
+
+
+
+
+

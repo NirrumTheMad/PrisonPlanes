@@ -1,0 +1,2 @@
+
+**Gleð.** - A multitool commonly used by the nombari. Array nanites summon items from condensed Space. It has any nonmagical, nonconsumable, handheld adventuring gear worth less than 10gp, such as crowbars, whistles, and wirecutters

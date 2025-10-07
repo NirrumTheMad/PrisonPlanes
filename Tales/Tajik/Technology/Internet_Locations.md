@@ -26,4 +26,12 @@ Created Monday 17 February 2025
 	
 ### TowerBuild 
 	Language learning app
-	
+
+
+
+# Local internet activities
+### Hack-Sack
+	An extremely simple game based on a common meat-space one. A packet has a time-limit of one whole second, a long time in computing. Players launch the packet at each other loaded to the brim with fast viruses, Fakes, and DOS attemtps to make the other player unable to send it to the next person. If a person is unable to send the packet, they lose. Not everyone plays to win, and rules can get very casual. A  memory limit is also usually imposed so that players keep the packet within reasonable resource limits
+
+### Hack-Chess
+	A beloved game of chess. It is impossible to win without cheating. It was designed to be cheated on. The point of the game is to beat the other opponent's cheats while also not losing at chess. The fall of more than one city was caused by using corporate assets to play games of hack-chess.

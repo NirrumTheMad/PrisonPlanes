@@ -15,9 +15,9 @@ Created Thursday 06 March 2025
 
 05 - "You get a letter indicating your Insurance policy has been reevaluated and reduced until you can match contribution standards. No number is given" Literally any action will result in a readjustment letter back to appropriate and a coupon for a approximately 25c or one use of a Random company's service in apology. "
 
-06 - "A name you've see on Posters in town, <NUMBER-COLOUR-PLANT> the <VERBING NOUN> of <COMPANY OR ORGANISATION> shatters through the reflection of a nearby window. They are chased by/chasing an entity of <phobialist.com, pick one> Which warps the world so that all who view it, experience it. It does Massive psychic damage but is amazingly weak to Radiant, Lightning, Or Thunder damage, and is defeated instantly upon taking any. Roll initiative. If you succeed in combat, they thank you and reward you by doubling your total sand."
+06 - "A name you've see on Posters in town, NUMBER-COLOUR-PLANT the VERBING NOUN of COMPANY OR ORGANISATION shatters through the reflection of a nearby window. They are chased by/chasing an entity of <phobialist.com, pick one> Which warps the world so that all who view it, experience it. It does Massive psychic damage but is amazingly weak to Radiant, Lightning, Or Thunder damage, and is defeated instantly upon taking any. Roll initiative. If you succeed in combat, they thank you and reward you by doubling your total sand."
 
-07 - "A small, very skinny child catches your eye. They show you they have <ITEM RELATED TO YOUR CLASS> and can use it, and are excited to find someone like them"
+07 - "A small, very skinny child catches your eye. They show you they have ITEM RELATED TO YOUR CLASS and can use it, and are excited to find someone like them"
 
 08 - "An uncounted citizen tries to rob you. It's hard to tell if they're serious"
 
@@ -79,7 +79,7 @@ Created Thursday 06 March 2025
 
 37 - "A protest has formed outside of your house or the building you are currently in, seeking you, claiming your actions in your last job had detrimental environmental impacts on the local silverfish population"
 
-38 - "The Shell of the mighty Turtle Deva, Majestically armed, A Poignant and directed message toward //something// is visible outside of the city. It carries the Fortress //The Answer of Earth to Heaven//, A military installation with enough firepower to put dents in **The wall. **Covered in enough technology to require its own starship engine, the defenses around its eyes and beak are visible against the aurora as golden stars set in black, marking the gun batteries. You see its mouth open, and Almost a minute later, you feel your body attempt to rearrange your organs as immensely powerful infrasound hits you. A constitution saving throw, DC 14, to avoid taking 2d8 thunder damage, half on a success. You hear nothing, other than the shattering of windows, and cries of people who suddenly have smaller families, and more broken stuff. As you watch, A curtain is pulled aside by pale grey ribbons that seem strangely self-luminous, as though lit incorrectly. A Gonjuga, one of the direct tools of MaRa. Lights along the turtle go out before A spell circle Carves itself into the air around its mouth, and the gun batteries discharge. You can feel a tingle as the discharge clips along electronics and trips breakers  and arcs along hardgrounds all around you. The Light Dims Suddenly, and you see that it never reached the Gonjuga, from whose fluttering reach, a fog of smaller arms dangle impossibly long. The monster reaches out and strangles the turtle, whose cry lays as a ripple in the sky, a problem for whatever sand blows that way on the next wind. The Gun batteries each being slowly dismantled by the secondary hands, The Fortress slowly disintegrating. A loss for this world. The apparition slowly fades, as though it was just how the sky looked for a moment, nothing besides remains" - shattering black holes music start at 2:40
+38 - "The Shell of the mighty Turtle Deva, Majestically armed, A Poignant and directed message toward //something// is visible outside of the city. It carries the Fortress //The Answer of Earth to Heaven//, A military installation with enough firepower to put dents in **The wall.** Covered in enough technology to require its own starship engine, the defenses around its eyes and beak are visible against the aurora as golden stars set in black, marking the gun batteries. You see its mouth open, and Almost a minute later, you feel your body attempt to rearrange your organs as immensely powerful infrasound hits you. A constitution saving throw, DC 14, to avoid taking 2d8 thunder damage, half on a success. You hear nothing, other than the shattering of windows, and cries of people who suddenly have smaller families, and more broken stuff. As you watch, A curtain is pulled aside by pale grey ribbons that seem strangely self-luminous, as though lit incorrectly. A Gonjuga, one of the direct tools of MaRa. Lights along the turtle go out before A spell circle Carves itself into the air around its mouth, and the gun batteries discharge. You can feel a tingle as the discharge clips along electronics and trips breakers  and arcs along hardgrounds all around you. The Light Dims Suddenly, and you see that it never reached the Gonjuga, from whose fluttering reach, a fog of smaller arms dangle impossibly long. The monster reaches out and strangles the turtle, whose cry lays as a ripple in the sky, a problem for whatever sand blows that way on the next wind. The Gun batteries each being slowly dismantled by the secondary hands, The Fortress slowly disintegrating. A loss for this world. The apparition slowly fades, as though it was just how the sky looked for a moment, nothing besides remains" - shattering black holes music start at 2:40
 
 39 - "The omnipresent sound of gunfire stops for a moment, followed by a loud CHAKzzzzz, as every exterior door within view opens, regardless of security measures, rust, or conceptual compatability.  and a voice that seems to come from everywhere at once tells you, indeed, everyone **'Get inside, Close the doors, Hold Each other, and Pray harder than you have ever prayed. Your lives depend on it.' ** The next minute is filled with the cacaphony of closing doors of all kinds, but a complete lack of noise otherwise, everyone around you seems to be extremely blurry, and you are unable to make out their identities in any way, unless you knew where they were standing when the gunfire stopped. Your eyes slide off eachother easily as you look around. Those who remain outside or uncovered after that minute are reduced to skeletons. Few recover.//" //
 
@@ -102,7 +102,7 @@ Created Thursday 06 March 2025
 48 - "you spot the descendant of both an enemy you have defeated... and yourself, Either by product of natural time or unnatural effort upon any scrap of yourself left behind. They are looking at you curiously"
 	* From a poster, if necessary
 
-49 - "You recieve a message that you've inherited an <upgraded item> via the secondary and likely final death of <your ancestor>. The item appears in your hand, already attuned because the transfer papers were mostly prefilled."
+49 - "You recieve a message that you've inherited an \<upgraded item> via the secondary and likely final death of \<your ancestor>. The item appears in your hand, already attuned because the transfer papers were mostly prefilled."
 
 50 - "the power goes out. It returns in 10 minutes"
 
@@ -112,7 +112,7 @@ Created Thursday 06 March 2025
 
 53 - "You are spotted by a cow. There is no context for this cow and anyone else who sees it is as confused as you are."
 
-**54 - "something something, guardian on the rooftop**
+54 -
 
 55 - "A local time stop event has stopped you for two days in place. Most people around you have been resanded. It is likely they have chosen to decorate you with trash"
 
@@ -159,15 +159,19 @@ Created Thursday 06 March 2025
 
 76 - "In an attempt to steal your car and get away, someone crashes into the nearest object, nearly missing you, your vehicle will need repairs before it can be used again"
 
-77 - "Dave says he'll get your job done for you if you can act as security for his next Gala. You are assailed by a lot of angry uncountables who ask you why would side with this monster"
+77 - 
 
-78 -  
+78 -  "In a flash of insight, Gain a feature point which you may spend immediately along with any you have saved or save it for later. This is not a level up"
 
+79 - "Gain the benefits of a full rest on the spot, your items recharge, your themesong plays"
+
+80 - "
+ 
 97 - "An oni begins slaughtering nearby"
 
 99 - "A gonjuga manifests nearby"
 
-100 - Gain a level in a random class and subclass if necessary
+100 - Gain a level in a random class 
 
 101 - "You personally gain insight into a special hidden rule about the campaign which you cannot share with the others directly. Our actions have consequences, death is not the end, and our actions have consequences after death. You've unlocked memories of your past lives only to realise they're ongoing. Dying in this campaign adds to the strength of one of the penultimate challenges you'll have to face."
 

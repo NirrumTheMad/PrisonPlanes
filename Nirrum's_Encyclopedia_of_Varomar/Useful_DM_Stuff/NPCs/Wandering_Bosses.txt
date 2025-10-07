@@ -14,6 +14,7 @@ Enscorceled Trussari
 	He uses his reaction defensively. The first rule of fighting, after all, is don't get hit. The second being hit. 
 	He will always target casters first, starting with the healers, then the weakest looking one.
 	If the antimagic field is gone and dispel magic or greater restoration is cast on him, the spell is broken and he returns to his senses and sets off back toward manaharamu.
+	Malabi is his name
 
 
 
@@ -23,6 +24,7 @@ Enscorceled Trussari
 		This is a great encounter to throw at people to get them entangled in Kholirahi affairs
 		
 		
+
 ==== Divine Affairs ====
 	A Witch Lord and a Penitentiator (A high level Druid of stars and a high level Cleric of the grave) both believe the party to be marked for death
 

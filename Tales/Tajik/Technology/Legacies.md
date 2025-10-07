@@ -5,7 +5,7 @@ Billions of gods sit harvesting the ambient energy of their pantheon, weaving it
 Here are some notable ones
 
 
-### //Balance of Rivers. Collected Torrent. Split Currents Rush to fill. // 
+### //Balance of Rivers. Collected Torrent. Split Currents Rush to fill.// 
 		The song of gods who never die, but sleep endlessly, wake for centuries. Endlessly remade, the Balance of Rivers Legacy carries common themes of River Gods, life sustainers who allow delicate balances around inevitable forces of nature. A river never dies, it is simply the collection of water as it drips down to gravity, and so long as water is water and gravity is gravity, and a drop of heat exists, there will //always// be a river, slowly moving that water around. The legacy roughly collects pantheons of this nature:
 			* A river changes everything around it, Know your place and others will figure out what that means for them
 			* Take in all that comes, no matter what that means to what lies downstream. The river changes but it will survive.
@@ -32,3 +32,36 @@ Here are some notable ones
 
 
 
+### Travelling Will. Dispersal of Karma, Polylithic inheritance.
+	Birth, property law, effort into growth, organisation, and transfer of purpose. Fertility and Family hold secret and powerful rituals. It is not about what you have, but who you give it to, and how you give it. Among the most active, fierce, and beloved gods on Tajik, the most fierce and beloved Potentates. 
+* You act on behalf of others yet to stand where you stand, ensure there is someone to stand there.
+* Give part of yourself to another, be always willing to give more
+* The law of your action is more absolute than the law of your oath. What you do and what is expected of you need not be the same to achieve your goal
+* Organisation of affairs allows the flow of succession. Do not wait until death to promote your next life.
+* The proof of power is your ability to act. Prove your power to others by acting to provide.
+
+### Dispersion of Fears. The Guide, alone, cuts obscuration
+
+Light, silence, meditation, heroism. The domain of Dispersion of Fears is a great unity of gods who realized that their powers were only their tools for their will, a desire to end fears, both within and without. 
+
+
+
+### Wide waters. Unending Vastness. Fields and Awe that hold dreams
+
+Oceans, Space, Fields, Hillsides and skies that seem to stretch to the edge of forever. Wide Waters is the will of those who dwell in spaces that stretch wide. Such places pull the edges of the mind, and contain many things within them. This legacy tends to bear an immense hatred, bordering on jealousy, of **The Wall**, which cannot be surpassed by any god
+
+* The wide waters have more room than they need, take room so that you may give it. Become singular so that you can contain a multitude
+* Homogeneity of state offers equal opportunity
+* Be inexhaustible in all ways that you can be, be nothing in the ways you cannot
+* Offer solitude, communion, and companionship without changing. Know loneliness, diplomacy, and togetherness in equal measure
+* Show all that which is alien in your space why it is alien. Be merciless in showing what hardship means to you, but welcome all that survives. 
+
+### Unstoppable Force
+The simplest of legacies. Strength through overwhelming singular magnitude. 
+* Be strong
+* Become Stronger
+* No one cares how or for what
+
+### Maze of Mysteries, obstruction of the flow changes the balance. 
+
+	Secrets, Arcana, Esoterica, illusions, and lies. All powers that flow are wont to disrupt other things. Be that power, or be poised to disrupt it when it comes too close to your goals. 

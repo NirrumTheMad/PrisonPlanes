@@ -1,0 +1,1 @@
+organisations funded privately by Tajik, also sometimes partly by other companies and donations

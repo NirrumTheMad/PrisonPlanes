@@ -1,0 +1,354 @@
+{
+  "main": {
+    "id": "84602822ad19c8ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "4320b5dbad9769c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914f7cae8d906132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Nombari's Experience.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Nombari's Experience"
+            }
+          },
+          {
+            "id": "21c6d952204a8ac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tajik/Playing_this_world/Plot/Vignette.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vignette"
+            }
+          },
+          {
+            "id": "3876d8e1fc742a0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tajik/Technology/Internet_Locations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Internet_Locations"
+            }
+          },
+          {
+            "id": "b45aeb05638d62af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vehicles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vehicles"
+            }
+          },
+          {
+            "id": "ef78ae9d8c86f816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marshal's Quest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marshal's Quest"
+            }
+          },
+          {
+            "id": "fcef2f482c3592b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "List of Tajik Names.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "List of Tajik Names"
+            }
+          },
+          {
+            "id": "e7b3d01528e19641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tajik/Playing_this_world/Plot/Random_Events.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random_Events"
+            }
+          },
+          {
+            "id": "ad755af0a59e5b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tajik/Playing_this_world/Für Immer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Für Immer"
+            }
+          },
+          {
+            "id": "049a8404f9f688ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Gala.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Gala"
+            }
+          },
+          {
+            "id": "5c7d170007757583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tajik/Playing_this_world/Plot/Random_Events/Special_Event.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Special_Event"
+            }
+          },
+          {
+            "id": "a7992e590ffb194d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resanding technology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resanding technology"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "468981ae5fc81260",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9a0597fd525f180",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ea8b9b52f6b0626",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fdb8843c6a49994a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cyber",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "04bfa20e087f04a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "672a4c98e243e35a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6129c4ec3b088a8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93be1d577bfaa3c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tajik/Playing_this_world/Plot/workshopping.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for workshopping"
+            }
+          },
+          {
+            "id": "9356bbf52574acde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tajik/Playing_this_world/Plot/run_with_the_hunted.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from run_with_the_hunted"
+            }
+          },
+          {
+            "id": "e2fcce98da59141d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "11c8c66fea8cc19a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tajik/Playing_this_world/Plot/run_with_the_hunted.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of run_with_the_hunted"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fcef2f482c3592b2",
+  "lastOpenFiles": [
+    "Tajik/Playing_this_world/Plot/workshopping.md",
+    "List of Tajik Names.md",
+    "Tajik/Playing_this_world/Plot/Crazy_Nights.md",
+    "Tajik/Technology/Internet_Locations.md",
+    "The Internet.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Regions.md",
+    "Elech.md",
+    "Tajik/Technology/Legacies.md",
+    "Ars Memoritiva.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Plot_Notes/Homegroup_2023/How_You_Came_to_Be/Clara.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Shadowfell/Masters_of_The_shadowfell/The_Sun_Soul.md",
+    "Tajik/Playing_this_world/Plot/Random_Events.md",
+    "Tajik/Playing_this_world/Für Immer.md",
+    "vehicles.md",
+    "Marshal's Quest.md",
+    "Tajik/Playing_this_world/Plot/Random_Events/Special_Event.md",
+    "The Black Union.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Plot_Notes/Homegroup_2023/How_You_Came_to_Be/Clara/Spoiler-ideas.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Plot_Notes/Homegroup_2023.md",
+    "Resanding technology.md",
+    "Tajik/Playing_this_world/Plot/Vignette.md",
+    "Tajik/Playing_this_world/Magnum_Raja.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Plot_Notes/Homegroup_2023/Feywild.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Plot_Notes/Homegroup_2023/Feywild/Destinations_Terror.md",
+    "Tajik/Playing_this_world/Plot/workshopping/A_History/devaputras_quest.md",
+    "Tajik/Playing_this_world/Plot/run with the hunted.md",
+    "Pasted image 20250914014022.png",
+    "Pasted image 20250708013611.png",
+    "Pasted image 20250708005448.png",
+    "Untitled",
+    "d208808ab9abfd4952f365f9d7e1fd76.jpg",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image009.png",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image008.png",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image007.png",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image006.png",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image005.png",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image004.png",
+    "FP system - Copy.txt"
+  ]
+}

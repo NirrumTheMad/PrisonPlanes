@@ -7,6 +7,8 @@ Boiling around the world, it can only touch the surface through rifts that its s
 
 It sends out its minions in predictablesque forms, usually grey clay filled with blue fire
 
+Chega - Frail and thin creatures with little purpose other than to die trying, Chega are shaped as  sticklike apes with the barest substance holding them together. They are often left behind to guard places taken by the forces of stolen time. They have a very weak attack, but they often cry in death unless silenced, loud enough to attract other forces
+
 Domoga - most of their face is a very big, toothy mouth, filled with blue fire. They have clublike arms, and very small eyes on its head and chest. These often are the first to crawl from the rifts
 
 Chueen -  Small imps with large horns, a hole for their face. They weild large knives that can be used to tear open rifts. They are critical targets in fights against an opening rift, because the onslaught will never end so long as they live
@@ -22,6 +24,8 @@ Hoigoigoi - Song-singers, resembling six Jakaï combined, these are doom-driven 
 Air Tyrants, Gogatomiir - Like Giant, long-tailed kites of stretched grey skin. Their wide maw sings a song that draws atmospheric dust into them, to be sequestered away elsewhere. 
 
 Grim Sweepers - Cloaked figures with large barrels on their backs large brooms, and dustpans. Things that enter their barrels have their time partially robbed from them, and are sintered together. Eventually they are brought away to a secret location. They seem immune to Elech Tracking, and also seem to wander quite far. 
+
+Niurzh - Pale worms that gather dust underground, from between rocks. They are startled by wind and can teleport to the surface and begin flashing if they find something interesting, though they are limited sensorily and wildly unintelligent. 
 
 Chamgi - blade-headed Cham, much larger, area defense creatures
 

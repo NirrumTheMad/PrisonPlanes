@@ -11,17 +11,14 @@
             "id": "3563074795c19af5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "2025-06-19.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2025-06-19"
             }
           }
         ]
@@ -161,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +187,14 @@
   },
   "active": "7189d1f925752b25",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled.md",
+    "Untitled 2.canvas",
     "Welcome.md",
+    "Untitled 1",
+    "2025-06-19.md",
+    "Untitled.canvas",
+    "Untitled",
     "HTML import/A_Description_of_The_Fey.md",
     "HTML import/5e_Conversion.md",
     "HTML import/5_room.md",
@@ -214,8 +217,6 @@
     "HTML import/Plot 3.md",
     "HTML import/workshopping.md",
     "HTML import/A_History.md",
-    "HTML import/Trenta.md",
-    "HTML import/Meddara.md",
     "HTML import/Attachments/pasted_image001 1.png",
     "HTML import/Attachments/pasted_image007.png",
     "HTML import/Attachments/Screenshot00002.png",

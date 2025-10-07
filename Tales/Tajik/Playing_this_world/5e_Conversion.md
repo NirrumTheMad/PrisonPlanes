@@ -14,7 +14,8 @@ Conveniently, this all works out the same, but starting at level 3 is about the 
 
 [[Chat_GPT_Trial_Classes]]
 [[GPT_take_2]]
-
+[[gpt take 3]]
+[[gpt take 3.5]]
 
 
 ### Skills 
@@ -43,15 +44,15 @@ Medicine contains its original effects, and you can cause a creature you touch t
 	Network Traffic (Craving)
 	Ethereal plane (Restlessness)
 	Ley (Doubt)
-	Local Hells (Anger)
+	Local afterlives (Anger)
 	Time (Sloth)
-**Performance **allows you to (as a bonus action) be heard or seen clearly at normal distances multiplied by your bonus (requires concentration). A negative perfomance prevents perceptions of you by being effected by illusions and enchantments that others are under the effects of, with levels up to your bonus
+**Performance** allows you to (as a bonus action) be heard or seen clearly at normal distances multiplied by your bonus (requires concentration). A negative perfomance prevents perceptions of you by being effected by illusions and enchantments that others are under the effects of, with levels up to your bonus
 Persuasion functions as usual. Negative Persuasion adds to Network Stealth checks. 
-**Religion is now replaced with Ritual. **Ritual allows you to prepare a number of extra ritual spells numbering up to your bonus each day. A spell prepared this way cannot exceed half your level
-Sleight of hand functions as normal. Your sleight of hand bonus also applies to security checks. Negative  Sleight of Hand increases the value of your currency by an amount equal to your bonus (per denomination)
+**Religion is now replaced with Ritual.** Ritual allows you to prepare a number of extra ritual spells numbering up to your bonus each day. A spell prepared this way cannot exceed half your level
+Sleight of hand functions as normal. Your sleight of hand bonus also applies Mechanical checks. Negative  Sleight of Hand increases the value of your currency by an amount equal to your bonus (per denomination)
 	Password Management, Warding rites. 
 Stealth functions as normal, and you able to supress your presence inversely proportionate to your bonus as a bonus action (requires concentration). Negative Stealth adds to checks made to distract.
-**Survival **functions as normal and you are now able to apply your skills to timespans and distances that are proportionate to your bonus. A Negative Survival adds to your ability to appraise the value of goods.
+**Survival** functions as normal and you are now able to apply your skills to timespans and distances that are proportionate to your bonus. A Negative Survival adds to your ability to appraise the value of goods.
 
 
 ### Damage Types 
@@ -99,14 +100,14 @@ When you level as a cleric, you are no longer communing with just your old god, 
 		2 - +Shield, Wedge
 		3 - + Levitate
 	
-	Danganaragi - Reaction 1d4 damage to attacking creature
+	Danganaragi shield - Reaction 1d4 damage to attacking creature
 	
-	Gastor - +1,2,3
+	Gastor spear - +1,2,3
 		1 - One handed
 		2 -  ignore resistance
 		3 - heartpiercer
 		
-	Margali - +1,2,3 (truush, guga, nomaar)
+	Margali hands - +1,2,3 (truush, guga, nomaar)
 		1 - 1d6
 		2 - + 1d6, advantage grapple
 		3 - + 1d6, Siege
@@ -114,7 +115,26 @@ When you level as a cleric, you are no longer communing with just your old god, 
 	Vajra 
 		Eeno - 3 charge,  Dispel Magic, Lightning Lure, Shocking grasp
 		Daaliga - + 3 charges  Counterspell, Lightning bolt, Minute meteors (lightning)
-		Khanarilan - + 3 charges, Greater restoration for 5 
+		Khanarilan ss- + 3 charges, Greater restoration for 5 
+		Monénoga ss- Plant growth and other stuff
+		Mutiaba ss- Light
+		Deramgi Ls- Morale Damage
+		Eilo gs- FUCKIN  *DAMAGE* MY DUDES
+	Logeendā - gotta go fast
+	Kaskgori/Yolgu - Long
+	Lilokkina - Reputation damage
+	Žaga - fuckin damage my duuuude
+	Kombenimagh - Force
+	
+	
+GUNS
+	Chekov's - +1d6 force damage, 5ft push, on next shot for each time you burn an attack to it. Scales with Metaphor?
+	Lost July - 1d20 Radiant damage per shot, 1d8 Necrotic damage to user
+	Autumn - 1d10 Aoe 10ft Grenades
+	Spring - 3d6 5x - Reload 1 round smg
+	
+	
+	
 
 
 

@@ -1,10 +1,9 @@
 # Corporate Landscape 
 Created Wednesday 29 January 2025
 
-![[.]]![[]]
 
 ### Corporations 
-	Most corporations on Tajik have become Monopolies, rather unavoidably. 
+Most corporations on Tajik have become Monopolies, rather unavoidably. 
 	[[Asurenda_Arms]]
 	[[Dalzviit_Wireless]] 
 	[[Diamond_Wheels_Energy]] 
@@ -26,4 +25,7 @@ The Tajik Corporation Controls literally everything. Action against tajik are of
 	* Tajik funds a lot of the social services around the world
 	* Tajik directly allocates funding for research and development to all other companies, and benefits directly from that invesment
 
+
+[[Opensource Underground]] organisations
+* [[The Black Union]] 
 

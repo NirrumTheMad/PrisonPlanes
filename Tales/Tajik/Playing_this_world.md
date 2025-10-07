@@ -20,7 +20,7 @@ What you will lose in that time is up to fate
 	Power on Tajik is immense. Regardless of your abilities in other worlds, what it takes to accomplish anything in this world is *titanic*. To be restful, a chair must be more than a flat piece to sit on. The diseases that plague this world require more than a simple bandaid or tooth brush to get rid of. 
 	
 **Runner**
-[[Plot]] 
+[[Tajik/Playing_this_world/Für Immer]] 
 [[Personal_Time]]
 [[5e_Conversion]] 
 

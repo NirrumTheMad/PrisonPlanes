@@ -8,7 +8,7 @@ Created Friday 16 May 2025
 
 		Bijayana comes in to do an inspection and cuts everyone's pay because of Grant's actions, which they ordered. 
 		
-		The next job is to deliver a Truck full of ProfessionalTien to a Grocery nearby. The Drive goes uneventfully until you get to the loading bay, where a cult has killed all the workers and is performing a ritual to Empower their dark lord. They refuse to unload the truck, and you'll lose your time bonus if you don't get the truck unloaded in time.
+		The next job is to deliver a Truck full of ProfessionalTien to a Grocery nearby. The Drive goes uneventfully until you get to the loading bay, where a cult has killed all the workers and is performing a ritual to Empower their dark lord. They refuse to unload the truck, and you'll lose your time bonus if you don't get the truck unloaded in time. (introduces forklift)
 			* Kill the cultists to get them out of the way
 			* Help the cultists
 			* Try to navigate around the cultists 
