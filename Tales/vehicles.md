@@ -47,7 +47,7 @@ Vehicle classes for different uses
 	    Can move 1-2 units
 	Military Utility
 		Can move 4-6 units
-	Military Transport - Tchoeliti
+	**Tchoeliti** Military Transport 
 		Can Move up to 30 units
 	Military Supertransport
 		Can move 120 units
@@ -61,4 +61,11 @@ Vehicle classes for different uses
 		Requires 1-2 people to run
 	Military weapon platform Metaphor
 		Requires no one to run
-	
+	Aerospace solo - Meiō
+	Aerospace Small
+	Aerospace Medium
+	Aerospace Large
+	Aerospace Combat Small
+	Aerospace Combat Medium
+	Aerospace Combat Large
+	Aerospace Combat Huge

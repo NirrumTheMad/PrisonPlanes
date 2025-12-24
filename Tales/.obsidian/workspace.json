@@ -4,165 +4,291 @@
     "type": "split",
     "children": [
       {
-        "id": "4320b5dbad9769c5",
-        "type": "tabs",
+        "id": "5c2a33da61106dd7",
+        "type": "split",
         "children": [
           {
-            "id": "914f7cae8d906132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Nombari's Experience.md",
-                "mode": "source",
-                "source": false
+            "id": "503ed0f5a92645e5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87a38d9b56c800b9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "glossary.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "glossary"
+                }
               },
-              "icon": "lucide-file",
-              "title": "A Nombari's Experience"
-            }
+              {
+                "id": "843a33d81f1414ca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Für Immer.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Für Immer"
+                }
+              },
+              {
+                "id": "b23d1f251ea5498c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/workshopping/A_History/A_History.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "A_History"
+                }
+              },
+              {
+                "id": "4b4f2809d4ab7865",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/workshopping.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "workshopping"
+                }
+              },
+              {
+                "id": "cba277ade13af07e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rysvyne the Ghost's Quest.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Rysvyne the Ghost's Quest"
+                }
+              },
+              {
+                "id": "aebdc1296afab237",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik Plot for Für Immer.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tajik Plot for Für Immer"
+                }
+              },
+              {
+                "id": "ccb34ccf7e3084cf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Maluni's Quest.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Maluni's Quest"
+                }
+              },
+              {
+                "id": "9a9faf3a27f26213",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Disconnected Magnetic Corridors.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Disconnected Magnetic Corridors"
+                }
+              }
+            ],
+            "currentTab": 4
           },
           {
-            "id": "21c6d952204a8ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tajik/Playing_this_world/Plot/Vignette.md",
-                "mode": "source",
-                "source": false
+            "id": "4320b5dbad9769c5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "914f7cae8d906132",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A Nombari's Experience.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "A Nombari's Experience"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Vignette"
-            }
-          },
-          {
-            "id": "3876d8e1fc742a0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tajik/Technology/Internet_Locations.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "ef78ae9d8c86f816",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Marshal's Quest.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Marshal's Quest"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Internet_Locations"
-            }
-          },
-          {
-            "id": "b45aeb05638d62af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vehicles.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "2fb83aa49846d9d8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Magnum_Raja.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Magnum_Raja"
+                }
               },
-              "icon": "lucide-file",
-              "title": "vehicles"
-            }
-          },
-          {
-            "id": "ef78ae9d8c86f816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marshal's Quest.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "d5786feb785242e4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Counting Steps.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Counting Steps"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Marshal's Quest"
-            }
-          },
-          {
-            "id": "fcef2f482c3592b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of Tajik Names.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "3a3058ff70c2b3be",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/Crazy_Nights.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Crazy_Nights"
+                }
               },
-              "icon": "lucide-file",
-              "title": "List of Tajik Names"
-            }
-          },
-          {
-            "id": "e7b3d01528e19641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tajik/Playing_this_world/Plot/Random_Events.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "fcef2f482c3592b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/5e_Conversion.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "5e_Conversion"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Random_Events"
-            }
-          },
-          {
-            "id": "ad755af0a59e5b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tajik/Playing_this_world/Für Immer.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "e7b3d01528e19641",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/Random_Events.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Random_Events"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Für Immer"
-            }
-          },
-          {
-            "id": "049a8404f9f688ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Gala.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "ac2f255d73d6ca81",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Playing_this_world"
+                }
               },
-              "icon": "lucide-file",
-              "title": "The Gala"
-            }
-          },
-          {
-            "id": "5c7d170007757583",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tajik/Playing_this_world/Plot/Random_Events/Special_Event.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "794c97b8813c7740",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Corporate_Landscape/Asurenda_Arms.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Asurenda_Arms"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Special_Event"
-            }
-          },
-          {
-            "id": "a7992e590ffb194d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resanding technology.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "8c135ee7cc5ca80c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/workshopping/A_History/Fuwa.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Fuwa"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Resanding technology"
-            }
+              {
+                "id": "52c03a7eeff8751c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/workshopping/A_History/A_History.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "A_History"
+                }
+              }
+            ],
+            "currentTab": 10
           }
         ],
-        "currentTab": 5
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -194,7 +320,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cyber",
+                "query": "join ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -310,34 +436,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcef2f482c3592b2",
+  "active": "cba277ade13af07e",
   "lastOpenFiles": [
-    "Tajik/Playing_this_world/Plot/workshopping.md",
-    "List of Tajik Names.md",
-    "Tajik/Playing_this_world/Plot/Crazy_Nights.md",
-    "Tajik/Technology/Internet_Locations.md",
-    "The Internet.md",
+    "Tajik/Playing_this_world/Plot/workshopping/A_History/A_History.md",
+    "Rysvyne the Ghost's Quest.md",
     "Nirrum's_Encyclopedia_of_Varomar/Regions.md",
-    "Elech.md",
-    "Tajik/Technology/Legacies.md",
-    "Ars Memoritiva.md",
-    "Nirrum's_Encyclopedia_of_Varomar/Plot_Notes/Homegroup_2023/How_You_Came_to_Be/Clara.md",
-    "Nirrum's_Encyclopedia_of_Varomar/Shadowfell/Masters_of_The_shadowfell/The_Sun_Soul.md",
-    "Tajik/Playing_this_world/Plot/Random_Events.md",
-    "Tajik/Playing_this_world/Für Immer.md",
-    "vehicles.md",
-    "Marshal's Quest.md",
-    "Tajik/Playing_this_world/Plot/Random_Events/Special_Event.md",
-    "The Black Union.md",
-    "Nirrum's_Encyclopedia_of_Varomar/Plot_Notes/Homegroup_2023/How_You_Came_to_Be/Clara/Spoiler-ideas.md",
-    "Nirrum's_Encyclopedia_of_Varomar/Plot_Notes/Homegroup_2023.md",
-    "Resanding technology.md",
-    "Tajik/Playing_this_world/Plot/Vignette.md",
-    "Tajik/Playing_this_world/Magnum_Raja.md",
-    "Nirrum's_Encyclopedia_of_Varomar/Plot_Notes/Homegroup_2023/Feywild.md",
-    "Nirrum's_Encyclopedia_of_Varomar/Plot_Notes/Homegroup_2023/Feywild/Destinations_Terror.md",
+    "glossary.md",
+    "A Nombari's Experience.md",
+    "Tajik/Playing_this_world/Plot/workshopping/A_History/Fuwa.md",
+    "Tajik/Playing_this_world/Plot/The Hustle.md",
     "Tajik/Playing_this_world/Plot/workshopping/A_History/devaputras_quest.md",
-    "Tajik/Playing_this_world/Plot/run with the hunted.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Notes_on_DMing.md",
+    "Tajik/Playing_this_world/5e_Conversion.md",
+    "The Gala.md",
+    "Tajik/Playing_this_world/Plot/workshopping.md",
+    "Tajik/Playing_this_world/Plot/Random_Events.md",
+    "Tajik/Playing_this_world.md",
+    "Disconnected Magnetic Corridors.md",
+    "Maluni's Quest.md",
+    "Sal Salurshribaga's quest.md",
+    "Tajik Plot for Für Immer.md",
+    "Tajik/Corporate_Landscape/Asurenda_Arms.md",
+    "The Black Union.md",
+    "Tajik/Corporate_Landscape.md",
+    "Mergu's Quest.md",
+    "Marshal's Quest.md",
+    "Crimson Thunder.md",
+    "Chal-obed.md",
+    "Tajik/Playing_this_world/Plot/workshopping/A_History/Hemiha_Ayi.md",
+    "Nirrum's_Encyclopedia_of_Varomar/fundosia sp..png",
     "Pasted image 20250914014022.png",
     "Pasted image 20250708013611.png",
     "Pasted image 20250708005448.png",
@@ -348,7 +475,6 @@
     "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image007.png",
     "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image006.png",
     "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image005.png",
-    "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image004.png",
     "FP system - Copy.txt"
   ]
 }

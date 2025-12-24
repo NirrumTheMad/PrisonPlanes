@@ -1,5 +1,8 @@
 
-Dave is associated with a being called [[Marshal]]
+Dave is associated with a being called [[Marshal]] and [[Salaban's Quest| Salaban]]
+
+Conflict amulet: Dave does not like losing tools. He is also trying to sell everyone out. Dave's favourite tool is trust
+
 
 ##### Bullshit on the wall
 Devaputra wishes to become an Oni, a bargain he thinks is going to work out better for him than for Magnum Raja, as he suspects the Titan's quest is going to be defeated.

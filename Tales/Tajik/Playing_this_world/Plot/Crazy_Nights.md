@@ -14,20 +14,23 @@ Meet some new named NPCs who want to help or obfuscate the plot
 
 
 [[Sheepoo]] comes in one night
-" Listen, ehhhhh, How *much* do you want to cause chaos, like, on a scale from water to sauce, how much flavour can we get on these cheelas?"
+" Heyyyyyyy folks, How *much* are you willing to cause chaos, like, on a scale from water to sauce, how much flavour can we get on these cheelas?"
     A noncommital answer yields "Ah, just thought I'd ask"
-	A somewhat enthusastic answer prompts for the sanding quest for [[Devaputra]]
+	A somewhat enthusastic answer prompts for the sanding quest for [[devaputras_quest]]
 
+"You guys remember Dave? Big blue demon? He's funding a caravan for a multi-part resanding of  the city of Ūbanjūm, which is *arguably* nearby.
+
+He's contacted us to hit four or five Grollers that contain EcastE wireless protocol prototypes.  Now, of course we're getting paid, Bbuuuuuuut* we also could use a few of those prototypes.  Aaaaaand we could also plant a few bugs of our own in those prototypes. aaaaand we could grab some free swag from a mostly frozen city. 
 ##### Dave's Resanding Request
-	Dave provides a transport out onto the blasted plain outside of the river catchment, A fleet of Seventeen Tchoeliti converges, heavily armoured and borderline overtuned for the task. 34 Nombari escorts, two per car, assisting disperser engineers with dispersion equipment from the Temporanger's Guild and a collective three tonnes of sand labelled with the Sandmaker's union stamp. 
+[[Devaputra| Dave]] provides a transport out onto the blasted plain outside of the river catchment, A fleet of Seventeen Tchoeliti converges, heavily armoured and borderline overtuned for the task. 34 Nombari escorts, two per car, assisting disperser engineers with dispersion equipment from the Temporanger's Guild and a collective three tonnes of sand labelled with the Sandmaker's union stamp. 
 
 
 "Why the fuck is the black union here?"
 "Same reason Cryve's here. Same reason we're here. Getting paid"
 "We could take them in right now and get a decent cut"
 "And never get the chance to get that cut again"
-```They continue in cyberspace, detailing how they intend to do it after the job is done
-```
+    They continue in cyberspace, detailing how they intend to do it after the job is done
+
 
 
 You are driven for an exceedingly long time in Tajik terms, Literal hours. Speeding across the blasted landscape, the narrow slit windows of the Tchoeliti supplement what external camera feeds offer to your implants or devices. The world is blasted and jagged rocks with very little in the way of dirt that could be carried by wind. Fading and degrading signs of so many things dot the landscape, ghosts of history. Entire cities and towns, the shells of what once were probably armies, a coral massif, through which thin bands of the aurora can be seen. Eventually, the great city of Ūbanjūm, one of the nearest settlements to Hemma looms into view atop a towering cliff. It has not yet begun to fade. Contrasted white dots on a black and quiet city, the army of MaRa crawls like mites over the bones of Ūbanjūm, lit only by the aurora, the stars, and the dim blue glow of the rifts. Other members of the resanding squad begin to bring up images and scans of the area.
@@ -41,7 +44,11 @@ In Cyberspace, the convoy is linked heavily. Several people are playing Hack-Sac
 
 Magically, the convoy is barely a shimmer to anything looking at it. Coated in a great many layers of obfuscation, people who aren't part of the convoy might find it particularly hard to remember having seen it. Hard to spot, hard to track, hard to hear. 
 
-The Tchoeliti's footprint is as soft as a snowflake, even where the eyeless watchers of the city are as sharp as a sword. In a blizzard, one snowflake might never be noticed, but alone, a single flake can hold a crowd. Something must be done, or the convoy will be swarmed, but anything that gets done will agitate the mass, making them more alert.
+The Tchoeliti's footprint is as soft as a snowflake, even where the eyeless watchers of the city are as sharp as a sword. In a blizzard, one snowflake might never be noticed, but alone, a single flake can hold a crowd. Something must be done, or the convoy will be swarmed, but anything that gets done will agitate the mass, making them more alert. You can feel the coming shattering, scattering, like shot from a shell. The plan is clear as day to you. Spread, out, strike deep, and bail. The more targets, the less people working in tandem or even in concert, the more likely it is for any goal to succeed.
+
+
+
+
 
 #### NPCs
 
@@ -50,6 +57,8 @@ The Tchoeliti's footprint is as soft as a snowflake, even where the eyeless watc
 	Mhuar - PlagueDocker
 	Fire touch - obsessive over fire
 	The oracle of Rust - Once sought the avatar of Ugly truths, Now she is one of the few that can exist peacefully in the wastes
+	Ten Forest Hallba - 
+	Ollie - A four-armed foul-mouthed puncher
 	
 	
 
@@ -61,7 +70,7 @@ The Tchoeliti's footprint is as soft as a snowflake, even where the eyeless watc
 ##### Nombari
 	!ckhoen - 
 	Hujekub - 
-	 mynbuo - 
+	 Mynbuo - 
 	 Alsabar
 	 Uyuigcod
 	 

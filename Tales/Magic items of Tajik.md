@@ -1,0 +1,1 @@
+Pocket Office - Portable space with self-contained amenities. Still requires outside connection. 

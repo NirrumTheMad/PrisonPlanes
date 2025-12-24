@@ -15,7 +15,7 @@ Day to Day
  The hustle rough maps
 	* The house neighbourhood. A square, wide-front with no ground level windows, windows on the smaller upper floor
 		* Gutterman is under the steel stairs that lead from the sidewalk to the landing ramp, which has been graffiti'd to shit
-		* The floor is tile, the walls are 'Default Beige, and the cielings appear to have once contained noise-cancelling tile, and now just have the frames. 
+		* The floor is tile, the walls are 'Default Beige', and the cielings appear to have once contained noise-cancelling tile, and now just have the frames. 
 		* There is a massive front hall, as it used to serve as a check-in desk, the room behind the shutter has been converted to a bedroom, with a toilet on-site, the light is currently out. The Hvac exists, but not in a functional state.
 		* Past the check-in room, a long corridor leads through the Break room, the vending machines are somehow still stocked. This room leads to the balcony, which seems to be completely filled with mylar snack wrappers. The view truly is stunning, as the view extends out over a massive industrial park that reaches to the edge of the city. There is a supply closet open on one end which appears to be converted to a rather large closet.
 		* The corridor through a glass wall and along a wide grey-carpeted room showing three different shades of grey where this was once a living room of sorts, but also clearly held a long line of cubicles. power dropdowns from the cieling are damaged. A Series of Long windows, one shattered by what looks to be a living ball of triangular teeth that look somewhat like cat ears. It has not gotten far, but appears to have made great sport of crunching up the glass.

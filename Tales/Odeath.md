@@ -1,0 +1,1 @@
+this is a quest about taking over a morgue

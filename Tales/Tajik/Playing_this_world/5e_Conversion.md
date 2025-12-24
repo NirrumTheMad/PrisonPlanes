@@ -17,6 +17,7 @@ Conveniently, this all works out the same, but starting at level 3 is about the 
 [[gpt take 3]]
 [[gpt take 3.5]]
 
+Let it be known that that was an *awful* experience, and that chatgpt is a horrible program for even basic tasks.
 
 ### Skills 
 Proficiency or Deficiency

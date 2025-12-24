@@ -7,6 +7,12 @@ Food upgrades for certain resources?
 [[Weird Forces of Power on Tajik]]
 [[Resanding technology]]
 [[List of Tajik Names]]
+[[glossary]]
+[[Tajik Plot for Für Immer]]
+
+
+Tone Promise: 
+
 Resanding others without a permit is Sand Fraud and comes with fines, the fines are higher the more net worth they have.
 
 k6bd bionicle cyberpunk

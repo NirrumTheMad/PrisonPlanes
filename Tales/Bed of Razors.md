@@ -1,0 +1,1 @@
+There are many ways to worship death. Some of them involve living... barely

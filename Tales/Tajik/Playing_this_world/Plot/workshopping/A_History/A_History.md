@@ -5,7 +5,7 @@ A world Once Called Moðiod in one of its many languages found itself the victim
 
 Magnum Raja. The Great King. Moðiod had dealt with such entities a few times before. Killing or imprisoning them. But the great king was wily, and impossibly powerful. Other titans seemed to be drawn to it, and in combat, it routinely bested them, and grew in power.
 
-There was only a single thing that saved Moðiod from fading entirely. A single, hapless chronomancy student, studying time as a hobby had experimented upon himself. **Inenzi Lodum, of Gundemit, **woke from blinking to find half the sky black, the sun swollen, and his people and lands faded. MaRa's attention had long left this place. Slowly, by science and experience, he restored his world, and gained great fame. But MaRa returned, its belly unfilled, rehungered. Again, The world stopped, but this time, Inenzi the Sandy was prepared. Again he repaired his home, and again The Great King returned. It should have been trivial to defeat this titan the third time, but greed and endless suffering seemed to claw the world back into complacency. Inenzi thought to punishments that truly fit the crime that he had heard of, and at the time, relished learning of, and this time, when he went to revive the world, he had stipulations.
+There was only a single thing that saved Moðiod from fading entirely. A single, hapless chronomancy student, studying time as a hobby had experimented upon himself. **Inenzi Lodum, of Gundemit,** woke from blinking to find half the sky black, the sun swollen, and his people and lands faded. MaRa's attention had long left this place. Slowly, by science and experience, he restored his world, and gained great fame. But MaRa returned, its belly unfilled, rehungered. Again, The world stopped, but this time, Inenzi the Sandy was prepared. Again he repaired his home, and again The Great King returned. It should have been trivial to defeat this titan the third time, but greed and endless suffering seemed to claw the world back into complacency. Inenzi thought to punishments that truly fit the crime that he had heard of, and at the time, relished learning of, and this time, when he went to revive the world, he had stipulations.
 	  //"You'll have to sign this paper and pay me to do this again, or I will leave you frozen until you are the last person to free. Your competitors will all have an advantage over you, if we get to you at all"//
 First he freed Lawyers and some like-minded mages and he set about building a world that //would// follow his instructions and commit to its own safety. A world that would do so out of greed and suffering, struggling for a moment of complacency. Make them do what they are good at, after all. With his unparalleled and increasing understanding of Magnum Raja's Power, he marched the entire world at knifepoint into an awful future, one of the few it could recover from.
 
@@ -19,7 +19,15 @@ Hundreds of nations, Eight Major Oceans, Twelve significant Continents, Biodiver
 [[devaputras_quest]]
 [[A Citizen's Experience]]
 [[A Nombari's Experience]]
-Add another antagonist
+[[Marshal's Quest]]
+[[Salaban's Quest]]
+[[The Old Monk's Quest]]
+[[The Wall]]
+[[Gutterman's Insight]]
+[[Mergu's Quest]]
+[[Sal Salurshribaga's quest]]
+[[Maluni's Quest]]
+[[Rysvyne the Ghost's Quest]]
 
 [[The Internet]]
 ### Continents 
@@ -69,7 +77,7 @@ Rather late in the timeline, The army of [[The Small]] finally made enough of a 
 	
 	A recurring problem is the 8 Winged Sentinel, an apocalypse-class entity, made of compound eyes on veinous stalks, connected to large "feathered" wings (which are actually modified scales). It seems remarkably able to recover from stolen time events, as Inenzi has fought it personally six times, and now made a task force to deal with it. 
 	
-	During the Blossoming mountain war, Named for one of the spells cast which last hundreds of clocked years afterward, The value of Graviturges was exemplified, when both sides came together to defeat a massive storm of world-buster meteors. As the war raged on, many of these mages went missing, only to turn up in Tajik's employ.
+	During the Blossoming mountain war, Named for one of the spells cast which lasted hundreds of clocked years afterward, The value of Graviturges was exemplified, when both sides came together to defeat a massive storm of world-buster meteors. As the war raged on, many of these mages went missing, only to turn up in Tajik's employ.
 	
 	Halfway through the clocked history of the world as Tajik, The Wall erupted in massive hooked tentacles, threatening to engulf the world, the star, and several worlds around. This is the only time in known history that Inenzi has talked Magnum Raja Down from attacking, and this preceded a brief truce. The wall's newest emission was dealt with, and a week without sanding or incursions followed. 
 	
@@ -93,7 +101,7 @@ Rather late in the timeline, The army of [[The Small]] finally made enough of a 
 	
 		Two beings bearing the name Chakravartin fight on the newly formed tidal glacier that encompasses one half of the world. During a moment of stalemate, The Old Monk calls them down to tea as he has done hundreds of times before. This time, the smell of the tea is extra potent. It has taken hundreds of attempts to get right. The tea is good enough to disrupt their battle, and will only get better in the next forty attempts. One of those Chakravartin founds //Diamond Wheels Energy, // the other has no intention to do anything so constructive and dies after his next cup of tea. The Old Monk builds a shrine out of his body in what will be the Corporate office of Diamond Wheels Energy. 
 
-	The Old Monk occupies the point of land closest to the wall. His insurance is Unquestionable. His enemy infinite. He says he studies patterns in the swirling black. He says the wall is not as opaque as it seems. Inenzi asks him for aid. The Old Monk is Reluctant to give it.  His is something Akin to a Bodhisattva, a mostly enlightened being, though he feels little in the way of kindness. He is the oldest immortal on the plane.
+	The Old Monk occupies the point of land closest to the wall. His insurance is Unquestionable, Named. His enemy infinite. He says he studies patterns in the swirling black. He says the wall is not as opaque as it seems. Inenzi asks him for aid. The Old Monk is Reluctant to give it.  His is something Akin to a Bodhisattva, a mostly enlightened being, though he feels little in the way of kindness. He is the oldest immortal on the plane.
 	
 	The Old Monk is what threw Moðiod toward the wall, Seeking to find the edge of the universe.
 	

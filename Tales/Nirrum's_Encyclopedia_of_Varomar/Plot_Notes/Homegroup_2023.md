@@ -274,10 +274,10 @@ Boss
 
 Toolbox
 
--&gt;Vaylen as NPC can direct people into the feywild 
--&gt; Zul Probably can help people find cult members
--&gt; Danzuishanese maze is an option
--&gt; give them nightmares for the moon
+ Vaylen as NPC can direct people into the feywild 
+  Zul Probably can help people find cult members
+  Danzuishanese maze is an option
+  give them nightmares for the moon
 
 
 

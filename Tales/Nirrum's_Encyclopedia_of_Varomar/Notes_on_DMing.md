@@ -200,3 +200,11 @@ Compress resolution
 	
 
 	https://discord.com/channels/@me/549725155245555713
+
+
+### The purpose of plot
+
+Setting plot and character exist to facilitate conflict
+Each element or page should have an "amulet" of conflict
+
+Make a tone promise
