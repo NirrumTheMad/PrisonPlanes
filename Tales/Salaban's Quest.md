@@ -3,7 +3,7 @@ Conflict Amulet: Salaban is both powerfully driven and has some modestly severe 
 
 
 
-Salaban is the owner of the morgue underneath the party's house. They are responsible for the sundering and separating of several hundred bodies per day. They are not a spectacularly noteworthy morgue, but she makes it work for her. She isa fairly short humanoid, wears a round mask with a fur hood and a poncho-like cloak over her white clothes. She does not wear footwear, dances a lot, and loves gold
+Salaban is the owner of the morgue underneath the party's house. They are responsible for the sundering and separating of several hundred bodies per day. They are not a spectacularly noteworthy morgue, but she makes it work for her. She is a fairly short humanoid, wears a round mask with a fur hood and a poncho-like cloak over her white clothes. She does not wear footwear, dances a lot, and loves gold
 
 Salaban has been keeping one of the least requested resources from her morgue for herself. Divinity. Portfolios of gods, fragments of legacies, extracted holiness and nature from relics, artifacts, symbols and stories. While it is difficult or impossible to recharge or reconstitute these things to their full power, they don't take up much space, and the dead are many in number. As her hoard grows, so do her abilities. Her capacity to attune to magic, her ability to sustain technologies that would otherwise strain her system or overrun her. Even the size of the resources she carries would be a hindrance were it not for the resources themselves.
 
@@ -20,6 +20,8 @@ Salaban needs to:
 	* [[Bonetrousle]]
 * Encourage the tendril of Nirrum's interuniversal scrying to help guide her to a future where there is more death she can take advantage of, including her own
 	* [[Gallows]]
+* Ascension to Unquestionable
+	* [[Hallowed be thy name]]
 
 
 

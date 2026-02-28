@@ -16,24 +16,27 @@ First there were still countries, Citystates, Conglomerates.
 Hundreds of nations, Eight Major Oceans, Twelve significant Continents, Biodiverse habitats, Two massive shield volcanoes, Eishur and Èsukono, sites of immense reference and pilgrimage, later in their history known as the Eyes of the world.
 
 [[Inenzis_Quest]] 
-[[devaputras_quest]]
+[[devaputras_quest]] - The Clinging Man
 [[A Citizen's Experience]]
 [[A Nombari's Experience]]
-[[Marshal's Quest]]
-[[Salaban's Quest]]
-[[The Old Monk's Quest]]
-[[The Wall]]
-[[Gutterman's Insight]]
-[[Mergu's Quest]]
-[[Sal Salurshribaga's quest]]
-[[Maluni's Quest]]
-[[Rysvyne the Ghost's Quest]]
+[[A Chobā's Experience]]
+[[Marshal's Quest]] - He who avoids falling
+[[Salaban's Quest]] - The Mortician
+[[The Old Monk's Quest]] - The last birth
+[[The Wall]] - Where angels fear to tread
+[[Gutterman's Insight]] - He who sits outside
+[[Mergu's Quest]] - The Gravetender
+[[Sal Salurshribaga's quest]] - The ghost in flesh
+[[Maluni's Quest]] - The Dragon 
+[[Rysvyne the Ghost's Quest]] - The Fading Memory
+[[The Cult of the Shining Egg's Quest]] - The unborn destiny
+[[Hellebore the Radiant's Quest]] -dante, sans inferno
 
 [[The Internet]]
 ### Continents 
 [[Hemiha_Ayi]] What once was a massive archipelago is now a series of plateaus
 [[Fuwa]] - Tipped china
-[[Chichimi]]  -Desert, Jungle, Giant mountain
+[[Chichimi]]  -Desert, Jungle, Giant mountain, now one landmass with Chichiwa
 [[Meddara]]  - From antarctic to northern tropic, Giant mountain
 [[Trenta]] - A slim fragment that housed a major empire
 [[Avisumari]] - A small tropical continent
@@ -55,7 +58,7 @@ Hundreds of nations, Eight Major Oceans, Twelve significant Continents, Biodiver
 	
 	Fiendish and Demonstrably Evil and assholish entities once became so frequent in the upper Echelons of Tajik, that they almost doomed the world with their rapid descent into open wars. The Third time this happened, the Sand war law was passed, and most of those entities were Discarnated into fertiliser. A specific type of asshole is the only sort to survive the position now.
 	
-	The angel Sull is sealed deep within a stone on Fuwa after attempting to convert the entire continent to their god with seductive enchantments. Benevolent though their god was, they were not taking the threat of Magnum Raja seriously. 
+The angel [[Sull]] is sealed deep within a stone on Fuwa after attempting to convert the entire continent to their god with seductive enchantments. Benevolent though their god was, they were not taking the threat of Magnum Raja seriously. 
 	
 	During one of the early battles fought during the Monopoly Conquest Involved Soldiers riding Machine-Ghost-Whales onto the roof of enemy encampments. They were only repelled by a piano-playing Musician whose piano was made to repel the dead and just happened to be in that building when it was occupied. 
 	
@@ -138,7 +141,7 @@ The Plushgod is invented, leading to brief period where the strongest people are
 
 A bitter mage invents the Manafactor which immediately makes the plushgod less relevant.
 
-The long establish train system is undercut by Bijyana, who scuttles the public system with constant sabotage, then quietly acquires many of the systems 
+The long established train system is undercut by Bijyana, who scuttles the public system with constant sabotage, then quietly acquires many of the systems 
 
 Moðiod had put up the first of its space stations long before it lost its moons, before the first attack
 
@@ -186,8 +189,20 @@ Pavement in the city is largely calcite based and painted black to keep thermal 
 
 Tajik's Gravity has increased by 3% over the past 200 years despite frequent offworld construction
 
+The cephalopodic  Guruunushash Occupies a low orbit around the surface,  the moon-sized entity is surprisingly  friendly, if  a little ruthless in business matters
+
+ The paracoronal  space elevators begin being constructed outside of the green ring. This is one of the few places that artistry really matters as a show of extreme opulence by the people who had constructed it
+ 
+ cats infest most cities, no one knows what they are feeding on until someone stumbles across a valley of literally millions of invisible rat skeletons
+
+Three of the ninety space Elevators are corrupted by influence from the wall.  Several others are hit by phenomenotypical backsplash and converted to match
+
+Among the phenomenotypical influence is the Brassy Grassen Ivory Hall, a Tower that is functional and functionally free, though only the service stairs work, and the central shaft is simply a pit that drops to the surface. It is filled with pillars of ivory that have grown around the support members, with every crevice grown in with metallic grasses shining in dull brassy tones. Leonine automata stalk the platforms, becoming more ornate the higher one rises, eventually growing wings, flying, and eventually losing their bodies to resemble golden Seraphim. 
 
 
+The top of each of the Paracoronal towers links to the exoring which sits just beneath the halo of space stations and debris. The exoring is a massive platform civilisation that is armed to the nines against the wall, but faces consistent incursion anyway, and is often hit by radiation storms. It is mostly kept running by the tithes payed by people who need to ascend past the flight restriction before they can leave Tajik to return to their homes. 
+
+Another among the other Elevators is one of purple, green, rust and lasers, emulating the 90s tmnt sewer aesthetic, filled with brick, sludge, and cowabungas
 
 
 

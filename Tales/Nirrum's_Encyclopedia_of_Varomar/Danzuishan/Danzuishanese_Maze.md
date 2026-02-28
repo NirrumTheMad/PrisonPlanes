@@ -81,7 +81,7 @@ Outside of the Maze there is a sign directing people to go to the Office of the 
 <br>
 
 <p>
-The maze is not a puzzle, It is an oddessy. Experienced Maze-runners have been known to get lost for months. Its domed rooms are of hugely varied size, though many feature vaulted pendentives, often as Muqarnas. The ceilings seem to be made of adamantine, but damage done to them never seems to last after the maze shifts.
+The maze is not a puzzle, It is an oddessy. Experienced Maze-runners have been known to get lost for months. Its domed rooms are of hugely varied size, though many feature vaulted pendentives, often as Muqarnas, as well as apses where doors might occasionally appear. The ceilings seem to be made of adamantine, but damage done to them never seems to last after the maze shifts.
 </p>
 
 <p>

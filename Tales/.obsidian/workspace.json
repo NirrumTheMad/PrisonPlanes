@@ -31,16 +31,44 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tajik/Playing_this_world/Für Immer.md",
+                    "file": "Èlmèstā..md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Für Immer"
+                  "title": "Èlmèstā."
+                }
+              },
+              {
+                "id": "c8deeafc5f17e675",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "House of 1000 corpses.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "House of 1000 corpses"
                 }
               },
               {
                 "id": "b23d1f251ea5498c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Hellebore the Radiant's Quest.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Hellebore the Radiant's Quest"
+                }
+              },
+              {
+                "id": "4b4f2809d4ab7865",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -54,8 +82,37 @@
                 }
               },
               {
-                "id": "4b4f2809d4ab7865",
+                "id": "545c5877e46c65b0",
                 "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A Citizen's Experience.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "A Citizen's Experience"
+                }
+              },
+              {
+                "id": "2c7ac32e11d491fb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A Chobā's Experience.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "A Chobā's Experience"
+                }
+              },
+              {
+                "id": "10cdb213e0033f3c",
+                "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -63,85 +120,86 @@
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
                   "title": "workshopping"
                 }
               },
               {
-                "id": "cba277ade13af07e",
+                "id": "76ac3878018a7d1a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rysvyne the Ghost's Quest.md",
+                    "file": "Chobā.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Rysvyne the Ghost's Quest"
+                  "title": "Chobā"
                 }
               },
               {
-                "id": "aebdc1296afab237",
+                "id": "62a7ba3c12f57171",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tajik Plot for Für Immer.md",
+                    "file": "Sal Salurshribaga's quest.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Tajik Plot for Für Immer"
+                  "title": "Sal Salurshribaga's quest"
                 }
               },
               {
-                "id": "ccb34ccf7e3084cf",
+                "id": "d2ec6a204c19d442",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Maluni's Quest.md",
+                    "file": "DM Screen.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Maluni's Quest"
+                  "title": "DM Screen"
                 }
               },
               {
-                "id": "9a9faf3a27f26213",
+                "id": "65d1a00156e52e12",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Disconnected Magnetic Corridors.md",
+                    "file": "Rewards.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Disconnected Magnetic Corridors"
+                  "title": "Rewards"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 6
           },
           {
             "id": "4320b5dbad9769c5",
             "type": "tabs",
             "children": [
               {
-                "id": "914f7cae8d906132",
+                "id": "fb87cbfdebf299ff",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "A Nombari's Experience.md",
+                    "file": "Tajik/Playing_this_world/Plot/workshopping/A_History/devaputras_quest.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "A Nombari's Experience"
+                  "title": "devaputras_quest"
                 }
               },
               {
@@ -150,12 +208,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Marshal's Quest.md",
+                    "file": "vehicles.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Marshal's Quest"
+                  "title": "vehicles"
                 }
               },
               {
@@ -173,31 +231,31 @@
                 }
               },
               {
+                "id": "208cef87a59f2cb7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "vehicles.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "vehicles"
+                }
+              },
+              {
                 "id": "d5786feb785242e4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Counting Steps.md",
+                    "file": "Tajik/Playing_this_world/Plot/The Hustle.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Counting Steps"
-                }
-              },
-              {
-                "id": "3a3058ff70c2b3be",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tajik/Playing_this_world/Plot/Crazy_Nights.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Crazy_Nights"
+                  "title": "The Hustle"
                 }
               },
               {
@@ -229,63 +287,35 @@
                 }
               },
               {
-                "id": "ac2f255d73d6ca81",
+                "id": "30bbc173b857283c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tajik/Playing_this_world.md",
+                    "file": "Ideas I want to explore.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Playing_this_world"
+                  "title": "Ideas I want to explore"
                 }
               },
               {
-                "id": "794c97b8813c7740",
+                "id": "666bf60686cefcd9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tajik/Corporate_Landscape/Asurenda_Arms.md",
+                    "file": "Tajik/Playing_this_world/Für Immer.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Asurenda_Arms"
-                }
-              },
-              {
-                "id": "8c135ee7cc5ca80c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tajik/Playing_this_world/Plot/workshopping/A_History/Fuwa.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Fuwa"
-                }
-              },
-              {
-                "id": "52c03a7eeff8751c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tajik/Playing_this_world/Plot/workshopping/A_History/A_History.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "A_History"
+                  "title": "Für Immer"
                 }
               }
             ],
-            "currentTab": 10
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -320,7 +350,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "join ",
+                "query": "vehicles",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -341,11 +371,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "right": {
     "id": "672a4c98e243e35a",
@@ -436,34 +467,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cba277ade13af07e",
+  "active": "2c7ac32e11d491fb",
   "lastOpenFiles": [
-    "Tajik/Playing_this_world/Plot/workshopping/A_History/A_History.md",
-    "Rysvyne the Ghost's Quest.md",
-    "Nirrum's_Encyclopedia_of_Varomar/Regions.md",
-    "glossary.md",
-    "A Nombari's Experience.md",
-    "Tajik/Playing_this_world/Plot/workshopping/A_History/Fuwa.md",
-    "Tajik/Playing_this_world/Plot/The Hustle.md",
-    "Tajik/Playing_this_world/Plot/workshopping/A_History/devaputras_quest.md",
-    "Nirrum's_Encyclopedia_of_Varomar/Notes_on_DMing.md",
-    "Tajik/Playing_this_world/5e_Conversion.md",
-    "The Gala.md",
+    "vehicles.md",
+    "A Chobā's Experience.md",
     "Tajik/Playing_this_world/Plot/workshopping.md",
-    "Tajik/Playing_this_world/Plot/Random_Events.md",
-    "Tajik/Playing_this_world.md",
-    "Disconnected Magnetic Corridors.md",
-    "Maluni's Quest.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Useful_DM_Stuff/Random_Plot_hooks/A_Feywild_Adventure.md",
+    "Salaban's Quest.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Feywild/The_Courts_of_the_fey/The_Court_of_Swords.md",
+    "Tajik/Playing_this_world/Plot/workshopping/A_History/A_History.md",
+    "DM Screen.md",
     "Sal Salurshribaga's quest.md",
-    "Tajik Plot for Für Immer.md",
-    "Tajik/Corporate_Landscape/Asurenda_Arms.md",
-    "The Black Union.md",
-    "Tajik/Corporate_Landscape.md",
-    "Mergu's Quest.md",
-    "Marshal's Quest.md",
-    "Crimson Thunder.md",
-    "Chal-obed.md",
-    "Tajik/Playing_this_world/Plot/workshopping/A_History/Hemiha_Ayi.md",
+    "Chobā.md",
+    "A Citizen's Experience.md",
+    "Tajik/Playing_this_world/Plot/workshopping/A_History/Chichimi.md",
+    "Tajik/Playing_this_world/Plot/workshopping/A_History/devaputras_quest.md",
+    "Nirrum's_Encyclopedia_of_Varomar_2/Tajik/Playing_this_world.md",
+    "The Gala.md",
+    "House of 1000 corpses.md",
+    "Èlmèstā..md",
+    "glossary.md",
+    "Gutterman's Insight.md",
+    "Tajik/Playing_this_world/Plot/The Hustle.md",
+    "Tajik/Playing_this_world/Für Immer.md",
+    "Below the Asteroids.md",
+    "Makes me feel better.md",
+    "Ideas I want to explore.md",
+    "Tajik/Playing_this_world/Plot/run with the hunted.md",
+    "Rysvyne the Ghost's Quest.md",
     "Nirrum's_Encyclopedia_of_Varomar/fundosia sp..png",
     "Pasted image 20250914014022.png",
     "Pasted image 20250708013611.png",

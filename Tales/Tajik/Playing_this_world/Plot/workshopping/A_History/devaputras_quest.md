@@ -40,6 +40,7 @@ He has to make every move he makes look like he is *just* ambitious, murderous, 
 	* Visual/magical confirmation from a distance
 		* [[The Book of Heavy Metal]]
 			* Uses a monocrystalline wafer of lead 208 (sulphite?) which is temperature controlled so that neutrino impact will lead to a slight change in current (or the release of a photon?)
+				* 
 			  Layers of this wafer are stacked on each other and angled so that there is no straight-line gap between nuclei, 
 			* 
 	* Garbage and waste
@@ -47,5 +48,6 @@ He has to make every move he makes look like he is *just* ambitious, murderous, 
 		* Needs at least three sensors [[run with the hunted]]
 * He has to replace the incoming shipment with his sabotaged one
 	* He can have the party present during the resanding of one of the deliveries.[[Tajik/Playing_this_world/Plot/Crazy_Nights|Crazy_Nights]]
+* He needs to have access to the [[power plant]] 
 
 "Dave says he'll get your job done for you if you can act as security for his next [[The Gala]](Gala) . You are assailed by a lot of angry uncounted who ask you why would side with this monster"

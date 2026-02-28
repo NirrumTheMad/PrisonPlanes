@@ -38,11 +38,16 @@ You will have already surpassed the uncounted. Those people who cannot defend th
 
 Begin as a finite, a low-class numbered citizen. You must seek money for food or steal it. You have very little, you gain very little. Your concerns are the hierarchy of needs. Your monsters are other people who wish to take all they can take from you. Your class is kept sedated by the dribbles of exquisitely impossible power, the shadows of the strong, and the chance to cast shadows of your own. Your use is as flagstones for the strong. Level ~3-6
 	* You are allowed to eat and shop at actual stores
-	* Main Quest: The Hustle 
-		* Get introduced to the city
-[[The Hustle]] 4
+	* Get introduced to the city
 
+[[House of 1000 corpses]] 4
+[[The Hustle]] 4
+[[Grey land]] 4
 [[run with the hunted]] 5
+
+[[Makes me feel better]]
+
+**Slip an early villain in here**
 
 [[Crazy_Nights]] 6
 			
@@ -65,6 +70,8 @@ After the Infinities are the Incalculable. You can't even see the problems you u
 		* Any member of the Party that travels to Snarl is met with the opportunity to influence their own campaign
 	* At some point someone makes the comment "wait... you're an incalculable? What company are you even with? Wait are you incalculable on brute force? No Inventory management, no specific immunities? You don't have a password vault portfolio? Your Only asset is your ability to do physical battle?"
 		* This person then goes deathly pale
+
+[[Devil Trigger]]
 
 After the incalculable are the unequestionable. You are strong level 15+
 	((Who the fuck are you?

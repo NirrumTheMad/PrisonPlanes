@@ -18,19 +18,19 @@ Vehicle classes for different uses
 		3 Impossible to flip
 	Sport fancy
 		1 This goes so fast but turning is more of an art than a science
-		2  Accelerates so smoothly it is hard to tell that you're going fast
+		2  Doëmeg 2550 
 	Ultrasport fancy
 		1 Fastest, never flip
 		2 So very fast, cannot feel a bump lower than half the tire height 
-	 **Jōbug** Utility small econ
+	 **Jōbug** (scooter sort of deal) Utility small econ
 		Has a trailer
-	Utility Small
+	Gendra (kei truck) Utility med econ
 		Has a pan
 	Utility med
 		can hold a large amount of things
 	Utility Seater
 		can hold more people than average
-	**Groller** - Utility Large
+	**Groller** - Utility Large (Van like thing)
 		Probably could be lived in
 	Utility Large Seater
 		Frequently gets lived in

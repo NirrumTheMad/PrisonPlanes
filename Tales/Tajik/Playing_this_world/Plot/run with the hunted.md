@@ -105,4 +105,5 @@ Find a logged in computer with the correct role access, and rename/renumber your
 Level on finishing quest
 
 Sheepoo congradulates you when you get back to the Black Union safehouse
+[[Makes me feel better]]
 [[Tajik/Playing_this_world/Plot/Crazy_Nights|Crazy_Nights]]

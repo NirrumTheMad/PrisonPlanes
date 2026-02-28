@@ -9,16 +9,23 @@ Food upgrades for certain resources?
 [[List of Tajik Names]]
 [[glossary]]
 [[Tajik Plot for Für Immer]]
+[[DM Screen]]
+[[Rewards]]
+One of the antagonists should be construct a massive and impossibly thick plot around the party, only to be absolutely thwarted by something the party can trivially do
 
-
-Tone Promise: 
+Tone Promise: ???
 
 Resanding others without a permit is Sand Fraud and comes with fines, the fines are higher the more net worth they have.
 
 k6bd bionicle cyberpunk
 
+One fight that gets harder the longer it goes on.
+
 Ammo Tracking uses Magazine dice size, Magazine reserve is tracked normal 
 on a 1, go down a dice size. d12-d10-d8-d6-d4-d2-D one last shot
+
+
+A moment where a sword comes out from a doorway and just stabs a guy. Swords are long
 
 
 YOU CAN ONLY LEVEL UP IF YOU GET AN UPGRADED 
@@ -37,6 +44,9 @@ All creatures the party Kills (other than the forces of MaRa) add to the strengt
 
 The internet is controlled by whatever company owns the buildings in the area. Any Internet service provider that has ever tried to crop up has been //rapidly torn to shreds. //
 
+
+To pull the experience along the edges of ideas I want to explore
+[[Ideas I want to explore]]
 ### Gameplay Loop 
 
 Challenge: Get money, Power, Level up
@@ -101,4 +111,47 @@ for random events that get rolled twice
 
 
 Don't forget the pipeworks, the city service tunnels, THE UNDERCITY
+ [[musical insight]]
 
+
+# Rhythm
+the rhythm, pacing of the intended win conditions
+Drawn means to be pulled askew by forces beyond ones' control
+Threatened means to be *forced off path* by forces beyond ones' control
+Subvert is a victory condition where the party forces another path to change, which changes their path usually back the way it came
+Intro 
+* Annihilate
+* Explore
+* Threatened
+
+Contrast: If annihilation is a pointed singular release, then the contrast to that is ambient compression. 
+
+Verse one, 
+
+| Arc Concept                                                               | The Movement is Entropic of                                        | Fed by                                                 | Coalescing as                       | Feeding                       | Atrophy         |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------ | ----------------------------------- | ----------------------------- | --------------- |
+| the house of 1000 corpses<br>Conflict amulet: Homelessness sucks          | exploiters                                                         | Salaban's want for a tenant, Gutterman's slight nudge  | A hub                               | [[Salaban]]                   | [[Money]]       |
+| Grey Land<br>Conflict amulet: Extra pay sounds nice                       | Job market, time,                                                  | Open Job posting, own needs, the greed of the man ager | A job, [[Money]]                    | the Bijayana manager's scheme | [[exploration]] |
+| The hustle                                                                |                                                                    |                                                        | [[exploration]]                     |                               |                 |
+| The hustle 2<br>Conflict amulet: Your boss sucks and is stealing your pay | Opportunities, built connections, Chyman resources                 | Hunger, Defensive instinct                             | Contacts with the black union       | The Party                     | [[Information]] |
+| Run with the hunted<br>conflict amulet: Corporate assassins               | Corporate hireability, greater structure protections, corporations | [[The Black Union]], Other corporations, [[Devaputra]] | [[Information]], Freedom, ==A car== | The Party                     |                 |
+| <br>                                                                      |                                                                    |                                                        |                                     |                               |                 |
+| Makes Me feel better                                                      |                                                                    |                                                        |                                     |                               |                 |
+|                                                                           |                                                                    |                                                        |                                     |                               |                 |
+|                                                                           |                                                                    |                                                        |                                     |                               |                 |
+|                                                                           |                                                                    |                                                        |                                     |                               |                 |
+|                                                                           |                                                                    |                                                        |                                     |                               |                 |
+|                                                                           |                                                                    |                                                        |                                     |                               |                 |
+|                                                                           |                                                                    |                                                        |                                     |                               |                 |
+|                                                                           |                                                                    |                                                        |                                     |                               |                 |
+|                                                                           |                                                                    |                                                        |                                     |                               |                 |
+
+*
+*
+* Threatened 
+* Subvert
+* Explore x2
+* Drawn x3
+* Threatened
+* Annihilate
+* Rest

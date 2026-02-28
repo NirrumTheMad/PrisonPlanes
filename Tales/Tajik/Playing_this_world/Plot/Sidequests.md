@@ -43,7 +43,7 @@ The Hustle-tier sidequests
 
 Crazy Nights Tier sidequests
 [[Behind_The_Gun]] - Kill a man who's trying to kill a man who's trying to kill a man because he killed a man
-
+[[Below the Asteroids]] - Help someone ascend to the Exoring so they can leave this horrible place.
 
 
 

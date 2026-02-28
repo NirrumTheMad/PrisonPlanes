@@ -8,3 +8,6 @@ He will only tell people why things are morally the right thing to do, following
 
 He has no enemies, will never be targetted, and rather conspicuously to people who level up high in the *metaphor* path, is never worth involving in plots. 
 
+Gutterman contributes to the following quests
+
+- Something - Gutterman could use a new bowl. 

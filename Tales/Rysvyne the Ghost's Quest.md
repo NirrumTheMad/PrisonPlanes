@@ -12,6 +12,8 @@ To defeat Tagarm without boosting Enser, Rysvyne must:
 	Confound and Burden the agents of celebrities
 	Encourage the illicit trade of copyright thieves and slopAI
 	Target datacenters to reduce viability of streams
+	Disrupt the supply chains around entertainment industries
+	
 	
 	
 	
