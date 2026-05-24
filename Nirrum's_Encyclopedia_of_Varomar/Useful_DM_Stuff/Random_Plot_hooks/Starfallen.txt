@@ -1,0 +1,70 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-02-05T14:15:13-03:30
+
+====== Starfallen ======
+Created Monday 05 February 2024
+
+A meteor has punched in through the East aspect ofSkalmirthon, Striking the university entrance hall and plunging into the chaos mine, stopping with unreasonable quiet and minimal damage other than the hole it came through. 
+The head of artifice has put a bounty on the meteor, which has only grown as people have failed to obtain it. The meteorite seems recalcitrant, intent on not being moved at all. and indeed, seems capable of providing nebulous defenses. In order to stem the tide of strange things, the hole was sealed over quickly, you'll have to go around to get in
+The party is contacted to get the the meteorite back to the university where it can be studied, in return, their place on the magic item waitlist is being bumped up. The Meteorite has //other ideas. //
+
+Character Creation rules: Dwarves and Drow only. One free uncommon item. No embark cost restriction on mundane items. 
+
+The Actors:
+	The party, Skalmirthon natives hoping to honor their country, and perhaps to be rewarded
+	The Meteorite - A sapient, fallen magical star, brimming with energy, life, and fear
+	The forces of Malevolent consumption - Horrible creatures that slipped into the plane against its will
+	
+The Setting
+	The chaos mines of Skalmirthon from the north gate toward the university, into the chaos vein, and into the meteor's chamber, a journey in three parts
+		The Mines
+		The Chaos Mines
+		The Chamber of the Fallen star(s)
+		
+
+==== The mines ====
+	Comfortable, familiar, heavily carved, the entrance to the mines is something nearly all dwarves know. Indeed, children often play in the near depths when they need a place of their own to play. Beasts still sometimes roam in but this area is peaceful. Nearer the Chaos Mine, things get strange, Paths warp and wild magic is abound
+	
+	**The Path:**
+	Take the loch tunnel toward the chaos mines
+	
+	Win Condition
+		find the loch tunnel
+	
+	Treasure: 
+		A soft blanket, dropped by a refugee, covering a magical compass
+	
+	Catches: Guards have been avoiding this area, some things may have slipped in. 
+	
+	Twists: 
+		The very last sign has been warped to point the wrong way
+	
+	Enemies
+		1x Displacer beast
+
+==== **The Chaos Mines** ====
+	After Discovering the deception, the chaos mines are next. Directly under the university and previously part of the old Temple of Moradin. The old tunnels were sealed for safety but the mines produce valuable magical ore that is a great source of extremely turbulent magic. 
+	
+	**The Path**
+		Through the ruins of an old cult, repurposed into active mines
+		
+	Win condition:
+		Find and descend the crater-tunnel
+	
+	Treasure: 
+		A chaos ore statuette and a bag of Crazy balls
+		
+	Catches:
+		the chaos mines are newly infested with some eldritch abominations, Heavy fighting is going to ensue
+	
+	Twists: 
+		The hole down is nearly verticle. Hope you picked up rope
+		
+	Enemies:
+		1x grace eater
+		5x neurovore
+		
+
+==== **Chamber of the Fallen Star** ====
+	Escaping from the creepies that scuttled around the chaos mines, the party descends into the chamber of the fallen star. This nearly spherical chamber 

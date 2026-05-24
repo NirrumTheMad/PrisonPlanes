@@ -1,0 +1,60 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-07T22:54:59-02:30
+
+====== Adventure Formula ======
+Created Sunday 07 July 2024
+
+I use this formula for Travelling adventures. This won't work with complex puzzles per se, but it's excellent for overland journeys, or underland journeys as I first used it. 
+
+Actors:
+	A list of all major (and some minor) players and groups, each followed by their relationship to the situation
+	**The bad guys:**
+		Member, Description
+	**The Party:**
+		Member, description
+
+
+**The setting:**
+	A brief description of where this takes place. Settings only describe the environment, not the path, though sometimes environments change.
+	
+	The number of Parts
+		Part Name, description 
+			Sights
+			Smells
+			Sounds 
+			Touches
+			Tastes
+			
+		Part name, description
+			Sights
+			Smells
+			Sounds 
+			Touches
+			Tastes
+
+===== The First Part =====
+Here, a description of how this *should* feel, how it is described to the players.
+
+	**Path: **a description of the actual routes available. High, low, Secrets, irritations, blessings. Include the map here if one is available.
+	**Win condition:** When does this part of the adventure end? How do they move to the next section? *Open the black door* is a good example. List multiple if there are multiple
+	**Treasure:** Natural treasures, forgotten treasures, treasures lost or hidden, Treasuress to be discovered, and their context within the path
+	**Catches: **What hinders the party in general? Is it warm? are they running low on water? what adversity is known to them?
+	**Twists: **What dangers are there that the party does //not// know about, that recontextualises their journey? Not Just normal enemies, but problems, like sudden storms, or someone hunting them. When does this twist show itself?
+	**Enemies:** What threats are on the trail, perhaps known about, expected, or neither, but reasonable to be part of the path? What is their context on the path?
+	
+
+===== The Second Part =====
+	**Path:**
+	**Win Condition:**
+	**Treasure:**
+	**Catches: **
+	**Twists:**
+	**Enemies:**
+
+===== The Third Part =====
+
+
+
+
+

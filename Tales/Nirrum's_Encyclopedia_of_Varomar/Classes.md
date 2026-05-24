@@ -1,0 +1,52 @@
+# Classes 
+Created Monday 06 April 2020
+
+SUGGESTED POSSIBILITIES FOR AN EXAMPLE GAME OF DND 5E
+
+*fuck right off this is mine*
+
+
+### How to understand class-based play on the prison planes. 
+For adventurers who improve their power in their own path, it may be important to understand what sorts of paths there are and how to access them
+
+#### Martial Prowess 
+Not taking on magic in this world is seen as stubborness, stupidity, and sometimes, insanity. Magic is incredibly useful in even its simplest forms, but some people have neither the aptitude, ability, or desire to learn any. For them, acts of violence are often done with the brute force of what their bodies can allow, which is not an inconsiderable amount, despite what some might think. Weapons, objects intended to injure, are often used to this end, but not always. Martial prowess takes advantage of tempo, that is for every action you can take, your opponent is usually capable of taking one as well. Anything that tips this balance in your favour is an incredible advantage, such as reach (one inch longer is one inch stronger, if it can fit), or simply becoming more powerful than the average mortal in your context. The ability to control your body under stress and the output it can deliver are both requisite for any form of might. In general, taking this path is a massive disadvantage, but in the contexts where it is allowed to show its light, it shines brightly. 
+
+
+#### Magic 
+Magic is a strange phenomenon that operates as all forms of energy do. By moving energy around, things happen. What makes magic strange is that it seems to collapse into a great number of other forms of potential energy, and provided ambient magic -Mana- is present, there doesn't seem to be much limit to what can be done given enough skill and control. Magic comes in a great many forms and styles, both intrinsic and extrinsic, endogenous and exogenous, but it does tend to follow predictable rules, even if those rules are obscure and chaotic at times. Nearly all peoples have devoted a portion of their societies to understanding magic. Magic often requires preparation, sometimes expensive or difficult to engineer items and circumstances to meet its full potential, but often, it is worth it.  Some people are born with innate magical capability or understanding. Some people manipulate the very fabric of their beings to be able to do things that even in magical terms are otherwise impossible, or at least difficult. Almost everyone dabbles in magic, or has it as some part of their daily life
+
+#### Will 
+Strictly speaking, will is a form of manipulating magic, but it tends to originate within a person or object. Rather, instead of externally shaping mana, some element of the person or object shapes it, and in rare cases, partially provides the power. Will is interesting in that it allows a person to 
+
+#### Divinity 
+If magic is an expression of potential energy then divinity is an expression of potential magic
+
+
+Classes as they are seen in the world
+[[Artificer]] 
+[[Barbarian]]
+[[Bard]]
+[[Cleric]]
+[[Druid]]
+[[Fighter]]
+[[Monk]]
+[[Paladin]]
+[[Ranger]]
+[[Runegraver]]
+[[Sorceror]]
+[[Warlock]]
+[[Wizard]]
+
+
+
+Homebrew Custom Subclasses
+[[Class_Archetypes]]
+
+
+Setting-friendly classes WIP
+
+Psion
+Battlemind
+Runepriest 
+Hellknight

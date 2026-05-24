@@ -1,0 +1,29 @@
+# Vignette 
+Created Monday 12 May 2025
+
+Session zero
+
+	This game, while it is made in 5e, is a departure from its lore entirely. 
+	You'll need to make a 20th level character on the same rules as the snarl game, but now there are even *less* restrictions on what you can be. Race and form are mild suggestions. Features from multiple races can be mixed, just use detect balance. For my own purposes, I'll need you to tell me what the race that you end up with gives you stats and feature wise.
+	
+	For this character, I need a backstory
+	* The name and forms of your parents or progenitors, reasons for your existence, etc; if your character is aware of that detail
+	* The name and forms of three enemies you have defeated, and a brief description of the problem they posed to you
+	* The names and forms of Any offspring that you have if your character is aware of that detail
+
+	
+	The character you make should be someone who has effectively defeated a major challenge on their home world, sealed an ancient evil, was an ancient evil, founded a kingdom, destroyed a kingdom, walked the streets of the golden city of Shynazzar and found the gate to the lost lands, some reason to have become strong.
+	
+	I'll then do my best to shrink your character down to the equivalent of a level three, trying to represent as many of your spells and abilities as possible. What follows in the world of tajik is that your character will grow in new ways. 
+	
+	When we reach that point You'll get to replace any intelligence based skills (except Arcana, Investigation)  with
+	Vehicles: Personal
+	Vehicles: Forklift
+	Vehicles: Large (Transport, Merkabus)
+	Firearms Proficiency
+	Course - Used for Resisting Chronomancy, Retiming and Sanding, and understanding stolen time phenomena
+	Dharma - your bonus to Death saves, reduces resurrection costs
+	Ritual - Allows you to prepare ritual spells for free
+	
+	
+

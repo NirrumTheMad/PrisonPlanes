@@ -1,0 +1,437 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Ancestry features</title>
+	<meta name='Generator' content='Zim 0.74.2'>
+	<style type='text/css'>
+		a          { text-decoration: none      }
+		a:hover    { text-decoration: underline }
+		a:active   { text-decoration: underline }
+		strike     { color: grey                }
+		u          { text-decoration: none;
+					 background-color: yellow   }
+		tt         { color: #2e3436;            }
+		pre        { color: #2e3436;
+					 margin-left: 20px          }
+		h1         { text-decoration: underline;
+					 color: #4e9a06; margin-bottom: 0 }
+		h2         { color: #4e9a06; margin-bottom: 0 }
+		h3         { color: #4e9a06; margin-bottom: 0 }
+		h4         { color: #4e9a06; margin-bottom: 0 }
+		h5         { color: #4e9a06; margin-bottom: 0 }
+		p          { margin-top: 0              }
+		span.zim-tag {
+			color: #ce5c00;
+		}
+		div.zim-object {
+			border-style:solid;
+			border-width:1px;
+		}
+		.checked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8sMEGsKGkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAEBUlEQVRIx62V22tdRRTGf7Nn73P2ybntnNOe3NqkPTGgLTVUUZF6QatSLOKTPgqCIqLgQ0H/A1sQQbBYCBb1QfAxiC8tSO1FqHkwJVKtjdTGNraUmObsc9nXmfGh7cGYpM1D5nHWzPetteZb3wg2eB2YqYm4zSadsMtoboiNBH/3TE0awx6j+MRoxoTg/IYRvP19TQrJS0bzhdHGSyKFkLTtjSKwMjyiEz43ynhtP6bdjBCWyFobAf7eT7VhNF/q1FRbjYjmUohlCVPwnB+6FUxMTJipqSmUUhhjEGKd3bMT4ks/Y6oLBK2Yth8hHYtCJXOix7Nf7xLMzc0xOzvLzp078TyPNE3viW3QJPXzhNWbxFFKHCmMhoLn/FHodd48vGfhapdAacXQlkFK5dL6wIUm6fuTZPuvqDQhaMUYYyiVyuQr6rXDexYuAdi3tSv1ZJNs/R/CaszzT+1na88uXFnCEnJVgivBNN8uTJKmHQI/ptOOcXNZzMz9mOqFs90OHpipWcYwlo5P4ebnuOkrvr5wgrH+h3im7y36MzuwRXYZeKha/OhP0EkadFoxQSdGSotedR/+XwMc2XvKdNUFOFqZx6LKZWIiwjgkikNmLp/hm8sH+K1zjFTHXfBYdTi+eJArzXM0GxFxoBDCopLvo/fqEwi1XPkWkGqjFo2TgB1jOYZUKZTS/D1/ncmLh7jon0IbRWoiTi59ymzzJEEQE3cStNZsGxqlfPE57MBbOR8fP3hDGalOO9fq2DlBvmZw8xa2IxACGn6TydlD/O6f5OzSV/zif0cYhLQaEXGkKBbz7Ov/AOlXV1cxgBJRI3fuSTrpTawt18kWIZN1CFuaONI0w0WOXfsI43YIggh/KUSlhqxrMz74AkOZcWBm9QkH+Gw8NDLuITi+m0yzhluSyJzBLcpblUhFxywSRAEtPwQjsKVN30CNh0uvYuOubSHLtN3J0TO1j0pmBNuFbFWRK0gyPRZpktL2I5JQkclKakNlnh54g6ocvevUr/Ai2a7wineEkcJupA3S1Wg0nVZM2E6wbEF5U5G9Q++wI7sfR7h3N8HVNstykBfzH+KJEZwiWD0aIwxCgJ0R1Mu7GXOeJSuK93bZtQIle4D9pUNU5DC5jEsu55AvZakM5NicGyEj8uuz8bUCQgj67QfY671P3vEoeC69gy695U1U7NG7XV0pUwBjDJa1/JJlWWxzHuflzQe5FJ/GsgUVuZ2t8lEkTvfc0aNHb72flBhjVicQQqCUuvM3/M+WDVguWBrMVdDXEGZlBVEUrVCU9d9s5+fnaTQa2PZyPxEIhJaI1EEoZwX4ncynp6fXrmB4eJjR0VFarRbNZnP9P9rt9gohqNVq1Ov1ZbF/AZGev3hLJ2/zAAAAAElFTkSuQmCC)}
+		.xchecked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8bDYnDxEwAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAEK0lEQVRIx9WVS2hTWRjHf/eR3CY1nbxMH2YiZRQS6qO13YlMVxY3SnVcuNIBFezGpSADLoQqLu1sHJCqdCFSXFpw4YOCSH3BtFqttTNamabX3DS5bfO6uffMoglja3RGcDMHzuac7/z/53++//cd+L8P6VuCPQYZ8ADNgBd4J31DcDcQs+GnHByRocEDv0kfBSjAOlYCs11Q+gpwDegS8LMJ+3QIK0ATzEhV8Odnz5bzw8P4dJ25aJQ/WlvJ1df/K7hSLtOcTNI+Pk69rpMTgqIQhCDvh1/VSpw79+gRrRMTmLZNezLJJsPg+a5dmOEwQlFqg1sWG16/Jv7sGWXDwBACFQjC9HcwIMONKkGp4PGAJGEDS0IQmZlhnWnye3c3eiyGo6qr3WHbrJ+dJf7gAXI6zSIr72T7/fgzmT4FHnTBsgrQBfYvTU0km5vxz86iADnAm0rRPTWFt7cXZccOJJcLAGHb2K9ekT93jmwmwwdAAFpjI6Ntbfxw5879ag7l6o1sr5eHHR3IsRgeQK/M4sQE+YEB7JcvEY6zAj45SWFgAPPxYwzHoQxIkQjTPT0kIxE+Noj8sexFn4/xnh58iQTeSpHkHAdrbIzi0BCOrmNPTpK/eJHM3bt8sCyKQCiR4NWePWSiUZw1+ZLXJm4pFKLhzBlCsRh2RUXacVgeGaF47RrL58+zcP8+RrmMkCQinZ1EL1zAjERqmkH+tLYl1G3bCJw4QUjT0IA0MJfLMX/5MqmHD0nZNiUgtGULG/r7ccXjINWuWbnmqsuFu7sb/4EDNLlcBIEioNs2KUAFGmMxmk6dQm1tRZI+3xBqEkiShBQOox05Ql1nJ26gvuIUAWiKQnj/ftStW5Fk+YuF+NldsbBA4cYN9KdPmaso8Fc62ZJtk7l1C2t0FGdxESHE1xE4hkHh6lX0oSHSpRIewC/LrPf7CSgKNpCamkI/fZr8pUuIZBIcpyaBunahPp1mub+fDyMjGKUSChCsq6Nh717q9u2jbnSU0uAgRrFIwTThyhUCqRS+hgZKLS1fJvDm87SNjZGcnsYUAjcQ8vsJ9/Xh7u1FDgRQN20iks3iDA+zZFmYhQLqzZtsj8WY3L0baY2Sf55ICCKpFHUzM2SEQAJCHg+hY8fQDh5EDgRWDoRC1J88SePRo2geD0XAcBy8b98Sv3ePYDZbbf2rFQjLIphMsmDbaEBQVQkePox26BCSz7e6i4bDrDt+nGYhmBscpFAskheC4Js3bPR4qHphFYEnlcI7P4/jdqNpGu8TCe4oCsXr1z//F2ga3+/cSfTJE0qmSVYIsKzaOZDcbjKyzFIiwfvt21kMBLA07YsetzWNd+3tLLW0sH5igvT8PH9Go/z44kX+E4LGjg7GDYOcy4XlOEgLC//5P/5LCFzxOPLmzWyIx+m6fduu7v0NVGqyTSycKksAAAAASUVORK5CYII=)}
+		.unchecked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8qAt8h3m8AAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAA60lEQVRIx+2VsQqDMBRF70sCLg5OLoKgjk7+lJ/hh+STXBwcnRz8ArMEkrxOFktbaC3tULzTg5e8k5vADXDq70VbobXmvu/hvQczg4heHrJfXxQFuq67blZbMc8zpmlCXddIkgTOuZcBUko45zCOI6y1Nz2xFSEEZFmGOI7fGg4A3nsQEZqmuXOu9jallACAtm3fvmutNaIoAjM/dkBECCF89KCbk4eAb+kEnIAT8EsAM0OIz3hSyrssUvss8t5fg+uIrLXPs0gIgWVZYIyBUurQyYdheO4gz3NUVQVjDNZ1PfSjpWmKsixvehfB9GBZ3NndrgAAAABJRU5ErkJggg==)}
+		.migrated-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB+AKHREFA8vJSnkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAC1klEQVRIx+2VT0hUURTGf/e958w4Tc3TYowMw1GyEgwr1MqsFmbZIrIWQZsWJUjbdoHQpl3Qps0swnCRECQFYkR/TC1iKkqmfzAKTo2Vf8hoRsfR995tkRMT87RRWkUHHhy495zvnvvu933wP/75EKkkEAjIYDCIaZpIKRFCZN0kfX9xcTGtra2/irVUEolECIfDlJeXo+s6hmFkDaCqKoZhEAqFSCaTv60pqcSyLAoLC/F4PEtqDmCaJkIIKisrMybX0sdUVRWA5ubmPzdNjjI1cpXkZC/O1fV03PXgdDqRUtpPIITAsqxsDz0Z/3CZQv8uqo4N4C8/Tp2/DdM0MiZQlvk41OTkI/LW1SGtCVb5drD3eCc71wcA+VcAHA5vDd8+3UGakxiJV7i9pdQevU5T1R35pJ3MV5QW1pf+0kWBheJ2SWua8EQXZXsu4fVVYEz1sEKvof5EuxjoPvzpcRvrdp9C2gGMx6cpOHBmbImMesds7BZubwMVDTfXDnQ3vQfK7AC8wLfExMX5whyQc3q2OEnjGm5vE76SQxsfBLr77a7CNf+n0r/l6sSMtsBSnurckiIILCobAtVZhpF4gZF4jubaymj4Ch/fd380LE7bAnjc0NPxk2yqpmEuwGxF0ag+0k5uTpzZeBeaazvj0We8fXojainsb2xh2BZgbe0gSIllzSIUh63wfQ6dZ/O2fbjcKlOj58jJ3cVENESw5yErc9nf2MLQ4jwQAkV1Lqiq37/cZ9WaahJjF9AcmxiPDhLs7ePe23oOnmUwg2hSShQle96tKDjA2HAniusgo9FxnvY9Jxw7RWzGYy92QghM00x5g53qp9sHmtB58/o2umOI2NwGolMnMYUHIb7aAyiKwsjICLqu2/qBEIKUUAohMaSHSLyBSMoPTINQ6CX5+fn2AEVFRZSUlBCPx4nFYhl3L4RESjF/GEgX3pSj+Xw+/H7/b3U/AEOZFnp7O5+5AAAAAElFTkSuQmCC)}
+		ul {list-style-image: none}
+		/* ul rule needed to reset style for sub-bullets */
+	</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class='header'>
+	[ <a href='./Quire.html'>Prev</a> ]
+
+	[ <span class='insen'>Index</span> ]
+
+	[ <a href='./Saman_Plains.html'>Next</a> ]
+</div>
+
+<hr />
+
+<!-- Wiki content -->
+
+<div class='pages'>
+	<div class='heading'>
+	<h1>Ancestry features <a name='Nirrum's Encyclopedia of Varomar:Races'></a></h1>
+	</div>
+
+	<div class='content'>
+	<p>
+Created Tuesday 11 February 2020
+</p>
+
+<p>
+Playable ones, to be clear
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h3>Humans<a id="humans" class="h_anchor"></a></h3>
+
+<p>
+<div style='padding-left: 30pt'>
+humans, and close subdivisions<br>
+dwarf, and close subdivisions<br>
+halfling, and close subdivisions<br>
+Orcs
+</div>
+</p>
+
+<br>
+
+<h3>Giants<a id="giants" class="h_anchor"></a></h3>
+
+<p>
+<div style='padding-left: 30pt'>
+Fey giant boys<br>
+Normie Giant boies<br>
+Spooky giants
+</div>
+</p>
+
+<br>
+
+<h3>Dragonkin<a id="dragonkin" class="h_anchor"></a></h3>
+
+<p>
+<div style='padding-left: 30pt'>
+Greater Dragonkin, myriad close subdivisions, and similar beings<br>
+Diminutive Dragonkin<br>
+Lesser Dragonkin, and similar beings
+</div>
+</p>
+
+<br>
+
+<h3>Fey<a id="fey" class="h_anchor"></a></h3>
+
+<p>
+<div style='padding-left: 30pt'>
+Elf, myriad close subdivisions<br>
+Gnome, and some close subdivisions<br>
+Goblin<br>
+Fairy, and myriad subdivisions
+</div>
+</p>
+
+<br>
+
+<h3>Beastial beings<a id="beastial-beings" class="h_anchor"></a></h3>
+
+<p>
+<div style='padding-left: 30pt'>
+Feliniscan, other catfolk<br>
+Lycanthropes and similar beings
+</div>
+</p>
+
+<br>
+<br>
+<br>
+
+<h3>Grey Areas<a id="grey-areas" class="h_anchor"></a></h3>
+
+<p>
+<div style='padding-left: 30pt'>
+Eldritch born, children of devils, fey, angels, gods, and other things that lie just out of sight<br>
+Half-elves, Manarahi, 
+</div>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p>
+<b>Pactborn (/u/barkalot)</b><br>
+<div style='padding-left: 30pt'>
+Tieflings and aasimar are well known among the pactborn, they are the most common by far, but what happens to the descendants of creatures with other pacts? What happens to those who pact with Demons, fey, or otherworldly intelligences hitherto undescribed? They have their own lot of races, some of which are described here. These have been modified from the original to suit the setting and the Trawe have been added
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+All pactborn share the following features.
+</div>
+<div style='padding-left: 60pt'>
+<b>Ability Score Increase.</b> Your Charisma score increases by 2.<br>
+<b>Age.</b> Pactborn mature at the same rate as humans but live a few years longer if they manage to live healthy lives.<br>
+<b>Alignment</b>. Pactborn may not have an innate tendency toward evil, but many of them end up there after a lifetime of desperation and social isolation. Influenced by the mystic imprint of a warlock’s pact, pactborn are prone towards a lawful alignment. <br>
+<b>Size</b>. Pactborn are about the same size and build as humans. Your size is medium.<br>
+<b>Speed.</b> Your basic walking speed is 30.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+<b>Siofra Traits</b><br>
+All siofra share the following features.
+</div>
+<div style='padding-left: 60pt'>
+<b>Ability Score Increase.</b> Your Dexterity score increases by 1<br>
+<b>Chimeric Legacy.</b> You know the minor illusion cantrip. Once you reach 3rd level, you can cast the charm person spell once per day as a 2nd-level spell. Once you reach 5th level, you can also cast the misty step spell once per day. Charisma is your spellcasting ability for these spells. <br>
+<b>Fey Ancestry.</b> You have advantage on saving throws against being charmed, and magic can’t put you to sleep.<br>
+<b>Mind for the Game.</b> You have proficiency in the Deception and Insight skills.<br>
+<b>Languages</b>. You can speak, read, and write Common and Sylvan.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+In Snarl, Siofra are only slightly less common than tieflings. They often have only subtle differences from the race they are raised among, though on occasion these features can be mingbogglingly bizzare. Ranging from small antlers, to eyes that literally sparkle, to hypnotic-sounding voices, to vibrant blue glowing tattoos depicting natural features and creatures around their body and extreme issues with staying indoors in particular on each 7th birthday until they are 28. The Fey nature of these creatures is as varied as the Feywild itself. 
+</div>
+</p>
+
+<br>
+
+<p>
+<div style='padding-left: 30pt'>
+<b>Methuselah Traits</b><br>
+All methuselah share the following features and very few others.
+</div>
+<div style='padding-left: 60pt'>
+<b>Ability Score Increase.</b> Intelligence score increases by 1.<br>
+<b>Ineffable Legacy.</b> You know the prestidigitation cantrip. Once you reach 3rd level, you can cast the sleep spell once per day as a 2nd-level spell. Once you reach 5th level, you can also cast the crown of madness spell once per day. Charisma is your spellcasting ability for these spells.<br>
+<b>Inscrutable Madness Insight.</b> When you complete a long rest roll a d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can sense with this roll. You must choose to do so before the roll and, when you do, you lose this foretold roll. When you take a long rest you lose this foretold roll. <br>
+<b>Incomprehensible resistance. </b>You have resistance to psychic damage. <br>
+<b>Languages.</b> You can speak, read, and write Common and Deep Speech.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+Well. We have enough of these to have a name for them. I'd say no two ever look alike, but then two that look alike would show up just to prove me wrong. From the Hundred-Handed Kotsi Kemadumana'ab to the starry-skinned Meliarch Arkuzovar Vilyahelma. Every Methuselah is different, though as a rule they do seem to prefer mostly humanoid shapes. These are the descendants, sometimes the results, of people's pacts with other extraplanar entities. Great old ones, World-creating trees, starspawn, abberations. These are extremely rare, and sometimes, they just make themselves.
+</div>
+<div style='padding-left: 60pt'>
+<b>DM's Note: </b>Get creative. Mix your class features with whatever you are. We had one guy who made his circle of spores druid just a guy made of worms, and all of his abilities were themed around that idea.  Extra hands do not mean extra attacks and try to keep it reasonable so the DM doesn't have to deal with a hundred mini-advantages you try to give yourself.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+<b>Trawe</b><br>
+All Trawe Share the following traits.
+</div>
+<div style='padding-left: 60pt'>
+<b>Ability Score Increase. </b>Your choice of Strength or Dexterity scores increases by 1.<br>
+<b>Grim legacy. </b>At the end of a long rest, you can magically produce a single weapon. You are proficient in this weapon, you cannot be disarmed while wielding it. If it is a ranged weapon, it comes with One piece of ammunition which returns to you at the start of your next turn if fired. Similarly, if this weapon is ever thrown, it returns to your hand at the start of your next turn or landing at your feet if your hands are occupied. The weapon, despite its obviously magical nature, does not count as magical for overcoming resitances and immunities, and is instead, a natural weapon. Divination or scrying magic directed at the weapon will reveal that the weapon is made of <i>you, </i>and attempts to scry the weapon are attempts to scry <i>you. </i>You can reabsorb the weapon as a bonus action on your turn wherever it is, Producing it as an action on your turn. The weapon is destroyed if you go unconcious or if you destroy it as an action. The weapon never changes shape nor style and stays the same throughout your life.<br>
+<b>Dark Lore. </b>Once you reach 3rd level, you can cast the Shield spell once per day. Once you reach 5th level, you can also cast the Spiritual Weapon spell once per day. Charisma is your spellcasting ability for these spells. <br>
+<b>Resigned resistance. </b>At the end of a long rest, you may choose either Bludgeoning, piercing, or slashing. You have resistance to damage of the type you chose until the end of your next long rest.<br>
+<b>Languages.</b> You can speak, read, and write Common and Elvish
+</div>
+<div style='padding-left: 90pt'>
+<b>DM's Note: </b>It's the Hexblade equivalent of a tiefling. They are grimdark, edgy, and I have no idea what they would begin to look like.
+</div>
+</p>
+
+<p>
+Half-elf Variant: <b>Manarahi</b><br>
+<div style='padding-left: 30pt'>
+Deep in the caves of snarl there exists the remains of a prison, whose function is unknown to (nearly) all. As people and creatures began to land on snarl, they'd often find themselves in this prison. On occasion, they didn't or they'd escape their stone or magical cells into the underdark. Miles beneath the surface, kept alive by grace of luck alone, sapient beings began forming communities. They came into contact with every form of being that was likely to be banished or cast adrift on the farther planes from all across the multiverse. Through three thousand years under the servitude of nearly every evil imaginable, through the guidance of some of the most poweful forms of good, all in rapid succession, these people built an identity, a language to communicate with, and an attitude to welcome newcomers. Few traditions could survive the constant change, No amount of muscle could solve some of the problems that magic did. Extremely few religions could survive the abundance of gods and the dearth of answered prayers, as deep below the magical layers of the specially designed prison, even gods found it difficult to hear things. When they reached the surface and their gods, all races alike were just people, and when they met the Lelumadil dwarves, they were known as the Magic people. Mana Rahi.  Every Manarahi politician, king, god-king, emperor, or rebel has only been able to lead  their people with a few rules. Community matters, If we're not all in this together, we're going to die. Knowledge matters, because there's no guarantee  of any spell to solve whatever new problem we face and we need to know them all to have any chance. Keep moving forward or anything else that figures out the previous two rules is going to kill us.  Even the current library-burning and sexist nation of Kholira believes in the power of magic and the value of knowledge. The Manarahi as a group have strong ties to diversity over homogeniety and communication over isolation. All people are theirs. <br>
+As a "Species", the Manarahi <i>mostly</i> descend from the most commonly compatible races, humans and elves being the most dominant through their history, though <i>every</i> Manarahi has the blood of dragons, fiends, celestials, and every sapient race that <i>could</i> be added to that gene pool. Today there are three main people of the Manarahi. The Ramishi have differed very little from halflings, but for the mostly-half-elf people, If you were born In Manaharamu or Kholira today, there's a chance this is what you'd look like, if you didn't look like something else. 
+</div>
+<div style='padding-left: 60pt'>
+<b>DM's Note:</b> For most purposes, this, alongside Human and Dragonborn, is the "default" race of the setting, by nature of being the most numerous
+</div>
+</p>
+
+<br>
+
+<p>
+<div style='padding-left: 30pt'>
+All(most) Manarahi share the following features.
+</div>
+<div style='padding-left: 60pt'>
+<b>Ability Score Increase.</b> Your Charisma score increases by 1.<br>
+<b>Age. </b>It is common for Manarahi to live longer than a hundred years to about 140, but seldom do they reach over two hundred. They mature at the same rate humans do, but remain in their prime into their 100s. <br>
+<b>Alignment</b>. Among their own people, with their strong social structures, the Manarahi tend toward Lawful or good, though while among other cultures, their goodness gives way to the stubborn nature to keep a community strong and prepared for threats. Manarahi dealing with other cultures may come off as Insensitive and Disruptive. This stubbornness and obnoxiousness mostly just manifests as lawful. Manarahi that observe tyranny or stagnation in a community may go out of their way to disrupt it. They rarely have ill intentions, but there is no promise to the damage of the effects of such efforts. Manarahi that want to see their form of culture as dominant may come off as evil. <br>
+<b>Size</b>. Humans and elves. Your size is medium.<br>
+<b>Speed.</b> Your basic walking speed is 30.<br>
+<b>Languages.</b> You can speak, read, and write Common and Manar
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+<b>Manaharahi</b>
+</div>
+<div style='padding-left: 60pt'>
+<b>Ability Score increase. </b>Your intelligence score increases by 2.<br>
+<b>Mageblooded. </b>You know the prestidigitation cantrip. Once you reach 3rd level, you can cast the Feather fall spell once per day. Once you reach 5th level, you can also cast the Detect Thoughts spell once per day. Charisma is your spellcasting ability for these spells (as is the case for all innate spellcasting). <br>
+<b>Magic Education. </b>You are proficient in the Arcana Skill.<br>
+<b>Octarine Receptors. </b>You have a vestigial sense, allowing you to see the color of magic, granting you advantage on any check made to percieve magic (including magical effects and spells) and an increase to passive ability checks to do so equal to your intelligence or charisma modifier (such as perception and insight). This does not work in magical darkness but can benefit from the use of a telescope, Microscope, or similar device. In Addition, if you have the <i>detect magic spell, </i>then its range is doubled <b>within line of sight. </b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 60pt'>
+<b>Vestigial Darkvision: </b>You can see Normally in Magical and Nonmagical darkness to a range of 5ft, though you lose the ability to see colour past that. You can see shades of grey for another 5ft beyond that. This sense does not benefit from a telescope or similar device. This sense ceases to function if the area you are looking at is in an antimagic field. If you are in a dense magic zone or during a wild magic surge, this effect extends to 100ft. With shades of grey 20ft beyond that. This benefit lasts until you leave the dense magic zone or at the end of your next turn for a wild magic surge.  This effect does not work when your eyes are closed.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+After the fall of Mana Ulla, most of the Manarahi followed the path of the monk Aescetics toward Mohara, settling at its base where a very small natural spring provided some water and a decently thick south-flowing leyline carried plenty of magic to them, upwind of Mana Ulla's disasters. These people named themselves the Manaharahi. The Magic Mountain People. This name became only really relevant whent he Kholirahi people claimed that their way was the way of the true Manarahi, long before they gained their roots. The Manaharahi people are not too different from the folks that made it out of the caves all those years ago. Famously, Tarn Ravora was ten at the time, and he <i>still lives. </i>Magic is like eating to the Manaharahi, and prestidigitation is perhaps one of the most common things they will ever do in their life, in some cases more than talking. Most people don't know about their Octarine receptors and mark their occasional ability to dodge wayward magic as luck. It was difficult to word this in a way that made sense and encompassed the essence of the abilities. 
+</div>
+<div style='padding-left: 90pt'>
+<b>DM's Note: </b>Adventurer is a slur in Manar. Taparmishi, Travelling sword, Mercenary. It describes someone who does not know their responsibilities or  who does not love their people enough and chooses to go chasing fairy tales instead. In Manaharamu people are wary of adventurers as chaos tends to come with them. Stories of wealth and treasure are still more than enough to entice many people to leave their home to explore the world, especially a world so laden with forgotten things.		
+</div>
+</p>
+
+<br>
+
+<p>
+<div style='padding-left: 30pt'>
+<b>Kholirahi</b>
+</div>
+<div style='padding-left: 60pt'>
+<b>Ability score increase. </b>Your wisdom score increases by 2.<br>
+<b>Rudmagic. </b>You know the Thorn-whip and Mage hand cantrips, using your roots for both. Once you reach 3rd level, you can cast the Entangle spell once per day. Once you reach 5th level, you can also cast the Spider climb spell once per day targetting yourself only, you do not need components to cast these spells. Wisdom is your spellcasting ability for these spells. <br>
+<b>Ineffable. </b>You feel very little emotion and strong emotions are dulled. You have advantage on saving throws against being frightened, and you are immune to being charmed and spells that would charm you as part of their effects.<br>
+<b>Truthseeker. </b>You have advantage on checks to percieve illusions and on saving throws against illusion spells.<br>
+<b>Magical Darkvision. </b>You can see normally in darkness to a range of 30ft, including magical darkness, to a range of 30ft. This does not gain benefit from a telescope or similar device. If you are in a dense magic zone or during a wild magic surge, this effect extends to 300ft. With shades of grey 20ft beyond that. This benefit lasts until you leave the dense magic zone or at the end of your next turn for a wild magic surge. This darkvision ceases if you are in an antimagic field. This effect does not work when your eyes are closed
+</div>
+</p>
+
+<br>
+
+<p>
+<div style='padding-left: 30pt'>
+When the Kholirahi moved north from Mana Ulla, they retained some of their incredible vision. They settled in the ruins of the sunstorm crown until the year of darkness. Most of their Wizards and their unique magical tradition died in the siege but those that fled and survived on the slopes of the Ualakomara learned a new one. Root Magic. The Kholirahi, the poetry people believe they have a solemn duty to save others from darkness, illusion, and monsters that would prey on them, gods included. These roots of the white world-tree, severed and rotting, carried magic that dulled the Kholirahi's emotions but granted them the ability to detach themselves from earthly concerns. Implanted in their bodies and feeding on their emotions, the roots grew and spread, feeding their power into the people, turning their fear into strength. The roots work better in men, and thus, nearly the entirety of Kholirahi culture is governed by men. They are honored for the sacrifice of their ability to feel in exchange to protect those they care about. As a culture, they tirelessly sacrifice themselves for the good of all creatures, whether their help is wanted or not. Ironically, the muted effect on their emotions has made them seek out those emotions <i>more</i>. This feeds the roots and to them, their soul. From this, their poems are short but powerful, their songs expertly composed, and their love for their community and family is deep. This also means their warriors are fierce and efficient. On frequent occasions, if they get caught up in hunting people who attempt to run, they can even come off as cruel.<br>
+Few forces can stand in the way of a Kholirahi army. Under the Direction of their Godking, they have taken many prisoners as slaves and work to bring all sapient beings into godhood. They sacrifice their desire to study in order to complete a task they need done, They sacrifice their love for other creatures as individuals for their love of life as a whole, They sacrifice themselves for their Godking's plot. The Kholirahi believe they have proven themselves, and that their godking's ideals have also been proven, that their neighbours to the south are being unfair, hypocrites, and are robbing their kin of equal say in the destiny of the Manarahi as a whole. Injustice, Sacrifice, Poetry. Kholi. The Poetry People. Kholirahi
+</div>
+<div style='padding-left: 60pt'>
+<b>DM's Note: </b>The disparity between men and women among the Kholirahi is not reflected in the stats. By cosmic coincidence, every single player character who chooses to play a female Kholirahi on this plane or any other is and will continue to be able to mesh with the magic equally to any of their male counterparts. Notwithstanding the vast amount of folk to whom the dichotomy does not apply. Thus, there is no need to include it as an aspect of character creation, as it <i>will never matter.</i> Don't be a dick, Dungeons and Dragons is for everyone, and I assure you my lore is robust enough to recover from minor discrepancies, exceptions, and new ideas. 
+</div>
+</p>
+
+<p>
+<div style='padding-left: 60pt'>
+I wanted the Manarahi races to be somewhat special, but not outcompete other races. The Kholirahi break the standard racial spell progression with two cantrips, and as well they have an immunity, and advantage on two types of saving throws which seems pretty powerful and it is. Their abilities do not grant them much protection from the most powerful enchantment and illusion spells at each level. Hold Person is perhaps the most noteworthy spell they have nothing against.
+</div>
+</p>
+
+<p>
+Elf, Half-elf, Mul, Human, Tiefling, Genasi, Aasimar, and anything capable of being related to Human within a generation or two Variant: <br>
+<b>Cosades.</b><br>
+<div style='padding-left: 30pt'>
+<b>Age. </b>The Cosades Family is mostly human, and tend to live up to 80, but it is not uncommon for them to live longer due to other influences and the nature of their home.<br>
+<b>Alignment</b>. Most Cosades are Good aligned.<a href="./Classes/Class_Archetypes/Stars_Patron.html" title="Classes:Class Archetypes:Stars Patron" class="page">Classes:Class Archetypes:Stars Patron</a> All Cosades family members are driven and impetuous though very frequently become chaotic in accomplishing their goals<br>
+<b>Size</b>.  Your size is medium.<br>
+<b>Speed.</b> Your basic walking speed is 30.<br>
+<b>Languages.</b> You can speak, read, and write Common and One other of your choice. You can communicate basic concepts with wolves, dogs, and other canines and learn basic concepts from them, though they are under no compulsion to be friendly to you.<br>
+<b>Ability Score Increase. </b>You Increase your intelligence score by 2 and can increase any ability score by 1.<br>
+<b>Legendary heritage. </b>You know the mage hand and prestidigitation cantrips. At 3rd level, you can cast the legend lore spell at will with only somatic components if the object is within line of sight. Charisma is your spellcasting ability for these spells. <br>
+<b>Seeker's way. </b>You are proficient in the History and Arcana skills.
+</div>
+</p>
+
+<br>
+
+<p>
+<div style='padding-left: 30pt'>
+When you were young, Your grandparent on the Cosades side of the family took you to a dias in the middle of the family grounds. The Sky above you churned as it always does in <b>Limbo, the plane of chaos. </b> Before you were two gilded doors embedded in a  Granite wall, the other side of which you could not see. A few other family members stood by, one of them casting a spell. Your grandparent said that today is the day. The First Passage into adulthood for the Cosades. "You are given a choice. Behind one door is safety. Behind the other is death." You probably asked "how do I know which one is the right one?" and as every single Cosades has answered that question before them, they replied, "You don't." They then began to magically fade out of sight and yelled your name saying "Choose quickly! The wolves are coming, they'll eat you!" And sure enough, a small pack of hungry looking wolves were sprinting down the paths toward you. Alone, surrounded, and hunted, you ran fast toward a door and ripped it open it to be pounced on by wolves who proceeded to lick your face excessively. There, on the other side of the door, your grandparent, the other family members and if they were alive, your parents, all beaming. "Was that the right choice?" You likely asked as you looked at the back of the other door.<br>
+"<b>There was no right choice. The test was to make sure that you chose, Wanderling" </b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+The Cosades family is a mostly human family whose home plane is the ever-changing chaos of Limbo. Like the Githzerai, they have found a way to force some semblance of stability on the plane, through the constant gathering of legendary artifacts and things of historical importance from other planes. If using magic is like eating to the Manarahi, then to the cosades it is blood. The second rite of passage for a Cosades is to head out into the multiverse and find an item of legendary importance and bring it back to the Cosades' home, allowing them to cement a piece of land into place until the importance of that item fades from the memory of the plane it came from. After that, they are free to do what they choose. This dangerous second phase produces as many unmarked graves as it does archmages, archdruids, and transmogrified ex-human animals.  The ties of family are tenuous among the cosades, many get sick of others and sometimes wanderlings attack other wanderlings to steal their artifact and present it as their own. Despite that, they remain mostly cordial. The Cosades family is also Blessed by the Wolf-God Amarok. Their vigor for their hunt echoes that of the god's favoured, indeed, many of them form strong bonds with the creatures and god. The Cosades family is filled with powerful people with great knowledge from across the multiverse, and thus, make good patrons for Seeker warlocks. Bring home an occasional piece of history and we will teach you great powers. These two tests and this wealth of knowledge means something. They mean that even if you don't remember, even if you don't know what your name is, even if you left it behind, <b>your name is Cosades, Magic and Legends are in your blood.</b>
+</div>
+</p>
+
+<p>
+<div style='padding-left: 60pt'>
+<b>DM's Note: </b>Any Point in a Cosades' Life is a good time for them to be thrown into an adventure. Cast adrift on planes in their old age or youth as the ground underneath them fails unexpectedly and is thrown into the chaos; On their second rite, seeking an item of great importance in cultural memory; Or past their rite and able to do with their life what they please and the power they earned from that journey and what sensibilities they espouse.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 60pt'>
+Another thing to note is that legend lore is a comparatively high-level spell, giving it at will to a race may seem <b>mad</b> but it has been my experience that not only does this spell <i>never</i> get picked, but that it is hardly more powerful than an Identify spell, and is otherwise <i>laser</i> focused to the cosades family,
+</div>
+</p>
+
+<p>
+Human Variant<br>
+<b>Grao </b><br>
+<div style='padding-left: 30pt'>
+<b>Age: </b>The grao can live up to 120 years, averaging near 80<br>
+<b>Alignment: </b>The Grao tend to be very Neutral in order to remain adaptive<br>
+<b>Size: </b>Your Size is Medium<br>
+<b>Speed:</b> Your walking speed is 30 and you have a swim speed of 30<br>
+<b>Languages: </b>You Speak Common and Aquan<br>
+<b>Ability Score Increases: </b>Your Strength increases by 2 and your Intelligence increases by 1<br>
+<b>Impetus: </b>You are proficient in all land and sea vehicles. You have advantage on  animal handling checks<br>
+<b>Grao Polearm Mastery. </b>You are Proficient with halberds, Glaives, Tridents, spears, Pikes, Lances, and quarterstaffs<br>
+<b>Witness of Lightning. </b>You know the Lightning Lure Cantrip and resist lightning damage. 
+</div>
+</p>
+
+<p>
+Orc Variant<br>
+<b>Aulufeydth</b><br>
+<div style='padding-left: 30pt'>
+<b>Age</b>: The Aulufeydth tend to live less than 100 years<br>
+<b>Alignment: </b>The Aulufeydth tend to be either extremely lawful or extremely chaotic, Within their culture, there is little difference<br>
+<b>Size: Y</b>our size is medium<br>
+<b>Speed: </b>Your base walking speed is 30<br>
+<b>Languages: </b>You speak Common and Sylvan<br>
+<b>Ability Score Increases: </b>Your strength increases by 2 and your intelligence by 1<br>
+<b>Blindsight. </b>You have blindsight out to 30ft<br>
+<b>Relentless Endurance. </b>Once between long rests, if you would hit 0 hp, you are brought to 1hp instead.<br>
+<b>Leaping Cles. </b>The length of your long jump is doubled and the height of your high jump is tripled. Subtract your Jump height from the distance you have fallen for the purposes of calculating fall damage to yourself.<br>
+<b>Fey Home. </b>You do not lose your bearings in the feywild, though you still need to know where you're going.
+</div>
+</p>
+
+<br>
+
+
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+		<b>Backlinks:</b>
+
+		<a href='..\Nirrum's_Encyclopedia_of_Varomar.html'>Nirrum's Encyclopedia of Varomar</a>
+
+		
+		
+
+		<a href='..\Nirrum's_Encyclopedia_of_Varomar_2\Races.html'>Nirrum's Encyclopedia of Varomar 2:Races</a>
+
+		<br /><br />
+
+	</div>
+
+	
+
+</div>
+
+</body>
+</html>

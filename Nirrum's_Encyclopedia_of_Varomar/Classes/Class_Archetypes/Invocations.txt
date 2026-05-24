@@ -17,6 +17,9 @@ Volcanic Heart (17th)
 Smelldritch blast
 	(Eldritch blast cantrip)
 	Instead of dealing damage with your eldritch blast, you may choose to smell the target instead. Perception checks made using this invocation are made with advantage. All other effects of the eldritch blast apply.
+	
+	
+	
 
 **Invocations that require pact of the shroud**
 

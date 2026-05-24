@@ -1,0 +1,1 @@
+An oldschool wizard, Rhomphorio has been working on a potent magic reworking device which he calls the deflection array. Predictably, part of it has been stolen by a Nombari who intends to sell it off to Dispacker's Furniture or Magicore Magic Supplies. Get it back and unlock a powerful bed

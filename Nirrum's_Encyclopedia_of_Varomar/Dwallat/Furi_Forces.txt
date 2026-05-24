@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-12-04T00:27:28-03:30
+
+====== Furi Forces ======
+Created Monday 04 December 2023
+
+Bandits - thugs that go thump
+Psychics - for covert work
+Assassins - what it says on the tin
+Footmen - used for  crowd control, high damage single target, and bodywork
+Mobster - Used for group work and operations, always operate in gangs
+Scouts
+Thug
+Spy
+Bandit Captain
+Archer
+Veteran
+Master Thief

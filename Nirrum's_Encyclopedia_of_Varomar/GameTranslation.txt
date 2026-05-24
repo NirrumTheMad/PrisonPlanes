@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-05-08T00:30:32-02:30
+
+====== GameTranslation ======
+Created Monday 08 May 2023
+
+the idea is to make a system to translate things across systems
+The system is 10 point range 

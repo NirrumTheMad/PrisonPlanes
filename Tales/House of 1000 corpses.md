@@ -1,0 +1,23 @@
+
+ The hustle rough maps
+	* The house neighbourhood. A square, wide-front with no ground level windows, windows on the smaller upper floor
+		* Gutterman is under the steel stairs that lead from the sidewalk to the landing ramp, which has been graffiti'd to shit
+		* The floor is tile, the walls are 'Default Beige', and the cielings appear to have once contained noise-cancelling tile, and now just have the frames. 
+		* There is a massive front hall, as it used to serve as a check-in desk, the room behind the shutter has been converted to a bedroom, with a toilet on-site, the light is currently out. The Hvac exists, but not in a functional state.
+		* Past the check-in room, a long corridor leads through the Break room, the vending machines are somehow still stocked. This room leads to the balcony, which seems to be completely filled with mylar snack wrappers. The view truly is stunning, as the view extends out over a massive industrial park that reaches to the edge of the city. There is a supply closet open on one end which appears to be converted to a rather large closet.
+		* The corridor through a glass wall and along a wide grey-carpeted room showing three different shades of grey where this was once a living room of sorts, but also clearly held a long line of cubicles. power dropdowns from the cieling are damaged. A Series of Long windows, one shattered by what looks to be a living ball of triangular teeth that look somewhat like cat ears. It has not gotten far, but appears to have made great sport of crunching up the glass.
+		* At one end of the cubicle room is a large bathroom, which has had a shower installed in one of the first stalls. It has two sinks and two toilets, though the stall wall between these two has been removed. The Mirror has a single large crack going along it, A spirit mopes in the reflection. There appears to have been space for a few more toilets but the pipes are disconnected and the stalls removed. The water seems to work fine.
+		* On one wall of the cubicle room is a large bedroom that was clearly a managerial office. It has a wide window series looking out over the roof of the factory and the industrial park. One part of the window has been replaced with plastic board, the glass panel, still on the inside, has a somewhat person sized hole through the spiderweb cracked laminate. This was clearly someone's bedroom as well. Several forgotten effects are still there.
+		* Near the bathroom, there is a double door leading up a stairwell, to a long, featureless corridor, which at the end of which are six rooms. 
+			* One appears to be a server closet. There is space in this room for a rather large access point
+			* another a supply room, which has a very small shower and industrial waste sink that  has been converted to a toilet at the back of it. It has bare concrete walls, a drain in the floor, and a lot of of shelves.
+			* A somewhat small room with a large closet. The closet has a window
+			* A Small gym
+			* A meeting room with a window both to the hallway and outside
+			* A tiny balcony that was once a fire escape but was decomissioned and never replaced, also allows roof access.
+		* The road outside is a ridge road leading down into the industrial park and is seldom used by things other than the trucks used to carry bodies. It descends along a sharp wall into the industrial park. 
+
+After collecting character sheets and examining backstories, the plot follows from getting them together.
+	Ideally they become roommates. To facilitate this, show a list of apartments at a rate of some sand per month. One of them, rather importantly, boasts a furnished kitchen, working sewage with two water closets, heated water, and laundry facilities nearby. The Deal is too good to be true... because it's above a funerary factory, processing (usually) bodies for resources day and night. The Smell is truly awful. Despite the smell //outside//, the obviously converted office space has a balcony overlooking a wide shipping yard. A single Devil's Paintbrush weed grows from accumulated grime in one corner. It also has a window directly above the industrial dumpster seven floors below, on another street. It also boasts a roof access, though this is mostly occupied by hvac and two Massive smokestacks, though there is some space. If the characters explore the //expressly forbidden room on the bottom floor// of their portion of the building, they'll find that through bureaucratic oversight, they actually have another floor they have access to. 
+	
+	It also comes with an ascetic  who lives under the front steps and calls themself Gutterman. He refuses most attempts for hospitality other than offerings of food. 

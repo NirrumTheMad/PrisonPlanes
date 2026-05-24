@@ -1,0 +1,82 @@
+
+
+<!-- Header -->
+<div class='header'>
+	[ <a href='./Adventure_Formula.html'>Prev</a> ]
+
+	[ <span class='insen'>Index</span> ]
+
+	[ <a href='./game_design.html'>Next</a> ]
+</div>
+
+<hr />
+
+<!-- Wiki content -->
+
+<div class='pages'>
+	<div class='heading'>
+	<h1>Eldritch Blasts <a name='Nirrum's Encyclopedia of Varomar:Notes on DMing:Eldritch Blasts'></a></h1>
+	</div>
+
+	<div class='content'>
+	<p>
+Created Monday 17 February 2020
+</p>
+
+<p>
+Like a Fingerprint
+</p>
+
+<p>
+Trails - reaching from the caster to their target<br>
+<ul>
+<li>Snaking and erratic Gold vines with leaves tracing from the caster that would explode into red flowers on impact or on missing - Paridian Cosades</li>
+<li>Long jagged horns or tooth-like protrusions that would erupt from the caster's body and grow toward the target, getting reabsorbed - Agammemnon</li>
+<li>Tentacles - Also Agammemnon</li>
+<li>A massive golden anchor on a chain that gets thrown - Captain Nova Ninewise</li>
+<li>Needles and thread - Character unnamed (artemis)</li>
+</ul>
+</p>
+
+<p>
+Projectiles - Objects that would leave the caster and go to the target<br>
+<ul>
+<li>Six-winged three eyed crows that'd attack the target - someone in the midgard group</li>
+<li>tiny points of light that'd leave straight trails curving tight around obstacles and proceeding straight again to get to their target - Bullets from Jules Vox, Albion</li>
+<li>Pink and green glitter - Vaelyn</li>
+<li>Shadow crows that'd  pass through the target - Branwen</li>
+<li>Tiny versions of the caster -Sparkles</li>
+<li>focused stream of spectral water from levistus-Teahome (artemis)</li>
+<li>mechanical limbs look like parts of steam engines so the pistons on his arm start to speed up and it exhausts a blast of smoke with the sound of a factory whistle</li>
+<li> A purple Blast of energy - Amelia </li>
+
+</ul>
+</p>
+
+<p>
+Summons<br>
+<ul>
+<li>Shadow boxing, a large red ghost monster would appear beside the creature and punch - Ramses Banrak</li>
+<li>A large, watery hand slapping the target after descending from a hidden trapdoor in the air  - The Skenemeron</li>
+</ul>
+</p>
+
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+		<b>Backlinks:</b>
+
+		<a href='..\Notes_on_DMing.html'>Nirrum's Encyclopedia of Varomar:Notes on DMing</a>
+
+		<br /><br />
+
+	</div>
+
+	
+
+</div>
+
+</body>
+</html>

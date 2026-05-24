@@ -17,7 +17,54 @@ The Underdark
 		[[+Broville]] 
 	 Each is unique and takes on the task of living underground in unique ways, none are quite as large as the city-states above and indeed, Cher-mina is part of the Konian Protectorate.
  
-	The Pelagic underdark contains 27 major civilizations. 
+	The Pelagic underdark contains 27 major civilizations, not to be confused with the Underground Sea. I'm not going to fill these out but heed my warning, everything returns to crab
+
+
+The song of the underdark begins with the theme of unkowable threats
+
+
+
+The underdark can best be understood with regions.
+
+Intraegis underdark, underneath the ushlubarel
+	Some of the oldest tunnels, some pre-cataclysm.
+	[[+Intra_aegis_upper_tunnels]]
+	
+The Cracks, rimming the aegis
+	Uncomfortable and dangerous tunnels with many vertical cracks. Occasional lava
+	[[+The_Cracks]]
+	
+Interaegian, Underneath the mountains
+	Frequent lava, occasional eroded tunnels, many artificial bores
+	[[+Inter_aegis_tunnels]] 
+	
+The Underground sea
+	Vast chamber that was built as part of the prison, one of the lowest parts of the underdark
+	[[+Underground_Sea]] 
+	
+The Inferno, east of the aegis, 
+	A constructed lybrinth series  leading to a late addition to the prison
+	[[+The_Inferno]]
+	
+Dar Maku, Antiaegian tunnels (Gannaga River Basin, grass road) 
+	Oldest strata, tunnels head directly to the underground sea or the prison.
+	[[+Dar_Maku]]  
+	
+the southern tunnels (Under the desert and and southern saman,  ganglgegrove
+	Occasional lava, occasional flooding, high pressure regions contiained by airlocks. Many artificial tunnels per worms.
+	[[+Southern_Tunnels]] 
+
+The Prison
+	Regular deep tunnels, interrupted only by  rare wormbore and the cracks
+	[[+The_Prison]] 
+	
+Cham, and the pits, north eastern, yetsin area
+	The Driest and most chaotic series of tunnels
+The Southern Pelagic Underdark, 
+	Nearly completely flooded, save isolated chambers, high pressure crushes in most places. Rare disconnected dry tunnels
+The Rimwise (north) Pelagic Underdark
+	Mostly Wormbore, occasionally downward to deeper chambers, occasionally to remote, uncharted islands
+
 
  Most Notable of the Underdark's Sapient Denizens are:
 	Drow

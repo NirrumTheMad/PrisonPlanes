@@ -1,0 +1,1 @@
+A strange manproximate whose power is built on the souls of billions of his trapped kin.

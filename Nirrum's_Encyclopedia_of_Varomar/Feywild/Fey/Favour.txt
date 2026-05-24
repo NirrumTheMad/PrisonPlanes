@@ -21,5 +21,8 @@ To Calculate a Fey's required Favour to act
 
 CR^2*10 (+-) 1d20 per CR((for influence)) , Minimum 1
 
-Finding a creature's true name automatically grants one influence with that fey
+Finding a creature's true name grants complete control over the outcome of that fey's actions, complete control of their favour, and complete control of their influence.
+
+Greater fey often give a favour to lesser fey, so those lesser fey can exchange favours with lesser fey without losing as much.
+
 

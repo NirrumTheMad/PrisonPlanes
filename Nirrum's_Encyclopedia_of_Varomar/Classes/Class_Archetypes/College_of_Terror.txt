@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-02-25T09:13:52-03:30
 
 ====== College of Terror ======
@@ -19,7 +19,9 @@ The college of terror are bards who specialize in evoking fear, confusion, and a
 	At 3rd level, You find Incredible ways to force your foes attention on things you want them to notice, and away from things they should have paid attention to. When a creature that can see or hear you within 30ft of you makes a Perception check, Insight check, or Saving throw, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the ability check or saving throw succeeds or fails.  In addition you gain the ability to throw your voice, both nonmagically up to five feet and magically up to 30ft to a space or solid object within range. This ability cannot pass through solid obstacles
 
 **Horrid lies, Awful Truths.**
-	You craft what your foes can know is true and false by making everything both. At 6th level you learn the spell //Nystul's Magic// //Aura. //It is a bard spell for you and does not count toward your spells known. Also, as a bonus action on your turn, you may begin harmonizing with the signs of magic within 120ft of you for ten minutes, until you are incapacitated, or until you drop concentration (as if you were concentrating on a spell). While you are harmonized, if a spell or magical ability has a visual effect that you can see or an audio effect that you can hear, then you may create an illusory duplicate of that effect at a point within 120ft of you.  A creature that uses its **action** to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. Physical interaction with the visual effect reveals it to be an illusion, because things can pass through it. If a creature discerns the illusion for what it is, the creature can see through the visual effect until you harmonize with a new effect or the ability ends. You can only maintain one such effect at a time, and if an effect lasts more than one round, you may use a bonus action to maintain it. Once you use this ability you must complete a long rest before you do so again.
+	Functional 1x speed +boost
+	1x attack + boost
+	2x spells 
 
 
 **Despicable, Gnawing, Terror.**

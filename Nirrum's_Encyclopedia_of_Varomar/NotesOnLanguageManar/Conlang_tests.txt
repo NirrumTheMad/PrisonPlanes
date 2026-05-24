@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-08-16T14:12:15-02:30
+
+====== Conlang tests ======
+Created Wednesday 16 August 2023
+
+
+		**Verbing**
+			Manar evolved with the idea that any noun is also a verb that is modified by its subject and it is only by immersion in the language that you learn to interpret the context of some of the stranger ones. These noun-pairings tend to rely on context. Ulla'ti'lo, for example would be  the answer to the question of "how will we get water?" and would mean "We will be welling" with "welling" being implied to be something to do with or for a well, and really, one of the few things you can do with a well is find or dig one. Ulla'ti'lo
+			
+		**Specific Subject**
+			When Verbing, to indicate a specific subject, the properties of the subject come after the verb, Pruwa'ta fani lor, rest does the pink rabbit. The Pink rabbit rests. De pet neshta Pep'ab Ta Lor Fani  (the surface [it moved to], Hopped [onto],  the rabbit pink ) (The pink rabbit hopped onto the surface(table)) (CONTEXT&SPECIFY)(VERB-subjective)(SUBJECT & compliment if ) 
+				OvS
+
+				"Savenarpet Dal Varomar Dalta Nirrum Dal Kaolok" Dala ke... Nirrum Dal Kaolok Ra'a
+					Nirrum The Mad's Encyclopedia of Varomar is mine.... I am Nirrum the mad.
+
+			Nova Alo'ta Tasa, Tasa follows nova 
+			
+			Having him building the house is good for dad
+ (Family house) builds-other <That for> ((good) Is-other (father))  
+	rahialat  Lappa'ta 
+	
+
+
+Birds sing :  Lyssar'ti shagan
+Children play: Lisheme'ti bami
+Dogs bark: Kro'ti Krogan
+Bees hum: um'ti Verlisham
+Baby laughed: hihi'i mimi
+The sun shines: Pinra'ta  Olopi
+the wind blows n'wa'ke omsha
+the car started: Lmao
+School began again: Meooshma Tata'ke Kaolat
+Peter Pan's voice rang out gaily: lyss banwa'ke Ar dal Peter Pan
+Many little girls with wreaths of flowers on their heads danced around the May-pole:  May-Dubol Olo'ti parra linwa saven mivorahi parra hazlat rashta'ke Olo hazlovo dera Pinku ra'ti

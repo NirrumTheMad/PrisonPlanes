@@ -1,0 +1,66 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-09T01:10:51-02:30
+
+====== Worldbuilding Notes ======
+Created Wednesday 09 April 2025
+
+Hemma Roadmap
+	Humankind cannot exist in any reasonable state without Greenspaces. No megacity I dropped in lacked a tree in line of sight at nearly all times, excepting some alleyways, Dehli and rome
+	
+	
+Ring road, Interchange system, Central loop
+
+Staple foods
+
+Music Channels
+
+WAter source
+
+Vehicle classes for different uses
+	Econ
+		1 has the ability to go forward
+		2 has the ability to go forward *and* a roof* 
+	Econ fancy
+		1 the ability to go forward and it *glows*
+		2 has the ability to go forward and a roof and maybe even a spoiler!
+	Better
+		The Most standard car that exists
+	Better Fancy
+		The Most standard car that'll last a little longer than the most standard car
+	Sport
+		1 Turns weird but it's good if you can get used to it, goes fast
+		2 Never turns weird ever, decently fast 
+		3 Impossible to flip
+	Sport fancy
+		1 This goes so fast but turning is more of an art than a science
+		2  Accelerates so smoothly it is hard to tell that you're going fast
+	Ultrasport fancy
+		1 Fastest, never flip
+		2 So very fast, cannot feel a bump lower than half the tire height 
+	Utility small econ
+		Has a trailer
+	Utility Small
+		Has a pan
+	Utility med
+		can hold a large amount of things
+	Utility Seater
+		can hold more people than average
+	Utility large
+		Probably could be lived in
+	Utility Large Seater
+		Frequently gets lived in
+	Utility massive
+		Not Legal on some roads, holds much
+	Utility Ultramassive
+		Not legal on most roads, which are a suggestion to it anyway
+	Weird
+		Scrambler - nondestructive climber. Not very fast, but faster in dense neighbourhoods
+		Hrover - hovercar, drift is the only option, not legal on city streets
+		Tam Lin - Hoverbike, the fastest thing to move in a straight line
+		The Flea - Jumps high, fast, and far. Can only turn when landed *sucks to ride*
+		
+
+
+	
+	

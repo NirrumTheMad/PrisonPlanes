@@ -1,0 +1,112 @@
+# Chat GPT Trial Classes 
+Created Tuesday 13 May 2025
+
+
+[[Class_Breakdown]]
+
+[[csv]]
+
+🎯 Design Goals
+
+
+
+	Fully replicate all 5e class progressions.
+
+	Be modular and customizable for multiclassing, homebrew, or unique builds.
+
+	Point values should balance progression across all classes.
+
+	Easy to use with a table or list of features per class level.
+
+	Allow subclass features and spellcasting progression.
+
+⚙️ System Overview
+1. Point Budget Per Level
+
+Players gain a pool of Feature Points (FP) each level. They spend these to "buy" class features.
+Level	Total FP	FP Gained This Level
+1	3	3
+2	6	3
+3	10	4
+4	14	4
+5	19	5
+6	24	5
+7	30	6
+8	36	6
+9	43	7
+10	50	7
+11	58	8
+12	66	8
+13	75	9
+14	84	9
+15	94	10
+16	104	10
+17	115	11
+18	126	11
+19	138	12
+20	150	12
+🧩 Feature Point Costs
+
+Each feature is broken down into types with average power levels across classes. These point values reflect general utility, power, and frequency of use.
+
+	✅ Use these values to replicate any class progression by summing the features gained at each level.
+
+Core Features
+Feature Type	FP Cost
+Hit Die (d6)	1
+Hit Die (d8)	2
+Hit Die (d10)	3
+Hit Die (d12)	4
+Proficiencies (basic: armor, weapons)	1–3
+Saving Throw Proficiency (per save)	2
+Skill Proficiency (per skill)	1
+
+Combat Features
+Feature	FP Cost
+Fighting Style	4
+Extra Attack (1)	8
+Extra Attack (2) (Fighter only)	10
+Action Surge (1/rest)	8
+Rage (2x/day, scales)	6
+Sneak Attack (per 1d6)	1
+Divine Smite (per level tier)	3–5
+Wild Shape (2 uses, CR 1/4)	6
+War Magic (Eldritch Knight / Bladesinger)	4–6
+Spellcasting
+Spellcasting Feature	FP Cost
+Spellcasting (Full Caster, level 1)	6
+Spellcasting (Half Caster, level 1)	4
+Spellcasting (Third Caster, level 1)	3
+Cantrips Known (per cantrip)	1
+Spell Known (per spell)	1
+Spell Slot Progression (per level tier)	Varies*
+
+	*Spell slot progression is more complex. Full casters get ~4 FP per level just from spell slot growth, scaling up to ~10 FP by level 20.
+
+Subclasses
+Subclass Feature Tier	FP Cost
+Subclass Feature (3rd level)	6
+Subclass Feature (6th level)	5
+Subclass Feature (10th level)	5
+Subclass Feature (14th/18th level)	6
+
+Utility Features
+Feature Type	FP Cost
+Expertise (per skill)	2
+Jack of All Trades	3
+Bardic Inspiration (d6, 1/rest)	4
+Channel Divinity (1/rest)	5
+Evasion, Uncanny Dodge	5
+Indomitable, Relentless Endurance	4
+Aura (10 ft)	5
+Lay on Hands (5x level pool)	4
+Sorcery Points (scales)	6
+Metamagic (per option)	2
+Invocations (per invocation)	3
+Pact Magic (Warlock style)	6
+Arcane Recovery, Natural Recovery	2
+
+Capstones & High-Level Features
+High-Level Feature	FP Cost
+20th-level capstone (e.g., Archdruid, Eldritch Master)	10–12
+Signature Spell / Foresight-like effect	8–10

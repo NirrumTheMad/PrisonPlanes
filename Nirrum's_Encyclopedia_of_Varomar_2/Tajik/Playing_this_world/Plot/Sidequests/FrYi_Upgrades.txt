@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-05-05T16:05:32-02:30
+
+====== FrYi Upgrades ======
+Created Monday 05 May 2025
+
+The Akushala Vid!^{tm} Channel YiTech has put up a video on upgrading a basic analysis system to be able to gather data from nearby satellites
+Unfortunately they've been kidnapped by ECastE and won't be able to upload the next video in the series.
+

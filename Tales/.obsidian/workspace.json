@@ -1,0 +1,585 @@
+{
+  "main": {
+    "id": "84602822ad19c8ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c2a33da61106dd7",
+        "type": "split",
+        "children": [
+          {
+            "id": "503ed0f5a92645e5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87a38d9b56c800b9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "glossary.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "glossary"
+                }
+              },
+              {
+                "id": "843a33d81f1414ca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Èlmèstā..md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Èlmèstā."
+                }
+              },
+              {
+                "id": "c8deeafc5f17e675",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "House of 1000 corpses.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "House of 1000 corpses"
+                }
+              },
+              {
+                "id": "b23d1f251ea5498c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Hellebore the Radiant's Quest.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Hellebore the Radiant's Quest"
+                }
+              },
+              {
+                "id": "4b4f2809d4ab7865",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/workshopping/A_History/A_History.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "A_History"
+                }
+              },
+              {
+                "id": "545c5877e46c65b0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A Citizen's Experience.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "A Citizen's Experience"
+                }
+              },
+              {
+                "id": "2c7ac32e11d491fb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A Chobā's Experience.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "A Chobā's Experience"
+                }
+              },
+              {
+                "id": "10cdb213e0033f3c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/workshopping.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "workshopping"
+                }
+              },
+              {
+                "id": "76ac3878018a7d1a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Chobā.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Chobā"
+                }
+              },
+              {
+                "id": "62a7ba3c12f57171",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sal Salurshribaga's quest.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sal Salurshribaga's quest"
+                }
+              },
+              {
+                "id": "d2ec6a204c19d442",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DM Screen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "DM Screen"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "4320b5dbad9769c5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fb87cbfdebf299ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "power plant.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "power plant"
+                }
+              },
+              {
+                "id": "208cef87a59f2cb7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "vehicles.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "vehicles"
+                }
+              },
+              {
+                "id": "b57ff8b1adef60f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Space.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Space"
+                }
+              },
+              {
+                "id": "d5786feb785242e4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Nirrum's_Encyclopedia_of_Varomar/Magic/Spells.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Spells"
+                }
+              },
+              {
+                "id": "fcef2f482c3592b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/5e_Conversion.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "5e_Conversion"
+                }
+              },
+              {
+                "id": "e7b3d01528e19641",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/Random_Events.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Random_Events"
+                }
+              },
+              {
+                "id": "723e6bee74350326",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/Random_Events/Special_Event.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Special_Event"
+                }
+              },
+              {
+                "id": "2fc497ed81a58d55",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik Plot for Für Immer.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tajik Plot for Für Immer"
+                }
+              },
+              {
+                "id": "90311916558dacb3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/Random_Events/Special_Event.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Special_Event"
+                }
+              },
+              {
+                "id": "ded14b70defa0052",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magnum Raja's Quest.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Magnum Raja's Quest"
+                }
+              },
+              {
+                "id": "30bbc173b857283c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ideas I want to explore.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ideas I want to explore"
+                }
+              },
+              {
+                "id": "666bf60686cefcd9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Nirrum's_Encyclopedia_of_Varomar/NotesOnLanguageManar/Conlang_tests.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Conlang_tests"
+                }
+              },
+              {
+                "id": "1e4f3ea119cacdaa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Nirrum's_Encyclopedia_of_Varomar/NotesOnLanguageManar.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "NotesOnLanguageManar"
+                }
+              },
+              {
+                "id": "e29f540009b9af3a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Forbidden_Creatures.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Forbidden_Creatures"
+                }
+              },
+              {
+                "id": "8b1b5880b39a0c7d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Nirrum's_Encyclopedia_of_Varomar/ManaharamuMonarchy/Plot.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Plot"
+                }
+              }
+            ],
+            "currentTab": 12
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "468981ae5fc81260",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9a0597fd525f180",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ea8b9b52f6b0626",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fdb8843c6a49994a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "university",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "04bfa20e087f04a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "672a4c98e243e35a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6129c4ec3b088a8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93be1d577bfaa3c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tajik/Playing_this_world/Plot/workshopping.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for workshopping"
+            }
+          },
+          {
+            "id": "9356bbf52574acde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tajik/Playing_this_world/Plot/run_with_the_hunted.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from run_with_the_hunted"
+            }
+          },
+          {
+            "id": "e2fcce98da59141d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "11c8c66fea8cc19a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tajik/Playing_this_world/Plot/run_with_the_hunted.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of run_with_the_hunted"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1e4f3ea119cacdaa",
+  "lastOpenFiles": [
+    "Tajik/Playing_this_world/Plot/Random_Events.md",
+    "Tajik/Playing_this_world/5e_Conversion.md",
+    "Tajik/Playing_this_world/Plot/workshopping/A_History/A_History.md",
+    "Nirrum's_Encyclopedia_of_Varomar/NotesOnLanguageManar.md",
+    "Magnum Raja's Quest.md",
+    "Tajik/Playing_this_world/Plot/Random_Events/Special_Event.md",
+    "Tajik Plot for Für Immer.md",
+    "power plant.md",
+    "Space.md",
+    "The Edge of Heaven.md",
+    "Alleviation.md",
+    "Tajik/Playing_this_world/Plot/workshopping.md",
+    "Makes me feel better.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Shadowfell/Masters_of_The_shadowfell/The_Eight_Pathed_one.md",
+    "vehicles.md",
+    "Tajik/Playing_this_world/Forbidden_Creatures.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Notes_on_DMing/Eldritch Blasts.md",
+    "Nirrum's_Encyclopedia_of_Varomar/ManaharamuMonarchy/Plot.md",
+    "Nirrum's_Encyclopedia_of_Varomar/old_cities.txt/dndmycamp3_notes.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Useful_DM_Stuff/Weird_worldbuilding_notes.md",
+    "Weird_Worldbuilding_notes.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Useful_DM_Stuff/Deep_Lore.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic/Spells.md",
+    "Magic items of Tajik.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Classes/Class_Archetypes/Invocations.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Letters_from_The_Author.md",
+    "Pasted image 20250914014022.png",
+    "Nirrum's_Encyclopedia_of_Varomar/fundosia sp..png",
+    "Pasted image 20250708013611.png",
+    "Pasted image 20250708005448.png",
+    "Untitled",
+    "d208808ab9abfd4952f365f9d7e1fd76.jpg",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image009.png",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image008.png",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image007.png",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image006.png",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic_Items/pasted_image005.png",
+    "FP system - Copy.txt"
+  ]
+}

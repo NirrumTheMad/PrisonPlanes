@@ -1,0 +1,36 @@
+# Magnum Raja 
+Created Monday 24 February 2025
+
+Magnum Raja is the name of the titan that desires to eat this world. For its part, to its mind, it is starving. By the scales of humanity, its hunger is endless. By the effort of the world of Tajik, it is unable to leave. By its efforts, there is no place greater to gain power, as the destruction of its weavings is growth to all, and with this same token, it is //filled with hate//. Because it feeds on the dwindling futures of the creatures it has ensnared, it has a vested interest in keeping them intact, usually. In this respect, and because many inhabitants of Tajik are some breed of immortal, it is the influence of MaRa that often is the largest factor in aging, forcing even powerful creatures that have escaped so many forms of destruction toward unending oblivion.  
+
+Boiling around the world, it can only touch the surface through rifts that its servants tear open after a long journey from the moon that hosts it. Though most of its servants come through those rifts
+
+It sends out its minions in predictablesque forms, usually grey clay filled with blue fire
+
+Chega - Frail and thin creatures with little purpose other than to die trying, Chega are shaped as  sticklike apes with the barest substance holding them together. They are often left behind to guard places taken by the forces of stolen time. They have a very weak attack, but they often cry in death unless silenced, loud enough to attract other forces. They are very slow as well, often giving enough time to kill them before they raise the alarm. 
+
+Domoga - most of their face is a very big, toothy mouth, filled with blue fire. They have clublike arms, and very small eyes on its head and chest. These often are the first to crawl from the rifts
+
+Chueen -  Small imps with large horns, a hole for their face. They weild large knives that can be used to tear open rifts. They are critical targets in fights against an opening rift, because the onslaught will never end so long as they live
+
+Ok'o'oko - named for their call, these rattling beasts cast out their call which cannot be heard until it echoes. It takes the form of a clam from within which spring pinkish grey ribbons with speartips to drag in creatures from afar. These often grow near the rifts to protect them.
+
+Jakaï - Giant, Gaunt skulled creature with an extra mouth on it's forehead. They have an extra pair of arms and are usually one of the first greater monsters out of a rift.
+
+Cham - a hooved wolf-like creature whose head is entirely a solid dome. These run swiftly at priority targets but have to gain speed to be a large problem.
+
+Hoigoigoi - Song-singers, resembling six Jakaï combined, these are doom-driven to sing their song, the one that freezes time in a region.
+
+Air Tyrants, Gogatomiir - Like Giant, long-tailed kites of stretched grey skin. Their wide maw sings a song that draws atmospheric dust into them, to be sequestered away elsewhere. 
+
+Grim Sweepers - Cloaked figures with large barrels on their backs large brooms, and dustpans. Things that enter their barrels have their time partially robbed from them, and are sintered together. Eventually they are brought away to a secret location. They seem immune to Elech Tracking, and also seem to wander quite far. 
+
+Niurzh - Pale worms that gather dust underground, from between rocks. They are startled by wind and can teleport to the surface and begin flashing if they find something interesting, though they are limited sensorily and wildly unintelligent. 
+
+Chamgi - blade-headed Cham, much larger, area defense creatures
+
+Idaal - Riders of Chamgi, sapient humanlike warriors that have some limited power to stop time in a region. These act as lieutenants of Magnum Raja
+
+Oni - Servants of Mangum Raja, who are promised power and exemption from the hunger in exchange for servitude. To its Credit, MaRa has kept this promise frequently. These serve as the generals.
+
+Gonjuga - When angry or desperate, Magnum Raja sometimes sends these Sky-touching Titans. Each one is unique, a directly controlled feature of MaRa, shaped to his specific desires, but often they are grey, armoured in unknowable time, often with millions of appendages sized for specific purposes and missions, though often the largest and most notable terminating in splitting ribbons that blow in the breeze before they steal the power from that. 

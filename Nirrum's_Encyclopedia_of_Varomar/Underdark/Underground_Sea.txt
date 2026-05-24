@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-03-15T23:41:51-02:30
+
+====== Underground Sea ======
+Created Friday 15 March 2024
+
+
+The underground sea was originally a perfect bowl intended for focusing planar defenses with magical techniques now long lost. What once was an extremely precise circle is now lopsided and irregular, and no sign of its original purpose remains. The Underground sea is immensely saline, though freshwater rivers feed it. The heat from the magma sea makes the air clammy, without making it too warm while standing on those few dry surfaces available. Rust sets in quick (but nonmagically). The value of the underground sea is how much of the plane it covers, and the threat of the underground sea comes from most things that live within it. Water is a suitable home for many beings that we would consider truly awful, and this water seems especially so. 
+
+
+
+The song of the underground sea is sung in the shape of Grasping appendages. All Leitmotifs are of special greeds. All Instruments resonant and clear with two exceptions. The part of the mind-singer is of low fidelity, scratchy. The part of the deep angel is distorted and screaming.
+
+The parts are as follows
+
+* The Crab Emperor, master of the brood, who seeks food to grind into dust to spread to their clan. Wooden tongue drum, Trumpet
+	* A powerful telepath whose only language is //crab//. They call to all crabs on the plane every year, those that can answer, do so.
+* The Deep Angel, keeper of deep magic, who seeks to pacify the war by destroying its leaders.  Active pickup flying V, Cello, cheap hang drum, crash cymbal
+	* The deep angel dominates the air above the sea, and never enteres the waters. It throws its lance at its targets with immense abhorrence
+* The mind-singer, the flesh coral whose reef ensnares all potential. bit crushed french horn, Chorus, Penny whistle
+	* this colony of calciferous carnivores uses hypnosis to draw things into it. It doesn't always kill its targets, as it is far more cunning than it appears. It is fully capable of scheming and plotting but doesn't seem to understand its materials
+* The school of clean waters,  A nihilistic people who want to carve out a niche in a harsh world with the help of a giant mystic mussel.  glass Armonica, flute, accordion, rain stick
+	* The school of clean waters specialises in genetic manipulation and mostly uses it on abalone to shape their shells into thick ceramic armor and weapons. Their  artificers are unorthodox but clever
+* Aals, the bloodnet, a legion of undead formed by vascular systems colonised by other undead and semi-undeead, desiring more. Bass drum Taiko, Opera Soprano, Carillon 
+	* Undead microbiota drawn to the ever-sweet scent of flesh were one of the first things that the denizens of the underground sea developed immunity to, but not all things that end up in the underground sea are native to it. The bloodnet seeks to spread, and it has largely been the works of the other locals that have stopped it, but every dead  body that sinks into the waters from any of its tributary ends up contributing to the bloodnet. Recently it has gotten more clever and has begun laying traps
+* Bigmaw, a singular, large anglerfish with unspeakable potency. Shrill violin, deep piano, 
+	* Bigmaw has several names that all translate to the exact same concept. 
+	* Bigmaw is essentially a tarrasque, but a fish with the ability to suck with reach
+	* It has a gargantuan healthpool and unreasonable resistances
+	* Does not chase. It just lies in wait and sucks humungous amounts of water in, doing bludgeoning damage and forcing strength saves to avoid piercing 
+* The Radiant machine, Arguably a civilization of automata druids, feasting on the latent divinity abundant in the underground sea, Driven by Divine clockwork. Pipe organ, Bass drum, trumpet
+	* Constantly coming to blows with Clean waters
+	* The radiant machine lacks cohesion of self among any individual piece, but it produces ecosystems to properly consume the divinity and produce more, all out of metals entirely of its own divising.
+	* The sapient pieces of the Radiant machine wish to spread its influence, like a metallic apocalypse, apotheosis, or genesis. They do their best to "convert" things not made of the radiant machine, but things that struggle until they are made anew are hardly unbiased judges
+	* The Radiant Machine contains an entire cosmological model within its working, despite being mostly just metal shuffling around in a cave. within its roiling, a machine heaven, a machine hell, and a unique set of Procedural understandings of the universe, leading to different realms around a central theme.
+* The Serpent Hounds, Incapable of going underwater, scourges of all that peaks above, bane of the shores, They seek meat, and escape but are weak to light. Bassoon and spanish guitar, timpani
+	* Wild Animals Usually aren't this threatening, Magically dense, or cunning
+	* these creatures walk on water as if it is extremely solid ground, and wait above places where they think things are going to die
+	* Capable of magically grabbing things and pulling them toward the surface if they are isolated enough
+	* Long snakelike necks, Dinosaur-like feet, mantis-like claws (multiple per arm) and sharp-toothed hound heads on fur covered bodies
+* Olsolato, A kraken covered in scars from fights with bigmaw. Harp, 12 string guitar, Chimes
+	* Olsolato's tentacles are long, and covered in luminescent and shimmering red and blue markings that usually stay in a pattern of bars, crosshatching, and interlocking triangles in long bands
+	* The Kraken is a patron of strange magics and invades the dreams of those who hear zy's † deep song
+
+
+† See Weird Worldbuilding Notes for notes on Kraken Pronouns

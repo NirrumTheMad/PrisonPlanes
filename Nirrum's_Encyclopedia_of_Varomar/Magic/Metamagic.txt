@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-12-26T18:36:08-03:30
+
+====== Metamagic ======
+Created Tuesday 26 December 2023
+
+
+Planeshuffled. Change creature type in spell description from or to any type other than humanoid or beast

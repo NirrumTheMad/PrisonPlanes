@@ -1,0 +1,4 @@
+# Personal Time 
+Created Monday 28 April 2025
+
+Something required for this campaign is something to be done in downtime, A hobby or something that costs money. Don't worry, it'll pay off in the end but it is required for levelling

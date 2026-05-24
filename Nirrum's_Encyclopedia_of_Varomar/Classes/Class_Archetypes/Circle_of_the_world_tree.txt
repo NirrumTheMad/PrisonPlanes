@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-08-31T10:31:02-02:30
+
+====== Circle of the world tree ======
+Created Thursday 31 August 2023
+
+
+
+**Bark and  Branch**
+	As an action on your turn, you can grow a shield and a wooden staff from your roots. You cannot be disarmed while you wield these, and they disappear when you reabsorb one or both of them as an action. If they are ever cut off, you cannot regrow them until you finish a long rest. 
+
+**Grow thy roots**
+	You gain the ability to sprout and manipulate roots from and within your body.
+	You can expend a use of  of your wild shape to gain tremorsense 60ft for 1 minute rather than assuming a beast form. You may use a bonus action to attach a modest volume sound or a light that casts bright light for five feet to a target that you sense in this range. 
+
+	
+
+**Shadow of the world tree**
+	Starting at sixth level, you can breath life into the roots you carry and tap into the well of powerful defensive magic they carry. As a bonus action on your turn, you can coat yourself in thick knots of roots. The form lasts for 1 minute, until you dismiss it as an action, use this feature again, or die. Once you use this action you cannot use it again until you take a short or long rest.
+	
+	 In this form you gain a bonus to your AC equal to your wisdom modifier. 
+	While in this form you have the following options as reactions, in which :
+	* if an ally you can see within 10ft of you is targeted by an attack or is forced to make a dexterity or strength saving throw, you may add your bonus to their AC or saving throw until the end of your next turn
+	* if an ally you can see within 20ft of you is hit by an attack, you may reduce the damage they take by 1d6
+	* if an ally you can see within 20ft of you is knocked prone or falls, you may catch them and prevent them from falling, moving them up to 5ft to a nearby surface if necessary
+	
+	If you use one of these reactions, you lose the bonus to your AC granted by this feature until the end of your next turn. 
+	
+**Consumer of all fates**
+	Starting at tenth level, your roots begin to take on new features. As a bonus action on your turn, you may give yourself resistance to one type of damage for a minute or until you end this effect, no action required. Additionally, if you would take damage of that type, you may use your reaction to heal hitpoints equal to the damage you would take(after resistances) instead of taking damage. You can use this feature a number of times equal to your proficiency bonus between long rests.
+
+
+**Drink of the light**
+	Starting at 14th level, your roots become an extension of your body in powerful ways. Your reach extends to 30ft, the range of your grow thy roots feature reaches 120ft
+
+
+
+

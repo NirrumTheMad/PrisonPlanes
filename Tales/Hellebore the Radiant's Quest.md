@@ -1,0 +1,1 @@
+Hellebore the Radiant wears a cowboy hat, leather duster, and does Kung Fu

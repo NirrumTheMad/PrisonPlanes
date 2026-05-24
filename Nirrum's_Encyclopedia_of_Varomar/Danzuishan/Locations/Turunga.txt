@@ -1,12 +1,16 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2019-03-22T17:36:50-02:30
 
 ====== Turunga ======
 Created Friday 22 March 2019
 
+Turunga is made of colourful buildings all stacked on top of eachother as they go up the hill. One Person's roof is another person's balcony, which leads to an extremely well tested law about who is responsible for what, and a million unhappy edge-cases. That said, People are people. Houses are often only one floor, or one part of a floor, depending on the odd apartment or tenement. Stairs make up the majority of streets, and public use pulleys help convey goods up. Lines are long for the pulleys, and people must line up at the top to bring the line back down to their goods. Fights are frequent over these, but a few people will offer to carry goods up if they've got spare space or spare hands. A few Strong dragonborn teens have taken it upon themselves to do most of the work actually hauling things up with the pulley as a way to show off how strong they are. Everyone encourages them, especially those people with bad shoulders. 
+
+
+
 	**The Ranwa's Butcher **
-		A Lithe Half-copper-dragon brass dragonborn of black draconic ancestry and sorcerer powers to match it runs this butcher shop. He Believes that his place in this society is to provide his skill to maximize the use of the meat that passes through his shop. This is not a passive butcher, but one who believes they know the best cut and the best amount of meat for **you.**
+		A Lithe Half-copper-dragon brass dragonborn of black draconic ancestry and sorcerer powers to match it runs this butcher shop. He Believes that his place in this society is to provide his skill to maximize the use of the meat that passes through his shop. This is not a passive butcher, but one who believes they know the best cut and the best amount of meat for **you. **Tell him what you need meat for, and how many people, and what tools you have at your disposal for best results. 
 		
 	**Sojara Antiques**
 		A middle-aged blue dragonborn who believes that everything has a story. She sells odd trinkets, but has no eye for magic, sometimes, great treasures pass through her shop. She's impossible to haggle with though. Her husband is a fisher who doesn't share her enthusiasm and can be sharp when talking to her, but anyone who knows the two knows they're a good match and both hopeless romantics. 
@@ -35,6 +39,9 @@ Created Friday 22 March 2019
 	**Sushimaki**
 		A sushi joint run by a small human who cannot speak common very well but is fluent in elvish.
 		
-
+	**Water Garden**
+		At the top of the hill in Turunga is their water-garden, which is a park made around the aqueduct that carries water from upriver along the plateau. Here, water is carried down into troughs which run through narrow alleys between houses. Wastewater flows out front into ditches which does make for a bit of a smell, but at least it's not gari or Keina. The park itself features many short bridges over  small public fruit gardens. 
+		
+		
 	
 

@@ -1,0 +1,1 @@
+It's a sticker that hacks a machine by causing magnetically induced induction in the machine it's slapped on. Its only job is to figure out where in the machine it is, What it needs to do to write to memory, and then execute its program.

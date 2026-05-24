@@ -1,0 +1,247 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-07T22:40:10-02:30
+
+====== Clara ======
+Created Wednesday 07 August 2024
+
+[[+Spoiler-ideas]] 
+
+
+Clara's Sea Elf
+
+You awaken in the draftiest room in ShLu-guum-tk-tktktk. It is dusty, filled with the detritus of the perpetually falling organisms from the surface. It has to be, of course. You father, a hardshaper of midling talent has not called you for breakfast, he hasn't in many years. Your mother, A water-bearing racer, died just over three years ago. You are the oldest of five siblings, and it was a great relief that you decided to take an outer room on the home, and give up your room to your less-cursed siblings. Cursed. As you open your eyes... When did you fall asleep? You don't do that often, but  you confirm that yes, you are still perpetually boiling the water around you. You don the mask your mother comissioned from the grao, made of something from the dry continent, and it directs the bubbles away from your eyes, up to the hole in the cieling where it escapes, drawing cold, dusty water in from outside. Thankfully, you've never had to care about the parasites that try to float in and burrow into you, They can't stand the heat. Your siblings on the other hand, probably do. They love you, but... the rumble of the bubbling is hard to hear over, The cracks in the cieling take time and energy for them to mend, a rare boon to your father, as your siblings are *all* hard-shapers. You as well of course, but your curse makes it difficult to work sometimes. You have spent so much time trying to understand your curse that you've come to recognise its perks. For every broken roof, a bounty in shrimp caught in the curtain of bubbles. For every hour spent sitting in a pot boiling the water to salt, an unending supply of clean water. For every suggestion that maybe you should go travelling, a few warm thank-yous.
+You are certainly not //useless//, but after getting used to your value, it is hard for even those closest to ignore the inconviences, Cracked roofs, parasites, bleached furniture, uncomfortable warmth. You sit up as you hear a clamour outside, The rungagung of the bell, signifying the arrival of the Grao for trade. 
+
+Your house is, of course, one of the outer shells. A lump on a massive cluster of egg-like protrusions, your town mostly contained within, with a few megaosteoic Barnacles the size of three buildings on their own to protect from some larger threats
+Your father is securing a pack-crate, larger than he is, to his back in the main room. There is a plate of grouper, always the big meals for your family and... Molasses? 
+
+Your father says it is a special day. The titan, South DustyCurrent, Rainstarter, Windriser is nearby, the Grao are in. He asks if you are going to go see the titan.
+
+South DustyCurrent, Rainstarter, Windriser, among many epithets, is a sort of kindred spirit, hero, something. He also makes the water warm, and no one asks *him* to leave unless it's going to start a war. 
+
+If you decide to go, you will have to wait in line.
+
+**From here, the player can either go meet the grao, or S-DC,R,W. **
+
+ON THE WAY TO THE LINE, a horde of DOBLINS/GOLPHINS attack (4 dolphins, one more after round 3)
+
+**Your Father**
+	Your father is a man who is clearly at odds with himself. He has to pay so much attention, and worry so much as a single parent with a cursed daughter and four younger children who haven't been able to pursue the opportunities they should get. Even you can see that Gali, your next nearest sibling is getting into the wrong habits, the wrong crowds. He has somehow not given up, and every now and then you hear a little bit of humour leak out of the tired husk of a man, see the light of a witty, snarky, pearl-smiled elf poke through. You know him enough to know he's not very creative when it comes to fixing problems, but he has his moments of brilliance
+	
+
+On the things he plans to sell
+	"Cups! They stack well, and I think they'll do well in Danzuishan or Skalmirthon" He holds up some simple cups with hook-like handles from the top of his bag, one of those rare moments of brilliance.
+		Intelligence check 16 - Coffee is acidic and will slowly eat away the nacre, he should contract the grao forges to spin glass inside them 
+On a memory
+	"Your mother once said she was having hot flashes when she was pregnant with you. Once we figured out it wasn't just her being pregnant, we also figured out that those bubbles weren't what we thought the were. Took a daily visit to the cleric to keep you both alive."
+On your curse
+	"Are you still worried about things that can't be changed? You make money with your curse, and that's better than a lot of curses" He is still, after all this, a parent.
+On Leaving
+	"If you want to go travelling for a bit, I'll give the grao a good deal to take you with them! It'll be good for you to go see the world. Your mother was a racer because she couldn't sit still too"
+On Staying
+	"You are my darling daughter, and you will always have a home here, so long as I can fix the roof"
+
+
+
+
+
+**South DustyCurrent **
+
+	Speaking to titans is a laborious affair. It is always in song, in rhythm. Each idea wrapped in layers of complexity. Timing, emotion, play and ornament, all built to effectively get complex ideas across. The depth of such a conversation is almost always miraculous in power, and leaves one with a drunk feeling of having accomplished something. Your conversation begins with your greeting, and the titan echoes it, returning to start the conversation. 
+
+	"Ah, Curious Dreamer, You have <changed>(You are not the same person. Something has happened. Something for the better. Something you do not know. Something I know something of.) since last I saw you Three <years>(before I fought battle, before your mother died, you were bitter about your magic, bitter about being ostracised) ago"
+		" You made a <choice>(Determined, informed, contractual)"
+		" A powerful <creature> (Being, not like us, sings in different songs, Like you) seems to have <given>(needed) you a <gift>(At what price? None has been collected)"
+		
+
+	"Your <curse>(thing that flows from within you, thing that you hate, thing that draws from higher sources, thing that was selected, that which has changed) is stronger today than it has ever <been>(since you got it, since the first time I have seen this pattern)."
+		"What once was sand is now an island."
+		
+		
+
+	"Are you <happy>( willing to stay, willing to maintain, willing to protect) <here>(Little village, In the place you are not ideally welcome)?"
+	
+	"Seek the Grao, Curious <Dreamer>(sleepyhead, wanderer,) Get them to take you to the city of <Dragons>(Actual fuckin problems)"
+		"Your <father>(tired shellmaker, worrier, hasn't sang in a long time) will <pay well>(a release of tension, Keep you safe, keep your family safe, a good deal) to ensure your <journey>(leaving, living, adventure)"
+	
+	"Goodbye, Dreamer, Soon, you will know <fire>(The fire that I know)
+
+
+You are attacked by three more on the way back.
+
+**The Grao Captain, Kiros Tewfeeq Geteye (ethiopian names)**
+	The Grao captain of this small fleet is a very old man, the scales under his eyes, the muhn, bearing the slightest hint of turning red, the sign of extreme age among the grao. His hair is White, kept in a hundred tiny dreadlocks, his skin is leathery, and his eyes are a brown that matches his chestnut skin. A scruffy blue-green Eagle with a dark chest sits on his shoulder, where it seems to have always sat, based on the permanent pits in Kiros' skin where its talons sit. Kiros' smile and attitude seem baked into him, like it'd take a careful training regimen to enable him to frown again before he dies. His joints are clearly oiled by the strange, slouching dance like motions he moves in, like he's tired, drunk, or something new. Every now and then, he hits Rs in words hard, which seems to bring him joy.
+	
+	"Wel.come tuda  beeg bounce, Elf, Yoa fadda gave us a gooooood deal to take you alon, but I tell, Weeda do it fo free if you GAT dat MAJIK"
+		 "You casta speeeeelll datt draiv away da BEESTIES. (long pause) AND we pays YOU witta meal. We run atta meals? You get ohnnas (honors). We run outta Onnas? Das on you, we gotta tight SHIP ta Run DEeree, and if you go about liften too many hands den my crews ain't gonna earn dar pay, but I can't hea dem complain so das ya choice"
+On where they're going
+	"Danzweshan ar destinashen"
+On Danzuishan
+	"A sitee of draganban, all hoped up on bitta beans and the smell o' dea own shit. SOSINNA. SOSINNA, GUL, How much you smell yo own shit"
+		A bald young woman with bright silvery muhn and sharp yellow eyes responds 
+			"ah try to avoid eet, ya leadery scoLPIN, Captain sa"
+	"Smahta den Tree tirds ma cru, still doesn't know when an anka needs weighin. Sosinna Dahlin, how heavy ah anka?"
+	"I doon't ken ha moch a anka weighs ya solty albatross"
+	"Sosinna, Feegur it out rye kweek and SET SAIL. GABOOOOOOOEEE"
+	"RAAAAID DA SOU DOOSTY, I HEA WELSONG, AND UNLESS YOL WAN WITNESS DA PRICE A YA BAGAN WIT NO LAND TO TAKE YA, TUN US NOD AND FIND US A PLACE WID SOMETHIN SPICY."
+	"yeh'eva hav Smahl Pheenix Elf Deeree? Deys a big FAT chicken, Calls like the booblin bow," The captain wortles like a turkey, "and dey goes dem som GOOD wit some HAWT chilis and a fiiiiine ree-sling. Da heat comin awf you got me tinkin o food, I'm cravin CRAVING smahl pheenix"
+	 
+	
+The crew largely pauses operation during the night, putting out drogues to keep their position roughly stable.
+	
+During a quiet moment
+	"I wans saw a dragan, who swam 'longside a boats, t'was green like da shoa, Long like a snake, it neva attack, neva frighten us no worry, but wan night, I was out takin a piss, ah, wee child, and da dragon just came outta wada, an he keep swimmin, up into da sky. I get a question and a lesson from dat. What's up dea is stas and monstas, but my young eyes wonded, whea all da space between dem  be from? Ain't all tings come tagedda? What push'em apat? Da lesson I lern... Maybe don't piss on dragans, best cays, they leave and ya widdat a dragan fo companee"
+On Family
+	"No child left of me, No kin nada, Neva ke bout dat sotta ting. Das how I get made captain, Admeeral. No foolin means I keep my eyes on a stand, not on a swing. Was bon back when dea was no sick in da grao. Any got sick, Ded. Bad time. But deereee, We got sick folk wid us now, 'cause we finally found a gawd wo don't mind a little cursin, so long as we awn da sea. We call'im yak, Yacobe. Nawt 'is name but he feega out we callin 'im, so he ansa, and we send a dead wit ripe muhn out to 'im. He'll get a grand blessing when I finally decide Wan o' dese sayla be a good captan. All odda, dey bring 'im silva, brass, and gold. Rarely 'e get amba, but I bring 'im a first glass a wine."
+		Religion (intelligence) 10 -	Awhoonooriamoo is almost certainly the only god who would be able to adjust to the Grao. A god of the sea, which is a rather grand position considering there is so much sea
+		DC 14 - You know the Grao fall in and out of favour with the god, it is unlikely they would have survived for so long without him, but it is hard to know how long they were ignored
+On gods
+	"Da gods don' fine moch use fo da Grao. We likes a bahgens kept, an' keep dem when we can. Bot samtimes, da gods ask for what we cand give, when we cand give it. We gah no use for children on ah ships who cand behave like adult, to help wheneva dey can. So dey ahl leave. Wea practikal peepel, bu' We bow to no crown but ah own, and we ain't dat in half again a tousand yea"
+On Children
+	"We ah MERrrrrrrchants hea elf, da couple who got cheeldren gotta go back to da beeg fleet, whes doctas, clerk, and teechas. Learn da weys of da lost people, da people o lightning, and how to keep goats, and boats afloats at sea"
+On the grao
+	"Da Grao, fawty five greats ago, we had an island.  One tousand, for hundred, eight wan yeahs agot, de grao was great kings of da west. But des a cuss upon us, Can no find rest on shoas not ah own. Island is still cursed. Smahl town of jackasses nearby but... not fo us. Da dream worm come fo us if we get close. We grabbed som goats, dey wid us now. good for milk, eating kelp, got some wool dat keep us wam in cold wata. But we don't get ta feel good on land unless we kill da dream worm"
+On the dream worm
+	"mmm, ah prized storee, ah gret legend, da grete secret oof a fahl. Not manee autsidas hea it"
+		Regardless of the response,
+		"'caz nan a deez bracken fahts can tell a stahree, Now, grip ya hands"
+			He holds his hands out in front of him for both of yours, pulls you to bent-arm distance, standing, and holds on tight to the outside of you hands. For a second. 
+		"Atsssssss, Das a ting. 'old ahn"
+		He lets go and steps backwards into the cabin, where he unclasps, opens, and rummages through a dresser, producing an orange liquid. He pops the cork, pokes a straw in, and leaving the straw outside of his mouth he tilts the bottle skyward and past his lips. He swallows every drop as if it was air to breathe, then slaps a statue of a simplified leviathan. 
+		"Impotant fo da stahree"
+			He spreads your fingers and holds your hands palm up, and grips them from below, no sign of pain on his face, though there's a blister underneath his callouses on his thumb. You have never in your life, felt the skin of another person so long, or have no memory of it. 
+		"T'was yea fou tousand" he folds down your left middle finger in the middle, and your index and thumb into your palm  "Tree andred, an seventy wan" he folds down your right thumb 
+			Intelligence DC 13, this is Trinary, starting from the right. Each finger has open, half open, and closed, and can be used for counting to rather high numbers, and has some interesting math tricks it can do. 
+			History DC 15 is applicable to know this is how the Grao Keep track of numbers if they don't have a good memory for it
+		He holds your hand still and clasps his hands together, opening his to part yours like grass
+		"T'was a bumpa yeah fo tef, A bumpa yea for many fruit, a poa, stoamy yea for fish"
+			Your fingers are all pointed up, as if grass from the ground, then grasping your right arm with your fist dangling above you, then, moving your arms so your elbows lock up, you are jostled around.
+		"D'admeeral, Quen Zubeda, she get a glimpse in ha sleep"
+		Your hands are pushed into your hair, Something that is an ENTIRELY unfamiliar feeling. Your hands are pressed to the side of your head and he steers you around him in a circle.
+		"som ting in watas deep"
+		He pulls you down to kneeling, and dips your hand in the ocean
+		"Gon steel hah child."
+		Your hands are on your own neck
+		"So she ask hah hand, da soudwest wan. And She know, hah peepel go to sea. Dey live. She die. She know wea da beast be. She neva get dat site so strong befoa"
+		He takes your left hand, out straight, and points it behind the ships, the other on your face. Then you are spun around and dipped.
+		Strength athletics 10 check to not hit your butt on the ground from the dip. Your hands are still held in the air. You are pulled back up, one hand to your heart, one hand to your left eye.
+		"She send hah spears down da wey we cam fram, Deeeeeep cavan, Deep boahol, deep dark. Bad storee tellas do sometin bad witcha hands now"
+		Your right index finger is tapped against your nostril, your left  is poked into your belly button. He winks, then swings you wide to your right. 
+		"dey no com bak, but screaman in dream, dey trapped. So Moa goas down to get dem"
+		Your fingers spread out like you are holding a large delicate plate
+		"Moa screaman dreaman for evry wan"
+		Your fingers are slowly folded int your palm, one by one
+		"A yea afta hah dream, she keel hah own cryin beb."
+		Your hands are smooshed into your gut
+		"And den hahself."
+		 You are swung off balance again, into a hip throw that doesn't seem to end when it should, You find yourself still standing, despite having definitely fell
+		"T'was hah cousin who bring a magika from Manaharamu who knew, who told dem of Da dream worm, How eet steal ya mind from sleep, and cuss ya sol, and ya spirit, and ya blood, and ya pathline down ya famly forks, How eet honga"
+		Your left hand points in the opposite direction it was. Kiros is now behind you, close, looking over your left shoulder and down your arm. His own fingers crawl up between yours and slowly push your hand back to your face, down your chest, to rest on your navel. Your own right index finger flicks your ear as he wags your wrist at you, And he lets go of your hands, quietly, before circling around in front of you. He waits, quietly, then beckons for both your hands again.
+		"wan yeah lata, we leave Graoton, as dream by dream, ah family shrinks."
+		Your hands are waved calmly until your muscles relax
+		"No land make us welcom. No place fo ah peepel. Oa island, a calm place, oa tradishen, not made foa odda place. We ah not a folk wat queet. We pick da hahdest land to call om foa na, da great green, blue, white. No tree, no grass. No crown."
+		your hands are moved around in a slow, arhythmic and unpatterened way, somehow, controlled
+			Performance Wisdom 15, In time with the small waves passing under the boat, ones that he must feel before you do
+		Until they  are guided up, open into grass, and into your hair, extended to the prongs of a crown.
+		 "antil sombahdy figga out wat to do wit a nassstty werm. A storee we tell ah own, anywan who listen."
+		
+		
+
+On being old
+	"Am onlee a hundred and six gul, I got a few hoas lef in me an I been sayin dat fo' tirty yeahs"
+On Meals 
+	"No tin come da sea whats big is good fo' eatin, All poyezan, feeled wid Queek silva. Wen I was a wee child, I only eat smahl fish, now des no sayla in da fleet olda dan I"
+		"what about Sheesa, Captain"
+		"She elf, she don't count, she rich, she don't count, she gotta brain like shells afta eaten. Can't count" Kiros Raps his skull with his mouth open to make a hollow knocking sound
+		"only half-elf"
+		"and haff bitta, twisted baby upset because she can no make me hea hoosband. Ephrem I've loved lookin at yo face fah moa dan hears, and yah voice twice as sweet, nah shaddap ya raspy screamin and get ya fish-face back to work, ya scarin da gest"
+		
+
+"Sosinna? You on da nite shift?"
+	"A coss a'am, no wan but da elf wake,  On dis raf. Selassie's got ha sistas on de oddas, dey had a brall on suppa, can no sleep none."
+	"Ya'n chahge til I wake"
+
+**The Captain, Kiros, dies the night before they are to reach Danzuishan, someone finds him dead about an hour after you last heard him. His body is lifted up on a stretcher, and paraded around the boats. Then, rather unceremoniously, the grao toss his body into the ocean, wait a few minutes looking around saying things like "anyone hear that?" "did something happen" until the captain's body is far away from the boat. Some people will half-heartedly go out to try and get it but drift back to the boat and say the captain's too far to go get. After a few minutes the captain's body bumps up against the middle boat where one strong man with an oar pretends to not notice as he pushes him back under the water. Everyone tries to pretend like they didn't lose a body, or at least, that's the tradition.**
+
+**  Sosinna, now captain, The green bird perched on her shoulder which bleeds fresh, says "is ah way, wea supposed to bring them back to Graoton, but des no room for bodies hea, hasn't been fo a tousand yeahs. Besiiiides, Dat ol Seagle neva like walkin on land anyway, a bureeal would be a weste fo im" **
+
+
+The next morning you see the shore, your first sight of land. The sun is bright and baking,  barely any wind at all, but still, a favourable one. 
+
+Brown stone with a slender river of green laid on top. You are struck by how... sideways it looks, nothing much grows on the side, and nothing much flies in your way. You are struck by how few birds there are compared to fish near your home, and you are struck, most importantly by the size of the deep grey swell of water coming toward the boat. In a moment, you are struck by the deep grey swell as it //hits the boat.//
+
+
+As soon as the wave passes in front of your vision, the skies are instantly stormy, no trace of the sunny day that was upon you. The wave passes over you and the raft.
+	DC20 Athletics to hold on to the raft or be swept into the sea
+		Holding onto the raft deals a d6 damage, but shortens the next section
+	
+	
+You experience a deep void unlike any you have ever known, despite the comforting pressure of the water trying to touch you, only to get evaporated. The rumbling of your own heat the only sound.  Nothing.  Timeless, breathless. The only noteworthy feature is how salty the water is. Other people in your town would be uncomfortable here.  What do you do?
+
+
+The bottom is a deep mat of bones covered in boneworms, the racoon or rat of your culture. There seems to be no end to the skeletons, many of which seem to be titan sized. And the caged labyrinth that you can only barely see beckons you, it beckons with a song you think you've heard once, toward a ribcage that... oh.That's not a ribcage, Ribcages don't open and close like that.
+
+The surface is choppy but with a bit of speed you are able to breach and there is definitely part of the world that is at least lighter than the other part. You feel the thrum of crashing waves too rhythmic to be breakers. Shore is nearby
+
+Eventually, you do find your way to grey shores. Lifeless. Infinitely wide. 
+You clamber up onto the mucky bank, sinking knee-high among the massive squirming black tadpoles that hiss and scatter at your touch, the grey sky remains solid, the light, dim. Save for a spot to your left, where somewhere in the sandy expanse, something is casting shadows in what must be sunrise. 
+
+
+The Journey forwards seems to take days, maybe years, it is hard to tell, time doesn't pass the same way here. But the light... it grows. It grows to blinding. There are rocks, along the way, that you can duck behind for repreive, Until eventually, Massive shadows provide a straight path closer to the light. 
+
+As you get closer to the pillars you find a massive net of white ropes and hanging from them surrounding a headless skeleton in perpetual fire. The ropes provide shade and cool air, but allow some light through, often into the hands of waiting drywalkers. Who shape and mold it like putty. There are many species here, But one fierce-faced Kholirahi, with black lines snaking through his skin stares you down through steely grey eyes which narrow in confusion.
+
+"Wiwa'u Meooshma? ehhhh You again?"
+
+
+
+**Betganrati** **Tenkaloi Dal Pinrakodali, Tenkaloi for short. Sun Soul Monk**
+	Tenkaloi introduces himself in full, then, says to Call him Tenkaloi
+	
+	**Again?**
+		You have been here before... but you were very ehhhhhhh sick, and definitely younger which is odd/
+		No I'd say it was less than a month ago and you were definitely half your height. 
+		You have the same name, same eyes, same hair, and you've undertaken the bonefire ritual.
+			He offers his hand, and if you take it, you both take 4 damage, (two fire, two radiant)
+	**Curse**
+		It is not a curse, unless you're unprepared for it. It is a tool for you to use.
+		You picked it from a few choices. It stops small creatures from biting you
+		You complained of worms
+	**Alone?**
+		In the company of a small ehhhhhhh... Kaorashahi... A feeree
+		
+	**Other Rituals**
+		Of course. The magic is thick here. There are several, I will tell you of two.
+		The rainbow ritual allows you to change what colours your eyes see. You've got three. I recommend keeping some overlap
+		Alternately you can attempt the innate sun, that would unlock power like your curse but more... deliberate. Spells mostly.
+	**Innate Sun**
+		Mm, It is a good choice. I have done it myself. I will be your second.  Follow me.
+		This next part will hurt. Prepare yourself.
+		6d6 damage
+		You face one wretched sorrowsworn alone. Tenkaloi fights the rest
+	**Food**
+		yes, you are hungry, eat.
+			He offers dried meat, he refuses to elaborate on what it came from, in  truth he is not sure
+		Water
+			He offers very little water, but some
+	**On Leaving the shadowfell**
+		How did you get out the last time?
+		You could climb the skeleton but I don't think you'd survive.
+		CHEE, You going topside On a supply run soon?
+			A Goliath, a massive elf-like creature, with shimmering compound eyes, whose skin glows bright white responds. 
+				Ye. One week. 
+		That's your way out. TAKE THIS ELF
+			Aight.
+		Good luck. (You have some time first.)
+	**On Why he's here**
+		I fight monsters. The sun eats monsters. Easy choice. 
+	**On the Sun**
+		Its skull is the sun, Hirokira, Olopi. It talks rarely, very hungry for the moon. Occasionally talks to other worlds. 
+		Hungrier than a star, or so I'm told. Good luck.
+		
+		
+		
+ROAD TO DANZUISHAN
+		
+

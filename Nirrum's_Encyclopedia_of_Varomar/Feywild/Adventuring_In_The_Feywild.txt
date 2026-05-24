@@ -18,7 +18,7 @@ Things to do when the players enter the feywild
 	c. Fulfilled favours,  complete transactions with the fey before entering the feywild grants the individual the sense that something is missing but extends their life by a number of days equal to the value of the favour after they leave the feywild
 3. Begin a tally of favour incurred for each individual character.
 	a. Whenever a fey takes something from them by asking for it, the individual is owed favour equal to their own level.
-	b. Whenever they ask something of a fey being, if that being provides, then they owe that fey favour equal to *its* CR
+	b. Whenever they ask something of a fey being, if that being provides, then they owe that fey favour proportional to *its* CR 
 		1. Fey that answer directly and clearly are given their full owed favour,
 		2. Fey that answer indirectly  or partially are only owed a fraction of their CR, though how much varies. Fey may do this to unaware material beings in order to get them to keep asking, thus making them owe more favour. This does not fly with other fey
 	c. Whenever a favour is completed or redeemed, that is, when an individual has payed off the favour it owes, then the person who was owed the favour loses that much. Usually this coincides with a fey being born somewhere shortly thereafter

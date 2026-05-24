@@ -1,0 +1,108 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-02-05T18:16:02-03:30
+
+====== Winter-Low-Season ======
+Created Sunday 05 February 2023
+
+1 Noonways
+
+	1 Dawn
+		1
+		2
+		3
+		4
+		5
+		6
+	2 Morning
+		1
+		2
+		3
+		4
+		5
+		6
+	3 Noon
+		1 Lightbarren
+		2
+		3
+		4
+		5
+		6
+	4 Afternoon
+		1 Rinkways
+		2
+		3
+		4
+		5
+		6
+
+2 Nightways
+	1 Dusk
+		1
+		2
+		3
+		4
+		5
+		6
+		
+	2 Night
+		1 
+		2 sleeping woods
+		3
+		4
+		5
+		6
+	3 Midnight
+		1
+		2
+		3
+		4
+		5
+		6
+	4 Late night
+		1
+		2
+		3
+		4
+		5
+		6
+
+
+types of associated weather
+bitter cold
+Monsoon
+Wind
+
+==== Lightbarren ====
+	Noonways in the winter region can get pretty intense. Lightbarrens ae vast deserts of snow filled with blinding light, It is difficult to navigate in them as so few objects are in the centre distance. Taking the wrong turn here will lead you to the Pale lands of the shadlowlight, as this is where the two realms are the closest
+
+==== **Sleeping woods** ====
+	One of the more dangerous locations in the feywild, the Evening dark of the the sleeping woods are extremely quiet, filled mostly with coniferous trees waiting for summer to pass through them again. The snow of the sleeping woods is cool but not particularly cold. It is fluffy and light, and builds up quickly. Creatures that are able to be put to sleep magically will find themselves increasingly unable to keep their eyes open as snow piles up on them. Devices like Umbrellas help a bit but the closer the snow is to ones' skin, the harder it is to stay awake. If a creature falls asleep this way, it cannot wake up until winter ends in these lands, or it is removed from the snow by something else. Scavenger Hoarses will eat any creature they can sniff out beneath the snow, but they are quite friendly if one is awake or guarded by an otherwise awake creature. their thick and furry pelts warm all those who touch them. 
+	
+
+==== Rinkways ====
+	Ribbons of ice stretch for miles, weaving over the land, supported by thick icicle pillars. The rinkways are favoured highways in the winter by those creatures that know how to skate, though falling off one can hurt, especially if one lands on a broken or incomplete icycle pillar rising up from the ground. this is a favoured ground for Swords Fey, who often ride down by dangerously riding their weapons.
+	
+
+==== Singing field ====
+	Wide, still plains over low hills drone a single tune, simultaneously easy to pick up but not repetetive, as if each phrase is building to the next. The same song is sung every winter, counting down until the coming of spring. 
+	
+
+==== Stormwater plains ====
+	When the cold of winter sets in, water falls thick in these places, warm, muggy, blinding. Fey eels, Chased out of their grasses by the rising waters float above the surface, hungry, angry, and highly competitive, hoping to catch a spritefish fallen from above the clouds. Beneath the surface, things continue as they would in the summer. Elephants walk along the bottom, trunks held up above the water's brim. Barnacles close so the water can't get in, and long fingered fey scrounge for things of use among the surprisingly breathable water. Strangely, the lucky tigers are nowhere to be found.
+	
+
+==== Wallwind Desert ====
+	Pushed by the winds of winter, the solid dunes of summer reach incredible speeds, hitting rather painfully but passing quickly enough that no one will suffocate in them. Creatures without a shield to make room for their face can expect to be thoroughly bruised. Flying snakes often follow the dunes to attack stunned creatures.
+	
+
+==== Solowood ====
+	Silence sits in solowoods, often crusted over with snow and rime, with a single exception. Often as a punishment, a single fey is made to sing for the whole winter so the solowood can become a great songgrove when spring next comes. The fey can be of any court, and frequently they are horrible with harmony. If someone helps them, it might be an easy source of favour, or a trap.
+	
+
+==== Fort Roads ====
+	When autumn finally forces those wandering fey to find homes, they often go into sleeps or hiding, but those that are more active yet cannot build often use the thick, crusted snow and readily available light of stage roads to build forts that they can at least live in. As such, the rather dark lands of stage roads become lit metropolises of pixie snow forts. Rather expectedly, justice is often delivered with snowball fights.
+
+==== Mirrorwood ====
+	The veils of an unveiling wood become reflective when frozen, turning their power as a mirror. People can see themselves as they would through the veils of an unveiling wood, though if sprayed with water, the reflection shows the internal structure of curses, spells, illusions. Talented mages can use this to lockpick magical problems
+

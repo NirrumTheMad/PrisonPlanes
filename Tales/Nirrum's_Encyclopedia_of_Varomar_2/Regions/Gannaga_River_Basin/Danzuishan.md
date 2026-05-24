@@ -1,0 +1,279 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Danzuishan</title>
+	<meta name='Generator' content='Zim 0.74.2'>
+	<style type='text/css'>
+		a          { text-decoration: none      }
+		a:hover    { text-decoration: underline }
+		a:active   { text-decoration: underline }
+		strike     { color: grey                }
+		u          { text-decoration: none;
+					 background-color: yellow   }
+		tt         { color: #2e3436;            }
+		pre        { color: #2e3436;
+					 margin-left: 20px          }
+		h1         { text-decoration: underline;
+					 color: #4e9a06; margin-bottom: 0 }
+		h2         { color: #4e9a06; margin-bottom: 0 }
+		h3         { color: #4e9a06; margin-bottom: 0 }
+		h4         { color: #4e9a06; margin-bottom: 0 }
+		h5         { color: #4e9a06; margin-bottom: 0 }
+		p          { margin-top: 0              }
+		span.zim-tag {
+			color: #ce5c00;
+		}
+		div.zim-object {
+			border-style:solid;
+			border-width:1px;
+		}
+		.checked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8sMEGsKGkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAEBUlEQVRIx62V22tdRRTGf7Nn73P2ybntnNOe3NqkPTGgLTVUUZF6QatSLOKTPgqCIqLgQ0H/A1sQQbBYCBb1QfAxiC8tSO1FqHkwJVKtjdTGNraUmObsc9nXmfGh7cGYpM1D5nHWzPetteZb3wg2eB2YqYm4zSadsMtoboiNBH/3TE0awx6j+MRoxoTg/IYRvP19TQrJS0bzhdHGSyKFkLTtjSKwMjyiEz43ynhtP6bdjBCWyFobAf7eT7VhNF/q1FRbjYjmUohlCVPwnB+6FUxMTJipqSmUUhhjEGKd3bMT4ks/Y6oLBK2Yth8hHYtCJXOix7Nf7xLMzc0xOzvLzp078TyPNE3viW3QJPXzhNWbxFFKHCmMhoLn/FHodd48vGfhapdAacXQlkFK5dL6wIUm6fuTZPuvqDQhaMUYYyiVyuQr6rXDexYuAdi3tSv1ZJNs/R/CaszzT+1na88uXFnCEnJVgivBNN8uTJKmHQI/ptOOcXNZzMz9mOqFs90OHpipWcYwlo5P4ebnuOkrvr5wgrH+h3im7y36MzuwRXYZeKha/OhP0EkadFoxQSdGSotedR/+XwMc2XvKdNUFOFqZx6LKZWIiwjgkikNmLp/hm8sH+K1zjFTHXfBYdTi+eJArzXM0GxFxoBDCopLvo/fqEwi1XPkWkGqjFo2TgB1jOYZUKZTS/D1/ncmLh7jon0IbRWoiTi59ymzzJEEQE3cStNZsGxqlfPE57MBbOR8fP3hDGalOO9fq2DlBvmZw8xa2IxACGn6TydlD/O6f5OzSV/zif0cYhLQaEXGkKBbz7Ov/AOlXV1cxgBJRI3fuSTrpTawt18kWIZN1CFuaONI0w0WOXfsI43YIggh/KUSlhqxrMz74AkOZcWBm9QkH+Gw8NDLuITi+m0yzhluSyJzBLcpblUhFxywSRAEtPwQjsKVN30CNh0uvYuOubSHLtN3J0TO1j0pmBNuFbFWRK0gyPRZpktL2I5JQkclKakNlnh54g6ocvevUr/Ai2a7wineEkcJupA3S1Wg0nVZM2E6wbEF5U5G9Q++wI7sfR7h3N8HVNstykBfzH+KJEZwiWD0aIwxCgJ0R1Mu7GXOeJSuK93bZtQIle4D9pUNU5DC5jEsu55AvZakM5NicGyEj8uuz8bUCQgj67QfY671P3vEoeC69gy695U1U7NG7XV0pUwBjDJa1/JJlWWxzHuflzQe5FJ/GsgUVuZ2t8lEkTvfc0aNHb72flBhjVicQQqCUuvM3/M+WDVguWBrMVdDXEGZlBVEUrVCU9d9s5+fnaTQa2PZyPxEIhJaI1EEoZwX4ncynp6fXrmB4eJjR0VFarRbNZnP9P9rt9gohqNVq1Ov1ZbF/AZGev3hLJ2/zAAAAAElFTkSuQmCC)}
+		.xchecked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8bDYnDxEwAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAEK0lEQVRIx9WVS2hTWRjHf/eR3CY1nbxMH2YiZRQS6qO13YlMVxY3SnVcuNIBFezGpSADLoQqLu1sHJCqdCFSXFpw4YOCSH3BtFqttTNamabX3DS5bfO6uffMoglja3RGcDMHzuac7/z/53++//cd+L8P6VuCPQYZ8ADNgBd4J31DcDcQs+GnHByRocEDv0kfBSjAOlYCs11Q+gpwDegS8LMJ+3QIK0ATzEhV8Odnz5bzw8P4dJ25aJQ/WlvJ1df/K7hSLtOcTNI+Pk69rpMTgqIQhCDvh1/VSpw79+gRrRMTmLZNezLJJsPg+a5dmOEwQlFqg1sWG16/Jv7sGWXDwBACFQjC9HcwIMONKkGp4PGAJGEDS0IQmZlhnWnye3c3eiyGo6qr3WHbrJ+dJf7gAXI6zSIr72T7/fgzmT4FHnTBsgrQBfYvTU0km5vxz86iADnAm0rRPTWFt7cXZccOJJcLAGHb2K9ekT93jmwmwwdAAFpjI6Ntbfxw5879ag7l6o1sr5eHHR3IsRgeQK/M4sQE+YEB7JcvEY6zAj45SWFgAPPxYwzHoQxIkQjTPT0kIxE+Noj8sexFn4/xnh58iQTeSpHkHAdrbIzi0BCOrmNPTpK/eJHM3bt8sCyKQCiR4NWePWSiUZw1+ZLXJm4pFKLhzBlCsRh2RUXacVgeGaF47RrL58+zcP8+RrmMkCQinZ1EL1zAjERqmkH+tLYl1G3bCJw4QUjT0IA0MJfLMX/5MqmHD0nZNiUgtGULG/r7ccXjINWuWbnmqsuFu7sb/4EDNLlcBIEioNs2KUAFGmMxmk6dQm1tRZI+3xBqEkiShBQOox05Ql1nJ26gvuIUAWiKQnj/ftStW5Fk+YuF+NldsbBA4cYN9KdPmaso8Fc62ZJtk7l1C2t0FGdxESHE1xE4hkHh6lX0oSHSpRIewC/LrPf7CSgKNpCamkI/fZr8pUuIZBIcpyaBunahPp1mub+fDyMjGKUSChCsq6Nh717q9u2jbnSU0uAgRrFIwTThyhUCqRS+hgZKLS1fJvDm87SNjZGcnsYUAjcQ8vsJ9/Xh7u1FDgRQN20iks3iDA+zZFmYhQLqzZtsj8WY3L0baY2Sf55ICCKpFHUzM2SEQAJCHg+hY8fQDh5EDgRWDoRC1J88SePRo2geD0XAcBy8b98Sv3ePYDZbbf2rFQjLIphMsmDbaEBQVQkePox26BCSz7e6i4bDrDt+nGYhmBscpFAskheC4Js3bPR4qHphFYEnlcI7P4/jdqNpGu8TCe4oCsXr1z//F2ga3+/cSfTJE0qmSVYIsKzaOZDcbjKyzFIiwfvt21kMBLA07YsetzWNd+3tLLW0sH5igvT8PH9Go/z44kX+E4LGjg7GDYOcy4XlOEgLC//5P/5LCFzxOPLmzWyIx+m6fduu7v0NVGqyTSycKksAAAAASUVORK5CYII=)}
+		.unchecked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8qAt8h3m8AAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAA60lEQVRIx+2VsQqDMBRF70sCLg5OLoKgjk7+lJ/hh+STXBwcnRz8ArMEkrxOFktbaC3tULzTg5e8k5vADXDq70VbobXmvu/hvQczg4heHrJfXxQFuq67blZbMc8zpmlCXddIkgTOuZcBUko45zCOI6y1Nz2xFSEEZFmGOI7fGg4A3nsQEZqmuXOu9jallACAtm3fvmutNaIoAjM/dkBECCF89KCbk4eAb+kEnIAT8EsAM0OIz3hSyrssUvss8t5fg+uIrLXPs0gIgWVZYIyBUurQyYdheO4gz3NUVQVjDNZ1PfSjpWmKsixvehfB9GBZ3NndrgAAAABJRU5ErkJggg==)}
+		.migrated-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB+AKHREFA8vJSnkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAC1klEQVRIx+2VT0hUURTGf/e958w4Tc3TYowMw1GyEgwr1MqsFmbZIrIWQZsWJUjbdoHQpl3Qps0swnCRECQFYkR/TC1iKkqmfzAKTo2Vf8hoRsfR995tkRMT87RRWkUHHhy495zvnvvu933wP/75EKkkEAjIYDCIaZpIKRFCZN0kfX9xcTGtra2/irVUEolECIfDlJeXo+s6hmFkDaCqKoZhEAqFSCaTv60pqcSyLAoLC/F4PEtqDmCaJkIIKisrMybX0sdUVRWA5ubmPzdNjjI1cpXkZC/O1fV03PXgdDqRUtpPIITAsqxsDz0Z/3CZQv8uqo4N4C8/Tp2/DdM0MiZQlvk41OTkI/LW1SGtCVb5drD3eCc71wcA+VcAHA5vDd8+3UGakxiJV7i9pdQevU5T1R35pJ3MV5QW1pf+0kWBheJ2SWua8EQXZXsu4fVVYEz1sEKvof5EuxjoPvzpcRvrdp9C2gGMx6cpOHBmbImMesds7BZubwMVDTfXDnQ3vQfK7AC8wLfExMX5whyQc3q2OEnjGm5vE76SQxsfBLr77a7CNf+n0r/l6sSMtsBSnurckiIILCobAtVZhpF4gZF4jubaymj4Ch/fd380LE7bAnjc0NPxk2yqpmEuwGxF0ag+0k5uTpzZeBeaazvj0We8fXojainsb2xh2BZgbe0gSIllzSIUh63wfQ6dZ/O2fbjcKlOj58jJ3cVENESw5yErc9nf2MLQ4jwQAkV1Lqiq37/cZ9WaahJjF9AcmxiPDhLs7ePe23oOnmUwg2hSShQle96tKDjA2HAniusgo9FxnvY9Jxw7RWzGYy92QghM00x5g53qp9sHmtB58/o2umOI2NwGolMnMYUHIb7aAyiKwsjICLqu2/qBEIKUUAohMaSHSLyBSMoPTINQ6CX5+fn2AEVFRZSUlBCPx4nFYhl3L4RESjF/GEgX3pSj+Xw+/H7/b3U/AEOZFnp7O5+5AAAAAElFTkSuQmCC)}
+		ul {list-style-image: none}
+		/* ul rule needed to reset style for sub-bullets */
+	</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class='header'>
+	[ <a href='..\Gannaga_River_Basin.html'>Prev</a> ]
+
+	[ <span class='insen'>Index</span> ]
+
+	[ <a href='..\Great_Grass_Road.html'>Next</a> ]
+</div>
+
+<hr />
+
+<!-- Wiki content -->
+
+<div class='pages'>
+	<div class='heading'>
+	<h1>Danzuishan <a name='Nirrum's Encyclopedia of Varomar 2:Regions:Gannaga River Basin:Danzuishan'></a></h1>
+	</div>
+
+	<div class='content'>
+	<p>
+Created Sunday 19 November 2023
+</p>
+
+<br>
+
+<p>
+GARY LASEREYES
+</p>
+
+<h2>Description:<a id="description" class="h_anchor"></a></h2>
+
+<p>
+<div style='padding-left: 30pt'>
+A collection of towns amalgamated into one Massive. Over time this place gained a prosperous economy, managed by nobles from the old clans that bicker and squabble over every movement among themselves and the others. Originally, the townships were each their own Dragon person clan, and as each tired of civil war and decided to retire and settle down, the Danzuishanese Navy was well formed from the beginning as a concillar militia. The most effective member of each militia tends to move up the ranks by nature of being good at their job. Each Militia slowly specialized over time to make themselves more valuable to the whole army, eventually, the original Danzi and Shan Clans were at the top, and in 2663, became one clan through a landmark marriage. Danzuishan boasts exciting spices, fish, and engineering. Their shipwrights are the best and Danzuishan is the richest part of the plane, having great stability in its physical location and exports of wealth such as gems, gold, and adamantine
+</div>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+<h2>Urban<a id="urban" class="h_anchor"></a></h2>
+
+<br>
+
+<p>
+<div style='padding-left: 30pt'>
+Danzuishan is the great city of rivers. Built on Dams and locks, The Danzuishanese people live life on the river as tradespeople, providing the link between Stalwark, Xia Ochiko, and Mjoriskivor (thus Skalmirthon) to Grand Tortuga, Kara'ite, and Kriegcove. Danzuishan is populated mostly by Dragon person, and this makes Danzuishan a hard place to invade. Every single Dragon person is capable of using their breath weapon and thus, many armies do not stand much of a chance when faced with the citizenry, let alone the guard. The City is built of stone, wood, and rust-proof metals, all pressed up against the water and warded against its temper. Danzuishan also hosts the great Danzuishanese Maze, Built by a mildly angry and very driven wizard, the maze acts as a great net and pulls incoming off-plane creatures from the area and lands them safely somewhere randomly in the maze. Maze-hunters frequently dive into the maze to rescue them and to find the treasure that sometimes gets pulled in with stranger beasts and monsters
+</div>
+</p>
+
+<br>
+
+<p>
+<div style='padding-left: 30pt'>
+Danzuishan's 9 locks are each a neighborhood and it is worth talking about each
+</div>
+<ul style='padding-left: 30pt'>
+<li><b>Keina</b></li>
+</ul>
+<div style='padding-left: 60pt'>
+Keina is the first town if you approach by sea. It sees a lot of stop-and-go trade from merchants who just want to drop off their goods and head on. It is not a particularly rich district though, as the goods are moved upriver to keep them safe from the consistently invading pirates. Infrastructure here is cheap but tough. Hard stone walls support red wooden pagodas. This is definitely a place to watch your wallet, it might wander off without you. It is also the location of the largest shipyards in Danzuishan.
+</div>
+<ul style='padding-left: 30pt'>
+<li><b>Turunga</b></li>
+</ul>
+<div style='padding-left: 60pt'>
+Turunga is the second town if you approach by sea. It is leagues more peaceful than Keina and hosts a large portion of Danzuishan's middle-class. Buildings here might reach out into the water, taking advantage of the river itself as real estate. Small aquatic farms are frequent here as supplemental food production. This is also where you'll find a great host of retired sailors, as the weather is quite friendly in this part of the world. 
+</div>
+<ul style='padding-left: 30pt'>
+<li><b>Asulaka</b></li>
+</ul>
+<div style='padding-left: 60pt'>
+Asulaka is a a refined version of Turunga, The buildings are built in the middle of the water and the river courses through them, powering each house and feeding into solar stills to be collected. People here can even clean their dishes by leaving them in a small alcove in their house where the river runs through so that the fish may eat their leftovers.  Asulaka is a bit of a maze outside of the main channel, but everyone here owns a skiff or a gondola to get around. Much of Danzuishan's industry takes place here.
+</div>
+<ul style='padding-left: 30pt'>
+<li><b>Gassa </b></li>
+</ul>
+<div style='padding-left: 60pt'>
+The Capital of Danzuishan, in a manner of speaking. Gassa is where the largest lock is, powered by timed  waterwheels and mechanisms, twelve times a day the water raises boats up to the next part of the river, and then lowers others on their way down. Built into this lock and easily accessible from the Asulaka side is their deep citadel. Partially submerged and partially subterranean, This government building connects to the underdark and was the place these Dragon person originally emerged on the surface. The rest of Gassa has the highest property values, as many small castles are built in the middle of a larger lake-like section of the river. Shops line the shores
+</div>
+<ul style='padding-left: 30pt'>
+<li><b>Vehi</b></li>
+</ul>
+<div style='padding-left: 60pt'>
+Vehi contains the entrance to the Danzuishan Maze. It is also home to the City's temples and the hall of the Danzuishanese Maze-Hunters. These are the people who constantly venture into the maze in the search of treasure and new citizens. Getting three new people out of the maze alive is a great honor and the person is rewarded with an adamantine weapon, sourced from one of the largest adamantine mines on the plane in the same town
+</div>
+<ul style='padding-left: 30pt'>
+<li><b>Gossogi</b></li>
+</ul>
+<div style='padding-left: 60pt'>
+Gossogi is the part of danzuishan where most of the trading is done for the city.  It is near the middle  and is well insulated from extra attacks. Many shops are built up onto the shores and land around. this is Danzuishan's largest neighborhood, despite not having the largest permanent population. Many of the houses are simply rented out to merchants.
+</div>
+<ul style='padding-left: 30pt'>
+<li><b>Myri</b></li>
+</ul>
+<div style='padding-left: 60pt'>
+Myri hosts the second largest population of middle-class in  Danzuishan. Upriver Fisherfolk who trade further out. Myri's Architecture takes a much more interesting twist as all houses in the neighbourhood are either on the shore or built on solid rock that sits on the riverbed. 
+</div>
+<ul style='padding-left: 30pt'>
+<li><b>Gausui</b></li>
+</ul>
+<div style='padding-left: 60pt'>
+Gausui is a mirror of Keina, but also is where one of the river's largest distributaries begins. It is thus important to have a well maintained sliding dam that can redirect more or less of the river in the event of extreme rains to prevent flooding.
+</div>
+<ul style='padding-left: 30pt'>
+<li><b>Gari</b></li>
+</ul>
+<div style='padding-left: 60pt'>
+Gari is a bustling residential district, where cheap land and lax attention let the Manarahi migrants settle with limited friction from the rest of Danzuishan. The closer one gets to the rest of Danzuishan, the more dragon-blooded sorcerers you will find, acting as the bridge between two peoples.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+There is only mild dialectic shifts between the districts, so a native might be able to tell where one person or another grew up. The main language here is Draconic, owing to the large number of Dragon persons and indeed, a few dragons. 
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+Houses in Danzuishan are larger than in other cities, save maybe Konia. Multiple floors are common, especially for the shoreline. Many houses have a living room, multiple bedrooms and their own kitchens, Sometimes even more living rooms. The water is frequently warm enough to swim but this means that in the spring and autumn, mosquitos and blackflies come to plague the thinner skinned population. The three dragons of the town live in large temples built in their honor. Gono the Blue, Athicanaraman the Bronze, and Vintaasklo the Copper.  These dragons manage to keep their cool enough to live in such close proximity mostly because of the food, quality tribute, and veneration given to each of them. They are all ancient and clever, each a fierce combatant and experienced warrior.
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+Sewage is unceremoniously dumped into the river. Dragon person seem immune to cholera and other species have learned to boil their water before drinking it. 
+</div>
+</p>
+
+<p>
+<div style='padding-left: 30pt'>
+The Danzuishanese military is a scary one, scary enough to keep Manaharamu from casually invading and seizing the territory after the Konian wars. The soldiers have always been a hodge-podge militia but therein lies their strength. To enter the military you must already be a warrior of some kind. Hundreds of past adventurers, maze-hunters, and survivors of every class and style. Because of the population, a sizable number of flying Dragon person or Draconic Sorcerers are extremely common, and this is what keeps  Kholira, Kara'ite, Grand Tortuga, and Skalmirthon at bay. Hundreds of subtle spells silencing and blinding their mages, Binding their warriors and avoiding their infantry and every citizen armed to the breath. Outside of its navy, Danzuishan's military isn't large enough for conquest but more than enough for defence. Though there is more to their organization than their class or profession, The Danzuishanese warriors all subscribe to the Nine schools of thought, each bringing its own merit to a soldier.
+</div>
+</p>
+
+<br>
+
+<h2>Environment<a id="environment" class="h_anchor"></a></h2>
+
+<p>
+ Danzsuishan gets some rainfall as the rainshadow of the Aegis lies to the east. It is frequently warm but not unpleasantly so for most. Hurricanes are not uncommon in this area. Tropical storms race up from the Dragon coast and meet cool air from the Aegis, occasionally causing rare tornados. The people are quick to rebuild, and their buildings are extremely strong, even some of the wooden ones are hundreds of years old.
+</p>
+
+<h3>Ecology<a id="ecology" class="h_anchor"></a></h3>
+
+<p>
+<div style='padding-left: 30pt'>
+The Gannaga river is well known for its multitude of fish, especially flashpike and Danzuishanese vined lake trout, the latter of which is the symbol of the Maze-hunters, the former of which is a great prank to play on newcomers, as when its skin is pierced, the fish emits a bright and startling flash of light, even after being cooked. It can do this two or three times depending on the size. Gannaga river dolphins have evolved blind to avoid this. The gannaga is also home to a unique freshwater whelk, known as a mud whelk. These are palm-sized cone-shaped molluscs that can be found only in loose silt deposits where they cling to large rocks with extreme tenacity. Their shell nacre is of extremely vibrant constrasting hues and is quite valuable, while their relatives, the pygmy mud whelk are used to produce a robust blue die that is resistant to washing out
+</div>
+<div style='padding-left: 60pt'>
+<b>Nirrum's Note: </b><i>It is suspected that dolphins arrived on the plane as a result of a terrible war among their people. I am told by the sea elves that I occasionally meet through Shek that the river dolphins are the sort of goblins of the dolphin world, Doblins, if you will, while the offshore dolphins are far more sophisticated, though indeed, sadistic. </i>
+</div>
+<div style='padding-left: 30pt'>
+The region around Danzuishan is subtropical, of mild humidity and of interesting trees. Oak in particular seems to thrive around here, as does willow. The forest has many herbs and some wild potatoes. But is comparatively sparse in edible vegetation compared to the rest of the plane, though it is thick with game, in particular boar, hare, and further south, feral goat. Smaller elephants than those found further east on the grass road also wander the forest. Large Rhinoceros are probably the most dangerous herbivore, owing to their propensity to attack campfires, and thus, camps. All sorts of predators feast on the creatures here, from tigers to phase spiders, to Manticores &amp; Wyverns. 
+</div>
+</p>
+
+<br>
+
+<h2>Economy<a id="economy" class="h_anchor"></a></h2>
+
+<p>
+<div style='padding-left: 30pt'>
+Danzuishan's Economy is largely driven by trade, the locks, and the constant influx of treasure through the Danzuishanese maze. Inflation was previously a problem, creative solutions such as casting Mystical locking spells on every door proved successful but the end result was simply shipping off the excess treasure to manaharamu in exchange for magical services or other types of treasure. Danzuishan's Boat production has bled over into the Airship construction field, and the area around Danzuishan sits on convenient Adamantine and Copper mines. 
+</div>
+</p>
+
+<br>
+
+<h3>Supply Chain<a id="supply-chain" class="h_anchor"></a></h3>
+
+<p>
+<ul style='padding-left: 30pt'>
+<li>Treasure comes directly into Danzuishan through the Maze and is recovered by well-paid maze-runners.</li>
+<li>The maze runners tend to spend their money in town, as the weather is agreeable and trade goods make Danzuishan the richest economy on the plane, being exceptionally stable.</li>
+<li>Traders sail the Xia and the Upper &amp; Lower Gannaga rivers to  bring trade goods into Danzuishan and take treasure with them</li>
+<li>Just out of town are the Adamantine mines, which are another profitable export</li>
+<li>The Adamantine is almost entirely exported in exchange for finer but simpler goods.</li>
+<li>Danzuishan has low food sufficiency in comparison to other parts of the plane and largely imports such things. While meat and game come from the forest nearby, the populations are dangerously low, to the effect that predatory monsters sometimes wander into town. For this reason, even the meat tends to be imported, often under the effects of gentle repose for freshness.</li>
+<li>Danzuishan does not import much in the way of artificery, see sociological notes</li>
+<li>Danzuishan does make a point of bringing in self-repairing fabrics, self-cleaning dishes, and tools with slight enhancements.</li>
+</ul>
+</p>
+
+<br>
+
+<h3>Sociological notes<a id="sociological-notes" class="h_anchor"></a></h3>
+
+<p>
+<ul style='padding-left: 30pt'>
+<li>Danzuishan is a classist organized aristocracy. While upward mobility is highly possible in Danzuishan in comparison to Kara'ite, it still poses challenge</li>
+<li>The danzuishanese people value stability and thus, tend to avoid the trappings of Manaharamu's artifice or the hedonism of Skalmirthon. They are very resistant to change</li>
+<li>Policing is effective but somewhat dystopic in that the police have almost unlimited power over anyone under the Nobility. They tread the line of corruption carefully, for the three dragons who settled here are particularly wary of military coups.</li>
+<li>The Largest sources of entertainment in Danzuishan are boat races, puppet-and-illusion theatre, boat-building, and Poker, although high-stakes gambling is illegal</li>
+<li>Sumptuary laws have been put in place to limit the downward mobility of nobility. Preventing them spending or betting in excess of a portion of their wealth means that they are less likely to disrupt tenuous political positions</li>
+<li>Classist division is non-hereditary and is based largely on accolades and titles built up throughout one's life. Despite this, wealth <b>is</b> hereditary, and for this, there are old families that hold a position of privilege despite sedentary lives. Only certain people are allowed to attend certain functions, based on their personal value and the uniqueness of their accolades (a system partially adopted by the bullywugs of Drakenhearth). The meritocracy side of this is unfortunately sullied by the frequent conflicts of interest in the governing bodies that assign these titles. </li>
+<li>Order is so prized in Danzuishan that it gives response teams and government an easy time resolving problems. The government is quick to resolve problems and the response teams are well paid and simply being in the fire department or in the medica are instant grounds and grant for an accolade</li>
+<li>The nobles of Danzuishan (for there is no better term, despite their unofficial nature) are rather demure compared to the harsh scheming of Skalmirthon, Turtle, or Manahararahi high society.  This owes to the fact that the Danzuishanese are descent of pirates and that the majority of them are capable of killing with a breath</li>
+<li>Out of necessity, anger management is mandatory in the also mandatory Education system, providing an impressive seven years of tutelage, focused largely on maths, social studies, and engineering, though lacking on most sciences. Attending anger management as an adult is a respected move. </li>
+<li>Healthcare is not socialized in Danzuishan but is inexpensive as there are healthy populations of clerics and a constant influx of high-level healers, many of whom end up performing their services for free, especially with the abundance of appropriate ingredients</li>
+<li>Hospitality is a mainstay of Danzuishanese culture, and knocking on a door will frequently gain a room for the night, though this is less common in the more central regions.</li>
+<li>Inns are uncommon, but there is a Xanaran's in turunga. Prices on inns are low for this reason</li>
+<li>Some Shops tend to be in the middle of the river and have long piers trailing downriver, very few docks are solidly anchored and most are made to float. They are often crowded as competition is limited by the modestly corrupt police force, making similar shops spread out from each other.</li>
+</ul>
+</p>
+
+<h3>Political interactions and relations<a id="political-interactions-and-relations" class="h_anchor"></a></h3>
+
+<br>
+<br>
+
+<h3>Calendar events<a id="calendar-events" class="h_anchor"></a></h3>
+
+<p>
+Summer solstice- Feast of Sune
+</p>
+
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+		<b>Backlinks:</b>
+
+		<a href='..\Gannaga_River_Basin.html'>Nirrum's Encyclopedia of Varomar 2:Regions:Gannaga River Basin</a>
+
+		<br /><br />
+
+	</div>
+
+	
+
+</div>
+
+</body>
+</html>

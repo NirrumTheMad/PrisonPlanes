@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-08-23T12:48:29-02:30
+
+====== ki ======
+Created Wednesday 23 August 2023
+
+hey lads, why don't we make more ki options for monk rewards
+
+
+**Mirror of the world- **Prereq 17  reaction 1 ki Your are immune to damage from non-creatures. This does not include objects wielded by creatures directly.
+**Flying Teacup **- 1 ki Any item you throw returns to you after doing your martial arts dice in damage
+**Back Dance - **//prereq 6, //3ki, Both you and a target opponent within reach have disadvantage on hits against eachother and advantage on opportunity attacks against eachother for one minute, as part of opportunities against this opponent, you may move up to your movement speed toward them
+**End Craving -  **Prereq 5, 2 ki, Bonus  action, add one roll of your martial arts dice to your next Constitution saving throw that you make within the next minute.. For the next hour, you can ignore a number of levels of exhaustion equal to your proficiency bonus
+**End Ignorance - **Prereq 5, 1 ki, Bonus action. Add one roll of your martial arts dice to your next Intelligence saving throw or ability check that you make within the next minute.
+**Right Speech - **1 ki bonus action. add one roll of your martial arts dice to your next Charisma Ability Check that you make within the next minute. 
+**Right Attention //- //** 1 ki bonus action add one roll of your martial arts dice to your next Wisdom ability check that you make within the next minute
+**Endure Pressure - ** 1 ki bonus action add one roll of your martial arts dice to your next Strength ability check or saving throw
+**Endure Turblence - **2 ki, Reaction, add one roll of your martial arts dice to your AC until the start of your next turn
+**Strong Branch - ** 3 ki, Action, enter a stance until the start of your next turn. Allies within reach of your unarmed attacks may use their reaction on their turn to add your wisdom score to their jump height and distance without subtracting that distance from their movement, and you may use your reaction add one roll of your martial arts dice to an acrobatics or athletics check that any such creature makes after making such a jump.
+**Disrupt - **when you hit a target that is concentrating (such as on a spell) increase the DC to maintain concentration by an amount rolled on your martial arts die.
+**Golden Bell -** Prereq 14 3ki, If you are hit by a melee attack, you may use your reaction to become immune to all damage types other than bludgeoning, piercing, and slashing for that attack only
+**Labyrinth** - Prereq 17, 3 ki for one minute or until you are incapacitated, you can move and stand on walls and along cielings, as well as across liquid surfaces as if they were stable surfaces. You do not need to use your hands for this movement. Going prone while under this effect drops you to the surface you are standing on
+
+
+
+ 
+
