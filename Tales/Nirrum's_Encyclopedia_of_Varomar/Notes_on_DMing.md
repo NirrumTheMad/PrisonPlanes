@@ -22,7 +22,7 @@ A Character will react easily, but proacting is hard. A bike pushed will turn, a
 [[Magic_Item_Cost]]
 [[Memory_Lapse]]
 [[Kobold_Fight_club]]
-[[Eldritch_Blasts]]
+[[Eldritch Blasts]]
 [[Adventure_Formula]]
 
 

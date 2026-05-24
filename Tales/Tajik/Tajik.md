@@ -7,7 +7,7 @@ The world of Tajik, largely owned by the Tajik Corporation (for which the world 
 
 
 In Hemma and on Tajik, it can be assumed:
-* People don't have time to waste. Wasting time is a critical error in this world, most downtime is used for sleeping or parental leave. 
+* People ostensibly don't have time to waste. Life finds a way.
 * All education is free, largely self-directed, and the most carefree part of someone's life. Researcher positions are coveted.
 * Perfoming the Newest Endless Ritual or Resanding at locations in the time wastes can help recover cities and their unique research and technologies. 
 * Endless Ritual Research is critical or the Future gets eaten

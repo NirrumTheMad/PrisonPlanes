@@ -99,9 +99,10 @@ Ra - That, Thing, the state of existing. Originally it was exclusively tangible 
 	Rati - Them (plural) They are
 	'na'i - Nothing , nothing is
 	Nnera - not
+	Tara - This
 Vor -  cave, natural Shelter
 Vora - Womb, Poetic inference to spawn-capable (not all of them are exactly women) individuals from the earliest of Mana literature. Because of the nature of the world, many cultures brought their preconceived notions of womanhood, sex, and gender over. This has been an ongoing problem in Varomar but it is usually solved quickly, often violently, and usually by a Female barbarian.
-Ravora- A creature born of magic, a common surname for elves and elementals, from the idea that the long lived creatures don't procreate nearly as quickly as others, giving rise to the idea of their wombs being out of place. Archaicly ra'n'Vora
+Ravora- A creature born of magic, a common surname for elves and elementals, from the idea that the long lived creatures don't procreate nearly as quickly as others, giving rise to the idea of their wombs being out of place. Archaically ra'n'Vora
 Doo/Du - Big
 	dooven Bigger
 	doovil biggest
@@ -155,7 +156,6 @@ badoo- Thunder
 Pioowa - Lightning 
 Vorahi- woman, No other configuration of being got a word in ancient manar, though in modern times a newer slang for male has rooted itself inextricably.
 Barahi- Man, Derogatory in origin and rather sexist, the Women of Mana are just as audible, but the name stuck.
-Mibrek- soft earth, dirt 	
 Alabet - Death, Actually from Alawabre/Ice as it was an early symbol of death, and  darkness, which was seen as simply the juxtaposition of the light that holy magic usually carries. It is important to remember that the earliest manarahi were descent from mages and often were mages themselves, and thus, magic took an important part in shaping their early culture, as much as the monsters of the underdark did. 
 Betgan- Monster. Many of the earliest Manarahi could not see in the dark, nor very far, and were often preyed upon by the things that could. Here, devils and demons couldn't  even contact their own and the light of the stars, malevolent or benevolent, could never reach, so warlocks to be gifted sight were out of the question until the Raven Queen's coming, save those who already had it. Thus, Light and Dark take much the same roles as they do in many other places
 Cheva - a profanity that traces back to an ancient hex
@@ -411,7 +411,7 @@ Migan - bug (general)
 Shamigan - flying bug (general)
 Ver - mouth
 verly - Sweet
-vergan -umami
+Vergan - Umami
 Piver - Spicy (general)
 mover - Minty (general cooling effects)
 Verlisham - Bee
@@ -439,3 +439,7 @@ Pinrara - Image
 Irpet - all worlds, the universe
 Rathpet - this world, Snarl.
 Manakihi - Strong, powerful people. Contrast of Taparmishi
+Mishurb - recently
+Mishurlo - Soon
+Waur - Done, finish
+Miwa - brief pause

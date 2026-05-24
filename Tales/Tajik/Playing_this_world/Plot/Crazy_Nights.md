@@ -20,8 +20,15 @@ Meet some new named NPCs who want to help or obfuscate the plot
 
 "You guys remember Dave? Big blue demon? He's funding a caravan for a multi-part resanding of  the city of Ūbanjūm, which is *arguably* nearby.
 
-He's contacted us to hit four or five Grollers that contain EcastE wireless protocol prototypes.  Now, of course we're getting paid, Bbuuuuuuut* we also could use a few of those prototypes.  Aaaaaand we could also plant a few bugs of our own in those prototypes. aaaaand we could grab some free swag from a mostly frozen city. 
+He's contacted us to hit four or five Grollers that contain EcastE wireless protocol prototypes.  Now, of course we're getting paid, Bbuuuuuuut we also could use a few of those prototypes.  Aaaaaand we could also plant a few bugs of our own in those prototypes. aaaaand we could grab some free swag from a mostly frozen city. 
+
+Sheepoo hands the most enthusiastic or technically capable party member a [[Beeber Patch]] that contains the bugs and a hand carved bone chit for the requisite sand 
+
+"Give this to the Temporangers, and they'll set you up with Six dispersers"
 ##### Dave's Resanding Request
+
+"Alright folks settl-" Dave almost falls over and laughs if he has met the party before "settle down and listen up"
+
 [[Devaputra| Dave]] provides a transport out onto the blasted plain outside of the river catchment, A fleet of Seventeen Tchoeliti converges, heavily armoured and borderline overtuned for the task. 34 Nombari escorts, two per car, assisting disperser engineers with dispersion equipment from the Temporanger's Guild and a collective three tonnes of sand labelled with the Sandmaker's union stamp. 
 
 
@@ -40,13 +47,13 @@ You are driven for an exceedingly long time in Tajik terms, Literal hours. Speed
 	Gogatomiir circle lazily around the edge of the sky.
 	Worryingly, Chega are as common as doors. While entirely ineffective on their own, their cry attracts others
 
-In Cyberspace, the convoy is linked heavily. Several people are playing Hack-Sack to pass time. At least one Cryve room is doing data analysis on the city. Drones dot the sky, blending into the black of the wall. 
+In Cyberspace, the convoy is linked heavily. Several people are playing Hack-Sack to pass time. At least one Cryve room is doing data analysis on the city. Drones dot the sky, blending into the black of the wall. Several songs are added to the radio if you connect
 
 Magically, the convoy is barely a shimmer to anything looking at it. Coated in a great many layers of obfuscation, people who aren't part of the convoy might find it particularly hard to remember having seen it. Hard to spot, hard to track, hard to hear. 
 
 The Tchoeliti's footprint is as soft as a snowflake, even where the eyeless watchers of the city are as sharp as a sword. In a blizzard, one snowflake might never be noticed, but alone, a single flake can hold a crowd. Something must be done, or the convoy will be swarmed, but anything that gets done will agitate the mass, making them more alert. You can feel the coming shattering, scattering, like shot from a shell. The plan is clear as day to you. Spread, out, strike deep, and bail. The more targets, the less people working in tandem or even in concert, the more likely it is for any goal to succeed.
 
-
+The Party's goal is deep into the city center, thankfully far from major rifts. 
 
 
 
@@ -66,6 +73,7 @@ The Tchoeliti's footprint is as soft as a snowflake, even where the eyeless watc
 	Shaul Bunberl - The sound of silence sorcerer
 	Keikei - The most punk elf rogue. Extremely antiestablishment.
 	
+	
 
 ##### Nombari
 	!ckhoen - 
@@ -73,6 +81,20 @@ The Tchoeliti's footprint is as soft as a snowflake, even where the eyeless watc
 	 Mynbuo - 
 	 Alsabar
 	 Uyuigcod
+	 Jami Tama
+	 Heg "heggy" Lokmin
+	 Wédron
+	 Cosmo
+	 Ehn 
+	 Radrin
+	 Mulgi
+	 Zendar
+	 Ashethi
+	 Londrian
+	 Ynon
+	 Derwy
+	 
+	 
 	 
 	 
 	

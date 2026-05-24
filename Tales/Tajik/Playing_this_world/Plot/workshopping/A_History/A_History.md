@@ -31,7 +31,7 @@ Hundreds of nations, Eight Major Oceans, Twelve significant Continents, Biodiver
 [[Rysvyne the Ghost's Quest]] - The Fading Memory
 [[The Cult of the Shining Egg's Quest]] - The unborn destiny
 [[Hellebore the Radiant's Quest]] -dante, sans inferno
-
+[[Magnum Raja's Quest]]
 [[The Internet]]
 ### Continents 
 [[Hemiha_Ayi]] What once was a massive archipelago is now a series of plateaus
@@ -45,7 +45,7 @@ Hundreds of nations, Eight Major Oceans, Twelve significant Continents, Biodiver
 ### Bullshit on the wall 
 	Hall of Eight Million assassins. Inenzi has been targetted with immense frequency. One of the largest Saving graces of Moðiod, now Tajik, is that Inenzi figured out that you can timestop someone *twice*. It makes them fade faster but it also means you can bounce timestop from one person onto another, already frozen person. If you try for three times, it bounces off of them.
 	
-	Inenzi built an adventuring party composed of a Time sorcerer, A Library Priest and one extremely determined Sword Saint who named the Party //Tajika//, "Time Wasters" in his tongue. Tajik is Singular. Themne song - Don't bring me down, ELO
+	Inenzi built an adventuring party composed of a Time sorcerer, A Library Priest and one extremely determined Sword Saint who named the Party //Tajika//, "Time Wasters" in his tongue. Tajik is Singular. Theme song - Don't bring me down, ELO
 		* Halet - Time sorcerer
 		* Brefanario - Library Priest
 		* Sword - Sword-saint. Has many names, all translate to this

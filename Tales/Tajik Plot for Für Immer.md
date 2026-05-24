@@ -39,6 +39,9 @@ Conflict with:
 * Rysevyne
 * *[[Sull]]*, the angel 
 * The Great Coven
+* Maluni
+* Mergu
+* Salaban
 
 The party investigates the rediscovery of *Aela's song of Cut Waters*, the ship carrying the *Heart Anchor of the Distance*, as it lies buried underneath hemiya ahi's continental ice sheet.
 

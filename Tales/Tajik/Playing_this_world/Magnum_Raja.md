@@ -7,7 +7,7 @@ Boiling around the world, it can only touch the surface through rifts that its s
 
 It sends out its minions in predictablesque forms, usually grey clay filled with blue fire
 
-Chega - Frail and thin creatures with little purpose other than to die trying, Chega are shaped as  sticklike apes with the barest substance holding them together. They are often left behind to guard places taken by the forces of stolen time. They have a very weak attack, but they often cry in death unless silenced, loud enough to attract other forces
+Chega - Frail and thin creatures with little purpose other than to die trying, Chega are shaped as  sticklike apes with the barest substance holding them together. They are often left behind to guard places taken by the forces of stolen time. They have a very weak attack, but they often cry in death unless silenced, loud enough to attract other forces. They are very slow as well, often giving enough time to kill them before they raise the alarm. 
 
 Domoga - most of their face is a very big, toothy mouth, filled with blue fire. They have clublike arms, and very small eyes on its head and chest. These often are the first to crawl from the rifts
 

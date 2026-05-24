@@ -63,7 +63,7 @@ Created Thursday 06 March 2025
 
 29 - "You are offered a potion that will increase your power, acting as a consumable pearl of power. If you identify this potion, it appears to be the remains of a powerful cleansing ritual of someone two ranks higher than you"
 
-30 - "A very tired looking Elf Wizard in bedraggled robes asks if you've got anything interesting in your pockets he could take a look at. Allowing him to do so locks that item in your inventory, unlocking at the next stolen time event to free you from it after a couple of minutes" **SPECIAL INTERACTION 30**
+30 - "A very tired looking Humanish Wizard in bedraggled robes asks if you've got anything interesting in your pockets he could take a look at. Allowing him to do so locks that item in your inventory, unlocking at the next stolen time event to free you from it after a couple of minutes. If not already unlocked, a new song is available on the Radio, Time Waster" **SPECIAL INTERACTION 30**
 
 31 - "Meteors streak across the sky, bringing the aurora with them. The Internet Connection is down for the next day. Worms of Arcanomagnetic fire descend from the disturbed sun. On one hand, they're great sources of entropy, on the other hand, they arcomagnetic fire worms, probably worth some sand if you can find one and take it alive"
 
@@ -75,7 +75,7 @@ Created Thursday 06 March 2025
 
 35 - " A middle aged guy with short hair and two teens ride up on you in a car. One of them yells PHOENIX FLAMES RISE! PRISM BREAK! upon which they are encased in some sort of  purple Elech skin-armour, clearly intended for combat. They begin pantomiming for directions to the nearest hotel, occasionally cursing. They try to work out how to mime these actions between each other in at least two languages you understsand. They leave you with a bag of drugs if you help them. The driver in particular, the older man, seems to  smile frequently followed by a glower. Like his face is familiar with the action, but his mind is less thrilled."
 
-36 - "A wizard crosses the road in front of you. He is shortly thereafter followed by himself, only to be followed by himself, himself, and himself moments later. If he spots you he smiles, and you gain a charm of red magic, allowing you to treat a single dice roll of 9 or lower as if it were a 10, before the charm dissipates"
+36 - "A wizard crosses the road in front of you. He is shortly thereafter followed by himself, only to be followed by himself, himself, and himself moments later. If he spots you he smiles, and you gain a charm of red magic, allowing you to treat a single dice roll of 9 or lower as if it were a 10, before the charm dissipates. Also, A new Song, Black Magic is unlocked on the radio"
 
 37 - "A protest has formed outside of your house or the building you are currently in, seeking you, claiming your actions in your last job had detrimental environmental impacts on the local silverfish population"
 
@@ -112,7 +112,7 @@ Created Thursday 06 March 2025
 
 53 - "You are spotted by a cow. There is no context for this cow and anyone else who sees it is as confused as you are."
 
-54 -
+54 - "The nearest unnamed NPC begins to transform into a large parasitoid wasp. Once the transformation is complete, you unlock their playlist on the radio, and the wasp begins attacking indiscriminately"
 
 55 - "A local time stop event has stopped you for two days in place. Most people around you have been resanded. It is likely they have chosen to decorate you with trash"
 
@@ -142,7 +142,7 @@ Created Thursday 06 March 2025
 
 68 - Roll again, the event happens to the nearest unaffiliated creature
 
-69 - "Your next action hits a crack in reality. You are plunged into a different world where your power, blood, and flesh is being torn away from you by spirits, sprites, bugs, and things so small they barely matter. If you can hold them, you are able to eat them, restoring part of yourself. You are forced to live millions of lifetimes in which you hone your ability to extend yourself and your power, developing abilities that exceed the measure of gods in your quest to keep yourself together. You find yourself able to summon servants to pitch battles as they bring parts of you back. Often they are interrupted by other forces, different bugs who are eager to carry away your hard-won essence. You fight, your back to the wall at the end of the universe, sometimes fighting the hoard in front of you, sometimes fighting the wall. You come very close to losing several times. The hoard changes forms endlessly. Eventually you win, claw the world apart, and return to where you are. Gain the benefits of a long rest and the "Restore balance" feature from the clockwork soul sorcerer subclass and the spell find familiar, which you can cast without components the familiar is a chueen which is loyal to you exclusively."
+69 - "Your next action hits a crack in reality. You are plunged into a different world where your power, blood, and flesh is being torn away from you by spirits, sprites, bugs, and things so small they barely matter. If you can hold them, you are able to eat them, restoring part of yourself. You are forced to live millions of lifetimes in which you hone your ability to extend yourself and your power, developing abilities that exceed the measure of gods in your quest to keep yourself together. You find yourself able to summon servants to pitch battles as they bring parts of you back. Often they are interrupted by other forces, different bugs who are eager to carry away your hard-won essence. You fight, your back to the wall at the end of the universe, sometimes fighting the hoard in front of you, sometimes fighting the wall. You come very close to losing several times. The hoard changes forms endlessly. You may choose to fight, and should you do so, Eventually you win, claw the world apart, and return to where you are. Gain the benefits of a long rest and the "Restore balance" feature from the clockwork soul sorcerer subclass and the spell find familiar, which you can cast without components the familiar is a chueen which is loyal to you exclusively."
 	**SPECIAL INTERACTION 69**
 
 70 - "You Find your own grave as the remnants of a small temple. Within your memorial hall is an upgrade for your resting place. You appear to have died before you were born and were born after you died."

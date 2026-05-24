@@ -17,4 +17,9 @@ I give him a flat look. There is nowhere for the accelerator to go. No room for 
 
 "what did you DOOOO" I cannot even complete the sentence. He's rigged a speed canon, one n, underneath the pan of the Gendra. Normal, run of the mill, mass-go-fast speed. No advanced turning. No collision detection. No shield. Just a tube full of go.  
 
-I remember reading a post on Klesha from some offworlder, about how mortal danger unlocks our true potential, and in the moments of the highest danger, we find stillness and awareness. My brain processed that quote, how wrong it was, and then registered that I did indeed have voluntary control over several organs. It then said "your problem now" and I promptly blacked out. I wasn't out long, I couldn't've been, because we hadn't  turned off of main street
+I remember reading a post on Klesha from some offworlder, about how mortal danger unlocks our true potential, and in the moments of the highest danger, we find stillness and awareness. My brain processed that quote, how wrong it was, and then registered that I did indeed have voluntary control over several organs. It then said "your problem now" and I promptly blacked out. I wasn't out long, I couldn't've been, because we hadn't  turned off of main street, but we were a full quarter of the way there. Gōska had split himself into six or seven clones, a trick he says his grandma taught him, Four were steering, fighting for control, and averaging the correct direction. At least two were in the back, holding down the cargo which was rattling fiercely.
+
+As I handed autopilot of my organs back over to my unconscious mind, 
+
+
+Use the knife

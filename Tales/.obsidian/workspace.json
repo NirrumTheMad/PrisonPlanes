@@ -70,6 +70,7 @@
               {
                 "id": "4b4f2809d4ab7865",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -77,6 +78,7 @@
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
                   "title": "A_History"
                 }
@@ -166,23 +168,9 @@
                   "icon": "lucide-file",
                   "title": "DM Screen"
                 }
-              },
-              {
-                "id": "65d1a00156e52e12",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Rewards.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Rewards"
-                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 4
           },
           {
             "id": "4320b5dbad9769c5",
@@ -194,40 +182,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tajik/Playing_this_world/Plot/workshopping/A_History/devaputras_quest.md",
+                    "file": "power plant.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "devaputras_quest"
-                }
-              },
-              {
-                "id": "ef78ae9d8c86f816",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "vehicles.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "vehicles"
-                }
-              },
-              {
-                "id": "2fb83aa49846d9d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tajik/Playing_this_world/Magnum_Raja.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Magnum_Raja"
+                  "title": "power plant"
                 }
               },
               {
@@ -245,17 +205,31 @@
                 }
               },
               {
+                "id": "b57ff8b1adef60f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Space.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Space"
+                }
+              },
+              {
                 "id": "d5786feb785242e4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tajik/Playing_this_world/Plot/The Hustle.md",
+                    "file": "Nirrum's_Encyclopedia_of_Varomar/Magic/Spells.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "The Hustle"
+                  "title": "Spells"
                 }
               },
               {
@@ -275,6 +249,7 @@
               {
                 "id": "e7b3d01528e19641",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -282,8 +257,65 @@
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
                   "title": "Random_Events"
+                }
+              },
+              {
+                "id": "723e6bee74350326",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/Random_Events/Special_Event.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Special_Event"
+                }
+              },
+              {
+                "id": "2fc497ed81a58d55",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik Plot for Für Immer.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tajik Plot for Für Immer"
+                }
+              },
+              {
+                "id": "90311916558dacb3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Plot/Random_Events/Special_Event.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Special_Event"
+                }
+              },
+              {
+                "id": "ded14b70defa0052",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magnum Raja's Quest.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Magnum Raja's Quest"
                 }
               },
               {
@@ -306,16 +338,58 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tajik/Playing_this_world/Für Immer.md",
+                    "file": "Nirrum's_Encyclopedia_of_Varomar/NotesOnLanguageManar/Conlang_tests.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Für Immer"
+                  "title": "Conlang_tests"
+                }
+              },
+              {
+                "id": "1e4f3ea119cacdaa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Nirrum's_Encyclopedia_of_Varomar/NotesOnLanguageManar.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "NotesOnLanguageManar"
+                }
+              },
+              {
+                "id": "e29f540009b9af3a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tajik/Playing_this_world/Forbidden_Creatures.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Forbidden_Creatures"
+                }
+              },
+              {
+                "id": "8b1b5880b39a0c7d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Nirrum's_Encyclopedia_of_Varomar/ManaharamuMonarchy/Plot.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Plot"
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 12
           }
         ],
         "direction": "horizontal"
@@ -350,7 +424,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vehicles",
+                "query": "university",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -467,36 +541,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c7ac32e11d491fb",
+  "active": "1e4f3ea119cacdaa",
   "lastOpenFiles": [
-    "vehicles.md",
-    "A Chobā's Experience.md",
-    "Tajik/Playing_this_world/Plot/workshopping.md",
-    "Nirrum's_Encyclopedia_of_Varomar/Useful_DM_Stuff/Random_Plot_hooks/A_Feywild_Adventure.md",
-    "Salaban's Quest.md",
-    "Nirrum's_Encyclopedia_of_Varomar/Feywild/The_Courts_of_the_fey/The_Court_of_Swords.md",
+    "Tajik/Playing_this_world/Plot/Random_Events.md",
+    "Tajik/Playing_this_world/5e_Conversion.md",
     "Tajik/Playing_this_world/Plot/workshopping/A_History/A_History.md",
-    "DM Screen.md",
-    "Sal Salurshribaga's quest.md",
-    "Chobā.md",
-    "A Citizen's Experience.md",
-    "Tajik/Playing_this_world/Plot/workshopping/A_History/Chichimi.md",
-    "Tajik/Playing_this_world/Plot/workshopping/A_History/devaputras_quest.md",
-    "Nirrum's_Encyclopedia_of_Varomar_2/Tajik/Playing_this_world.md",
-    "The Gala.md",
-    "House of 1000 corpses.md",
-    "Èlmèstā..md",
-    "glossary.md",
-    "Gutterman's Insight.md",
-    "Tajik/Playing_this_world/Plot/The Hustle.md",
-    "Tajik/Playing_this_world/Für Immer.md",
-    "Below the Asteroids.md",
+    "Nirrum's_Encyclopedia_of_Varomar/NotesOnLanguageManar.md",
+    "Magnum Raja's Quest.md",
+    "Tajik/Playing_this_world/Plot/Random_Events/Special_Event.md",
+    "Tajik Plot for Für Immer.md",
+    "power plant.md",
+    "Space.md",
+    "The Edge of Heaven.md",
+    "Alleviation.md",
+    "Tajik/Playing_this_world/Plot/workshopping.md",
     "Makes me feel better.md",
-    "Ideas I want to explore.md",
-    "Tajik/Playing_this_world/Plot/run with the hunted.md",
-    "Rysvyne the Ghost's Quest.md",
-    "Nirrum's_Encyclopedia_of_Varomar/fundosia sp..png",
+    "Nirrum's_Encyclopedia_of_Varomar/Shadowfell/Masters_of_The_shadowfell/The_Eight_Pathed_one.md",
+    "vehicles.md",
+    "Tajik/Playing_this_world/Forbidden_Creatures.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Notes_on_DMing/Eldritch Blasts.md",
+    "Nirrum's_Encyclopedia_of_Varomar/ManaharamuMonarchy/Plot.md",
+    "Nirrum's_Encyclopedia_of_Varomar/old_cities.txt/dndmycamp3_notes.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Useful_DM_Stuff/Weird_worldbuilding_notes.md",
+    "Weird_Worldbuilding_notes.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Useful_DM_Stuff/Deep_Lore.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Magic/Spells.md",
+    "Magic items of Tajik.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Classes/Class_Archetypes/Invocations.md",
+    "Nirrum's_Encyclopedia_of_Varomar/Letters_from_The_Author.md",
     "Pasted image 20250914014022.png",
+    "Nirrum's_Encyclopedia_of_Varomar/fundosia sp..png",
     "Pasted image 20250708013611.png",
     "Pasted image 20250708005448.png",
     "Untitled",
